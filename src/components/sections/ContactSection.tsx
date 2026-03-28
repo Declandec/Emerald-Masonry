@@ -84,7 +84,7 @@ export default function ContactSection() {
                   type="tel"
                   name="phone"
                   className={inputClass}
-                  placeholder="(309) 000-0000"
+                  placeholder="Your phone number"
                 />
               </div>
             </div>
