@@ -2,8 +2,6 @@
 
 import { useState } from "react";
 
-const SCRIPT_URL =
-  "https://script.google.com/macros/s/REDACTED_SCRIPT_KEY/exec";
 
 const selectClass =
   "w-full bg-background border border-border px-4 py-3 text-sm text-foreground focus:outline-none focus:border-foreground transition-colors duration-300 appearance-none";
@@ -35,12 +33,13 @@ export default function ContactSection() {
     };
 
     try {
-      await fetch(SCRIPT_URL, {
+      const res = await fetch("/api/contact", {
         method: "POST",
-        mode: "no-cors",
-        headers: { "Content-Type": "text/plain" },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
       });
+
+      if (!res.ok) throw new Error("Failed");
       setStatus("success");
       form.reset();
     } catch {
