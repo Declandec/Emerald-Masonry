@@ -19,8 +19,9 @@ export default function ContactSection() {
             Let&apos;s talk about your project.
           </h2>
           <p className="text-sm leading-[1.8] text-muted-foreground mb-10">
-            Free, no-pressure estimates. Answer a few quick questions below and we&apos;ll get
-            back to you fast — usually the same day.
+            We offer free on-site estimates for commercial, institutional, and large-scale
+            residential projects across Chicagoland. Answer a few quick questions and
+            we&apos;ll get back to you the same day.
           </p>
 
           <div className="space-y-6">
@@ -48,12 +49,21 @@ export default function ContactSection() {
             </div>
             <div className="border-t border-border pt-6">
               <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-2">
+                Office
+              </p>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                7156 W. 126th St. Suite 136<br />
+                Palos Heights, IL 60464
+              </p>
+            </div>
+            <div className="border-t border-border pt-6">
+              <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-2">
                 Service Area
               </p>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                Peoria County · Tazewell County<br />
-                Woodford County · Marshall County<br />
-                Surrounding Central Illinois
+                Cook · DuPage · Lake · Will<br />
+                Kane · McHenry Counties<br />
+                Greater Chicagoland
               </p>
             </div>
           </div>
@@ -89,27 +99,40 @@ export default function ContactSection() {
               </div>
             </div>
 
-            {/* Email */}
-            <div>
-              <label className={labelClass}>Email Address</label>
-              <input
-                type="email"
-                name="email"
-                className={inputClass}
-                placeholder="you@example.com"
-              />
+            {/* Email + Company */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+              <div>
+                <label className={labelClass}>Email Address</label>
+                <input
+                  type="email"
+                  name="email"
+                  className={inputClass}
+                  placeholder="you@company.com"
+                />
+              </div>
+              <div>
+                <label className={labelClass}>Company / Organization</label>
+                <input
+                  type="text"
+                  name="company"
+                  className={inputClass}
+                  placeholder="Property name or company"
+                />
+              </div>
             </div>
 
-            {/* Q1: Property type */}
+            {/* Q1: Client type */}
             <div>
               <label className={labelClass}>
-                1. What type of property is this for?
+                1. How would you describe your organization?
               </label>
-              <select name="property_type" className={selectClass}>
+              <select name="client_type" className={selectClass}>
                 <option value="">Select one...</option>
-                <option value="my-home">My Home</option>
-                <option value="rental">A Rental Property I Own</option>
-                <option value="commercial">Commercial / Business Property</option>
+                <option value="property-manager">Property Management Company</option>
+                <option value="hoa">HOA / Condo Association</option>
+                <option value="church">Church / Religious Institution</option>
+                <option value="insurance">Insurance Company / Adjuster</option>
+                <option value="large-residential">Large Residential Property Owner</option>
                 <option value="other">Other</option>
               </select>
             </div>
@@ -117,40 +140,42 @@ export default function ContactSection() {
             {/* Q2: Damage level */}
             <div>
               <label className={labelClass}>
-                2. How would you describe the damage?
+                2. How would you describe the scope of damage?
               </label>
               <select name="damage_level" className={selectClass}>
                 <option value="">Select one...</option>
-                <option value="minor">Minor — small cracks or cosmetic issues</option>
-                <option value="moderate">Moderate — noticeable damage, missing mortar or bricks</option>
-                <option value="severe">Severe — structural concern or water getting in</option>
-                <option value="unsure">Not sure — I'd like someone to take a look</option>
+                <option value="moderate">Moderate — localized damage or deterioration</option>
+                <option value="significant">Significant — multiple areas or systems affected</option>
+                <option value="severe">Severe — structural concern or active water intrusion</option>
+                <option value="unsure">Not sure — need an assessment</option>
               </select>
             </div>
 
             {/* Q3: Timeline */}
             <div>
               <label className={labelClass}>
-                3. How soon are you looking to get this done?
+                3. What is your project timeline?
               </label>
               <select name="timeline" className={selectClass}>
                 <option value="">Select one...</option>
-                <option value="asap">As soon as possible</option>
-                <option value="1-3-months">Within the next 1–3 months</option>
-                <option value="planning">Just planning ahead / getting prices</option>
+                <option value="asap">Urgent — as soon as possible</option>
+                <option value="1-3-months">Within 1–3 months</option>
+                <option value="seasonal">Planning for this season</option>
+                <option value="budgeting">Budgeting / planning ahead</option>
               </select>
             </div>
 
-            {/* Q4: Other quotes */}
+            {/* Q4: Insurance claim */}
             <div>
               <label className={labelClass}>
-                4. Have you gotten other quotes for this project?
+                4. Is this project related to an insurance claim?
               </label>
-              <select name="other_quotes" className={selectClass}>
+              <select name="insurance_claim" className={selectClass}>
                 <option value="">Select one...</option>
-                <option value="yes">Yes</option>
-                <option value="no">No, you&apos;re the first I&apos;ve contacted</option>
-                <option value="planning-to">Not yet, but I plan to</option>
+                <option value="yes-active">Yes — active claim in progress</option>
+                <option value="yes-pending">Yes — claim not yet filed</option>
+                <option value="no">No — standard restoration project</option>
+                <option value="unsure">Not sure</option>
               </select>
             </div>
 
@@ -163,8 +188,8 @@ export default function ContactSection() {
                 <option value="">Select one...</option>
                 <option value="google">Google Search</option>
                 <option value="social">Facebook / Instagram</option>
-                <option value="referral">Referral from a friend or neighbor</option>
-                <option value="drove-by">Drove by one of our jobs</option>
+                <option value="referral">Referral from a colleague or partner</option>
+                <option value="insurance">Insurance company referral</option>
                 <option value="other">Other</option>
               </select>
             </div>
@@ -172,13 +197,14 @@ export default function ContactSection() {
             {/* Optional description */}
             <div>
               <label className={labelClass}>
-                Anything else you&apos;d like us to know? <span className="normal-case text-muted-foreground/50">(optional)</span>
+                Project details{" "}
+                <span className="normal-case text-muted-foreground/50">(optional)</span>
               </label>
               <textarea
                 name="message"
                 rows={4}
                 className={`${inputClass} resize-none`}
-                placeholder="Describe your project or what you're seeing..."
+                placeholder="Describe the property, location, and what you're seeing..."
               />
             </div>
 
@@ -186,11 +212,11 @@ export default function ContactSection() {
               type="submit"
               className="w-full py-4 bg-[var(--color-emerald)] text-background text-xs font-semibold tracking-[0.3em] uppercase hover:opacity-90 transition-opacity duration-300"
             >
-              Send Message
+              Request Free Estimate
             </button>
 
             <p className="text-xs text-muted-foreground/50 text-center">
-              No spam. No pressure. We&apos;ll reach out to schedule your free estimate.
+              $5,000 project minimum · Licensed, bonded &amp; insured · Same-day response
             </p>
           </form>
         </div>

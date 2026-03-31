@@ -7,11 +7,16 @@ export default function Footer() {
         {/* Brand */}
         <div className="md:col-span-5">
           <p className="text-sm font-semibold tracking-widest uppercase text-foreground mb-4">
-            Emerald Masonry
+            Emerald Masonry, LLC
           </p>
           <p className="text-sm leading-[1.8] text-muted-foreground max-w-xs">
-            Quality masonry work for homeowners and property owners across Central Illinois.
-            Locally owned. Hands-on. Done right.
+            Non-union, family-owned commercial masonry contractor serving Chicagoland.
+            40+ years of experience. Built on integrity. Done right.
+          </p>
+          <p className="text-xs text-muted-foreground/50 mt-4 leading-relaxed">
+            7156 W. 126th St. Suite 136<br />
+            Palos Heights, IL 60464<br />
+            Licensed · Bonded · Insured
           </p>
         </div>
 
@@ -33,10 +38,10 @@ export default function Footer() {
           </nav>
         </div>
 
-        {/* Social */}
+        {/* Social + contact */}
         <div className="md:col-span-2 md:col-start-11">
           <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Follow
+            Connect
           </p>
           <div className="flex flex-col gap-3">
             <a
@@ -55,6 +60,12 @@ export default function Footer() {
             >
               Instagram
             </a>
+            <a
+              href="tel:3093239959"
+              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300"
+            >
+              (309) 323-9959
+            </a>
           </div>
         </div>
       </div>
@@ -64,7 +75,9 @@ export default function Footer() {
         <p className="text-xs text-muted-foreground/50">
           © {year} Emerald Masonry, LLC. All rights reserved.
         </p>
-        <p className="text-xs text-muted-foreground/50">Peoria, Illinois</p>
+        <p className="text-xs text-muted-foreground/50">
+          Palos Heights, IL · Serving Greater Chicagoland
+        </p>
       </div>
     </footer>
   );

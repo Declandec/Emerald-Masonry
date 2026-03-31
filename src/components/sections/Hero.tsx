@@ -6,16 +6,15 @@ export default function Hero() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: "url('/images/hero-mailbox.jpg')" }}
       />
-      {/* Dark overlay — heavier to ensure text contrast over the light brick */}
+      {/* Dark overlay */}
       <div className="absolute inset-0 bg-black/70" />
 
       {/* Content */}
       <div className="relative z-10 max-w-3xl">
         <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-6">
-          Peoria &amp; Central Illinois
+          Chicagoland Commercial Masonry
         </p>
 
-        {/* Irish / Celtic cursive headline */}
         <h1
           className="text-5xl md:text-7xl leading-tight text-[#F2D472] mb-6"
           style={{ fontFamily: "var(--font-uncial)" }}
@@ -25,16 +24,19 @@ export default function Hero() {
           <span className="text-[var(--color-emerald)]">Brick by Brick.</span>
         </h1>
 
-        <p className="text-base md:text-lg text-foreground/70 mb-10 max-w-lg leading-relaxed">
-          Tuckpointing, brick repair, chimney rebuilds, and masonry restoration for homeowners
-          and property owners across Central Illinois.
+        <p className="text-base md:text-lg text-foreground/70 mb-4 max-w-xl leading-relaxed">
+          Non-union. Family-owned. 40+ years of Chicagoland masonry experience.
         </p>
+        <p className="text-sm text-foreground/50 mb-10 max-w-xl leading-relaxed">
+          Serving property managers, HOAs, churches, and insurance companies across the greater Chicago area. Licensed, bonded &amp; insured. $5,000 project minimum.
+        </p>
+
         <div className="flex flex-col sm:flex-row gap-4">
           <a
             href="#contact"
             className="inline-flex items-center justify-center px-8 py-4 bg-[var(--color-emerald)] text-background text-sm font-semibold tracking-widest uppercase hover:opacity-90 transition-opacity duration-300"
           >
-            Get a Free Quote
+            Request a Free Estimate
           </a>
           <a
             href="tel:3093239959"

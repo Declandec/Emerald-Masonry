@@ -1,7 +1,7 @@
 const stats = [
-  { value: "4", label: "Core Services" },
-  { value: "100%", label: "Locally Owned" },
-  { value: "5★", label: "Customer Satisfaction" },
+  { value: "40+", label: "Years of Experience" },
+  { value: "100%", label: "Family Owned & Operated" },
+  { value: "LBI", label: "Licensed, Bonded & Insured" },
 ];
 
 export default function AboutSection() {
@@ -18,18 +18,44 @@ export default function AboutSection() {
         {/* Main content */}
         <div className="md:col-span-6 md:col-start-3">
           <h2 className="text-2xl md:text-4xl font-semibold leading-snug tracking-tight text-foreground mb-8">
-            We believe masonry is only as good as the hands behind it.
+            Built by family. Backed by four decades of Chicagoland masonry.
           </h2>
           <p className="text-base leading-[1.8] text-muted-foreground">
-            Emerald Masonry is a locally owned masonry contractor serving Peoria and Central
-            Illinois. We got into this trade because we care about doing things right — not
-            cutting corners, not overselling, and not disappearing after the job. Every project
-            gets the owner&apos;s attention. We show up, we communicate, and we stand behind our work.
+            Emerald Masonry LLC is a non-union, family-owned commercial masonry contractor
+            serving the greater Chicago area. With over 40 years of hands-on experience in
+            Chicagoland masonry, we bring the expertise, work ethic, and integrity that
+            large-scale restoration projects demand.
           </p>
           <p className="text-base leading-[1.8] text-muted-foreground mt-4">
-            Our focus is simple: protect your property, restore your brickwork, and give you
-            honest answers about what needs to be done — and what doesn&apos;t.
+            We work exclusively with property managers, HOAs, churches, and insurance
+            companies on projects with the scope and complexity that our team is built for.
+            Every client gets a dedicated project schedule, clear communication from start
+            to finish, and a crew that shows up and delivers.
           </p>
+          <p className="text-base leading-[1.8] text-muted-foreground mt-4">
+            Non-union means we move faster, price fairly, and answer directly to you — not a
+            union hall. Family-owned means our reputation is on the line every single job.
+            That&apos;s not a tagline. That&apos;s how we operate.
+          </p>
+
+          {/* Badges */}
+          <div className="flex flex-wrap gap-3 mt-8">
+            {[
+              "Licensed, Bonded & Insured",
+              "Non-Union",
+              "Family Owned & Operated",
+              "Free On-Site Estimates",
+              "Dedicated Project Schedule",
+              "$5,000 Project Minimum",
+            ].map((badge) => (
+              <span
+                key={badge}
+                className="text-xs tracking-[0.15em] uppercase border border-border px-3 py-2 text-muted-foreground"
+              >
+                {badge}
+              </span>
+            ))}
+          </div>
         </div>
 
         {/* Stats */}
