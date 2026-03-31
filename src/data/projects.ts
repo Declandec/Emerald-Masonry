@@ -50,6 +50,14 @@ const projects: Project[] = [
     location: "Central Illinois",
     image: "/images/work-commercial.jpg",
   },
+  {
+    num: "07",
+    title: "CMU Block Repair — Ulta Beauty",
+    tag: "Commercial Block Repair",
+    location: "Merrillville, IN",
+    image: "/images/jobs/ulta-beauty-block-repair-merrillville/during-01.jpeg",
+    slug: "ulta-beauty-block-repair-merrillville",
+  },
 ];
 
 export default projects;
