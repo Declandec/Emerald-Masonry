@@ -40,6 +40,12 @@ export default function Navigation() {
             {item}
           </a>
         ))}
+        <Link
+          href="/blog"
+          className="text-xs tracking-[0.2em] uppercase text-muted-foreground hover:text-foreground transition-colors duration-300"
+        >
+          Field Notes
+        </Link>
       </nav>
 
       <a
