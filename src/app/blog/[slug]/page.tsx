@@ -86,18 +86,12 @@ export default async function BlogPostPage({
         />
 
         {/* CTA */}
-        <div className="max-w-3xl mt-16 border-t border-border pt-12">
-          <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Work with us
-          </p>
-          <h2 className="text-2xl font-semibold text-foreground mb-6">
-            Have a similar project? Let&apos;s talk.
-          </h2>
+        <div className="max-w-3xl mt-16 pt-10 flex justify-start">
           <a
             href="/#contact"
-            className="inline-flex items-center justify-center px-8 py-4 bg-[var(--color-emerald)] text-background text-sm font-semibold tracking-widest uppercase hover:opacity-90 transition-opacity duration-300"
+            className="text-xs tracking-[0.3em] uppercase text-muted-foreground border-b border-muted-foreground pb-1 hover:text-foreground hover:border-foreground transition-colors duration-300"
           >
-            Request a Free Estimate
+            Book a Free Quote →
           </a>
         </div>
       </main>
