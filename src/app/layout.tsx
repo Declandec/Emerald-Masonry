@@ -55,12 +55,8 @@ export default function RootLayout({
       className={`${inter.variable} ${uncialAntiqua.variable} h-full antialiased dark`}
     >
       <body className="min-h-full flex flex-col">
-        {/* Fixed brick wall background across entire page */}
-        <div
-          className="fixed inset-0 -z-20 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url('/images/hero-brick-wall.png')" }}
-        />
-        <div className="fixed inset-0 -z-10 bg-black/80" />
+        {/* Fixed dark background for all pages below the hero */}
+        <div className="fixed inset-0 -z-10 bg-[oklch(0.08_0_0)]" />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"
