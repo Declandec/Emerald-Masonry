@@ -4,7 +4,7 @@ import Footer from "@/components/sections/Footer";
 import BlogClient from "@/components/blog/BlogClient";
 
 export const metadata = {
-  title: "Field Notes | Emerald Masonry LLC — Commercial Masonry Chicagoland",
+  title: "Blog | Emerald Masonry LLC — Commercial Masonry Chicagoland",
   description:
     "Project updates, masonry tips, and restoration insights from Emerald Masonry LLC — Chicagoland's commercial masonry specialists.",
 };
@@ -18,7 +18,7 @@ export default function BlogPage() {
       <main className="px-6 pt-40 pb-24 md:px-12 lg:px-20">
         <div className="mb-16 border-b border-border pb-6">
           <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Field Notes
+            Blog
           </p>
           <h1 className="text-3xl md:text-5xl font-semibold tracking-tight text-foreground">
             Project Updates &amp; Insights

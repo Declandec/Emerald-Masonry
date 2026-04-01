@@ -59,7 +59,7 @@ export default function WorkSection() {
           href="/blog"
           className="text-xs tracking-[0.3em] uppercase text-muted-foreground border-b border-muted-foreground pb-1 hover:text-foreground hover:border-foreground transition-colors duration-300"
         >
-          Read Field Notes
+          Read the Blog
         </Link>
         <a
           href="#contact"
