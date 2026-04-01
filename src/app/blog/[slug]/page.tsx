@@ -39,11 +39,11 @@ export default async function BlogPostPage({
   return (
     <>
       <Navigation />
-      <main className="px-6 pt-40 pb-24 md:px-12 lg:px-20">
+      <main className="px-6 pt-28 md:pt-40 pb-24 md:px-12 lg:px-20">
         {/* Back link */}
         <Link
           href="/blog"
-          className="text-xs tracking-[0.2em] uppercase text-muted-foreground hover:text-foreground transition-colors duration-300 mb-12 inline-block"
+          className="text-xs tracking-[0.2em] uppercase text-muted-foreground hover:text-foreground transition-colors duration-300 mb-8 md:mb-12 inline-block"
         >
           ← All Posts
         </Link>
@@ -64,7 +64,7 @@ export default async function BlogPostPage({
 
         {/* Hero image */}
         {post.image && (
-          <div className="relative aspect-[16/7] w-full overflow-hidden mb-16">
+          <div className="relative aspect-video md:aspect-[16/7] w-full overflow-hidden mb-10 md:mb-16">
             <Image
               src={post.image}
               alt={post.title}

@@ -82,7 +82,7 @@ export default function ServiceContactForm({ serviceTitle, serviceSlug }: Props)
     );
 
     return (
-      <div className="border border-border p-10 text-center">
+      <div className="border border-border p-6 md:p-10 text-center">
         <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-4">
           Request Received
         </p>
@@ -220,7 +220,7 @@ export default function ServiceContactForm({ serviceTitle, serviceSlug }: Props)
         </div>
 
         {previews.length > 0 && (
-          <div className="mt-3 grid grid-cols-4 gap-2">
+          <div className="mt-3 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
             {previews.map((p, i) => (
               <div key={i} className="relative group aspect-square">
                 {/* eslint-disable-next-line @next/next/no-img-element */}

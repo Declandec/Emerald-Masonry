@@ -70,7 +70,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
         {/* Overview */}
         <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
             <div className="lg:col-span-7">
               <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-6">
                 Overview
@@ -82,7 +82,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
               ))}
             </div>
             <div className="lg:col-span-4 lg:col-start-9">
-              <div className="border border-border p-8">
+              <div className="border border-border p-6 md:p-8">
                 <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-6">
                   Scope of Work
                 </p>
@@ -168,7 +168,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
         {/* FAQ */}
         <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
             <div className="lg:col-span-4">
               <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
                 FAQ
@@ -185,7 +185,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
 
         {/* Quote Form */}
         <section id="quote" className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12">
             <div className="lg:col-span-4">
               <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
                 Get Started
@@ -236,7 +236,7 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border">
             {otherServices.map((s) => (
-              <Link key={s.slug} href={`/services/${s.slug}`} className="bg-background group p-8 block hover:bg-white/[0.02] transition-colors duration-300">
+              <Link key={s.slug} href={`/services/${s.slug}`} className="bg-background group p-6 md:p-8 block hover:bg-white/[0.02] transition-colors duration-300">
                 <p className="text-[10px] tracking-[0.3em] uppercase text-muted-foreground mb-3">
                   Service
                 </p>

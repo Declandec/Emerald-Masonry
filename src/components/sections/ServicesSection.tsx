@@ -45,7 +45,7 @@ export default function ServicesSection() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-border">
         {services.map((service) => (
-          <div key={service.num} className="bg-background px-8 py-10">
+          <div key={service.num} className="bg-background px-6 py-8 md:px-8 md:py-10">
             <div className="flex items-start justify-between mb-6">
               <h3 className="text-lg font-semibold text-foreground">{service.title}</h3>
               <span className="text-xs tracking-[0.2em] text-muted-foreground/40 ml-4 shrink-0">

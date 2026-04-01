@@ -49,7 +49,7 @@ export default function ContactSection() {
 
   return (
     <section id="contact" className="px-6 py-24 md:px-12 lg:px-20 border-t border-border">
-      <div className="grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-8">
         {/* Left: heading + contact info */}
         <div className="md:col-span-5">
           <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-6">
@@ -112,7 +112,7 @@ export default function ContactSection() {
         {/* Right: form */}
         <div className="md:col-span-6 md:col-start-7">
           {status === "success" ? (
-            <div className="border border-border p-12 text-center">
+            <div className="border border-border p-8 md:p-12 text-center">
               <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-4">
                 Request Received
               </p>

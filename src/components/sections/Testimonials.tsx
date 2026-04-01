@@ -24,7 +24,7 @@ export default function Testimonials() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-border">
         {testimonials.map((t) => (
-          <div key={t.name} className="bg-background px-8 py-10">
+          <div key={t.name} className="bg-background px-6 py-8 md:px-8 md:py-10">
             <blockquote className="text-base leading-[1.8] text-foreground/80 mb-8">
               &ldquo;{t.quote}&rdquo;
             </blockquote>

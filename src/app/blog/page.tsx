@@ -15,7 +15,7 @@ export default function BlogPage() {
   return (
     <>
       <Navigation />
-      <main className="px-6 pt-40 pb-24 md:px-12 lg:px-20">
+      <main className="px-6 pt-28 md:pt-40 pb-24 md:px-12 lg:px-20">
         <div className="mb-16 border-b border-border pb-6">
           <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
             Blog

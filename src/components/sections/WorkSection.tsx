@@ -54,7 +54,7 @@ export default function WorkSection() {
         })}
       </div>
 
-      <div className="mt-12 flex justify-center gap-8">
+      <div className="mt-12 flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-8">
         <Link
           href="/blog"
           className="text-xs tracking-[0.3em] uppercase text-muted-foreground border-b border-muted-foreground pb-1 hover:text-foreground hover:border-foreground transition-colors duration-300"
