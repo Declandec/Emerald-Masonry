@@ -1,0 +1,50 @@
+name: Inbox Updater
+
+# Schedule: 8:00 AM, 11:00 AM, 2:00 PM, 5:00 PM, 8:00 PM — Central Time
+#
+# Timezone offset in use: CDT (UTC-5), active approximately April–October.
+# During CST (UTC-6, November–March), adjust each cron value by +1 hour.
+#
+# CDT schedule (current):         CST schedule (winter):
+#   8:00 AM CDT = 13:00 UTC         8:00 AM CST = 14:00 UTC
+#  11:00 AM CDT = 16:00 UTC        11:00 AM CST = 17:00 UTC
+#   2:00 PM CDT = 19:00 UTC         2:00 PM CST = 20:00 UTC
+#   5:00 PM CDT = 22:00 UTC         5:00 PM CST = 23:00 UTC
+#   8:00 PM CDT = 01:00 UTC+1       8:00 PM CST = 02:00 UTC+1
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # 8:00 AM CDT
+    - cron: '0 16 * * *'   # 11:00 AM CDT
+    - cron: '0 19 * * *'   # 2:00 PM CDT
+    - cron: '0 22 * * *'   # 5:00 PM CDT
+    - cron: '0 1 * * *'    # 8:00 PM CDT (next UTC day)
+  workflow_dispatch:        # allows manual trigger from GitHub Actions UI
+
+jobs:
+  run-inbox-updater:
+    name: Run Inbox Updater
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: inbox-updater/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r inbox-updater/requirements.txt
+
+      - name: Run inbox updater
+        env:
+          GMAIL_CLIENT_CREDENTIALS: ${{ secrets.GMAIL_CLIENT_CREDENTIALS }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INBOX_TIMEZONE: America/Chicago
+        run: python inbox-updater/main.py
