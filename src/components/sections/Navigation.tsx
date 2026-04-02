@@ -14,9 +14,9 @@ const services = [
 ];
 
 const anchorLinks = [
-  { label: "Work", href: "#work" },
-  { label: "About", href: "#about" },
-  { label: "Contact", href: "#contact" },
+  { label: "Work", href: "/#work" },
+  { label: "About", href: "/#about" },
+  { label: "Contact", href: "/#contact" },
 ];
 
 const pageLinks = [
@@ -26,7 +26,7 @@ const pageLinks = [
 ];
 
 function NavLink({ href, children, onClick }: { href: string; children: React.ReactNode; onClick?: () => void }) {
-  const isAnchor = href.startsWith("#");
+  const isAnchor = false;
   const cls =
     "relative text-[11px] tracking-[0.25em] uppercase text-white/60 hover:text-white transition-colors duration-300 group";
   const underline = (
@@ -203,14 +203,14 @@ export default function Navigation() {
           <nav className="flex flex-col px-6 py-6 flex-1 overflow-y-auto">
             {/* Anchor links */}
             {anchorLinks.map(({ label, href }) => (
-              <a
+              <Link
                 key={label}
                 href={href}
                 onClick={closeMobile}
                 className="py-4 text-sm tracking-[0.2em] uppercase text-white/70 hover:text-white border-b border-white/5 transition-colors duration-200"
               >
                 {label}
-              </a>
+              </Link>
             ))}
 
             {/* Services accordion */}
@@ -264,13 +264,13 @@ export default function Navigation() {
               >
                 (309) 323-9959
               </a>
-              <a
-                href="#contact"
+              <Link
+                href="/#contact"
                 onClick={closeMobile}
                 className="block w-full py-4 text-center text-xs tracking-[0.3em] uppercase font-medium border border-white/20 text-white/60 hover:text-white hover:border-white/40 mt-3 transition-colors duration-300"
               >
                 Request Free Estimate
-              </a>
+              </Link>
             </div>
           </nav>
         </div>
