@@ -3,8 +3,11 @@ export default function Hero() {
     <section className="relative h-screen min-h-[640px] flex flex-col justify-end pb-20 px-6 md:px-12 lg:px-20">
       {/* Hero image only — crumbling brick + logo reveal */}
       <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/hero-logo-reveal.png')" }}
+        className="absolute inset-0 bg-center bg-no-repeat"
+        style={{
+          backgroundImage: "url('/images/hero-logo-reveal.png')",
+          backgroundSize: "80%",
+        }}
       />
       {/* Gradient: transparent at center so logo shows, dark at bottom for text */}
       <div

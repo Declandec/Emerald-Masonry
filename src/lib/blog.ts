@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 
-const BLOG_DIR = path.join(process.cwd(), "content/blog");
+const BLOG_DIR = path.join(process.cwd(), "content/SEO-BLOG/blog");
 
 export type BlogPost = {
   slug: string;

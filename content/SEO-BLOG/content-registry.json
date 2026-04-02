@@ -1,0 +1,112 @@
+{
+  "lastUpdated": "2026-04-02",
+  "seoPages": [
+    {
+      "slug": "tuckpointing-orland-park-il",
+      "title": "Tuckpointing in Orland Park, IL",
+      "primaryKeyword": "tuckpointing Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-02",
+      "image": "/images/work-tuckpointing.jpg"
+    },
+    {
+      "slug": "brick-repair-oak-lawn-il",
+      "title": "Brick Repair in Oak Lawn, IL",
+      "primaryKeyword": "brick repair Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-04-02",
+      "image": "/images/work-brick-repair.jpg"
+    },
+    {
+      "slug": "commercial-masonry-tinley-park-il",
+      "title": "Commercial Masonry Contractor in Tinley Park, IL",
+      "primaryKeyword": "commercial masonry contractor Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Commercial Masonry",
+      "publishDate": "2026-04-02",
+      "image": "/images/work-commercial.jpg"
+    },
+    {
+      "slug": "chimney-repair-homer-glen-il",
+      "title": "Chimney Repair in Homer Glen, IL",
+      "primaryKeyword": "chimney repair Homer Glen IL",
+      "city": "Homer Glen, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-02",
+      "image": "/images/work-chimney-rebuild.jpg"
+    },
+    {
+      "slug": "cmu-block-repair-joliet-il",
+      "title": "CMU Block Wall Repair in Joliet, IL",
+      "primaryKeyword": "CMU block repair Joliet IL",
+      "city": "Joliet, IL",
+      "service": "Commercial & Industrial Masonry",
+      "publishDate": "2026-04-02",
+      "image": "/images/work-commercial.jpg"
+    }
+  ],
+  "blogPosts": [
+    {
+      "slug": "ulta-beauty-block-repair-merrillville",
+      "title": "Commercial CMU Block Repair at a Retail Property — Merrillville, IN",
+      "service": "Commercial Block Repair",
+      "location": "Merrillville, IN",
+      "publishDate": "2026-03-31"
+    },
+    {
+      "slug": "church-tuckpointing-chicago-example",
+      "title": "Full Tuckpointing Restoration: Historic Church Façade — Chicagoland",
+      "service": "Commercial Tuckpointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-03-31"
+    },
+    {
+      "slug": "freeze-thaw-masonry-damage-chicago",
+      "title": "How Chicago's Freeze-Thaw Cycle Destroys Masonry — And What To Do About It",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-02"
+    },
+    {
+      "slug": "signs-commercial-building-needs-tuckpointing",
+      "title": "7 Signs Your Commercial Building Needs Tuckpointing — A Property Manager's Guide",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-02"
+    },
+    {
+      "slug": "mortar-joint-failure-property-managers",
+      "title": "Mortar Joint Failure: What Every Property Manager Needs to Know",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-02"
+    }
+  ],
+  "coveredCities": [
+    "Orland Park, IL",
+    "Oak Lawn, IL",
+    "Tinley Park, IL",
+    "Homer Glen, IL",
+    "Joliet, IL"
+  ],
+  "coveredServices": [
+    "Tuckpointing & Repointing",
+    "Brick Repair & Replacement",
+    "Chimney Repair",
+    "Commercial Masonry",
+    "CMU Block Repair",
+    "Masonry Restoration"
+  ],
+  "coveredKeywords": [
+    "tuckpointing Orland Park IL",
+    "brick repair Oak Lawn IL",
+    "commercial masonry contractor Tinley Park IL",
+    "chimney repair Homer Glen IL",
+    "CMU block repair Joliet IL",
+    "freeze-thaw masonry damage Chicago",
+    "signs commercial building needs tuckpointing",
+    "mortar joint failure commercial buildings"
+  ]
+}
