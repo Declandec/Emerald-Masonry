@@ -22,6 +22,7 @@ const anchorLinks = [
 const pageLinks = [
   { label: "Gallery", href: "/gallery" },
   { label: "Blog", href: "/blog" },
+  { label: "FAQ", href: "/faq" },
 ];
 
 function NavLink({ href, children, onClick }: { href: string; children: React.ReactNode; onClick?: () => void }) {
