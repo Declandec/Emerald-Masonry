@@ -1,23 +1,23 @@
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden">
-      {/* Landscape hero image — 1536×1024, bg-cover keeps full logo visible */}
+    <section className="relative min-h-screen flex flex-col items-center justify-end overflow-hidden">
+      {/* Landscape hero — 1536×1024, logo centered in image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: "url('/images/hero-landscape.png')" }}
       />
 
-      {/* Gradient: subtle dark overall, heavier at bottom for text readability */}
+      {/* Gradient: transparent at top so logo shows clearly, dark band at bottom for text */}
       <div
         className="absolute inset-0"
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.2) 45%, rgba(0,0,0,0.65) 72%, rgba(0,0,0,0.88) 100%)",
+            "linear-gradient(to bottom, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.72) 72%, rgba(0,0,0,0.92) 100%)",
         }}
       />
 
-      {/* Centered text — pushed to lower half so it sits below the logo */}
-      <div className="relative z-10 text-center px-6 max-w-3xl mx-auto mt-[45vh]">
+      {/* Text — horizontally centered, pinned to bottom of the hero */}
+      <div className="relative z-10 w-full text-center px-6 pb-16 pt-8">
         <p className="text-[10px] tracking-[0.5em] uppercase text-[var(--color-emerald)] font-semibold mb-4">
           Chicagoland Commercial Masonry
         </p>
@@ -30,10 +30,10 @@ export default function Hero() {
           <span className="text-[var(--color-emerald)]">We lay them. Brick by Brick.</span>
         </h1>
 
-        <p className="text-sm text-white/70 mb-2 max-w-xl mx-auto leading-relaxed">
+        <p className="text-sm text-white/70 mb-2 leading-relaxed">
           Non-union. Family-owned. 40+ years of Chicagoland masonry experience.
         </p>
-        <p className="text-xs text-white/45 mb-8 max-w-lg mx-auto leading-relaxed">
+        <p className="text-xs text-white/45 mb-8 leading-relaxed">
           Serving property managers, HOAs, churches, and insurance companies across greater Chicago.
           Licensed, bonded &amp; insured.
         </p>
@@ -53,8 +53,7 @@ export default function Hero() {
           </a>
         </div>
 
-        {/* Trust badges */}
-        <div className="mt-8 flex flex-wrap justify-center gap-4 sm:gap-6 text-white/40 text-[10px] uppercase tracking-widest pb-10">
+        <div className="mt-6 flex flex-wrap justify-center gap-4 sm:gap-6 text-white/40 text-[10px] uppercase tracking-widest">
           <span>Licensed &amp; Bonded</span>
           <span className="text-[var(--color-emerald)]/50">·</span>
           <span>40+ Years Experience</span>
