@@ -2,14 +2,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center pt-[110px] pb-16 overflow-hidden">
-      {/* Brick wall background — scales cleanly at any width */}
-      <div
-        className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/hero-brick-wall.png')" }}
-      />
-      {/* Dark tint so text is always readable */}
-      <div className="absolute inset-0 bg-[rgba(16,22,32,0.72)]" />
+    <section className="relative min-h-screen flex flex-col items-center justify-center pt-[110px] pb-16 overflow-hidden bg-[#10161f]">
 
       {/* Logo image — the hero centerpiece */}
       <div className="relative z-10 mb-6 drop-shadow-[0_8px_40px_rgba(0,0,0,0.7)]">
