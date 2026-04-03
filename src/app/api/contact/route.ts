@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 
-const SCRIPT_URL =
-  "https://script.google.com/macros/s/REDACTED_SCRIPT_KEY/exec";
+const SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL;
 
 export async function POST(req: NextRequest) {
+  if (!SCRIPT_URL) {
+    return NextResponse.json({ error: "Server misconfiguration" }, { status: 500 });
+  }
   try {
     const data = await req.json();
 
