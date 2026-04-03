@@ -1,24 +1,29 @@
-import Image from "next/image";
-
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center pt-[110px] pb-16 overflow-hidden bg-[#10161f]">
+    <section className="relative min-h-screen flex flex-col items-end justify-end pb-20 overflow-hidden">
+      {/* Logo-reveal image fills the full section, cropped to center so logo stays readable */}
+      <div
+        className="absolute inset-0"
+        style={{
+          backgroundImage: "url('/images/hero-logo-reveal.png')",
+          backgroundSize: "cover",
+          backgroundPosition: "center center",
+          backgroundRepeat: "no-repeat",
+        }}
+      />
 
-      {/* Logo image — the hero centerpiece */}
-      <div className="relative z-10 mb-6 drop-shadow-[0_8px_40px_rgba(0,0,0,0.7)]">
-        <Image
-          src="/images/hero-logo-reveal.png"
-          alt="Emerald Masonry LLC — Brick by Brick"
-          width={360}
-          height={360}
-          className="w-[220px] sm:w-[280px] md:w-[340px] lg:w-[380px] h-auto"
-          priority
-        />
-      </div>
+      {/* Gradient: transparent at center (logo area) → dark at bottom for text */}
+      <div
+        className="absolute inset-0"
+        style={{
+          background:
+            "linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.75) 72%, rgba(0,0,0,0.93) 100%)",
+        }}
+      />
 
-      {/* Text content */}
-      <div className="relative z-10 text-center px-6 max-w-3xl mx-auto">
-        <p className="text-[11px] tracking-[0.5em] uppercase text-[var(--color-emerald)] font-semibold mb-4">
+      {/* Text anchored to bottom-left */}
+      <div className="relative z-10 px-6 md:px-12 lg:px-20 max-w-2xl">
+        <p className="text-[10px] tracking-[0.5em] uppercase text-[var(--color-emerald)] font-semibold mb-4">
           Chicagoland Commercial Masonry
         </p>
 
@@ -30,15 +35,15 @@ export default function Hero() {
           <span className="text-[var(--color-emerald)]">We lay them. Brick by Brick.</span>
         </h1>
 
-        <p className="text-base text-white/70 mb-2 max-w-xl mx-auto leading-relaxed">
+        <p className="text-sm text-white/70 mb-2 max-w-md leading-relaxed">
           Non-union. Family-owned. 40+ years of Chicagoland masonry experience.
         </p>
-        <p className="text-sm text-white/45 mb-8 max-w-lg mx-auto">
+        <p className="text-xs text-white/45 mb-8 max-w-md leading-relaxed">
           Serving property managers, HOAs, churches, and insurance companies across greater Chicago.
           Licensed, bonded &amp; insured.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+        <div className="flex flex-col sm:flex-row gap-4">
           <a
             href="#contact"
             className="inline-flex items-center justify-center px-8 py-4 bg-[var(--color-emerald)] text-white text-[13px] font-semibold tracking-widest uppercase hover:opacity-90 transition-opacity duration-300 shadow-lg"
@@ -54,7 +59,7 @@ export default function Hero() {
         </div>
 
         {/* Trust badges */}
-        <div className="mt-10 flex flex-wrap justify-center gap-4 sm:gap-6 text-white/45 text-[11px] uppercase tracking-widest">
+        <div className="mt-8 flex flex-wrap gap-4 sm:gap-6 text-white/40 text-[10px] uppercase tracking-widest">
           <span>Licensed &amp; Bonded</span>
           <span className="text-[var(--color-emerald)]/50">·</span>
           <span>40+ Years Experience</span>
