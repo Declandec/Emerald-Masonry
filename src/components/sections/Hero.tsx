@@ -1,29 +1,23 @@
-import Image from "next/image";
-
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden bg-[#1c1008]">
-      {/* Full logo-reveal image — contain so the whole logo is always visible */}
-      <Image
-        src="/images/hero-logo-reveal.png"
-        alt="Emerald Masonry LLC — Brick by Brick"
-        fill
-        priority
-        style={{ objectFit: "contain", objectPosition: "center center" }}
-        sizes="100vw"
+    <section className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden">
+      {/* Landscape hero image — 1536×1024, bg-cover keeps full logo visible */}
+      <div
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url('/images/hero-landscape.png')" }}
       />
 
-      {/* Gradient: transparent at center so logo shows, dark at bottom for text */}
+      {/* Gradient: subtle dark overall, heavier at bottom for text readability */}
       <div
         className="absolute inset-0"
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.0) 50%, rgba(0,0,0,0.7) 78%, rgba(0,0,0,0.92) 100%)",
+            "linear-gradient(to bottom, rgba(0,0,0,0.25) 0%, rgba(0,0,0,0.2) 45%, rgba(0,0,0,0.65) 72%, rgba(0,0,0,0.88) 100%)",
         }}
       />
 
-      {/* Centered text content */}
-      <div className="relative z-10 text-center px-6 max-w-3xl mx-auto mt-auto pb-20 pt-[60vh]">
+      {/* Centered text — pushed to lower half so it sits below the logo */}
+      <div className="relative z-10 text-center px-6 max-w-3xl mx-auto mt-[45vh]">
         <p className="text-[10px] tracking-[0.5em] uppercase text-[var(--color-emerald)] font-semibold mb-4">
           Chicagoland Commercial Masonry
         </p>
@@ -60,7 +54,7 @@ export default function Hero() {
         </div>
 
         {/* Trust badges */}
-        <div className="mt-8 flex flex-wrap justify-center gap-4 sm:gap-6 text-white/40 text-[10px] uppercase tracking-widest">
+        <div className="mt-8 flex flex-wrap justify-center gap-4 sm:gap-6 text-white/40 text-[10px] uppercase tracking-widest pb-10">
           <span>Licensed &amp; Bonded</span>
           <span className="text-[var(--color-emerald)]/50">·</span>
           <span>40+ Years Experience</span>
