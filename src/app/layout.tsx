@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { Inter, Uncial_Antiqua } from "next/font/google";
+import { Poppins, Uncial_Antiqua } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({
+const poppins = Poppins({
   variable: "--font-inter",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
@@ -52,20 +52,9 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${uncialAntiqua.variable} h-full antialiased dark`}
+      className={`${poppins.variable} ${uncialAntiqua.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">
-        {/* Fixed brick wall background with dark tint for readability */}
-        <div
-          className="fixed inset-0 -z-10"
-          style={{
-            backgroundImage: "url('/images/brick-wall-bg.png')",
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
-          }}
-        />
-        <div className="fixed inset-0 -z-10 bg-[oklch(0.08_0_0/0.88)]" />
+      <body className="min-h-full flex flex-col bg-background">
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"

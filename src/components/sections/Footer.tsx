@@ -1,81 +1,147 @@
+import Link from "next/link";
+
+const serviceLinks = [
+  { label: "Tuckpointing & Repointing", href: "/services/tuckpointing" },
+  { label: "Brick Repair & Replacement", href: "/services/brick-repair" },
+  { label: "Chimney Repair & Rebuilds", href: "/services/chimney-repair" },
+  { label: "Masonry Restoration", href: "/services/masonry-restoration" },
+  { label: "Efflorescence & Waterproofing", href: "/services/waterproofing" },
+  { label: "Commercial & Industrial", href: "/services/commercial" },
+];
+
+const quickLinks = [
+  { label: "Home", href: "/" },
+  { label: "Gallery", href: "/gallery" },
+  { label: "Blog", href: "/blog" },
+  { label: "FAQ", href: "/faq" },
+  { label: "Free Estimate", href: "/#contact" },
+];
+
 export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="px-6 py-16 md:px-12 lg:px-20 border-t border-border">
-      <div className="grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-8 mb-16">
-        {/* Brand */}
-        <div className="md:col-span-5">
-          <p className="text-sm font-semibold tracking-widest uppercase text-foreground mb-4">
-            Emerald Masonry, LLC
-          </p>
-          <p className="text-sm leading-[1.8] text-muted-foreground max-w-xs">
-            Non-union, family-owned commercial masonry contractor serving Chicagoland.
-            40+ years of experience. Built on integrity. Done right.
-          </p>
-          <p className="text-xs text-muted-foreground/50 mt-4 leading-relaxed">
-            7156 W. 126th St. Suite 136<br />
-            Palos Heights, IL 60464<br />
-            Licensed · Bonded · Insured
-          </p>
-        </div>
+    <footer className="bg-[var(--color-charcoal)] text-white">
+      {/* Main footer grid */}
+      <div className="px-6 py-16 md:px-12 lg:px-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
+          {/* Brand column */}
+          <div className="lg:col-span-1">
+            <div className="mb-4">
+              <p className="text-[17px] font-bold tracking-wide text-white leading-tight">
+                Emerald Masonry
+              </p>
+              <p className="text-[12px] text-[var(--color-emerald)] font-semibold tracking-widest uppercase">
+                LLC
+              </p>
+            </div>
+            <p className="text-[14px] leading-relaxed text-white/60 mb-5">
+              Non-union, family-owned commercial masonry contractor serving Chicagoland.
+              40+ years of experience. Built on integrity. Done right.
+            </p>
+            <p className="text-[13px] text-white/40 leading-relaxed">
+              7156 W. 126th St. Suite 136<br />
+              Palos Heights, IL 60464<br />
+              Licensed · Bonded · Insured
+            </p>
+          </div>
 
-        {/* Nav */}
-        <div className="md:col-span-3 md:col-start-7">
-          <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Navigation
-          </p>
-          <nav className="flex flex-col gap-3">
-            {["Work", "Services", "About", "Contact"].map((item) => (
+          {/* Services column */}
+          <div>
+            <h4 className="text-[12px] font-bold tracking-[0.3em] uppercase text-white border-l-4 border-[var(--color-emerald)] pl-3 mb-5">
+              Services
+            </h4>
+            <nav className="flex flex-col gap-3">
+              {serviceLinks.map(({ label, href }) => (
+                <Link
+                  key={href}
+                  href={href}
+                  className="text-[14px] text-white/60 hover:text-[var(--color-emerald)] transition-colors duration-200"
+                >
+                  {label}
+                </Link>
+              ))}
+            </nav>
+          </div>
+
+          {/* Quick links column */}
+          <div>
+            <h4 className="text-[12px] font-bold tracking-[0.3em] uppercase text-white border-l-4 border-[var(--color-emerald)] pl-3 mb-5">
+              Quick Links
+            </h4>
+            <nav className="flex flex-col gap-3">
+              {quickLinks.map(({ label, href }) => (
+                <Link
+                  key={href}
+                  href={href}
+                  className="text-[14px] text-white/60 hover:text-[var(--color-emerald)] transition-colors duration-200"
+                >
+                  {label}
+                </Link>
+              ))}
+            </nav>
+          </div>
+
+          {/* Contact column */}
+          <div>
+            <h4 className="text-[12px] font-bold tracking-[0.3em] uppercase text-white border-l-4 border-[var(--color-emerald)] pl-3 mb-5">
+              Contact Us
+            </h4>
+            <div className="flex flex-col gap-4">
               <a
-                key={item}
-                href={`#${item.toLowerCase()}`}
-                className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300"
+                href="tel:3093239959"
+                className="text-[15px] font-bold text-white hover:text-[var(--color-emerald)] transition-colors duration-200"
               >
-                {item}
+                (309) 323-9959
               </a>
-            ))}
-          </nav>
-        </div>
+              <a
+                href="mailto:emeraldmasonryil@gmail.com"
+                className="text-[14px] text-white/60 hover:text-[var(--color-emerald)] transition-colors duration-200"
+              >
+                emeraldmasonryil@gmail.com
+              </a>
+              <div className="flex gap-3 mt-2">
+                <a
+                  href="https://www.facebook.com/people/Emerald-Masonry-LLC/61577959298549/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-9 h-9 bg-white/10 hover:bg-[var(--color-emerald)] flex items-center justify-center transition-colors duration-200"
+                  aria-label="Facebook"
+                >
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
+                  </svg>
+                </a>
+                <a
+                  href="https://www.instagram.com/emeraldmasonryil/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-9 h-9 bg-white/10 hover:bg-[var(--color-emerald)] flex items-center justify-center transition-colors duration-200"
+                  aria-label="Instagram"
+                >
+                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                  </svg>
+                </a>
+              </div>
+            </div>
 
-        {/* Social + contact */}
-        <div className="md:col-span-2 md:col-start-11">
-          <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
-            Connect
-          </p>
-          <div className="flex flex-col gap-3">
             <a
-              href="https://www.facebook.com/people/Emerald-Masonry-LLC/61577959298549/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300"
+              href="/#contact"
+              className="mt-6 block w-full py-3 text-center text-[13px] font-bold uppercase tracking-wide bg-[var(--color-emerald)] text-white hover:opacity-90 transition-opacity duration-200"
             >
-              Facebook
-            </a>
-            <a
-              href="https://www.instagram.com/emeraldmasonryil/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300"
-            >
-              Instagram
-            </a>
-            <a
-              href="tel:3093239959"
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-300"
-            >
-              (309) 323-9959
+              Get Free Estimate
             </a>
           </div>
         </div>
       </div>
 
       {/* Bottom bar */}
-      <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 border-t border-border pt-8">
-        <p className="text-xs text-muted-foreground/50">
+      <div className="border-t border-white/10 px-6 py-5 md:px-12 lg:px-20 flex flex-col md:flex-row items-center justify-between gap-3">
+        <p className="text-[13px] text-white/40">
           © {year} Emerald Masonry, LLC. All rights reserved.
         </p>
-        <p className="text-xs text-muted-foreground/50">
+        <p className="text-[13px] text-white/40">
           Palos Heights, IL · Serving Greater Chicagoland
         </p>
       </div>

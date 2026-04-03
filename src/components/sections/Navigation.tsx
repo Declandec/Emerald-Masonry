@@ -13,37 +13,12 @@ const services = [
   { label: "Commercial & Industrial", href: "/services/commercial" },
 ];
 
-const anchorLinks = [
-  { label: "Work", href: "/#work" },
-  { label: "About", href: "/#about" },
-  { label: "Contact", href: "/#contact" },
-];
-
-const pageLinks = [
+const navLinks = [
+  { label: "Home", href: "/" },
   { label: "Gallery", href: "/gallery" },
   { label: "Blog", href: "/blog" },
   { label: "FAQ", href: "/faq" },
 ];
-
-function NavLink({ href, children, onClick }: { href: string; children: React.ReactNode; onClick?: () => void }) {
-  const isAnchor = false;
-  const cls =
-    "relative text-[11px] tracking-[0.25em] uppercase text-white/60 hover:text-white transition-colors duration-300 group";
-  const underline = (
-    <span className="absolute -bottom-1 left-0 w-0 h-px bg-[var(--color-emerald)] transition-all duration-300 group-hover:w-full" />
-  );
-  return isAnchor ? (
-    <a href={href} className={cls} onClick={onClick}>
-      {children}
-      {underline}
-    </a>
-  ) : (
-    <Link href={href} className={cls} onClick={onClick}>
-      {children}
-      {underline}
-    </Link>
-  );
-}
 
 export default function Navigation() {
   const [scrolled, setScrolled] = useState(false);
@@ -53,12 +28,11 @@ export default function Navigation() {
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 20);
+    const onScroll = () => setScrolled(window.scrollY > 10);
     window.addEventListener("scroll", onScroll);
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  // Close mobile menu on resize to desktop
   useEffect(() => {
     const onResize = () => { if (window.innerWidth >= 768) setMobileOpen(false); };
     window.addEventListener("resize", onResize);
@@ -79,32 +53,57 @@ export default function Navigation() {
     setMobileServicesOpen(false);
   }
 
+  const linkCls =
+    "text-[13px] font-semibold uppercase tracking-wide text-[var(--color-charcoal)] hover:text-[var(--color-emerald)] transition-colors duration-200";
+
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 px-6 md:px-12 lg:px-20 transition-all duration-500 ${
-          scrolled || mobileOpen
-            ? "py-3 bg-black/95 backdrop-blur-md border-b border-white/10 shadow-lg"
-            : "py-4 bg-gradient-to-b from-black/60 to-transparent"
+        className={`fixed top-0 left-0 right-0 z-50 bg-white transition-shadow duration-300 ${
+          scrolled ? "shadow-md" : "shadow-sm"
         }`}
       >
-        <div className="flex items-center justify-between">
+        {/* Top bar */}
+        <div className="bg-[var(--color-charcoal)] text-white text-[12px] px-6 md:px-12 lg:px-20 py-2 hidden md:flex items-center justify-end gap-6">
+          <span>Licensed · Bonded · Insured</span>
+          <span>·</span>
+          <a href="mailto:emeraldmasonryil@gmail.com" className="hover:text-[var(--color-emerald)] transition-colors">
+            emeraldmasonryil@gmail.com
+          </a>
+          <span>·</span>
+          <a href="tel:3093239959" className="hover:text-[var(--color-emerald)] transition-colors font-semibold">
+            (309) 323-9959
+          </a>
+        </div>
+
+        {/* Main nav row */}
+        <div className="px-6 md:px-12 lg:px-20 py-4 flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center" onClick={closeMobile}>
+          <Link href="/" className="flex items-center gap-3" onClick={closeMobile}>
             <Image
               src="/logo.png"
               alt="Emerald Masonry LLC"
-              width={60}
-              height={60}
+              width={52}
+              height={52}
               className="object-contain"
               priority
             />
+            <div className="hidden sm:block">
+              <p className="text-[15px] font-bold tracking-wide text-[var(--color-charcoal)] leading-tight">
+                Emerald Masonry
+              </p>
+              <p className="text-[11px] text-[var(--color-emerald)] font-semibold tracking-widest uppercase">
+                LLC
+              </p>
+            </div>
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-9">
-            {anchorLinks.map(({ label, href }) => (
-              <NavLink key={label} href={href}>{label}</NavLink>
+          <nav className="hidden md:flex items-center gap-8">
+            {navLinks.map(({ label, href }) => (
+              <Link key={label} href={href} className={linkCls}>
+                {label}
+              </Link>
             ))}
 
             {/* Services dropdown */}
@@ -113,69 +112,56 @@ export default function Navigation() {
               onMouseEnter={openServices}
               onMouseLeave={closeServices}
             >
-              <button className="relative text-[11px] tracking-[0.25em] uppercase text-white/60 hover:text-white transition-colors duration-300 group flex items-center gap-1.5 cursor-default">
+              <button className={`${linkCls} flex items-center gap-1.5 cursor-default`}>
                 Services
                 <svg
-                  className={`w-2.5 h-2.5 transition-transform duration-300 ${servicesOpen ? "rotate-180" : ""}`}
+                  className={`w-3 h-3 transition-transform duration-300 ${servicesOpen ? "rotate-180" : ""}`}
                   fill="none"
                   viewBox="0 0 10 6"
                 >
-                  <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                  <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
-                <span className="absolute -bottom-1 left-0 w-0 h-px bg-[var(--color-emerald)] transition-all duration-300 group-hover:w-full" />
               </button>
 
               <div
-                className={`absolute top-full left-1/2 -translate-x-1/2 mt-5 w-64 bg-black/95 backdrop-blur-md border border-white/10 shadow-2xl transition-all duration-200 origin-top ${
+                className={`absolute top-full left-1/2 -translate-x-1/2 mt-3 w-68 bg-white border border-gray-200 shadow-xl transition-all duration-200 origin-top ${
                   servicesOpen
                     ? "opacity-100 scale-y-100 pointer-events-auto"
                     : "opacity-0 scale-y-95 pointer-events-none"
                 }`}
               >
-                <div className="h-px w-full bg-[var(--color-emerald)]" />
+                <div className="h-[3px] w-full bg-[var(--color-emerald)]" />
                 {services.map(({ label, href }) => (
                   <Link
                     key={href}
                     href={href}
-                    className="block px-5 py-3 text-[10px] tracking-[0.2em] uppercase text-white/50 hover:text-white hover:bg-white/5 transition-all duration-200 border-b border-white/5 last:border-0"
+                    className="block px-5 py-3 text-[13px] font-medium text-[var(--color-charcoal)] hover:text-[var(--color-emerald)] hover:bg-gray-50 transition-all duration-150 border-b border-gray-100 last:border-0"
                   >
                     {label}
                   </Link>
                 ))}
               </div>
             </div>
-
-            {pageLinks.map(({ label, href }) => (
-              <NavLink key={label} href={href}>{label}</NavLink>
-            ))}
           </nav>
 
           {/* Desktop CTA */}
           <a
-            href="tel:3093239959"
-            className="hidden md:inline-flex text-[11px] tracking-[0.25em] uppercase font-semibold px-5 py-2.5 border border-[var(--color-emerald)] text-[var(--color-emerald)] hover:bg-[var(--color-emerald)] hover:text-black transition-all duration-300"
+            href="/#contact"
+            className="hidden md:inline-flex items-center gap-2 px-6 py-3 bg-[var(--color-emerald)] text-white text-[13px] font-semibold uppercase tracking-wide hover:opacity-90 transition-opacity duration-200 shadow-sm"
           >
-            (309) 323-9959
+            Free Estimate
           </a>
 
-          {/* Mobile: call + hamburger */}
-          <div className="flex md:hidden items-center gap-3">
-            <a
-              href="tel:3093239959"
-              className="text-[10px] tracking-[0.2em] uppercase font-semibold px-3 py-2 border border-[var(--color-emerald)] text-[var(--color-emerald)]"
-            >
-              Call Now
-            </a>
-            <button
-              onClick={() => setMobileOpen((o) => !o)}
-              className="flex flex-col justify-center items-center w-10 h-10 gap-1.5"
-              aria-label="Toggle menu"
-            >
-              <span className={`block w-6 h-px bg-white transition-all duration-300 ${mobileOpen ? "rotate-45 translate-y-[5px]" : ""}`} />
-              <span className={`block w-6 h-px bg-white transition-all duration-300 ${mobileOpen ? "opacity-0" : ""}`} />
-              <span className={`block w-6 h-px bg-white transition-all duration-300 ${mobileOpen ? "-rotate-45 -translate-y-[5px]" : ""}`} />
-            </button>
-          </div>
+          {/* Mobile: hamburger */}
+          <button
+            onClick={() => setMobileOpen((o) => !o)}
+            className="flex md:hidden flex-col justify-center items-center w-10 h-10 gap-1.5"
+            aria-label="Toggle menu"
+          >
+            <span className={`block w-6 h-0.5 bg-[var(--color-charcoal)] transition-all duration-300 ${mobileOpen ? "rotate-45 translate-y-[7px]" : ""}`} />
+            <span className={`block w-6 h-0.5 bg-[var(--color-charcoal)] transition-all duration-300 ${mobileOpen ? "opacity-0" : ""}`} />
+            <span className={`block w-6 h-0.5 bg-[var(--color-charcoal)] transition-all duration-300 ${mobileOpen ? "-rotate-45 -translate-y-[7px]" : ""}`} />
+          </button>
         </div>
       </header>
 
@@ -185,39 +171,33 @@ export default function Navigation() {
           mobileOpen ? "pointer-events-auto" : "pointer-events-none"
         }`}
       >
-        {/* Backdrop */}
         <div
-          className={`absolute inset-0 bg-black/60 transition-opacity duration-300 ${mobileOpen ? "opacity-100" : "opacity-0"}`}
+          className={`absolute inset-0 bg-black/40 transition-opacity duration-300 ${mobileOpen ? "opacity-100" : "opacity-0"}`}
           onClick={closeMobile}
         />
-
-        {/* Panel */}
         <div
-          className={`absolute top-0 right-0 h-full w-72 bg-black/98 border-l border-white/10 flex flex-col transition-transform duration-300 ${
+          className={`absolute top-0 right-0 h-full w-72 bg-white shadow-2xl flex flex-col transition-transform duration-300 ${
             mobileOpen ? "translate-x-0" : "translate-x-full"
           }`}
         >
-          {/* Spacer for header height */}
-          <div className="h-20" />
-
-          <nav className="flex flex-col px-6 py-6 flex-1 overflow-y-auto">
-            {/* Anchor links */}
-            {anchorLinks.map(({ label, href }) => (
+          <div className="h-[72px]" />
+          <nav className="flex flex-col px-6 py-4 flex-1 overflow-y-auto">
+            {navLinks.map(({ label, href }) => (
               <Link
                 key={label}
                 href={href}
                 onClick={closeMobile}
-                className="py-4 text-sm tracking-[0.2em] uppercase text-white/70 hover:text-white border-b border-white/5 transition-colors duration-200"
+                className="py-4 text-[13px] font-semibold uppercase tracking-wide text-[var(--color-charcoal)] hover:text-[var(--color-emerald)] border-b border-gray-100 transition-colors"
               >
                 {label}
               </Link>
             ))}
 
             {/* Services accordion */}
-            <div className="border-b border-white/5">
+            <div className="border-b border-gray-100">
               <button
                 onClick={() => setMobileServicesOpen((o) => !o)}
-                className="w-full flex items-center justify-between py-4 text-sm tracking-[0.2em] uppercase text-white/70 hover:text-white transition-colors duration-200"
+                className="w-full flex items-center justify-between py-4 text-[13px] font-semibold uppercase tracking-wide text-[var(--color-charcoal)] hover:text-[var(--color-emerald)] transition-colors"
               >
                 Services
                 <svg
@@ -225,7 +205,7 @@ export default function Navigation() {
                   fill="none"
                   viewBox="0 0 10 6"
                 >
-                  <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                  <path d="M1 1l4 4 4-4" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>
               <div className={`overflow-hidden transition-all duration-300 ${mobileServicesOpen ? "max-h-96" : "max-h-0"}`}>
@@ -234,7 +214,7 @@ export default function Navigation() {
                     key={href}
                     href={href}
                     onClick={closeMobile}
-                    className="block pl-4 py-3 text-xs tracking-[0.15em] uppercase text-white/45 hover:text-white transition-colors duration-200"
+                    className="block pl-4 py-3 text-[13px] font-medium text-gray-500 hover:text-[var(--color-emerald)] transition-colors"
                   >
                     {label}
                   </Link>
@@ -243,34 +223,21 @@ export default function Navigation() {
               </div>
             </div>
 
-            {/* Page links */}
-            {pageLinks.map(({ label, href }) => (
-              <Link
-                key={label}
-                href={href}
-                onClick={closeMobile}
-                className="py-4 text-sm tracking-[0.2em] uppercase text-white/70 hover:text-white border-b border-white/5 transition-colors duration-200"
-              >
-                {label}
-              </Link>
-            ))}
-
-            {/* Mobile CTA */}
-            <div className="mt-auto pt-8">
+            <div className="mt-6 flex flex-col gap-3">
               <a
                 href="tel:3093239959"
                 onClick={closeMobile}
-                className="block w-full py-4 text-center text-xs tracking-[0.3em] uppercase font-semibold bg-[var(--color-emerald)] text-black hover:opacity-90 transition-opacity duration-300"
+                className="block w-full py-3 text-center text-[13px] font-semibold uppercase tracking-wide border-2 border-[var(--color-charcoal)] text-[var(--color-charcoal)] hover:bg-[var(--color-charcoal)] hover:text-white transition-colors"
               >
                 (309) 323-9959
               </a>
-              <Link
+              <a
                 href="/#contact"
                 onClick={closeMobile}
-                className="block w-full py-4 text-center text-xs tracking-[0.3em] uppercase font-medium border border-white/20 text-white/60 hover:text-white hover:border-white/40 mt-3 transition-colors duration-300"
+                className="block w-full py-3 text-center text-[13px] font-semibold uppercase tracking-wide bg-[var(--color-emerald)] text-white hover:opacity-90 transition-opacity"
               >
-                Request Free Estimate
-              </Link>
+                Free Estimate
+              </a>
             </div>
           </nav>
         </div>

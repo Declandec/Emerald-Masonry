@@ -1,31 +1,31 @@
 const services = [
   {
-    num: "01",
+    icon: "🧱",
     title: "Commercial Tuckpointing & Repointing",
     body: "Deteriorating mortar joints are the leading cause of water intrusion and structural damage in commercial buildings. We grind out failed mortar and repoint with matched material — restoring the envelope, protecting the structure, and meeting the documentation standards insurance companies and property managers require.",
   },
   {
-    num: "02",
+    icon: "📋",
     title: "Insurance Restoration",
     body: "We work directly with insurance companies and adjusters on masonry restoration claims. Our team provides thorough scope-of-work documentation, accurate damage assessments, and clean execution from approval to completion. We understand the process and make it easy on your end.",
   },
   {
-    num: "03",
+    icon: "🏛️",
     title: "Masonry Façade Restoration",
     body: "Aging brick façades on commercial buildings, churches, and multi-unit properties require more than a patch job. We assess the full envelope, identify root causes, and restore the façade to structural and aesthetic integrity — with a dedicated schedule and clear milestones built for your property.",
   },
   {
-    num: "04",
+    icon: "🔧",
     title: "Brick Repair & Replacement",
     body: "Spalled, cracked, or failing brick on a commercial property is a liability. We remove damaged units, source matching brick where possible, and tooth-in replacements so the repair holds structurally and the building looks right. No shortcuts.",
   },
   {
-    num: "05",
+    icon: "💧",
     title: "Efflorescence Removal & Waterproofing",
     body: "White staining on brick is a symptom of water moving through the masonry. We remove the efflorescence, address the source, and apply professional-grade waterproofing sealers — stopping the cycle before it leads to deeper structural damage.",
   },
   {
-    num: "06",
+    icon: "🏗️",
     title: "Chimney Repair & Lintel Restoration",
     body: "Church steeples, commercial chimneys, and aging lintels require experienced hands and proper staging. We handle crown repairs, full chimney rebuilds, and lintel replacement for commercial and institutional properties across Chicagoland.",
   },
@@ -33,34 +33,45 @@ const services = [
 
 export default function ServicesSection() {
   return (
-    <section id="services" className="px-6 py-24 md:px-12 lg:px-20 border-t border-border">
-      <div className="flex items-end justify-between mb-16">
-        <h2 className="text-xs tracking-[0.3em] uppercase text-muted-foreground">
-          Services
+    <section id="services" className="px-6 py-20 md:px-12 lg:px-20 bg-gray-50">
+      {/* Section header */}
+      <div className="text-center mb-14">
+        <p className="text-[11px] tracking-[0.4em] uppercase text-[var(--color-emerald)] font-semibold mb-3">
+          What We Do
+        </p>
+        <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-charcoal)] mb-4">
+          Our Services
         </h2>
-        <span className="text-xs tracking-[0.2em] uppercase text-muted-foreground/50">
-          Commercial &amp; Institutional
-        </span>
+        <p className="text-base text-gray-500 max-w-2xl mx-auto">
+          Commercial masonry done right — built for property managers, HOAs, churches, and insurance companies.
+        </p>
+        <div className="mt-4 mx-auto w-16 h-1 bg-[var(--color-emerald)]" />
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-border">
+      {/* Service cards */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
         {services.map((service) => (
-          <div key={service.num} className="bg-background px-6 py-8 md:px-8 md:py-10">
-            <div className="flex items-start justify-between mb-6">
-              <h3 className="text-lg font-semibold text-foreground">{service.title}</h3>
-              <span className="text-xs tracking-[0.2em] text-muted-foreground/40 ml-4 shrink-0">
-                {service.num}
-              </span>
+          <div
+            key={service.title}
+            className="bg-white border border-gray-200 shadow-sm hover:shadow-md transition-shadow duration-300 group"
+          >
+            {/* Emerald top border (like All State gold top borders) */}
+            <div className="h-[4px] w-full bg-[var(--color-emerald)]" />
+            <div className="p-8">
+              <div className="text-4xl mb-4">{service.icon}</div>
+              <h3 className="text-[16px] font-bold text-[var(--color-charcoal)] mb-3 group-hover:text-[var(--color-emerald)] transition-colors duration-200">
+                {service.title}
+              </h3>
+              <p className="text-[14px] leading-[1.75] text-gray-500">{service.body}</p>
             </div>
-            <p className="text-sm leading-[1.8] text-muted-foreground">{service.body}</p>
           </div>
         ))}
       </div>
 
-      <div className="mt-12 flex justify-center">
+      <div className="mt-12 text-center">
         <a
           href="#contact"
-          className="text-xs tracking-[0.3em] uppercase text-muted-foreground border-b border-muted-foreground pb-1 hover:text-foreground hover:border-foreground transition-colors duration-300"
+          className="inline-flex items-center gap-2 px-8 py-4 bg-[var(--color-emerald)] text-white text-[13px] font-semibold uppercase tracking-wide hover:opacity-90 transition-opacity duration-200 shadow-sm"
         >
           Request a Free On-Site Estimate
         </a>
