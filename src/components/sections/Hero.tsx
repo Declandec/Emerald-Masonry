@@ -7,12 +7,12 @@ export default function Hero() {
         style={{ backgroundImage: "url('/images/hero-landscape.png')" }}
       />
 
-      {/* Gradient: transparent at top so logo shows clearly, dark band at bottom for text */}
+      {/* Slight tint across full image + dark band at bottom for text */}
       <div
         className="absolute inset-0"
         style={{
           background:
-            "linear-gradient(to bottom, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.72) 72%, rgba(0,0,0,0.92) 100%)",
+            "linear-gradient(to bottom, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.78) 72%, rgba(0,0,0,0.93) 100%)",
         }}
       />
 
@@ -23,17 +23,17 @@ export default function Hero() {
         </p>
 
         <h1
-          className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl leading-tight text-white mb-5"
+          className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-tight text-white mb-5"
           style={{ fontFamily: "var(--font-uncial)" }}
         >
           We don&apos;t cut corners —<br />
           <span className="text-[var(--color-emerald)]">We lay them. Brick by Brick.</span>
         </h1>
 
-        <p className="text-sm text-white/70 mb-2 leading-relaxed">
+        <p className="text-lg text-white/70 mb-2 leading-relaxed">
           Non-union. Family-owned. 40+ years of Chicagoland masonry experience.
         </p>
-        <p className="text-xs text-white/45 mb-8 leading-relaxed">
+        <p className="text-sm text-white/45 mb-8 leading-relaxed">
           Serving property managers, HOAs, churches, and insurance companies across greater Chicago.
           Licensed, bonded &amp; insured.
         </p>
