@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useInView } from "@/hooks/useInView";
 
 const inputClass =
   "w-full bg-white border border-gray-300 px-4 py-3 text-[14px] text-[var(--color-charcoal)] placeholder:text-gray-400 focus:outline-none focus:border-[var(--color-emerald)] transition-colors duration-200";
@@ -8,10 +9,11 @@ const inputClass =
 const selectClass =
   "w-full bg-white border border-gray-300 px-4 py-3 text-[14px] text-[var(--color-charcoal)] focus:outline-none focus:border-[var(--color-emerald)] transition-colors duration-200 appearance-none";
 
-const labelClass = "block text-[12px] font-semibold tracking-wide uppercase text-gray-600 mb-2";
+const labelClass = "block text-[11px] font-bold tracking-[0.1em] uppercase text-gray-600 mb-2";
 
 export default function ContactSection() {
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+  const { ref, inView } = useInView();
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -46,87 +48,29 @@ export default function ContactSection() {
   }
 
   return (
-    <section id="contact" className="px-6 py-20 md:px-12 lg:px-20 bg-white">
+    <section id="contact" className="bg-white py-20 px-6 md:px-12 lg:px-20">
       {/* Section header */}
-      <div className="text-center mb-14">
-        <p className="text-[11px] tracking-[0.4em] uppercase text-[var(--color-emerald)] font-semibold mb-3">
+      <div
+        ref={ref}
+        className={`text-center mb-14 fade-up ${inView ? "in-view" : ""}`}
+      >
+        <p className="text-[11px] tracking-[0.45em] uppercase text-[var(--color-emerald)] font-semibold mb-3">
           Get In Touch
         </p>
         <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-charcoal)] mb-4">
-          Let&apos;s Talk About Your Project
+          Get in Touch With Us &amp; Send Us a Message Today
         </h2>
         <p className="text-base text-gray-500 max-w-xl mx-auto">
-          Free on-site estimates for commercial, institutional, and large-scale projects across Chicagoland.
-          We respond the same business day.
+          If you are looking for quality masonry and tuckpointing services in Chicago, we are the
+          ones you can rely on and trust. Free on-site estimates — same-day response.
         </p>
         <div className="mt-4 mx-auto w-16 h-1 bg-[var(--color-emerald)]" />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 max-w-7xl mx-auto">
-        {/* Left: contact info */}
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 max-w-7xl mx-auto">
+        {/* Left: contact info panel */}
         <div className="lg:col-span-4">
-          <div className="bg-[var(--color-charcoal)] p-8 h-full">
-            <h3 className="text-[18px] font-bold text-white mb-6">Contact Information</h3>
-
-            <div className="space-y-6">
-              <div className="flex gap-4">
-                <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
-                  </svg>
-                </div>
-                <div>
-                  <p className="text-[11px] tracking-widest uppercase text-white/50 mb-1">Phone</p>
-                  <a href="tel:3093239959" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors">
-                    (309) 323-9959
-                  </a>
-                </div>
-              </div>
-
-              <div className="flex gap-4">
-                <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                  </svg>
-                </div>
-                <div>
-                  <p className="text-[11px] tracking-widest uppercase text-white/50 mb-1">Email</p>
-                  <a href="mailto:emeraldmasonryil@gmail.com" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors text-[14px]">
-                    emeraldmasonryil@gmail.com
-                  </a>
-                </div>
-              </div>
-
-              <div className="flex gap-4">
-                <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                  </svg>
-                </div>
-                <div>
-                  <p className="text-[11px] tracking-widest uppercase text-white/50 mb-1">Office</p>
-                  <p className="text-white text-[14px] leading-relaxed">
-                    7156 W. 126th St. Suite 136<br />Palos Heights, IL 60464
-                  </p>
-                </div>
-              </div>
-
-              <div className="flex gap-4">
-                <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
-                  </svg>
-                </div>
-                <div>
-                  <p className="text-[11px] tracking-widest uppercase text-white/50 mb-1">Service Area</p>
-                  <p className="text-white text-[14px] leading-relaxed">
-                    Cook · DuPage · Lake · Will<br />Kane · McHenry Counties<br />Greater Chicagoland
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
+          <ContactInfo />
         </div>
 
         {/* Right: form */}
@@ -147,7 +91,7 @@ export default function ContactSection() {
               </p>
             </div>
           ) : (
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form onSubmit={handleSubmit} className="space-y-5">
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                 <div>
                   <label className={labelClass}>Full Name *</label>
@@ -230,7 +174,8 @@ export default function ContactSection() {
 
               <div>
                 <label className={labelClass}>
-                  Project Details <span className="normal-case font-normal text-gray-400">(optional)</span>
+                  Project Details{" "}
+                  <span className="normal-case font-normal text-gray-400">(optional)</span>
                 </label>
                 <textarea
                   name="message"
@@ -251,7 +196,7 @@ export default function ContactSection() {
                 disabled={status === "submitting"}
                 className="w-full py-4 bg-[var(--color-emerald)] text-white text-[13px] font-bold tracking-widest uppercase hover:opacity-90 transition-opacity duration-200 disabled:opacity-50 shadow-md"
               >
-                {status === "submitting" ? "Sending..." : "Request Free Estimate →"}
+                {status === "submitting" ? "Sending..." : "Send Message →"}
               </button>
 
               <p className="text-[12px] text-gray-400 text-center">
@@ -262,5 +207,85 @@ export default function ContactSection() {
         </div>
       </div>
     </section>
+  );
+}
+
+function ContactInfo() {
+  const { ref, inView } = useInView();
+
+  return (
+    <div
+      ref={ref}
+      className={`bg-[var(--color-charcoal)] p-8 h-full slide-left ${inView ? "in-view" : ""}`}
+    >
+      <h3 className="text-[18px] font-bold text-white mb-2">
+        Get in touch with us &amp; send us a message today!
+      </h3>
+      <div className="w-10 h-1 bg-[var(--color-emerald)] mb-6" />
+      <p className="text-[14px] text-white/60 leading-relaxed mb-8">
+        If you are looking for quality tuckpointing and masonry services in Chicago, we are the
+        ones you can rely on and trust. We only provide the best services — don&apos;t hesitate to
+        give us a call!
+      </p>
+
+      <div className="space-y-5">
+        <div className="flex gap-4">
+          <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
+            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Phone</p>
+            <a href="tel:3093239959" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors">
+              (309) 323-9959
+            </a>
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
+            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Email</p>
+            <a href="mailto:emeraldmasonryil@gmail.com" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors text-[13px] break-all">
+              emeraldmasonryil@gmail.com
+            </a>
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
+            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Office</p>
+            <p className="text-white text-[13px] leading-relaxed">
+              7156 W. 126th St. Suite 136<br />Palos Heights, IL 60464
+            </p>
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
+            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Service Area</p>
+            <p className="text-white text-[13px] leading-relaxed">
+              Cook · DuPage · Lake · Will<br />Kane · McHenry Counties
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }

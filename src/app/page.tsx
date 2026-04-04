@@ -1,10 +1,15 @@
 import Navigation from "@/components/sections/Navigation";
 import Hero from "@/components/sections/Hero";
-import WorkSection from "@/components/sections/WorkSection";
-import EditorialBreak from "@/components/sections/EditorialBreak";
+import TrustBar from "@/components/sections/TrustBar";
+import AboutIntro from "@/components/sections/AboutIntro";
 import AboutSection from "@/components/sections/AboutSection";
 import ServicesSection from "@/components/sections/ServicesSection";
-import Testimonials from "@/components/sections/Testimonials";
+import BenefitsSection from "@/components/sections/BenefitsSection";
+import WorkSection from "@/components/sections/WorkSection";
+import EditorialBreak from "@/components/sections/EditorialBreak";
+import GallerySection from "@/components/sections/GallerySection";
+import WhyChooseSection from "@/components/sections/WhyChooseSection";
+import CtaBanner from "@/components/sections/CtaBanner";
 import ContactSection from "@/components/sections/ContactSection";
 import Footer from "@/components/sections/Footer";
 import SeoKeywords from "@/components/sections/SeoKeywords";
@@ -14,11 +19,16 @@ export default function Home() {
     <>
       <Navigation />
       <Hero />
-      <WorkSection />
-      <EditorialBreak />
+      <TrustBar />
+      <AboutIntro />
       <AboutSection />
       <ServicesSection />
-      <Testimonials />
+      <BenefitsSection />
+      <WorkSection />
+      <EditorialBreak />
+      <GallerySection />
+      <WhyChooseSection />
+      <CtaBanner />
       <ContactSection />
       <Footer />
       <SeoKeywords />
