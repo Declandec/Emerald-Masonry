@@ -95,3 +95,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **File name:** `public/images/parapet-wall-repair.jpg`
 **Prompt:**
 > Masonry contractor working on the parapet wall of a flat-roof commercial building. Worker in hard hat kneeling on the roof at the parapet line, repointing joints at the cap. Urban Midwest commercial rooftop context. Safety setup visible. Photorealistic construction photography.
+
+---
+
+## SEO Page: tuckpointing-contractor-frankfort-il
+**File name:** `public/images/seo/tuckpointing-frankfort-il.jpg`
+**Alt text:** Licensed tuckpointing contractor working on brick building in Frankfort Illinois Will County
+
+**Prompt:**
+> A masonry worker tuckpointing a commercial brick building exterior in a suburban Illinois setting. Worker using an oscillating tool to cut out deteriorated mortar joints, safety glasses and gloves on. Blue collar, professional, realistic jobsite. Overcast Midwest sky. Frankfort Illinois suburban commercial background. Photorealistic construction photography, no CGI.
+
+---
+
+## SEO Page: masonry-restoration-mokena-il
+**File name:** `public/images/seo/masonry-restoration-mokena-il.jpg`
+**Alt text:** Commercial masonry restoration in progress on brick facade in Mokena Illinois
+
+**Prompt:**
+> A masonry crew performing full facade restoration on a commercial brick building. One worker on scaffold repointing joints, another below staging materials. Hard hats, safety glasses, and work gloves visible. Midwest suburban commercial building setting, Will County Illinois context. Before/after implied by clearly deteriorated sections beside completed work. Photorealistic.
+
+---
+
+## SEO Page: parapet-wall-repair-naperville-il
+**File name:** `public/images/seo/parapet-wall-repair-naperville-il.jpg`
+**Alt text:** Parapet wall repair and coping replacement on commercial building in Naperville Illinois
+
+**Prompt:**
+> Close view of a masonry worker on an aerial lift platform at parapet level of a commercial building, inspecting and repointing mortar joints near the coping cap. Worker wearing hard hat and gloves. DuPage County Illinois suburban commercial roofline context. Clear sky. Photorealistic jobsite photography.
+
+---
+
+## SEO Page: efflorescence-waterproofing-downers-grove-il
+**File name:** `public/images/seo/efflorescence-downers-grove-il.jpg`
+**Alt text:** Efflorescence removal and masonry waterproofing on commercial brick building in Downers Grove Illinois
+
+**Prompt:**
+> Close-up of white efflorescence mineral deposits on the upper section of a commercial brick building facade. Contrast between stained brick and cleaned section below visible. DuPage County commercial building context. Professional assessment-style photograph. Realistic, no workers, natural daylight. Detail shows salt crystal texture on brick face.
+
+---
+
+## SEO Page: lintel-replacement-bolingbrook-il
+**File name:** `public/images/seo/lintel-replacement-bolingbrook-il.jpg`
+**Alt text:** Steel lintel replacement above window opening on commercial brick building in Bolingbrook Illinois
+
+**Prompt:**
+> Masonry workers performing lintel replacement above a large commercial window opening. Temporary shoring visible supporting brick courses above. One worker removing old corroded steel lintel, another prepping the opening. Both wearing hard hats, eye protection, and gloves. Midwest commercial strip center setting. Will County Illinois suburban context. Photorealistic construction photography.
+
+---
+
+## Blog: how-to-evaluate-masonry-contractor-bid
+**File name:** `public/images/blog/masonry-contractor-bid-evaluation.jpg`
+**Alt text:** Property manager reviewing masonry contractor estimate documents at commercial building
+
+**Prompt:**
+> A professional in business casual attire reviewing printed estimate documents while standing in front of a commercial brick building. Papers show line-item scope of work. Building facade shows visible mortar joint deterioration in background. Realistic, natural light, Chicago suburbs commercial setting. Professional assessment photography style.
+
+---
+
+## Blog: parapet-wall-failure-signs-commercial-buildings
+**File name:** `public/images/blog/parapet-failure-inspection.jpg`
+**Alt text:** Commercial building parapet wall showing efflorescence and coping damage at roofline
+
+**Prompt:**
+> Wide shot of the upper portion of a commercial flat-roof building showing a parapet wall with visible efflorescence staining on the brick face below the coping. Some coping units appear slightly displaced. No workers — condition documentation style. Midwest commercial district. Overcast daylight. Realistic building condition photography.
+
+---
+
+## Blog: waterproofing-after-tuckpointing
+**File name:** `public/images/blog/masonry-waterproofing-application.jpg`
+**Alt text:** Masonry contractor applying penetrating sealer to commercial brick building exterior
+
+**Prompt:**
+> A masonry worker using a professional sprayer to apply penetrating sealer to a freshly repointed commercial brick facade. Worker on scaffold or aerial lift, wearing safety glasses and gloves. Spray nozzle close to wall surface. Neat, professional application. Midwest suburban commercial building. Photorealistic construction photography.
