@@ -20,8 +20,12 @@ SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 
 
 def _build_service():
-    client_creds_raw = os.environ["GMAIL_CLIENT_CREDENTIALS"]
-    refresh_token = os.environ["GMAIL_REFRESH_TOKEN"]
+    client_creds_raw = os.environ["GMAIL_CLIENT_CREDENTIALS"].strip()
+    refresh_token = os.environ["GMAIL_REFRESH_TOKEN"].strip()
+
+    # Remove any control characters that may be introduced by secret managers
+    import re
+    client_creds_raw = re.sub(r'[\x00-\x1f\x7f]', '', client_creds_raw)
 
     client_info = json.loads(client_creds_raw)
     # Support both "installed" and "web" app credential shapes
