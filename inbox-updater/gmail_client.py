@@ -3,7 +3,6 @@ Gmail client — fetches unread inbox messages within the configured time window
 Reads only; never modifies mailbox state.
 """
 
-import json
 import os
 import base64
 import email.utils
@@ -20,23 +19,16 @@ SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 
 
 def _build_service():
-    client_creds_raw = os.environ["GMAIL_CLIENT_CREDENTIALS"].strip()
+    client_id = os.environ["GMAIL_CLIENT_ID"].strip()
+    client_secret = os.environ["GMAIL_CLIENT_SECRET"].strip()
     refresh_token = os.environ["GMAIL_REFRESH_TOKEN"].strip()
-
-    # Remove any control characters that may be introduced by secret managers
-    import re
-    client_creds_raw = re.sub(r'[\x00-\x1f\x7f]', '', client_creds_raw)
-
-    client_info = json.loads(client_creds_raw)
-    # Support both "installed" and "web" app credential shapes
-    app_info = client_info.get("installed") or client_info.get("web", {})
 
     creds = Credentials(
         token=None,
         refresh_token=refresh_token,
         token_uri="https://oauth2.googleapis.com/token",
-        client_id=app_info["client_id"],
-        client_secret=app_info["client_secret"],
+        client_id=client_id,
+        client_secret=client_secret,
         scopes=SCOPES,
     )
     creds.refresh(Request())
