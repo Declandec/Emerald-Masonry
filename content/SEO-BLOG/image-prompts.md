@@ -167,3 +167,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A masonry worker using a professional sprayer to apply penetrating sealer to a freshly repointed commercial brick facade. Worker on scaffold or aerial lift, wearing safety glasses and gloves. Spray nozzle close to wall surface. Neat, professional application. Midwest suburban commercial building. Photorealistic construction photography.
+
+---
+
+## SEO Page: chimney-repair-new-lenox-il
+**File name:** `public/images/seo/chimney-repair-new-lenox-il.jpg`
+**Alt text:** Masonry chimney repair and tuckpointing on brick chimney in New Lenox Illinois Will County
+
+**Prompt:**
+> A masonry contractor on a ladder performing tuckpointing on a residential brick chimney. Worker wearing hard hat, safety glasses, and work gloves, applying fresh mortar to deteriorated chimney joints near the crown. Suburban New Lenox Illinois neighborhood visible in background, Will County. Clear spring day. Photorealistic construction photography, no CGI.
+
+---
+
+## SEO Page: brick-repair-lemont-il
+**File name:** `public/images/seo/brick-repair-lemont-il.jpg`
+**Alt text:** Brick repair and replacement on historic commercial building in Lemont Illinois
+
+**Prompt:**
+> Close-up of a masonry worker carefully cutting out a spalled brick unit from an older commercial brick wall, with replacement brick and mortar tools visible nearby. Worker wearing safety glasses, hard hat, and gloves. Historic downtown Lemont Illinois building context, older architectural details visible. Photorealistic masonry repair photography.
+
+---
+
+## SEO Page: tuckpointing-plainfield-il
+**File name:** `public/images/seo/tuckpointing-plainfield-il.jpg`
+**Alt text:** Tuckpointing and mortar joint repair on commercial brick building in Plainfield Illinois
+
+**Prompt:**
+> A masonry worker using an oscillating tool to remove deteriorated mortar joints from a commercial brick building exterior. Worker in hard hat, safety glasses, and dust mask. Clean suburban commercial setting, Will County Illinois. Mortar dust visible. Professional tuckpointing work in progress. Photorealistic jobsite photography.
+
+---
+
+## SEO Page: commercial-masonry-lockport-il
+**File name:** `public/images/seo/commercial-masonry-lockport-il.jpg`
+**Alt text:** Commercial masonry repair on industrial brick building in Lockport Illinois Will County
+
+**Prompt:**
+> Wide shot of a commercial masonry crew performing tuckpointing and brick repair on an industrial warehouse building facade. Two workers on aerial lift platform, one applying mortar to joints. Hard hats and safety glasses visible. Industrial corridor setting, Lockport Illinois Will County. Overcast Midwest sky. Photorealistic construction photography.
+
+---
+
+## SEO Page: historic-masonry-restoration-westmont-il
+**File name:** `public/images/seo/historic-masonry-restoration-westmont-il.jpg`
+**Alt text:** Historic masonry restoration on older brick building in Westmont Illinois DuPage County
+
+**Prompt:**
+> A masonry craftsman carefully repointing historic brick joints on an early 20th century commercial building using hand tools — chisels and a narrow pointing trowel. Worker wearing safety glasses and gloves. Historic downtown building context, ornate brick detailing visible. DuPage County Illinois. Detail-focused photorealistic photography showing precision work.
+
+---
+
+## Blog: what-causes-brick-to-spall-illinois
+**File name:** `public/images/blog/brick-spalling-illinois.jpg`
+**Alt text:** Close-up of severely spalled brick faces on commercial building wall showing freeze-thaw damage
+
+**Prompt:**
+> Macro close-up of a brick wall section showing multiple stages of spalling — one brick with the face fully popped off exposing rough interior, adjacent bricks with surface crazing and early delamination. No workers. Assessment documentation style. Natural daylight, realistic masonry damage photography for Illinois commercial building.
+
+---
+
+## Blog: lime-vs-portland-mortar
+**File name:** `public/images/blog/lime-portland-mortar-comparison.jpg`
+**Alt text:** Masonry contractor mixing mortar on commercial jobsite with fresh repointing visible on brick wall
+
+**Prompt:**
+> A masonry worker mixing mortar from bulk materials at a commercial jobsite. Bags of lime and sand visible. Fresh white mortar in a mixing trough. In background, a section of brick wall shows freshly repointed joints alongside original deteriorated joints for comparison. Hard hat and gloves on worker. Photorealistic professional masonry jobsite.
+
+---
+
+## Blog: scaffolding-vs-lifts-commercial-masonry
+**File name:** `public/images/blog/aerial-lift-commercial-masonry.jpg`
+**Alt text:** Masonry worker on aerial boom lift performing tuckpointing on commercial building facade
+
+**Prompt:**
+> A masonry worker in the basket of an articulating boom lift performing tuckpointing on a four-story commercial brick building facade. Worker wearing hard hat, safety glasses, and harness. Lift positioned at upper-floor level. Chicago suburbs commercial building background. Morning light. Wide shot showing full lift and building context. Photorealistic construction photography.
