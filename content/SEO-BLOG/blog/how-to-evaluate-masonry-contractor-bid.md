@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Not all masonry bids are measuring the same thing. Understanding what separates a real scope from a lowball estimate can save a property manager from costly mistakes, repeated repairs, and contractor disputes."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/after-residential.jpg"
 keywords:
   - masonry contractor bid evaluation
   - how to compare masonry estimates

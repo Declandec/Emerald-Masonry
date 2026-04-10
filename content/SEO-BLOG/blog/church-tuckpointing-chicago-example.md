@@ -4,7 +4,7 @@ date: "2026-03-31"
 excerpt: "When a Chicagoland church noticed water intrusion and crumbling mortar joints on their 80-year-old brick façade, Emerald Masonry was called in to assess and restore the full building envelope."
 service: "Commercial Tuckpointing"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/after-chimney.jpg"
 keywords:
   - church tuckpointing Chicago
   - commercial tuckpointing Chicagoland

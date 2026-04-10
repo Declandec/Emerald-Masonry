@@ -4,7 +4,7 @@ date: "2026-04-09"
 excerpt: "Spalling brick — faces that have popped, chipped, or delaminated — is one of the most visible signs of masonry deterioration. In Illinois, it's nearly always caused by the same mechanisms, and understanding them tells you both what went wrong and what to do about it."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/work-brick-repair.jpg"
+image: "/images/after-brick-repair.jpg"
 keywords:
   - brick spalling Illinois
   - what causes brick to spall

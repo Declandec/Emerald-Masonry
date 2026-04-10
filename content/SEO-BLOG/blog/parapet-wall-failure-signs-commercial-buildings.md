@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Parapet walls fail quietly — the visible damage at street level is usually a lagging indicator of problems that have been active for years. Knowing what to look for from the ground, and when to arrange for a closer look, can prevent a maintenance issue from becoming a major repair."
 service: "Parapet Wall Repair"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/after-commercial.jpg"
 keywords:
   - parapet wall failure signs
   - commercial parapet inspection Chicago

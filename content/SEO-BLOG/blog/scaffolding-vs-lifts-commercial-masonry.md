@@ -4,7 +4,7 @@ date: "2026-04-09"
 excerpt: "The access method a masonry contractor uses affects project cost, timeline, and what work is actually possible. Understanding when scaffolding is required versus when aerial lifts suffice helps property managers evaluate bids more accurately and avoid surprises."
 service: "Commercial & Industrial Masonry"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/after-commercial-2.jpg"
 keywords:
   - scaffolding vs lifts commercial masonry
   - aerial lift masonry work Chicago

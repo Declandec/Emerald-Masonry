@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Property managers often discover masonry problems after water damage has already occurred. These are the signs to look for before that happens — and what each one tells you about urgency."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/after-commercial-3.jpg"
 keywords:
   - signs commercial building needs tuckpointing
   - tuckpointing Chicago property manager guide
