@@ -3,9 +3,29 @@ import Footer from "@/components/sections/Footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "FAQ | Emerald Masonry LLC — Commercial Masonry Chicagoland",
+  title: "FAQ | Emerald Masonry LLC",
   description:
     "Common questions about commercial masonry, tuckpointing, brick repair, and working with Emerald Masonry LLC across Chicagoland. Get answers before you call.",
+  keywords: [
+    "masonry contractor FAQ",
+    "tuckpointing questions Chicago",
+    "commercial masonry estimate Chicagoland",
+    "how long does tuckpointing last",
+    "masonry contractor licensed bonded insured Illinois",
+    "HOA masonry questions",
+    "property manager masonry FAQ",
+    "insurance masonry claim Chicago",
+  ],
+  alternates: {
+    canonical: "https://emeraldmasonryil.com/faq",
+  },
+  openGraph: {
+    title: "FAQ | Emerald Masonry LLC",
+    description:
+      "Common questions about commercial masonry, tuckpointing, brick repair, and working with Emerald Masonry LLC across Chicagoland.",
+    url: "https://emeraldmasonryil.com/faq",
+    type: "website",
+  },
 };
 
 const gettingStarted = {

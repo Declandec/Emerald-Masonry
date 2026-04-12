@@ -4,9 +4,26 @@ import Footer from "@/components/sections/Footer";
 import BlogClient from "@/components/blog/BlogClient";
 
 export const metadata = {
-  title: "Blog | Emerald Masonry LLC — Commercial Masonry Chicagoland",
+  title: "Blog | Emerald Masonry LLC",
   description:
     "Project updates, masonry tips, and restoration insights from Emerald Masonry LLC — Chicagoland's commercial masonry specialists.",
+  keywords: [
+    "masonry blog Chicago",
+    "tuckpointing tips Chicagoland",
+    "commercial masonry articles Illinois",
+    "brick repair guide Chicago",
+    "masonry restoration insights",
+  ],
+  alternates: {
+    canonical: "https://emeraldmasonryil.com/blog",
+  },
+  openGraph: {
+    title: "Blog | Emerald Masonry LLC",
+    description:
+      "Project updates, masonry tips, and restoration insights from Emerald Masonry LLC — Chicagoland's commercial masonry specialists.",
+    url: "https://emeraldmasonryil.com/blog",
+    type: "website",
+  },
 };
 
 export default function BlogPage() {

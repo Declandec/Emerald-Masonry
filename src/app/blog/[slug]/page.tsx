@@ -5,6 +5,17 @@ import Link from "next/link";
 import Navigation from "@/components/sections/Navigation";
 import Footer from "@/components/sections/Footer";
 
+const BASE_URL = "https://emeraldmasonryil.com";
+const SUFFIX = " | Emerald Masonry";
+
+function buildTitle(title: string): string {
+  const full = `${title}${SUFFIX}`;
+  if (full.length <= 60) return full;
+  const maxLen = 60 - SUFFIX.length - 1;
+  const trimmed = title.substring(0, maxLen).replace(/\s+\S*$/, "");
+  return `${trimmed}${SUFFIX}`;
+}
+
 export async function generateStaticParams() {
   const posts = getAllPosts();
   return posts.map((post) => ({ slug: post.slug }));
@@ -19,9 +30,21 @@ export async function generateMetadata({
   const post = getPostBySlug(slug);
   if (!post) return {};
   return {
-    title: `${post.title} | Emerald Masonry LLC`,
+    title: buildTitle(post.title),
     description: post.excerpt,
     keywords: post.keywords,
+    alternates: {
+      canonical: `${BASE_URL}/blog/${slug}`,
+    },
+    openGraph: {
+      title: buildTitle(post.title),
+      description: post.excerpt,
+      url: `${BASE_URL}/blog/${slug}`,
+      type: "article",
+      images: post.image
+        ? [{ url: `${BASE_URL}${post.image}`, width: 1200, height: 630, alt: post.title }]
+        : [{ url: `${BASE_URL}/images/work-tuckpointing.jpg`, width: 1200, height: 630, alt: "Emerald Masonry LLC" }],
+    },
   };
 }
 

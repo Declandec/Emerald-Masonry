@@ -54,6 +54,16 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  async redirects() {
+    return [
+      {
+        source: "/seo/:slug",
+        destination: "/locations/:slug",
+        permanent: true,
+      },
+    ];
+  },
+
   async headers() {
     return [
       {

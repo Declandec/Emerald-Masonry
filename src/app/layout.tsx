@@ -15,7 +15,7 @@ const uncialAntiqua = Uncial_Antiqua({
 });
 
 export const metadata: Metadata = {
-  title: "Emerald Masonry LLC | Commercial Masonry Contractor — Chicagoland",
+  title: "Emerald Masonry LLC | Commercial Masonry Chicagoland",
   description:
     "Non-union, family-owned commercial masonry contractor serving Chicagoland. 40+ years experience. Tuckpointing, brick restoration, insurance claims, HOAs, churches, and property managers. Licensed, bonded & insured. Call (309) 323-9959.",
   keywords: [
@@ -35,12 +35,24 @@ export const metadata: Metadata = {
     "commercial brick contractor Lake County IL",
     "industrial masonry restoration Chicago",
   ],
+  alternates: {
+    canonical: "https://emeraldmasonryil.com",
+  },
   openGraph: {
-    title: "Emerald Masonry LLC | Commercial Masonry — Chicagoland",
+    title: "Emerald Masonry LLC | Commercial Masonry Chicagoland",
     description:
       "40+ years of Chicagoland masonry experience. Non-union, family-owned. Serving property managers, churches, HOAs, and insurance companies across the greater Chicago area.",
     type: "website",
     locale: "en_US",
+    url: "https://emeraldmasonryil.com",
+    images: [
+      {
+        url: "https://emeraldmasonryil.com/images/work-tuckpointing.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Emerald Masonry LLC — Commercial Masonry Contractor Chicagoland",
+      },
+    ],
   },
 };
 

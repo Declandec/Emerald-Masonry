@@ -39,6 +39,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily",
       priority: 0.8,
     },
+    {
+      url: `${BASE_URL}/faq`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.6,
+    },
   ];
 
   const serviceRoutes: MetadataRoute.Sitemap = serviceSlugs.map((slug) => ({
@@ -55,12 +61,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  const seoRoutes: MetadataRoute.Sitemap = seoSlugs.map((slug) => ({
-    url: `${BASE_URL}/seo/${slug}`,
+  const locationRoutes: MetadataRoute.Sitemap = seoSlugs.map((slug) => ({
+    url: `${BASE_URL}/locations/${slug}`,
     lastModified: new Date(),
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
 
-  return [...staticRoutes, ...serviceRoutes, ...blogRoutes, ...seoRoutes];
+  return [...staticRoutes, ...serviceRoutes, ...blogRoutes, ...locationRoutes];
 }

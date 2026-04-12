@@ -11,14 +11,33 @@ export function generateStaticParams() {
   return getAllServiceSlugs().map((slug) => ({ slug }));
 }
 
+const BASE_URL = "https://emeraldmasonryil.com";
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const service = getService(slug);
   if (!service) return {};
   return {
-    title: `${service.title} | Emerald Masonry LLC — Chicagoland`,
+    title: `${service.title} | Emerald Masonry LLC`,
     description: service.tagline,
     keywords: service.keywords,
+    alternates: {
+      canonical: `${BASE_URL}/services/${slug}`,
+    },
+    openGraph: {
+      title: `${service.title} | Emerald Masonry LLC`,
+      description: service.tagline,
+      url: `${BASE_URL}/services/${slug}`,
+      type: "website",
+      images: [
+        {
+          url: `${BASE_URL}${service.heroImage}`,
+          width: 1200,
+          height: 630,
+          alt: service.title,
+        },
+      ],
+    },
   };
 }
 
