@@ -239,3 +239,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A masonry worker in the basket of an articulating boom lift performing tuckpointing on a four-story commercial brick building facade. Worker wearing hard hat, safety glasses, and harness. Lift positioned at upper-floor level. Chicago suburbs commercial building background. Morning light. Wide shot showing full lift and building context. Photorealistic construction photography.
+
+---
+
+## SEO Page: tuckpointing-lagrange-il
+**File name:** `public/images/seo/tuckpointing-lagrange-il.jpg`
+**Alt text:** Tuckpointing mortar joint repair on commercial brick building in La Grange Illinois Cook County western suburbs
+
+**Prompt:**
+> A masonry worker performing tuckpointing on the brick facade of a historic early 20th century commercial building in a western Chicago suburb. Worker using an oscillating tool to remove deteriorated mortar from joints, safety glasses, dust mask, and gloves visible. Street-level downtown commercial setting with older brick architecture. Cook County suburban context. Photorealistic construction photography, natural daylight.
+
+---
+
+## SEO Page: efflorescence-waterproofing-burr-ridge-il
+**File name:** `public/images/seo/efflorescence-burr-ridge-il.jpg`
+**Alt text:** Efflorescence white staining on brick commercial building in Burr Ridge Illinois DuPage County
+
+**Prompt:**
+> Close-up of white efflorescence mineral deposits running down the face of a commercial brick building exterior. Heavy salt crystallization visible along mortar joint lines and below a parapet coping. Comparison section showing cleaned brick beside stained section. DuPage County commercial building setting, natural daylight. No workers — assessment documentation style. Photorealistic.
+
+---
+
+## SEO Page: chimney-repair-wheaton-il
+**File name:** `public/images/seo/chimney-repair-wheaton-il.jpg`
+**Alt text:** Brick chimney repair and crown replacement on residential property in Wheaton Illinois DuPage County
+
+**Prompt:**
+> A masonry contractor on ladder staging adjacent to a residential brick chimney performing tuckpointing near the crown. Worker wearing hard hat, safety glasses, and gloves. Cracked chimney crown visible at top of stack. Suburban Wheaton Illinois neighborhood in background, mature trees, spring season. Photorealistic construction photography, no CGI.
+
+---
+
+## SEO Page: cmu-block-repair-romeoville-il
+**File name:** `public/images/seo/cmu-block-repair-romeoville-il.jpg`
+**Alt text:** CMU concrete block wall repair on industrial warehouse building in Romeoville Illinois Will County
+
+**Prompt:**
+> A masonry worker repointing mortar joints on an exterior CMU block wall of a warehouse or light industrial facility. Worker using pointing trowel to pack fresh mortar into cleaned joints at grade level. Hard hat and gloves visible. Industrial corridor setting, Will County Illinois suburban commercial park. Photorealistic jobsite photography.
+
+---
+
+## SEO Page: masonry-restoration-matteson-il
+**File name:** `public/images/seo/masonry-restoration-matteson-il.jpg`
+**Alt text:** Commercial masonry restoration on brick facade of strip center building in Matteson Illinois south Cook County
+
+**Prompt:**
+> Wide shot of a commercial brick building facade in a south suburban Illinois retail corridor showing a masonry restoration crew working from aerial lift. Two workers on the lift platform repointing brick joints across the facade. Deteriorated mortar visible on unrepaired sections. Hard hats and safety glasses on workers. Cook County commercial district background. Photorealistic construction photography.
+
+---
+
+## Blog: when-tuckpointing-is-not-enough
+**File name:** `public/images/blog/masonry-restoration-scope.jpg`
+**Alt text:** Commercial brick building facade showing multiple masonry failure modes — spalled brick, deteriorated parapet, failed mortar joints
+
+**Prompt:**
+> Wide shot of a commercial brick building facade in the Chicago suburbs showing clearly visible masonry deterioration at multiple locations — brick spalling at mid-wall, efflorescence on upper section, and visible mortar erosion at joint lines. No workers — condition documentation photography style. Natural daylight, overcast Midwest sky. Realistic building condition assessment imagery.
+
+---
+
+## Blog: hoa-masonry-maintenance-budgets
+**File name:** `public/images/blog/hoa-masonry-budget-meeting.jpg`
+**Alt text:** HOA board members reviewing masonry maintenance documents for condo association building
+
+**Prompt:**
+> A professional in business casual attire standing in front of a mid-rise condominium or townhome brick building, reviewing printed inspection documents on a clipboard. Building facade shows typical mortar joint deterioration in need of maintenance. Chicago suburbs residential context, mature landscaping. Natural daylight. Realistic professional assessment photography style, no CGI.
+
+---
+
+## Blog: post-storm-masonry-inspection-checklist
+**File name:** `public/images/blog/post-storm-masonry-inspection.jpg`
+**Alt text:** Property manager inspecting commercial building masonry after storm damage in Chicagoland
+
+**Prompt:**
+> A property manager or building inspector in safety vest and hard hat walking the perimeter of a commercial brick building, looking up at the parapet and wall face. Debris visible on ground below the wall. Post-storm setting — overcast sky, wet pavement. Chicago suburbs commercial building context. One person, realistic documentation photography style, photorealistic.

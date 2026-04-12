@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-12",
   "seoPages": [
     {
       "slug": "tuckpointing-orland-park-il",
@@ -150,6 +150,56 @@
       "publishDate": "2026-04-09",
       "image": "/images/restoration-facade.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-lagrange-il",
+      "title": "Tuckpointing in La Grange, IL — Licensed Masonry Contractor for Cook & DuPage County",
+      "primaryKeyword": "tuckpointing La Grange IL",
+      "city": "La Grange, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-12",
+      "image": "/images/work-tuckpointing.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "efflorescence-waterproofing-burr-ridge-il",
+      "title": "Efflorescence & Masonry Waterproofing in Burr Ridge, IL",
+      "primaryKeyword": "efflorescence waterproofing Burr Ridge IL",
+      "city": "Burr Ridge, IL",
+      "service": "Efflorescence & Waterproofing",
+      "publishDate": "2026-04-12",
+      "image": "/images/work-efflorescence.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-wheaton-il",
+      "title": "Chimney Repair in Wheaton, IL — Tuckpointing, Crown Repair & Masonry Restoration",
+      "primaryKeyword": "chimney repair Wheaton IL",
+      "city": "Wheaton, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-12",
+      "image": "/images/work-chimney-rebuild.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-romeoville-il",
+      "title": "CMU Block Wall Repair in Romeoville, IL — Commercial & Industrial Masonry Contractor",
+      "primaryKeyword": "CMU block repair Romeoville IL",
+      "city": "Romeoville, IL",
+      "service": "CMU Block Repair",
+      "publishDate": "2026-04-12",
+      "image": "/images/work-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-matteson-il",
+      "title": "Masonry Restoration in Matteson, IL — Full-Scope Commercial Brick & Mortar Repair",
+      "primaryKeyword": "masonry restoration Matteson IL",
+      "city": "Matteson, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-04-12",
+      "image": "/images/restoration-facade.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -229,6 +279,27 @@
       "service": "Commercial & Industrial Masonry",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-09"
+    },
+    {
+      "slug": "when-tuckpointing-is-not-enough",
+      "title": "When Tuckpointing Is Not Enough — What Full Masonry Restoration Actually Involves",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "hoa-masonry-maintenance-budgets",
+      "title": "What HOA Boards Get Wrong About Masonry Maintenance Budgets",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "post-storm-masonry-inspection-checklist",
+      "title": "Post-Storm Masonry Inspection Checklist for Commercial Property Managers",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
     }
   ],
   "coveredCities": [
@@ -246,7 +317,12 @@
     "Lemont, IL",
     "Plainfield, IL",
     "Lockport, IL",
-    "Westmont, IL"
+    "Westmont, IL",
+    "La Grange, IL",
+    "Burr Ridge, IL",
+    "Wheaton, IL",
+    "Romeoville, IL",
+    "Matteson, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -269,6 +345,10 @@
     {
       "intent": "chimney repair New Lenox IL residential",
       "date": "2026-04-09"
+    },
+    {
+      "intent": "tuckpointing La Grange IL brick repointing",
+      "date": "2026-04-12"
     }
   ],
   "coveredKeywords": [
@@ -295,6 +375,14 @@
     "historic masonry restoration Westmont IL",
     "what causes brick to spall Illinois",
     "lime mortar vs Portland cement mortar masonry",
-    "scaffolding vs lifts commercial masonry"
+    "scaffolding vs lifts commercial masonry",
+    "tuckpointing La Grange IL",
+    "efflorescence waterproofing Burr Ridge IL",
+    "chimney repair Wheaton IL",
+    "CMU block repair Romeoville IL",
+    "masonry restoration Matteson IL",
+    "when tuckpointing is not enough masonry restoration",
+    "HOA masonry maintenance budget planning",
+    "post-storm masonry inspection checklist commercial"
   ]
 }
