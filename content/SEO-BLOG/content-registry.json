@@ -1,5 +1,4 @@
 {
-  "lastUpdated": "2026-04-12",
   "seoPages": [
     {
       "slug": "tuckpointing-orland-park-il",
@@ -200,6 +199,76 @@
       "publishDate": "2026-04-12",
       "image": "/images/restoration-facade.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-lemont-il",
+      "title": "Tuckpointing in Lemont, IL — Mortar Joint Repair for Brick Homes and Buildings",
+      "primaryKeyword": "tuckpointing Lemont IL",
+      "city": "Lemont, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-burr-ridge-il",
+      "title": "Chimney Repair in Burr Ridge, IL — Masonry Inspection, Tuckpointing & Rebuilds",
+      "primaryKeyword": "chimney repair Burr Ridge IL",
+      "city": "Burr Ridge, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-downers-grove-il",
+      "title": "Tuckpointing in Downers Grove, IL — Professional Mortar Joint Repair for Commercial & Residential Buildings",
+      "primaryKeyword": "tuckpointing Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-frankfort-il",
+      "title": "Brick Repair in Frankfort, IL — Restoration for Historic Downtown & Residential Properties",
+      "primaryKeyword": "brick repair Frankfort IL",
+      "city": "Frankfort, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-mokena-il",
+      "title": "Chimney Repair in Mokena, IL — Crown, Flashing, and Full Chimney Rebuilds",
+      "primaryKeyword": "chimney repair Mokena IL",
+      "city": "Mokena, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-new-lenox-il",
+      "title": "Masonry Restoration in New Lenox, IL — Structural Repairs for Aging Brick & Stone Buildings",
+      "primaryKeyword": "masonry restoration New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-bolingbrook-il",
+      "title": "Parapet Wall Repair in Bolingbrook, IL — Commercial Roof Edge Masonry Specialists",
+      "primaryKeyword": "parapet wall repair Bolingbrook IL",
+      "city": "Bolingbrook, IL",
+      "service": "Parapet Wall Repair",
+      "publishDate": "2026-04-12",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -300,6 +369,27 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "masonry-insurance-claims-illinois",
+      "title": "How Insurance Claims for Masonry Damage Work in Illinois — A Property Owner's Guide",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "lintel-replacement-commercial-buildings",
+      "title": "Lintel Replacement: What Commercial Building Owners Need to Know",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "brick-matching-replacement-material",
+      "title": "Brick Matching: How Contractors Source Replacement Material and Why It Matters",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-12"
     }
   ],
   "coveredCities": [
@@ -349,6 +439,10 @@
     {
       "intent": "tuckpointing La Grange IL brick repointing",
       "date": "2026-04-12"
+    },
+    {
+      "intent": "tuckpointing chicago suburbs contractor DuPage County",
+      "date": "2026-04-12"
     }
   ],
   "coveredKeywords": [
@@ -383,6 +477,17 @@
     "masonry restoration Matteson IL",
     "when tuckpointing is not enough masonry restoration",
     "HOA masonry maintenance budget planning",
-    "post-storm masonry inspection checklist commercial"
-  ]
+    "post-storm masonry inspection checklist commercial",
+    "tuckpointing Lemont IL",
+    "chimney repair Burr Ridge IL",
+    "tuckpointing Downers Grove IL",
+    "brick repair Frankfort IL",
+    "chimney repair Mokena IL",
+    "masonry restoration New Lenox IL",
+    "parapet wall repair Bolingbrook IL",
+    "masonry insurance claims Illinois",
+    "lintel replacement commercial building Illinois",
+    "brick matching replacement material Chicago"
+  ],
+  "lastUpdated": "2026-04-12"
 }

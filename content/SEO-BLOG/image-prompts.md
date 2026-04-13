@@ -311,3 +311,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A property manager or building inspector in safety vest and hard hat walking the perimeter of a commercial brick building, looking up at the parapet and wall face. Debris visible on ground below the wall. Post-storm setting — overcast sky, wet pavement. Chicago suburbs commercial building context. One person, realistic documentation photography style, photorealistic.
+
+---
+
+## SEO Page: tuckpointing-downers-grove-il
+**File name:** `public/images/seo/tuckpointing-downers-grove.jpg`
+**Alt text:** Commercial tuckpointing work on a brick building along the Ogden Avenue corridor in Downers Grove Illinois DuPage County
+
+**Prompt:**
+> A masonry worker using an angle grinder to remove deteriorated mortar from the joints of a 1960s-era commercial brick building. Close-up perspective showing the worker's hands and the grinding blade cutting through old mortar. Worker wearing safety glasses, dust mask, hard hat, and work gloves. Midwest suburban commercial district background. Natural daylight, overcast sky. Photorealistic jobsite photography, no CGI.
+
+---
+
+## SEO Page: brick-repair-frankfort-il
+**File name:** `public/images/seo/brick-repair-frankfort.jpg`
+**Alt text:** Brick repair and replacement on a historic commercial building facade in Frankfort Illinois Will County
+
+**Prompt:**
+> A masonry contractor carefully removing a damaged spalled brick from an older brick commercial building facade using a hammer and cold chisel. A bucket of mortar and a stack of replacement bricks are visible nearby. Worker in hard hat and work gloves. Historic small-town commercial district context — early 20th century brick storefronts. Natural daylight. Photorealistic jobsite photography.
+
+---
+
+## SEO Page: chimney-repair-mokena-il
+**File name:** `public/images/seo/chimney-repair-mokena.jpg`
+**Alt text:** Masonry contractor repointing and repairing a brick chimney crown on a residential home in Mokena Illinois
+
+**Prompt:**
+> A masonry worker on proper roof staging applying new mortar to the crown and upper joints of a brick chimney on a suburban Illinois home. Worker in hard hat, gloves, and work boots visible. Residential subdivision neighborhood background — well-kept brick homes, mature trees. Late spring or early fall lighting. Photorealistic construction photography, no illustration or CGI.
+
+---
+
+## SEO Page: masonry-restoration-new-lenox-il
+**File name:** `public/images/seo/masonry-restoration-new-lenox.jpg`
+**Alt text:** Full facade masonry restoration in progress on a commercial brick building in New Lenox Illinois Will County
+
+**Prompt:**
+> Wide-angle view of a masonry restoration project on a two-story commercial brick building with scaffolding erected across the full front facade. Two workers in hard hats and safety glasses visible on scaffold platforms performing tuckpointing and brick replacement work. Will County suburban commercial context. Overcast Midwest sky, realistic jobsite photography. No CGI or renders.
+
+---
+
+## SEO Page: parapet-wall-repair-bolingbrook-il
+**File name:** `public/images/seo/parapet-wall-repair-bolingbrook.jpg`
+**Alt text:** Parapet wall repair and tuckpointing on a flat-roof commercial building in Bolingbrook Illinois Route 53 corridor
+
+**Prompt:**
+> A masonry worker at roof level working on the top section of a brick parapet wall on a flat-roof commercial retail building. The worker is kneeling at the parapet edge, repointing the upper brick courses. Hard hat, safety glasses, and gloves visible. Aerial lift platform or scaffold setup in background. Midwest commercial corridor context — strip mall or office park. Photorealistic construction photography.
+
+---
+
+## Blog: masonry-insurance-claims-illinois
+**File name:** `public/images/blog/masonry-insurance-claim.jpg`
+**Alt text:** Building inspector documenting hail damage to brick facade for insurance claim on Illinois commercial building
+
+**Prompt:**
+> A professional inspector in a safety vest photographing spalled brick damage on a commercial building facade after a hailstorm. Inspector holding a ruler or scale object next to a spalled brick face for documentation. Building facade shows fresh impact spalling across several brick courses. Overcast sky, post-storm lighting. Realistic insurance documentation photography style, Chicago suburbs commercial building.
+
+---
+
+## Blog: lintel-replacement-commercial-buildings
+**File name:** `public/images/blog/lintel-replacement-brick-building.jpg`
+**Alt text:** Masonry workers replacing a corroded steel lintel above a commercial window opening with temporary shoring in place
+
+**Prompt:**
+> Masonry workers performing lintel replacement above a large commercial window opening. Temporary timber shoring visible supporting brick courses above the opening. One worker removing old corroded steel lintel, another staging new steel angle. Both wearing hard hats, eye protection, and gloves. Midwest commercial building setting, mortar dust visible. Photorealistic construction photography, realistic jobsite detail.
+
+---
+
+## Blog: brick-matching-replacement-material
+**File name:** `public/images/blog/brick-matching-samples.jpg`
+**Alt text:** Masonry contractor comparing reclaimed Chicago common brick samples against an existing historic brick wall
+
+**Prompt:**
+> Close-up of a masonry worker's hands holding a sample brick against an older historic brick wall, comparing color and texture match. The existing wall shows aged Chicago common brick with varying earth tones. The sample brick in hand is slightly different in color. Natural raking light from the side highlights the texture difference. No hard hat needed — assessment context, no active work. Photorealistic detail photography.
