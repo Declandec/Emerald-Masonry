@@ -383,3 +383,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > Close-up of a masonry worker's hands holding a sample brick against an older historic brick wall, comparing color and texture match. The existing wall shows aged Chicago common brick with varying earth tones. The sample brick in hand is slightly different in color. Natural raking light from the side highlights the texture difference. No hard hat needed — assessment context, no active work. Photorealistic detail photography.
+
+---
+
+## SEO Page: brick-repair-aurora-il
+**File name:** `public/images/seo/brick-repair-aurora-il.jpg`
+**Alt text:** Repaired brick facade on a commercial building in Aurora Illinois after professional brick replacement and repointing
+
+**Prompt:**
+> Close-up of a freshly repaired section of a commercial brick facade in a historic Midwest downtown — new brick units set flush with the surrounding wall, mortar joints cleanly tooled and color-matched to aged existing joints. Contrast between the repaired section and adjacent weathered brick visible. Natural daylight, no workers — finished repair documentation style. Aurora Illinois downtown commercial context. Photorealistic masonry photography.
+
+---
+
+## SEO Page: tuckpointing-elmhurst-il
+**File name:** `public/images/seo/tuckpointing-elmhurst-il.jpg`
+**Alt text:** Tuckpointing mortar joint repair on commercial brick building in Elmhurst Illinois DuPage County
+
+**Prompt:**
+> A masonry worker performing tuckpointing on a mid-century commercial brick building along a suburban DuPage County commercial strip. Worker using an oscillating tool to cut deteriorated mortar joints, wearing safety glasses, dust mask, and work gloves. Clean suburban Elmhurst Illinois streetscape visible in background — mature trees, older commercial facades. Natural daylight, photorealistic construction photography.
+
+---
+
+## SEO Page: masonry-restoration-berwyn-il
+**File name:** `public/images/seo/masonry-restoration-berwyn-il.jpg`
+**Alt text:** Masonry restoration in progress on a pre-war brick two-flat building in Berwyn Illinois Cook County
+
+**Prompt:**
+> A masonry worker on ladder staging performing tuckpointing on the brick facade of a 1920s-era two-story brick two-flat in a dense urban Chicago suburb. Original clinker brick and aged mortar joints visible on unrepaired section. Worker wearing hard hat, gloves, and safety glasses. Dense residential block setting — close-spaced homes, Berwyn Illinois urban character. Photorealistic construction photography.
+
+---
+
+## SEO Page: lintel-replacement-darien-il
+**File name:** `public/images/seo/lintel-replacement-darien-il.jpg`
+**Alt text:** Steel lintel replacement above a window opening on a commercial brick building in Darien Illinois DuPage County
+
+**Prompt:**
+> Masonry workers performing lintel replacement above a commercial window opening on a 1980s-era brick commercial building. Temporary timber shoring visible supporting brick courses above the opening. New galvanized steel angle visible being positioned. Workers wearing hard hats and safety glasses. DuPage County suburban commercial setting, strip center context. Photorealistic construction photography.
+
+---
+
+## SEO Page: commercial-masonry-woodridge-il
+**File name:** `public/images/seo/commercial-masonry-woodridge-il.jpg`
+**Alt text:** Commercial masonry tuckpointing and brick repair on a retail strip center in Woodridge Illinois DuPage County
+
+**Prompt:**
+> Wide shot of a masonry crew performing tuckpointing and brick repair on the facade of a 1970s commercial strip center. One worker on aerial lift platform at mid-facade level, another staging materials below. Hard hats and safety glasses visible. Midwest suburban commercial district — Route 53 corridor character, Woodridge Illinois setting. Photorealistic construction photography, overcast sky.
+
+---
+
+## Blog: weep-holes-masonry-walls
+**File name:** `public/images/blog/weep-holes-masonry-wall.jpg`
+**Alt text:** Close-up of weep holes at the base of a brick veneer wall showing proper drainage openings in the mortar joint
+
+**Prompt:**
+> Close-up of the base of a commercial brick veneer wall showing open-head weep holes — small openings in the mortar joint at regular intervals above a flashing line. Some efflorescence visible on the brick below the weep holes indicating water has been draining properly. No workers — assessment documentation style. Natural daylight. Photorealistic masonry detail photography.
+
+---
+
+## Blog: tuckpointing-church-institutional-masonry
+**File name:** `public/images/blog/church-tuckpointing-restoration.jpg`
+**Alt text:** Masonry worker repointing historic brick on a church building facade in the Chicago suburbs
+
+**Prompt:**
+> A masonry craftsman carefully repointing mortar joints on the historic brick facade of a church building. Worker using a narrow tuck pointer trowel with precision, safety glasses on. Ornate brick detailing — arched window surrounds, decorative coursework — visible on the building. Suburban Illinois institutional building context. Natural daylight, late afternoon light raking across the brick face. Photorealistic masonry photography.
+
+---
+
+## Blog: cmu-vs-brick-repair-differences
+**File name:** `public/images/blog/cmu-vs-brick-repair.jpg`
+**Alt text:** Side-by-side view of brick veneer and CMU block construction on a commercial building showing different masonry types
+
+**Prompt:**
+> Side-angle view of a commercial building showing the transition between a brick veneer office section and a CMU block warehouse section. Both wall types visible in one frame, with masonry repair work in progress — worker repointing the CMU section with a wide pointing trowel. Hard hat and gloves on worker. Midwest commercial-industrial setting. Photorealistic construction photography.

@@ -269,6 +269,56 @@
       "publishDate": "2026-04-12",
       "image": "/images/after-commercial-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-aurora-il",
+      "title": "Brick Repair in Aurora, IL — Structural Repairs for Commercial and Residential Brick Buildings",
+      "primaryKeyword": "brick repair Aurora IL",
+      "city": "Aurora, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-04-13",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-elmhurst-il",
+      "title": "Tuckpointing in Elmhurst, IL — Mortar Joint Repair for Brick Homes and Commercial Buildings",
+      "primaryKeyword": "tuckpointing Elmhurst IL",
+      "city": "Elmhurst, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-13",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-berwyn-il",
+      "title": "Masonry Restoration in Berwyn, IL — Brick and Mortar Repair for the City's Dense Older Housing Stock",
+      "primaryKeyword": "masonry restoration Berwyn IL",
+      "city": "Berwyn, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-04-13",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-replacement-darien-il",
+      "title": "Lintel Replacement in Darien, IL — Corroded Steel Lintel Repair for Brick Commercial and Residential Buildings",
+      "primaryKeyword": "lintel replacement Darien IL",
+      "city": "Darien, IL",
+      "service": "Lintel Replacement",
+      "publishDate": "2026-04-13",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-woodridge-il",
+      "title": "Commercial Masonry Contractor in Woodridge, IL — Brick Repair and Facade Restoration for DuPage County Properties",
+      "primaryKeyword": "commercial masonry contractor Woodridge IL",
+      "city": "Woodridge, IL",
+      "service": "Commercial & Industrial Masonry",
+      "publishDate": "2026-04-13",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -390,6 +440,27 @@
       "service": "Brick Repair & Replacement",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-12"
+    },
+    {
+      "slug": "weep-holes-masonry-walls",
+      "title": "The Role of Weep Holes in Masonry Walls — What They Are and Why Missing Them Is a Problem",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-13"
+    },
+    {
+      "slug": "tuckpointing-church-institutional-masonry",
+      "title": "Tuckpointing a Church: What Makes Institutional Masonry Different",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-13"
+    },
+    {
+      "slug": "cmu-vs-brick-repair-differences",
+      "title": "CMU vs. Brick: Repair Differences Property Managers Should Understand",
+      "service": "Commercial & Industrial Masonry",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-13"
     }
   ],
   "coveredCities": [
@@ -412,7 +483,12 @@
     "Burr Ridge, IL",
     "Wheaton, IL",
     "Romeoville, IL",
-    "Matteson, IL"
+    "Matteson, IL",
+    "Aurora, IL",
+    "Elmhurst, IL",
+    "Berwyn, IL",
+    "Darien, IL",
+    "Woodridge, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -443,6 +519,10 @@
     {
       "intent": "tuckpointing chicago suburbs contractor DuPage County",
       "date": "2026-04-12"
+    },
+    {
+      "intent": "brick repair Aurora IL commercial residential",
+      "date": "2026-04-13"
     }
   ],
   "coveredKeywords": [
@@ -487,7 +567,15 @@
     "parapet wall repair Bolingbrook IL",
     "masonry insurance claims Illinois",
     "lintel replacement commercial building Illinois",
-    "brick matching replacement material Chicago"
+    "brick matching replacement material Chicago",
+    "brick repair Aurora IL",
+    "tuckpointing Elmhurst IL",
+    "masonry restoration Berwyn IL",
+    "lintel replacement Darien IL",
+    "commercial masonry contractor Woodridge IL",
+    "weep holes masonry walls drainage",
+    "church tuckpointing institutional masonry Chicago",
+    "CMU vs brick repair differences property managers"
   ],
-  "lastUpdated": "2026-04-12"
+  "lastUpdated": "2026-04-13"
 }
