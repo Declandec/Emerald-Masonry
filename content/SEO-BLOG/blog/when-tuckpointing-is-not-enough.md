@@ -98,6 +98,6 @@ The economics of full restoration look different when you account for avoided fu
 
 ---
 
-If you're not sure whether your building needs tuckpointing or full restoration, start with an honest assessment. Emerald Masonry LLC provides free on-site estimates for commercial properties throughout Chicagoland — we'll tell you what the building actually needs, not what's easiest to sell. Call **(309) 323-9959** or [contact us here](/#contact).
+If you're not sure whether your building needs tuckpointing or full restoration, start with an honest assessment. Emerald Masonry LLC provides free on-site estimates for commercial properties throughout Chicagoland — we'll tell you what the building actually needs, not what's easiest to sell. Call **(708) 288-1696** or [contact us here](/#contact).
 
 Also see: [Masonry Restoration](/services/masonry-restoration) | [Tuckpointing](/services/tuckpointing) | [Brick Repair](/services/brick-repair)

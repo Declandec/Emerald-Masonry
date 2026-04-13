@@ -223,10 +223,10 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
                     Phone
                   </p>
                   <a
-                    href="tel:3093239959"
+                    href="tel:7082881696"
                     className="text-sm font-medium text-foreground hover:text-[var(--color-emerald)] transition-colors"
                   >
-                    (309) 323-9959
+                    (708) 288-1696
                   </a>
                 </div>
                 <div className="border-t border-border pt-5">

@@ -85,6 +85,6 @@ Our $5,000 minimum applies to all commercial masonry work. Most commercial mason
 
 ## Contact Emerald Masonry LLC for Lockport Commercial Work
 
-Based in Palos Heights, we serve all of Will County including Lockport, Joliet, Plainfield, New Lenox, Frankfort, and Romeoville. For commercial masonry assessments and estimates, call (309) 323-9959 or [reach us online](/#contact).
+Based in Palos Heights, we serve all of Will County including Lockport, Joliet, Plainfield, New Lenox, Frankfort, and Romeoville. For commercial masonry assessments and estimates, call (708) 288-1696 or [reach us online](/#contact).
 
 Also see: [Commercial Masonry](/services/commercial) | [Masonry Restoration](/services/masonry-restoration) | [Tuckpointing](/services/tuckpointing)

@@ -98,6 +98,6 @@ Tuckpointing and sealing aren't a one-time fix — they're part of a maintenance
 
 ---
 
-Emerald Masonry LLC handles full masonry maintenance programs for commercial properties throughout Chicagoland — from initial assessment through tuckpointing, repair, and sealer application. Call (309) 323-9959 or [request a free estimate](/#contact).
+Emerald Masonry LLC handles full masonry maintenance programs for commercial properties throughout Chicagoland — from initial assessment through tuckpointing, repair, and sealer application. Call (708) 288-1696 or [request a free estimate](/#contact).
 
 Also see: [Tuckpointing & Repointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration) | [Commercial Masonry](/services/commercial)

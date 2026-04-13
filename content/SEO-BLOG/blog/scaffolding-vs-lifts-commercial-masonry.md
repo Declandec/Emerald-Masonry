@@ -83,6 +83,6 @@ If you're receiving bids with significant price variation, ask each contractor t
 
 ---
 
-Emerald Masonry LLC specifies access method in every written scope. We use aerial lifts for standard commercial building heights and scaffold when the scope requires it. Call (309) 323-9959 or [request a free estimate](/#contact).
+Emerald Masonry LLC specifies access method in every written scope. We use aerial lifts for standard commercial building heights and scaffold when the scope requires it. Call (708) 288-1696 or [request a free estimate](/#contact).
 
 Also see: [Commercial Masonry](/services/commercial) | [Tuckpointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration)

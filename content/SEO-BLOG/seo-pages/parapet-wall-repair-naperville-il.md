@@ -85,6 +85,6 @@ Both, often. The masonry contractor handles the brick, mortar, and coping. The r
 
 If your Naperville commercial building is more than 15 years old, your parapet deserves a close look. Early-stage repair is far less expensive than addressing water damage that's had years to work through the wall assembly.
 
-Call Emerald Masonry LLC at (309) 323-9959 or [schedule a free on-site estimate](/#contact).
+Call Emerald Masonry LLC at (708) 288-1696 or [schedule a free on-site estimate](/#contact).
 
 Also see: [Commercial Masonry](/services/commercial) | [Masonry Restoration](/services/masonry-restoration) | [Waterproofing](/services/waterproofing)

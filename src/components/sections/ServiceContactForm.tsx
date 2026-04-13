@@ -244,7 +244,7 @@ export default function ServiceContactForm({ serviceTitle, serviceSlug }: Props)
 
       {status === "error" && (
         <p className="text-xs text-red-400 text-center">
-          Something went wrong. Please try again or call us directly at (309) 323-9959.
+          Something went wrong. Please try again or call us directly at (708) 288-1696.
         </p>
       )}
 

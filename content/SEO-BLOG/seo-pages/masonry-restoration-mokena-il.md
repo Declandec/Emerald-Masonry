@@ -100,6 +100,6 @@ For structural work (lintel replacement, wall rebuilding), permits may be requir
 
 If your Mokena commercial or institutional property is showing signs of masonry deterioration, get a professional assessment before the scope grows further. Emerald Masonry LLC provides free on-site estimates with a written scope and no obligation.
 
-Call (309) 323-9959 or [request an estimate online](/#contact).
+Call (708) 288-1696 or [request an estimate online](/#contact).
 
 Also see: [Masonry Restoration services](/services/masonry-restoration) | [Tuckpointing](/services/tuckpointing) | [Commercial Masonry](/services/commercial)

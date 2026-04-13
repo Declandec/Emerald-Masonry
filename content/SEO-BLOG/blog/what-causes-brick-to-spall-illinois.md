@@ -97,6 +97,6 @@ Most commercial brick buildings in the Chicago suburbs that we see with signific
 
 ---
 
-Emerald Masonry LLC handles brick repair, spalling assessment, and full masonry restoration for commercial properties throughout Chicagoland. Call (309) 323-9959 or [request a free estimate](/#contact).
+Emerald Masonry LLC handles brick repair, spalling assessment, and full masonry restoration for commercial properties throughout Chicagoland. Call (708) 288-1696 or [request a free estimate](/#contact).
 
 Also see: [Brick Repair services](/services/brick-repair) | [Tuckpointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration)

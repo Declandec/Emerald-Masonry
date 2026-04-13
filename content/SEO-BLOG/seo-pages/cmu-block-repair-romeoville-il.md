@@ -15,7 +15,7 @@ secondaryKeywords:
 city: "Romeoville, IL"
 service: "CMU Block Repair"
 metaTitle: "CMU Block Wall Repair in Romeoville, IL | Emerald Masonry LLC"
-metaDescription: "Commercial CMU block wall repair in Romeoville IL. Repointing, crack repair, waterproofing, and block replacement for industrial properties. (309) 323-9959."
+metaDescription: "Commercial CMU block wall repair in Romeoville IL. Repointing, crack repair, waterproofing, and block replacement for industrial properties. (708) 288-1696."
 excerpt: "Romeoville's industrial and commercial corridor along I-55 is dense with CMU block construction — warehouses, distribution centers, and light industrial facilities that depend on their block walls for structural integrity and weather resistance. Emerald Masonry LLC provides expert CMU block repair and repointing for commercial and industrial properties throughout Romeoville and Will County."
 image: "/images/work-commercial.jpg"
 imageAlt: "CMU concrete block wall repair on industrial building in Romeoville Illinois Will County"
@@ -106,6 +106,6 @@ Yes. Impact damage to lower CMU courses is a common scope on Romeoville and Boli
 
 Emerald Masonry LLC serves commercial and industrial facilities throughout Romeoville, Bolingbrook, Shorewood, Channahon, Joliet, and the I-55 corridor. We're a non-union, family-owned contractor with 40+ years in Chicagoland commercial masonry.
 
-Call **(309) 323-9959** or [request a free estimate](/#contact) for your Romeoville facility.
+Call **(708) 288-1696** or [request a free estimate](/#contact) for your Romeoville facility.
 
 Also see: [Commercial Masonry](/services/commercial) | [Tuckpointing](/services/tuckpointing) | [Brick Repair](/services/brick-repair)

@@ -103,6 +103,6 @@ Application of penetrating sealer on a clean, repaired surface typically runs $1
 
 If you're seeing white staining, interior water marks near exterior walls, or have deferred masonry maintenance on a DuPage County commercial property, get an assessment before the next winter cycle.
 
-Call Emerald Masonry LLC at (309) 323-9959 or [schedule a free on-site estimate](/#contact).
+Call Emerald Masonry LLC at (708) 288-1696 or [schedule a free on-site estimate](/#contact).
 
 Also see: [Tuckpointing & Repointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration) | [Commercial Masonry](/services/commercial)

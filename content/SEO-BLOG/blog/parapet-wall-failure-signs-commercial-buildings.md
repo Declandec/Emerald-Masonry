@@ -97,6 +97,6 @@ The cost of parapet maintenance in years 1–3 — repointing, caulk replacement
 
 ---
 
-Emerald Masonry LLC provides free on-site parapet assessments for commercial properties throughout Chicagoland. We use aerial lifts for access on standard commercial building heights and provide a written findings report with photographs. Call (309) 323-9959 or [schedule an assessment](/#contact).
+Emerald Masonry LLC provides free on-site parapet assessments for commercial properties throughout Chicagoland. We use aerial lifts for access on standard commercial building heights and provide a written findings report with photographs. Call (708) 288-1696 or [schedule an assessment](/#contact).
 
 Also see: [Parapet Wall Repair](/services/commercial) | [Masonry Restoration](/services/masonry-restoration) | [Waterproofing](/services/waterproofing)

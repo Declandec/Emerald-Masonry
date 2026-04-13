@@ -88,10 +88,10 @@ export default function Hero() {
               Request a Free Estimate
             </a>
             <a
-              href="tel:3093239959"
+              href="tel:7082881696"
               className="inline-flex items-center justify-center px-8 py-4 border-2 border-white/30 text-white text-[13px] font-semibold tracking-widest uppercase hover:border-white hover:bg-white/10 transition-all duration-300"
             >
-              (309) 323-9959
+              (708) 288-1696
             </a>
           </div>
 

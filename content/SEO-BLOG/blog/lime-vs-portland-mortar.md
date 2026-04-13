@@ -90,6 +90,6 @@ The buildings that age well in Chicago's climate are the ones whose maintenance 
 
 ---
 
-Emerald Masonry LLC specifies mortar based on building age and masonry composition, not convenience. We serve commercial and institutional properties throughout Chicagoland. Call (309) 323-9959 or [request a free assessment](/#contact).
+Emerald Masonry LLC specifies mortar based on building age and masonry composition, not convenience. We serve commercial and institutional properties throughout Chicagoland. Call (708) 288-1696 or [request a free assessment](/#contact).
 
 Also see: [Masonry Restoration](/services/masonry-restoration) | [Tuckpointing](/services/tuckpointing) | [Brick Repair](/services/brick-repair)

@@ -91,6 +91,6 @@ Yes. For projects involving formal historic review (SHPO review, local historic 
 
 If your Westmont or DuPage County property is an older building showing signs of masonry deterioration, get an assessment from a contractor who understands the material compatibility issues.
 
-Call Emerald Masonry LLC at (309) 323-9959 or [request a free on-site estimate](/#contact).
+Call Emerald Masonry LLC at (708) 288-1696 or [request a free on-site estimate](/#contact).
 
 Also see: [Masonry Restoration](/services/masonry-restoration) | [Tuckpointing & Repointing](/services/tuckpointing) | [Brick Repair](/services/brick-repair)

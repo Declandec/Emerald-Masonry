@@ -17,7 +17,7 @@ const uncialAntiqua = Uncial_Antiqua({
 export const metadata: Metadata = {
   title: "Emerald Masonry LLC | Commercial Masonry Chicagoland",
   description:
-    "Non-union, family-owned commercial masonry contractor serving Chicagoland. 40+ years experience. Tuckpointing, brick restoration, insurance claims, HOAs, churches, and property managers. Licensed, bonded & insured. Call (309) 323-9959.",
+    "Non-union, family-owned commercial masonry contractor serving Chicagoland. 40+ years experience. Tuckpointing, brick restoration, insurance claims, HOAs, churches, and property managers. Licensed, bonded & insured. Call (708) 288-1696.",
   keywords: [
     "commercial masonry contractor Chicago",
     "tuckpointing Chicago IL",
@@ -79,7 +79,7 @@ export default function RootLayout({
               description:
                 "Non-union, family-owned commercial masonry contractor with 40+ years of Chicagoland experience. Specializing in tuckpointing, brick restoration, insurance claim restoration, façade repair, chimney repair, efflorescence removal, waterproofing, and large-scale masonry projects for property managers, HOAs, churches, and insurance companies.",
               url: "https://emeraldmasonryil.com",
-              telephone: "+13093239959",
+              telephone: "+17082881696",
               email: "emeraldmasonryil@gmail.com",
               logo: "https://emeraldmasonryil.com/logo.png",
               priceRange: "$$$",

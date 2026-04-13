@@ -108,10 +108,10 @@ export default async function LocationLandingPage({
           </div>
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="tel:3093239959"
+              href="tel:7082881696"
               className="px-6 py-3 border border-border text-xs font-semibold tracking-[0.2em] uppercase text-foreground hover:border-[var(--color-emerald)] hover:text-[var(--color-emerald)] transition-colors duration-300"
             >
-              (309) 323-9959
+              (708) 288-1696
             </a>
             <a
               href="/#contact"
@@ -167,7 +167,7 @@ export default async function LocationLandingPage({
                 provider: {
                   "@type": "LocalBusiness",
                   name: "Emerald Masonry LLC",
-                  telephone: "+13093239959",
+                  telephone: "+17082881696",
                   url: BASE_URL,
                 },
               },

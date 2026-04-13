@@ -148,6 +148,6 @@ If you don't have prior records, a professional masonry contractor can document 
 
 ---
 
-Emerald Masonry LLC provides storm damage assessments for commercial properties throughout Chicagoland. If you're dealing with post-storm masonry concerns, call **(309) 323-9959** or [contact us here](/#contact) for a prompt assessment.
+Emerald Masonry LLC provides storm damage assessments for commercial properties throughout Chicagoland. If you're dealing with post-storm masonry concerns, call **(708) 288-1696** or [contact us here](/#contact) for a prompt assessment.
 
 Also see: [Masonry Restoration](/services/masonry-restoration) | [Brick Repair](/services/brick-repair) | [Commercial Masonry](/services/commercial)

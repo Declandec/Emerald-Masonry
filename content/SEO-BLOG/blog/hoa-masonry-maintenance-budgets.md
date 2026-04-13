@@ -103,6 +103,6 @@ A well-managed HOA masonry budget has these characteristics:
 
 ---
 
-Emerald Masonry LLC works with HOA boards and property managers throughout Chicagoland on both assessment and repair. If you're planning a masonry budget cycle and want an honest condition report before you go to bid, call us at **(309) 323-9959** or [reach out here](/#contact).
+Emerald Masonry LLC works with HOA boards and property managers throughout Chicagoland on both assessment and repair. If you're planning a masonry budget cycle and want an honest condition report before you go to bid, call us at **(708) 288-1696** or [reach out here](/#contact).
 
 Also see: [Tuckpointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration)

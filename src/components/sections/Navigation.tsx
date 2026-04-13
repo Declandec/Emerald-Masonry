@@ -135,10 +135,10 @@ export default function Navigation() {
           {/* Desktop: phone + CTA */}
           <div className="hidden md:flex items-center gap-4 shrink-0">
             <a
-              href="tel:3093239959"
+              href="tel:7082881696"
               className="text-[13px] font-bold text-white/80 hover:text-[var(--color-emerald)] transition-colors duration-200 tracking-wide"
             >
-              (309) 323-9959
+              (708) 288-1696
             </a>
             <a
               href="/#contact"
@@ -222,11 +222,11 @@ export default function Navigation() {
 
             <div className="mt-6 flex flex-col gap-3">
               <a
-                href="tel:3093239959"
+                href="tel:7082881696"
                 onClick={closeMobile}
                 className="block w-full py-3 text-center text-[13px] font-bold uppercase tracking-wide border-2 border-white/20 text-white hover:border-[var(--color-emerald)] hover:text-[var(--color-emerald)] transition-colors"
               >
-                (309) 323-9959
+                (708) 288-1696
               </a>
               <a
                 href="/#contact"

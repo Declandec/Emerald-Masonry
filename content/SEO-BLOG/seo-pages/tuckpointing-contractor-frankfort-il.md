@@ -86,7 +86,7 @@ Not every tuckpointing contractor in the southwest suburbs does the job the same
 
 Emerald Masonry LLC is based in Palos Heights and regularly serves Frankfort, Mokena, New Lenox, Joliet, Lockport, Plainfield, and surrounding Will County communities. We also serve Cook and DuPage counties.
 
-For large commercial properties, we can mobilize crews quickly and handle multi-building portfolios under a single contract. Call (309) 323-9959 or email emeraldmasonryil@gmail.com to discuss your project.
+For large commercial properties, we can mobilize crews quickly and handle multi-building portfolios under a single contract. Call (708) 288-1696 or email emeraldmasonryil@gmail.com to discuss your project.
 
 ## Frequently Asked Questions
 

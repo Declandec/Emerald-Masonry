@@ -83,6 +83,6 @@ Yes. Commercial brick repair — storefronts, light industrial, institutional bu
 
 ## Serving Lemont and Surrounding Communities
 
-Emerald Masonry LLC serves Lemont, Lockport, Romeoville, Bolingbrook, Woodridge, Darien, and the surrounding Will and DuPage County area. Call (309) 323-9959 or [request a free brick repair estimate](/#contact).
+Emerald Masonry LLC serves Lemont, Lockport, Romeoville, Bolingbrook, Woodridge, Darien, and the surrounding Will and DuPage County area. Call (708) 288-1696 or [request a free brick repair estimate](/#contact).
 
 Also see: [Brick Repair services](/services/brick-repair) | [Masonry Restoration](/services/masonry-restoration) | [Tuckpointing](/services/tuckpointing)

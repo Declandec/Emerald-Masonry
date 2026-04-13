@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "La Grange, IL"
 service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in La Grange, IL | Emerald Masonry LLC"
-metaDescription: "Licensed tuckpointing contractor serving La Grange IL. Mortar joint repair for commercial & residential brick buildings. Free estimates. Call (309) 323-9959."
+metaDescription: "Licensed tuckpointing contractor serving La Grange IL. Mortar joint repair for commercial & residential brick buildings. Free estimates. Call (708) 288-1696."
 excerpt: "La Grange's older brick buildings — many built in the early-to-mid 20th century — need periodic mortar maintenance to stay structurally sound and water-tight. Emerald Masonry LLC provides licensed tuckpointing and repointing for commercial and residential properties throughout La Grange and the western suburbs."
 image: "/images/work-tuckpointing.jpg"
 imageAlt: "Tuckpointing mortar joint repair on commercial brick building in La Grange Illinois"
@@ -113,6 +113,6 @@ Emerald Masonry LLC is based in Palos Heights and serves La Grange and the surro
 
 ---
 
-Reach us at **(309) 323-9959** or [request a free on-site estimate](/#contact). No project minimum hassle — we're straightforward about scope and cost before any work begins.
+Reach us at **(708) 288-1696** or [request a free on-site estimate](/#contact). No project minimum hassle — we're straightforward about scope and cost before any work begins.
 
 Also see: [Brick Repair](/services/brick-repair) | [Masonry Restoration](/services/masonry-restoration) | [Efflorescence & Waterproofing](/services/waterproofing)

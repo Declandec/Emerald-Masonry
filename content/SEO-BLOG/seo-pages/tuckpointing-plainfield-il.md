@@ -85,6 +85,6 @@ Commercial tuckpointing runs $8–$20 per linear foot of joint depending on join
 
 ## Get a Free Tuckpointing Estimate in Plainfield
 
-Call Emerald Masonry LLC at (309) 323-9959 or [request an estimate online](/#contact). We'll walk your property, identify the full scope, and give you a written quote.
+Call Emerald Masonry LLC at (708) 288-1696 or [request an estimate online](/#contact). We'll walk your property, identify the full scope, and give you a written quote.
 
 Also see: [Tuckpointing services](/services/tuckpointing) | [Efflorescence & Waterproofing](/services/waterproofing) | [Masonry Restoration](/services/masonry-restoration)

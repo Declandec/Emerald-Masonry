@@ -42,7 +42,7 @@ const gettingStarted = {
     },
     {
       q: "How quickly can you get on-site for an assessment?",
-      a: "For most properties in the Chicago southwest and south suburbs, we can schedule within a few business days. Urgent situations — active water infiltration, loose masonry near pedestrian areas — are prioritized. Call us directly at (309) 323-9959 to discuss your timeline.",
+      a: "For most properties in the Chicago southwest and south suburbs, we can schedule within a few business days. Urgent situations — active water infiltration, loose masonry near pedestrian areas — are prioritized. Call us directly at (708) 288-1696 to discuss your timeline.",
     },
     {
       q: "What is your minimum project size?",
@@ -217,10 +217,10 @@ export default function FaqPage() {
           </div>
           <div className="flex flex-col sm:flex-row gap-3 shrink-0">
             <a
-              href="tel:3093239959"
+              href="tel:7082881696"
               className="px-7 py-3.5 border-2 border-white/30 text-[13px] font-semibold tracking-wide uppercase text-white hover:border-[var(--color-emerald)] hover:text-[var(--color-emerald)] transition-colors duration-200"
             >
-              (309) 323-9959
+              (708) 288-1696
             </a>
             <a
               href="/#contact"

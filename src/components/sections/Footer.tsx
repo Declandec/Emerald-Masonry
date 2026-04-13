@@ -96,8 +96,8 @@ export default function Footer() {
             </div>
             <div className="mt-6 pt-5 border-t border-white/10">
               <p className="text-[11px] uppercase tracking-widest text-white/40 mb-2">Contact</p>
-              <a href="tel:3093239959" className="block text-[15px] font-bold text-white hover:text-[var(--color-emerald)] transition-colors mb-1">
-                (309) 323-9959
+              <a href="tel:7082881696" className="block text-[15px] font-bold text-white hover:text-[var(--color-emerald)] transition-colors mb-1">
+                (708) 288-1696
               </a>
               <a href="mailto:emeraldmasonryil@gmail.com" className="block text-[13px] text-white/50 hover:text-[var(--color-emerald)] transition-colors break-all">
                 emeraldmasonryil@gmail.com

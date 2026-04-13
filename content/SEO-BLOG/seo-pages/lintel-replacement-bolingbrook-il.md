@@ -101,6 +101,6 @@ Structural masonry repair in Bolingbrook typically requires a building permit. W
 
 If your Bolingbrook commercial building is showing stair-step cracks, rust staining, or displaced brick above openings, don't wait for the next winter to accelerate the damage.
 
-Call Emerald Masonry LLC at (309) 323-9959 or [request a free estimate online](/#contact).
+Call Emerald Masonry LLC at (708) 288-1696 or [request a free estimate online](/#contact).
 
 Also see: [Brick Repair & Replacement](/services/brick-repair) | [Masonry Restoration](/services/masonry-restoration) | [Commercial Masonry](/services/commercial)

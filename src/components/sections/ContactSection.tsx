@@ -237,8 +237,8 @@ function ContactInfo() {
           </div>
           <div>
             <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Phone</p>
-            <a href="tel:3093239959" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors">
-              (309) 323-9959
+            <a href="tel:7082881696" className="text-white font-semibold hover:text-[var(--color-emerald)] transition-colors">
+              (708) 288-1696
             </a>
           </div>
         </div>

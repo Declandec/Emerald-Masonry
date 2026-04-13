@@ -87,6 +87,6 @@ A tuckpointing job on a standard residential chimney takes 1–2 days. Crown rep
 
 Emerald Masonry LLC serves New Lenox, Frankfort, Mokena, Joliet, Lockport, Plainfield, Manhattan, Orland Park, and surrounding communities. We've been doing chimney and masonry work across the southwest suburbs for over 40 years.
 
-Call (309) 323-9959 or [request a free chimney assessment](/#contact).
+Call (708) 288-1696 or [request a free chimney assessment](/#contact).
 
 Also see: [Chimney Repair services](/services/chimney-repair) | [Tuckpointing & Repointing](/services/tuckpointing) | [Masonry Restoration](/services/masonry-restoration)

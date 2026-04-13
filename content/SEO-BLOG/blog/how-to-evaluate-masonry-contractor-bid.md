@@ -111,6 +111,6 @@ If the scopes differ significantly, request clarifications before making a decis
 
 ---
 
-Emerald Masonry LLC provides free on-site assessments with a written scope and no obligation for commercial properties throughout Chicagoland. Call (309) 323-9959 or [request an estimate online](/#contact).
+Emerald Masonry LLC provides free on-site assessments with a written scope and no obligation for commercial properties throughout Chicagoland. Call (708) 288-1696 or [request an estimate online](/#contact).
 
 Also see: [Tuckpointing services](/services/tuckpointing) | [Commercial Masonry](/services/commercial) | [Masonry Restoration](/services/masonry-restoration)
