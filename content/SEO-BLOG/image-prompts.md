@@ -455,3 +455,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > Side-angle view of a commercial building showing the transition between a brick veneer office section and a CMU block warehouse section. Both wall types visible in one frame, with masonry repair work in progress — worker repointing the CMU section with a wide pointing trowel. Hard hat and gloves on worker. Midwest commercial-industrial setting. Photorealistic construction photography.
+
+---
+
+## SEO Page: lintel-replacement-hinsdale-il
+**File name:** `public/images/seo/lintel-replacement-hinsdale-il.jpg`
+**Alt text:** Lintel replacement and brick repair above a window opening on a historic brick building in Hinsdale Illinois DuPage County
+
+**Prompt:**
+> Masonry workers replacing a corroded steel lintel above a window opening on a 1930s brick residential building in a wealthy Chicago suburb. Temporary shoring boards supporting brick courses above the opening. A new galvanized steel angle lintel is being positioned into the prepared opening. Rust-stained original lintel visible on nearby ground. Workers in hard hats, safety glasses, work gloves. Hinsdale Illinois affluent residential setting — mature trees, historic brick homes. Photorealistic construction photography, natural daylight.
+
+---
+
+## SEO Page: tuckpointing-glen-ellyn-il
+**File name:** `public/images/seo/tuckpointing-glen-ellyn-il.jpg`
+**Alt text:** Tuckpointing mortar repair on a 1930s brick bungalow in Glen Ellyn Illinois DuPage County
+
+**Prompt:**
+> A masonry worker carefully grinding out deteriorated mortar joints on the brick facade of a 1930s American foursquare or bungalow-style home. Angle grinder with diamond blade in use, mortar dust visible. Worker wearing safety glasses, dust mask, and work gloves. Original cream-colored Chicago brick or red brick with aged mortar. Glen Ellyn Illinois residential setting — mature oaks, historic neighborhood character. Photorealistic construction photography.
+
+---
+
+## SEO Page: chimney-repair-lisle-il
+**File name:** `public/images/seo/chimney-repair-lisle-il.jpg`
+**Alt text:** Chimney repair and tuckpointing on a residential brick chimney in Lisle Illinois DuPage County
+
+**Prompt:**
+> A masonry contractor working at rooftop level on a brick chimney, repointing deteriorated mortar joints on the upper chimney courses. Worker straddling the roof ridge with safety harness visible, using a tuck pointer and mortar hawk. Crown showing previous cracking. Classic Midwest suburban residential setting, DuPage County — ranch or colonial style home. Late afternoon natural daylight, overcast sky. Photorealistic construction photography.
+
+---
+
+## SEO Page: commercial-masonry-alsip-il
+**File name:** `public/images/seo/commercial-masonry-alsip-il.jpg`
+**Alt text:** Commercial masonry repair and tuckpointing on an industrial brick building in Alsip Illinois Cook County
+
+**Prompt:**
+> Wide shot of a masonry crew working on the brick facade of a 1960s industrial building — warehouse or light manufacturing facility. One worker on boom lift at second-story level performing tuckpointing, another at grade repointing lower courses. Hard hats, safety glasses, and work gloves visible on both workers. Industrial south suburban Chicago setting — flat site, corrugated metal roof visible at top, Alsip Cook County character. Overcast sky, photorealistic construction photography.
+
+---
+
+## SEO Page: efflorescence-waterproofing-palos-hills-il
+**File name:** `public/images/seo/efflorescence-waterproofing-palos-hills-il.jpg`
+**Alt text:** Efflorescence treatment and masonry waterproofing application on a brick commercial building in Palos Hills Illinois
+
+**Prompt:**
+> A masonry technician applying penetrating silane-siloxane waterproofing treatment to a commercial brick wall using a pump sprayer. Heavy white efflorescence deposits visible on the lower courses of brick before treatment. Worker wearing safety glasses and work gloves. Southwest Cook County suburban commercial setting — low-rise strip center or institutional building. Natural daylight, photorealistic documentation-style photography.
+
+---
+
+## Blog: how-to-read-masonry-assessment-report
+**File name:** `public/images/blog/masonry-assessment-report.jpg`
+**Alt text:** Masonry inspector documenting brick and mortar joint conditions on a commercial building facade in Chicago suburbs
+
+**Prompt:**
+> A masonry inspector on an aerial lift platform at second-story height, using a tablet and a probe tool to assess mortar joint depth on a commercial brick facade. Inspector in hard hat and safety glasses, taking close-up notes on the brick condition. Deteriorated mortar joints and minor spalling visible on the brick surface being inspected. Chicagoland commercial building setting. Natural daylight, photorealistic documentation photography.
+
+---
+
+## Blog: historic-masonry-preservation-what-makes-it-different
+**File name:** `public/images/blog/historic-masonry-preservation.jpg`
+**Alt text:** Masonry craftsman carefully repointing original lime mortar joints on a pre-war historic brick building in the Chicago suburbs
+
+**Prompt:**
+> A skilled masonry craftsman performing careful hand tuckpointing on the facade of a 1920s historic brick building — original soft cream-colored Chicago brick with aged, weathered lime mortar joints visible. Worker using a narrow tuck pointer trowel and pointing bag, working by hand rather than grinding. Safety glasses on, no power tools visible — this is hand-finishing restoration work. Residential Oak Park or Berwyn Illinois historic streetscape context. Soft afternoon light, photorealistic masonry photography.
+
+---
+
+## Blog: why-commercial-masonry-bids-vary
+**File name:** `public/images/blog/commercial-masonry-bid-comparison.jpg`
+**Alt text:** Property manager reviewing masonry repair bids and contractor estimates for a commercial brick building in Chicago suburbs
+
+**Prompt:**
+> A property manager in business casual attire standing outside a brick commercial building, reviewing printed bid documents with a masonry contractor in work clothes. Both looking at the facade — contractor pointing to specific mortar joint areas on the brick wall. Commercial suburban Chicagoland setting — strip center or office building exterior. Natural daylight, candid professional photography style. No PPE needed for this walking-inspection context.

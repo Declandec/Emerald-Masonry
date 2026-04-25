@@ -319,6 +319,56 @@
       "publishDate": "2026-04-13",
       "image": "/images/after-commercial.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "lintel-replacement-hinsdale-il",
+      "title": "Lintel Replacement in Hinsdale, IL — Stopping Rust-Driven Brick Damage Before It Spreads",
+      "primaryKeyword": "lintel replacement Hinsdale IL",
+      "city": "Hinsdale, IL",
+      "service": "Lintel Replacement",
+      "publishDate": "2026-04-24",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-glen-ellyn-il",
+      "title": "Tuckpointing in Glen Ellyn, IL — Mortar Joint Repair for DuPage County's Brick Homes and Buildings",
+      "primaryKeyword": "tuckpointing Glen Ellyn IL",
+      "city": "Glen Ellyn, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-24",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-lisle-il",
+      "title": "Chimney Repair in Lisle, IL — Masonry Inspection, Repointing, and Crown Repair for DuPage County",
+      "primaryKeyword": "chimney repair Lisle IL",
+      "city": "Lisle, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-24",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-alsip-il",
+      "title": "Commercial Masonry in Alsip, IL — Brick, Block, and Facade Repair for Cook County Industrial Properties",
+      "primaryKeyword": "commercial masonry Alsip IL",
+      "city": "Alsip, IL",
+      "service": "Commercial & Industrial Masonry",
+      "publishDate": "2026-04-24",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "efflorescence-waterproofing-palos-hills-il",
+      "title": "Efflorescence & Waterproofing in Palos Hills, IL — Stopping Moisture Infiltration in Brick Buildings",
+      "primaryKeyword": "efflorescence waterproofing Palos Hills IL",
+      "city": "Palos Hills, IL",
+      "service": "Efflorescence & Waterproofing",
+      "publishDate": "2026-04-24",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -461,6 +511,27 @@
       "service": "Commercial & Industrial Masonry",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-13"
+    },
+    {
+      "slug": "how-to-read-masonry-assessment-report",
+      "title": "How to Read a Masonry Assessment Report — What Property Owners and Managers Actually Need to Know",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-24"
+    },
+    {
+      "slug": "historic-masonry-preservation-what-makes-it-different",
+      "title": "Historic Masonry Preservation — What Makes It Different from Standard Repair",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-24"
+    },
+    {
+      "slug": "why-commercial-masonry-bids-vary",
+      "title": "Why Commercial Masonry Bids Vary So Much — What's Actually Different Between Them",
+      "service": "Commercial & Industrial Masonry",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-24"
     }
   ],
   "coveredCities": [
@@ -488,7 +559,12 @@
     "Elmhurst, IL",
     "Berwyn, IL",
     "Darien, IL",
-    "Woodridge, IL"
+    "Woodridge, IL",
+    "Hinsdale, IL",
+    "Glen Ellyn, IL",
+    "Lisle, IL",
+    "Alsip, IL",
+    "Palos Hills, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -523,6 +599,10 @@
     {
       "intent": "brick repair Aurora IL commercial residential",
       "date": "2026-04-13"
+    },
+    {
+      "intent": "steel lintel replacement Hinsdale IL masonry contractor",
+      "date": "2026-04-24"
     }
   ],
   "coveredKeywords": [
@@ -575,7 +655,15 @@
     "commercial masonry contractor Woodridge IL",
     "weep holes masonry walls drainage",
     "church tuckpointing institutional masonry Chicago",
-    "CMU vs brick repair differences property managers"
+    "CMU vs brick repair differences property managers",
+    "lintel replacement Hinsdale IL",
+    "tuckpointing Glen Ellyn IL",
+    "chimney repair Lisle IL",
+    "commercial masonry Alsip IL",
+    "efflorescence waterproofing Palos Hills IL",
+    "how to read masonry assessment report",
+    "historic masonry preservation Illinois",
+    "why commercial masonry bids vary Chicago"
   ],
-  "lastUpdated": "2026-04-13"
+  "lastUpdated": "2026-04-24"
 }
