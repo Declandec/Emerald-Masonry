@@ -599,3 +599,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > Close-up of a masonry inspector's gloved hand using a probe tool to measure mortar joint recession depth on a brick wall. The probe shows approximately 3/8 inch recession — clearly past the maintenance threshold. Aged red brick with visibly eroded mortar joints in background. No worker face visible — tool and hand close-up only. Natural daylight, photorealistic masonry assessment photography.
+
+---
+
+## SEO Page: historic-masonry-restoration-oak-park-il
+**File name:** `public/images/seo/historic-masonry-restoration-oak-park-il.jpg`
+**Alt text:** Masonry craftsman performing lime mortar repointing on a Prairie-era historic brick building in Oak Park Illinois
+
+**Prompt:**
+> A skilled masonry craftsman carefully hand-repointing joints on a 1905-1920 Prairie-style historic brick building in Oak Park Illinois. Worker using a narrow tuck pointer and pointing bag, applying lime putty mortar with deliberate precision. Original soft Chicago common brick with historic detailing visible — corbeled brickwork, decorative soldier course, wide bed joints. Safety glasses on, no power tools — this is sensitive hand restoration work. Mature Oak Park residential street in background — historic landmark district character. Soft overcast daylight, photorealistic masonry photography.
+
+---
+
+## SEO Page: cmu-block-repair-evergreen-park-il
+**File name:** `public/images/seo/cmu-block-repair-evergreen-park-il.jpg`
+**Alt text:** CMU concrete block wall repair and repointing on a commercial building in Evergreen Park Illinois south Cook County
+
+**Prompt:**
+> A masonry worker repointing deteriorated mortar joints on an exterior CMU block wall of a 1970s commercial building — strip center or institutional facility. Worker applying fresh mortar from a hawk using a wide pointing trowel. Close-up shows fresh white mortar packed into cleaned joints alongside deteriorated original mortar in adjacent areas. Safety glasses and gloves visible. South Cook County suburban commercial setting. Natural daylight, photorealistic jobsite photography.
+
+---
+
+## SEO Page: tuckpointing-shorewood-il
+**File name:** `public/images/seo/tuckpointing-shorewood-il.jpg`
+**Alt text:** Tuckpointing mortar joint repair on a 1990s-era brick subdivision home in Shorewood Illinois Will County
+
+**Prompt:**
+> A masonry worker performing tuckpointing on the brick facade of a 1990s-era subdivision home — red brick colonial or traditional style common in Will County suburban development. Worker using oscillating multi-tool to remove deteriorated mortar from head and bed joints, safety glasses and dust mask on. Fresh mortar packed into adjacent completed joints visible for comparison. Shorewood Illinois suburban neighborhood setting — newer subdivision homes, well-maintained yards. Natural daylight, photorealistic construction photography.
+
+---
+
+## SEO Page: chimney-repair-villa-park-il
+**File name:** `public/images/seo/chimney-repair-villa-park-il.jpg`
+**Alt text:** Chimney crown repair and repointing on a 1950s residential brick chimney in Villa Park Illinois DuPage County
+
+**Prompt:**
+> A masonry contractor at rooftop level performing crown repair and upper-course repointing on a brick chimney on a 1950s ranch-style suburban home. Worker applying new concrete crown mix with a trowel, mortar hawk nearby. Original cracked and deteriorated crown sections visible adjacent to fresh repair areas. Hard hat, safety glasses, and work gloves on. Villa Park Illinois residential setting — postwar ranch homes, mature trees, DuPage County suburb character. Natural afternoon light. Photorealistic construction photography.
+
+---
+
+## SEO Page: brick-repair-addison-il
+**File name:** `public/images/seo/brick-repair-addison-il.jpg`
+**Alt text:** Brick replacement and mortar repointing on a commercial facade in Addison Illinois DuPage County
+
+**Prompt:**
+> A masonry worker setting a replacement brick into a prepared opening on the facade of a 1960s commercial brick building. Worker using a margin trowel to butter the replacement brick with mortar before setting, safety glasses and work gloves on. Spalled original bricks on nearby ground. Mortar bucket and new brick units staged to the side. Addison Illinois suburban commercial setting — Route 53 commercial corridor character. Natural daylight. Photorealistic construction photography.
+
+---
+
+## Blog: why-brick-walls-bow-and-bulge
+**File name:** `public/images/blog/bowing-brick-wall-assessment.jpg`
+**Alt text:** Close-up of visibly bowing brick veneer wall on a commercial building showing outward displacement from wall tie failure
+
+**Prompt:**
+> A masonry inspector using a straightedge or level to measure outward bowing displacement of a brick veneer wall on a commercial building. The wall shows visible outward curvature — approximately 1/2 inch displacement visible. Horizontal cracking at wall tie joint levels barely visible. Inspector wearing safety glasses and hard hat. Commercial building facade setting, Chicago suburbs. Natural daylight, photorealistic assessment documentation photography.
+
+---
+
+## Blog: masonry-maintenance-multi-family-buildings
+**File name:** `public/images/blog/multi-family-masonry-maintenance.jpg`
+**Alt text:** Masonry contractor performing tuckpointing on a Chicago-style two-flat brick building in Cook County
+
+**Prompt:**
+> A masonry worker on ladder staging performing tuckpointing on the north-facing elevation of a classic Chicago two-flat — 1920s-era red or cream brick, two stories, flat roof with parapet visible above. Worker packing fresh mortar into cleaned joints with a tuck pointer. Heavily eroded original mortar joints visible on adjacent unrepaired section. Dense Chicago inner-ring suburb setting — close-spaced homes, urban residential block. Overcast Midwest daylight. Photorealistic construction photography.
+
+---
+
+## Blog: tuckpointing-vs-caulking-masonry
+**File name:** `public/images/blog/tuckpointing-vs-caulking-comparison.jpg`
+**Alt text:** Side-by-side view of properly tuckpointed mortar joints and incorrectly caulked mortar joints on a brick wall
+
+**Prompt:**
+> Close-up of a brick wall section showing two adjacent areas — one correctly tuckpointed with fresh packed mortar showing clean tooled joint profile, and one incorrectly caulked with gray elastomeric caulk that has begun to peel and partially debond from one brick face. The contrast between the correct and incorrect repair is clear. No workers — assessment documentation style. Natural raking light highlighting the joint texture difference. Photorealistic masonry detail photography.

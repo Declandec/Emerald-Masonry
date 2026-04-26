@@ -419,6 +419,56 @@
       "publishDate": "2026-04-25",
       "image": "/images/after-commercial.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-oak-park-il",
+      "title": "Historic Masonry Restoration in Oak Park, IL — Lime Mortar Repointing and Landmark-Sensitive Brick Repair",
+      "primaryKeyword": "historic masonry restoration Oak Park IL",
+      "city": "Oak Park, IL",
+      "service": "Historic Masonry Restoration",
+      "publishDate": "2026-04-26",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "cmu-block-repair-evergreen-park-il",
+      "title": "CMU Block Repair in Evergreen Park, IL — Commercial and Institutional Masonry for South Cook County",
+      "primaryKeyword": "CMU block repair Evergreen Park IL",
+      "city": "Evergreen Park, IL",
+      "service": "CMU Block Repair",
+      "publishDate": "2026-04-26",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-shorewood-il",
+      "title": "Tuckpointing in Shorewood, IL — Mortar Joint Repair for Will County's Newer Brick Subdivisions",
+      "primaryKeyword": "tuckpointing Shorewood IL",
+      "city": "Shorewood, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-26",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-villa-park-il",
+      "title": "Chimney Repair in Villa Park, IL — Masonry Inspection, Crown Repair, and Repointing for DuPage County",
+      "primaryKeyword": "chimney repair Villa Park IL",
+      "city": "Villa Park, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-26",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-addison-il",
+      "title": "Brick Repair in Addison, IL — Spalling, Cracking, and Structural Repairs for DuPage County Brick Buildings",
+      "primaryKeyword": "brick repair Addison IL",
+      "city": "Addison, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-04-26",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -603,6 +653,27 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-25"
+    },
+    {
+      "slug": "why-brick-walls-bow-and-bulge",
+      "title": "Why Brick Walls Bow and Bulge — Causes, Risk Assessment, and Repair Options",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-26"
+    },
+    {
+      "slug": "masonry-maintenance-multi-family-buildings",
+      "title": "Masonry Maintenance for Multi-Family Buildings — What Two-Flats, Six-Flats, and Condo Associations Need to Know",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-26"
+    },
+    {
+      "slug": "tuckpointing-vs-caulking-masonry",
+      "title": "Tuckpointing vs. Caulking in Masonry — Why the Distinction Matters More Than You'd Think",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-26"
     }
   ],
   "coveredCities": [
@@ -640,7 +711,12 @@
     "Lombard, IL",
     "Palos Park, IL",
     "Blue Island, IL",
-    "Elgin, IL"
+    "Elgin, IL",
+    "Oak Park, IL",
+    "Evergreen Park, IL",
+    "Shorewood, IL",
+    "Villa Park, IL",
+    "Addison, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -683,6 +759,10 @@
     {
       "intent": "tuckpointing Cicero IL brick repointing residential commercial",
       "date": "2026-04-25"
+    },
+    {
+      "intent": "masonry contractor Oak Park IL historic restoration tuckpointing",
+      "date": "2026-04-26"
     }
   ],
   "coveredKeywords": [
@@ -751,7 +831,15 @@
     "parapet wall repair Elgin IL",
     "masonry warranty commercial building Illinois",
     "cold weather masonry repair Illinois",
-    "tuckpointing frequency Illinois property manager"
+    "tuckpointing frequency Illinois property manager",
+    "historic masonry restoration Oak Park IL",
+    "CMU block repair Evergreen Park IL",
+    "tuckpointing Shorewood IL",
+    "chimney repair Villa Park IL",
+    "brick repair Addison IL",
+    "bowing bulging brick wall repair Chicago",
+    "masonry maintenance multi-family building Chicago",
+    "tuckpointing vs caulking masonry joints"
   ],
-  "lastUpdated": "2026-04-25"
+  "lastUpdated": "2026-04-26"
 }
