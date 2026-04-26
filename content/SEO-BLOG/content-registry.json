@@ -369,6 +369,56 @@
       "publishDate": "2026-04-24",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-cicero-il",
+      "title": "Tuckpointing in Cicero, IL — Mortar Joint Repair for One of Cook County's Densest Brick Communities",
+      "primaryKeyword": "tuckpointing Cicero IL",
+      "city": "Cicero, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-04-25",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-lombard-il",
+      "title": "Brick Repair in Lombard, IL — Structural and Cosmetic Repairs for DuPage County Brick Buildings",
+      "primaryKeyword": "brick repair Lombard IL",
+      "city": "Lombard, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-04-25",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-palos-park-il",
+      "title": "Chimney Repair in Palos Park, IL — Crown, Repointing, and Masonry Rebuilds for Southwest Cook County",
+      "primaryKeyword": "chimney repair Palos Park IL",
+      "city": "Palos Park, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-04-25",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-blue-island-il",
+      "title": "Masonry Restoration in Blue Island, IL — Brick and Mortar Repair for a Dense South Cook County City",
+      "primaryKeyword": "masonry restoration Blue Island IL",
+      "city": "Blue Island, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-04-25",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-elgin-il",
+      "title": "Parapet Wall Repair in Elgin, IL — Commercial Roof Edge Masonry for Kane County Properties",
+      "primaryKeyword": "parapet wall repair Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Parapet Wall Repair",
+      "publishDate": "2026-04-25",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -532,6 +582,27 @@
       "service": "Commercial & Industrial Masonry",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-24"
+    },
+    {
+      "slug": "what-a-masonry-warranty-should-cover",
+      "title": "What a Masonry Warranty Should Cover — And What Most of Them Don't",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-25"
+    },
+    {
+      "slug": "cold-weather-masonry-repair-illinois",
+      "title": "Cold-Weather Masonry Work in Illinois — What Can Be Done and What Should Wait",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-25"
+    },
+    {
+      "slug": "tuckpointing-frequency-guide-illinois",
+      "title": "How Often Does Brick Need Tuckpointing in Illinois? A Property Manager's Frequency Guide",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-04-25"
     }
   ],
   "coveredCities": [
@@ -564,7 +635,12 @@
     "Glen Ellyn, IL",
     "Lisle, IL",
     "Alsip, IL",
-    "Palos Hills, IL"
+    "Palos Hills, IL",
+    "Cicero, IL",
+    "Lombard, IL",
+    "Palos Park, IL",
+    "Blue Island, IL",
+    "Elgin, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -603,6 +679,10 @@
     {
       "intent": "steel lintel replacement Hinsdale IL masonry contractor",
       "date": "2026-04-24"
+    },
+    {
+      "intent": "tuckpointing Cicero IL brick repointing residential commercial",
+      "date": "2026-04-25"
     }
   ],
   "coveredKeywords": [
@@ -663,7 +743,15 @@
     "efflorescence waterproofing Palos Hills IL",
     "how to read masonry assessment report",
     "historic masonry preservation Illinois",
-    "why commercial masonry bids vary Chicago"
+    "why commercial masonry bids vary Chicago",
+    "tuckpointing Cicero IL",
+    "brick repair Lombard IL",
+    "chimney repair Palos Park IL",
+    "masonry restoration Blue Island IL",
+    "parapet wall repair Elgin IL",
+    "masonry warranty commercial building Illinois",
+    "cold weather masonry repair Illinois",
+    "tuckpointing frequency Illinois property manager"
   ],
-  "lastUpdated": "2026-04-24"
+  "lastUpdated": "2026-04-25"
 }

@@ -527,3 +527,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A property manager in business casual attire standing outside a brick commercial building, reviewing printed bid documents with a masonry contractor in work clothes. Both looking at the facade — contractor pointing to specific mortar joint areas on the brick wall. Commercial suburban Chicagoland setting — strip center or office building exterior. Natural daylight, candid professional photography style. No PPE needed for this walking-inspection context.
+
+---
+
+## SEO Page: tuckpointing-cicero-il
+**File name:** `public/images/seo/tuckpointing-cicero-il.jpg`
+**Alt text:** Tuckpointing mortar repair on a brick two-flat in Cicero Illinois Cook County near Chicago
+
+**Prompt:**
+> A masonry worker performing tuckpointing on the brick facade of a 1920s Chicago-style two-flat — classic red or cream brick with aged mortar joints showing erosion. Worker using an oscillating multi-tool to remove deteriorated mortar, safety glasses and dust mask on, work gloves. Dense residential urban block — narrow lot spacing, similar two-flats visible on both sides, Cicero Illinois inner-ring suburb character. Natural overcast daylight. Photorealistic construction photography.
+
+---
+
+## SEO Page: brick-repair-lombard-il
+**File name:** `public/images/seo/brick-repair-lombard-il.jpg`
+**Alt text:** Brick repair and replacement work on a commercial brick facade in Lombard Illinois DuPage County
+
+**Prompt:**
+> A masonry worker carefully removing a spalled brick unit from the facade of a 1960s commercial strip center in a DuPage County suburb. Worker using a cold chisel and hammer with controlled technique, safety glasses and gloves visible. Replacement brick units and mortar bucket staged nearby. Lombard Illinois suburban commercial setting — Route 53 corridor character, mature parking lot trees. Natural daylight. Photorealistic construction photography.
+
+---
+
+## SEO Page: chimney-repair-palos-park-il
+**File name:** `public/images/seo/chimney-repair-palos-park-il.jpg`
+**Alt text:** Chimney crown repair and repointing on a residential brick chimney in Palos Park Illinois southwest Cook County
+
+**Prompt:**
+> A masonry contractor at rooftop level inspecting and repointing the crown and upper courses of a brick chimney on a 1970s ranch-style home in a wooded southwest suburban Chicago neighborhood. Worker in safety harness, hard hat, and safety glasses, using a tuck pointer on the chimney crown. Mature oak trees visible in background — Palos Park wooded residential character. Late afternoon natural light. Photorealistic construction photography.
+
+---
+
+## SEO Page: masonry-restoration-blue-island-il
+**File name:** `public/images/seo/masonry-restoration-blue-island-il.jpg`
+**Alt text:** Masonry restoration on a historic commercial brick building in Blue Island Illinois south Cook County
+
+**Prompt:**
+> Wide angle view of a masonry restoration project underway on a late 19th century two-story commercial brick building in a dense south suburban downtown. Scaffold staging covers the facade — workers on second level performing tuckpointing on aged historic brick with lime mortar. Older downtown commercial streetscape visible — neighboring historic storefronts, Blue Island Illinois character. Overcast daylight, photorealistic construction photography.
+
+---
+
+## SEO Page: parapet-wall-repair-elgin-il
+**File name:** `public/images/seo/parapet-wall-repair-elgin-il.jpg`
+**Alt text:** Parapet wall repair and coping joint restoration on a commercial building in Elgin Illinois Kane County
+
+**Prompt:**
+> Rooftop-level view of masonry workers repairing a brick parapet wall on a flat-roof commercial building. Workers resetting a displaced coping unit using mortar and rubber mallet, hard hats and safety glasses on. New mortar visible in adjacent coping joints where repointing work is complete. Kane County suburban commercial rooftop setting — flat Midwest landscape visible in background. Photorealistic construction photography.
+
+---
+
+## Blog: what-a-masonry-warranty-should-cover
+**File name:** `public/images/blog/masonry-warranty-review.jpg`
+**Alt text:** Contractor and property manager reviewing masonry warranty terms and contract documents at a job site
+
+**Prompt:**
+> A contractor in work clothes and a property manager in business casual sitting across from each other at a folding table outside a commercial building, reviewing contract documents — warranty terms visible on printed pages. Professional consultation setting, brick building wall in background. Natural daylight. Photorealistic documentary-style photography. No PPE required for this office/meeting context.
+
+---
+
+## Blog: cold-weather-masonry-repair-illinois
+**File name:** `public/images/blog/cold-weather-masonry-work.jpg`
+**Alt text:** Masonry workers tuckpointing brick with cold weather protection — heated enclosure and propane heating equipment visible
+
+**Prompt:**
+> A masonry crew working inside a temporary heated enclosure made of poly sheeting on a commercial brick building facade. A propane torpedo heater is visible running nearby, keeping the work area above freezing. Workers in heavy work clothing, hard hats, safety glasses, performing tuckpointing on the brick. Winter conditions outside the enclosure — frost on the ground, gray winter sky. Photorealistic construction photography.
+
+---
+
+## Blog: tuckpointing-frequency-guide-illinois
+**File name:** `public/images/blog/tuckpointing-frequency-assessment.jpg`
+**Alt text:** Masonry inspector probing mortar joint depth on a brick building to assess tuckpointing maintenance interval
+
+**Prompt:**
+> Close-up of a masonry inspector's gloved hand using a probe tool to measure mortar joint recession depth on a brick wall. The probe shows approximately 3/8 inch recession — clearly past the maintenance threshold. Aged red brick with visibly eroded mortar joints in background. No worker face visible — tool and hand close-up only. Natural daylight, photorealistic masonry assessment photography.
