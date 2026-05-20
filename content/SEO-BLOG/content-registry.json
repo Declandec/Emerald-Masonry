@@ -519,6 +519,66 @@
       "publishDate": "2026-05-11",
       "image": "/images/after-commercial-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-bridgeview-il",
+      "title": "Tuckpointing in Bridgeview, IL — South Cook County Mortar Joint Repair Specialists",
+      "primaryKeyword": "tuckpointing Bridgeview IL",
+      "city": "Bridgeview, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-lansing-il",
+      "title": "Masonry Restoration in Lansing, IL — Full-Scope Brick and Mortar Repair for South Cook County",
+      "primaryKeyword": "masonry restoration Lansing IL",
+      "city": "Lansing, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-05-20",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-midlothian-il",
+      "title": "Tuckpointing in Midlothian, IL — Mortar Joint Repair for South Cook County Brick Buildings",
+      "primaryKeyword": "tuckpointing Midlothian IL",
+      "city": "Midlothian, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-05-20",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-replacement-streamwood-il",
+      "title": "Lintel Replacement in Streamwood, IL — Corroded Steel Lintel Repair for Cook County Brick Buildings",
+      "primaryKeyword": "lintel replacement Streamwood IL",
+      "city": "Streamwood, IL",
+      "service": "Lintel Replacement",
+      "publishDate": "2026-05-20",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-crest-hill-il",
+      "title": "CMU Block Repair in Crest Hill, IL — Commercial and Industrial Masonry for Will County Properties",
+      "primaryKeyword": "CMU block repair Crest Hill IL",
+      "city": "Crest Hill, IL",
+      "service": "CMU Block Repair",
+      "publishDate": "2026-05-20",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-river-forest-il",
+      "title": "Historic Masonry Restoration in River Forest, IL — Sensitive Brick Repair for Prairie-Era Estates and Institutional Buildings",
+      "primaryKeyword": "historic masonry restoration River Forest IL",
+      "city": "River Forest, IL",
+      "service": "Historic Masonry Restoration",
+      "publishDate": "2026-05-20",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -745,6 +805,27 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-05-11"
+    },
+    {
+      "slug": "seasonal-masonry-maintenance-calendar-illinois",
+      "title": "A Seasonal Masonry Maintenance Calendar for Illinois Property Managers",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-20"
+    },
+    {
+      "slug": "why-efflorescence-keeps-coming-back",
+      "title": "Why Efflorescence Keeps Coming Back — And What Actually Stops It",
+      "service": "Efflorescence & Waterproofing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-20"
+    },
+    {
+      "slug": "how-to-read-masonry-scope-of-work",
+      "title": "How to Read a Masonry Contractor's Scope of Work — What the Line Items Actually Mean",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-20"
     }
   ],
   "coveredCities": [
@@ -792,7 +873,13 @@
     "Willowbrook, IL",
     "Bartlett, IL",
     "Glendale Heights, IL",
-    "Oswego, IL"
+    "Oswego, IL",
+    "Bridgeview, IL",
+    "Lansing, IL",
+    "Midlothian, IL",
+    "Streamwood, IL",
+    "Crest Hill, IL",
+    "River Forest, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -843,6 +930,10 @@
     {
       "intent": "brick repair south Cook County Chicago suburbs masonry contractor",
       "date": "2026-05-11"
+    },
+    {
+      "intent": "masonry restoration south Cook County Chicago south suburbs tuckpointing contractor",
+      "date": "2026-05-20"
     }
   ],
   "coveredKeywords": [
@@ -927,7 +1018,16 @@
     "parapet wall repair Oswego IL",
     "north-facing brick wall deterioration Illinois",
     "post-WWII brick bungalow masonry repair Chicago",
-    "repointing masonry quality standards Illinois"
+    "repointing masonry quality standards Illinois",
+    "tuckpointing Bridgeview IL",
+    "masonry restoration Lansing IL",
+    "tuckpointing Midlothian IL",
+    "lintel replacement Streamwood IL",
+    "CMU block repair Crest Hill IL",
+    "historic masonry restoration River Forest IL",
+    "seasonal masonry maintenance calendar Illinois",
+    "efflorescence recurring brick building Illinois",
+    "masonry scope of work property manager"
   ],
-  "lastUpdated": "2026-05-11"
+  "lastUpdated": "2026-05-20"
 }

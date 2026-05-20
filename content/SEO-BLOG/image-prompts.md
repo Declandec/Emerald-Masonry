@@ -743,3 +743,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > Close-up of a masonry worker using an angle grinder with diamond blade to cut deteriorated mortar joints on a commercial brick wall. The blade is positioned in the joint and mortar dust is visible. A completed cut joint showing clean square edges and 3/4 inch depth is visible adjacent to the joint being cut. Worker wearing safety glasses, dust mask, hard hat, and work gloves. Midwest commercial building setting. Photorealistic jobsite photography emphasizing the mechanical joint cutting process.
+
+---
+
+## SEO Page: masonry-restoration-lansing-il
+**File name:** `public/images/seo/masonry-restoration-lansing-il.jpg`
+**Alt text:** Full-scope masonry restoration in progress on a commercial brick building in Lansing Illinois south Cook County
+
+**Prompt:**
+> Wide shot of a masonry restoration crew working on the full facade of a 1960s-era commercial brick building — scaffolding erected across the front, one worker on scaffold performing tuckpointing at mid-facade level, another at grade repointing lower courses. Deteriorated mortar joints and one replaced brick section visible. Hard hats, safety glasses, and work gloves on both workers. South Cook County suburban commercial setting near Torrence Avenue corridor, industrial/commercial character. Overcast sky. Photorealistic construction photography.
+
+---
+
+## SEO Page: tuckpointing-midlothian-il
+**File name:** `public/images/seo/tuckpointing-midlothian-il.jpg`
+**Alt text:** Tuckpointing mortar joint repair on a postwar brick bungalow in Midlothian Illinois south Cook County
+
+**Prompt:**
+> A masonry worker performing tuckpointing on the brick facade of a 1950s postwar brick bungalow — classic red Chicago brick, one-story flat or low-pitched roof, tight residential lot. Worker using an oscillating multi-tool to remove deteriorated mortar joints, safety glasses and dust mask on. Mortar dust visible. Dense south Cook County residential block setting — close-spaced similar bungalows on both sides. Natural overcast daylight. Photorealistic construction photography.
+
+---
+
+## SEO Page: lintel-replacement-streamwood-il
+**File name:** `public/images/seo/lintel-replacement-streamwood-il.jpg`
+**Alt text:** Steel lintel replacement with temporary timber shoring above a window opening on a 1980s brick colonial home in Streamwood Illinois Cook County
+
+**Prompt:**
+> Masonry workers performing lintel replacement above a window opening on a 1980s brick colonial-style suburban home. Temporary timber shoring boards visible supporting brick courses above the opening. A new galvanized steel angle lintel is being positioned. Rust-stained original corroded lintel visible nearby on the ground. Horizontal crack in the brick above the opening visible showing the original failure. Workers wearing hard hats, safety glasses, work gloves. Streamwood Illinois northwest suburban residential setting — subdivision neighborhood character. Natural daylight. Photorealistic construction photography.
+
+---
+
+## SEO Page: cmu-block-repair-crest-hill-il
+**File name:** `public/images/seo/cmu-block-repair-crest-hill-il.jpg`
+**Alt text:** CMU concrete block wall repointing on a commercial warehouse building in Crest Hill Illinois Will County I-55 corridor
+
+**Prompt:**
+> A masonry worker repointing deteriorated mortar joints on an exterior CMU block wall of a commercial warehouse or light industrial building. Worker using a wide pointing trowel to pack fresh mortar into cleaned joints at grade level. New mortar visible in completed joints alongside open deteriorated joints. Hard hat and work gloves visible. Will County industrial corridor setting along I-55 — flat Midwest landscape, industrial building character, Crest Hill Illinois. Natural daylight. Photorealistic jobsite photography.
+
+---
+
+## SEO Page: historic-masonry-restoration-river-forest-il
+**File name:** `public/images/seo/historic-masonry-restoration-river-forest-il.jpg`
+**Alt text:** Masonry craftsman performing lime mortar repointing on a 1920s Prairie-era brick estate in River Forest Illinois Cook County
+
+**Prompt:**
+> A skilled masonry craftsman carefully repointing the historic brick joints of a 1920s Prairie-style estate — original soft Chicago common brick with wide aged lime mortar joints, decorative brick coursework and corbeled details visible. Worker using a narrow tuck pointer and mortar hawk, safety glasses on, hand tool work with no power tools. Mature tree-lined River Forest Illinois residential street in background — large-lot affluent suburb character, historic landmark district feel. Soft overcast daylight, photorealistic masonry photography.
+
+---
+
+## Blog: seasonal-masonry-maintenance-calendar-illinois
+**File name:** `public/images/blog/seasonal-masonry-inspection-spring.jpg`
+**Alt text:** Masonry inspector probing mortar joints on a commercial brick building facade during spring inspection in Chicago suburbs
+
+**Prompt:**
+> A masonry inspector on an aerial lift at second-story height, using a probe tool to test mortar joint recession depth on a commercial brick facade. Inspector wearing hard hat and safety glasses, tablet visible for note-taking. Spring setting — bare trees starting to bud, early morning light. Chicago suburbs commercial building background. Realistic assessment documentation photography, photorealistic.
+
+---
+
+## Blog: why-efflorescence-keeps-coming-back
+**File name:** `public/images/blog/efflorescence-recurring-brick.jpg`
+**Alt text:** Heavy recurring white efflorescence deposits on a commercial brick building facade in Chicago suburbs showing persistent moisture infiltration
+
+**Prompt:**
+> Close-up of a commercial brick building wall section showing heavy recurring efflorescence — thick white crystalline salt deposits running down brick face from mortar joint lines above a parapet coping. Adjacent cleaned section visible where deposits have been washed off but fresh new deposits are already forming again. No workers — building condition documentation style. Natural daylight, overcast Midwest sky. Photorealistic building condition photography.
+
+---
+
+## Blog: how-to-read-masonry-scope-of-work
+**File name:** `public/images/blog/masonry-scope-of-work-review.jpg`
+**Alt text:** Property manager reviewing masonry contractor scope of work and estimate documents at a commercial building site
+
+**Prompt:**
+> A property manager in business casual attire sitting at a folding table outside a commercial brick building, reviewing printed scope of work documents. Multiple estimate packets visible on the table. Building facade behind shows brick with visible mortar joint deterioration — the subject of the estimate. Professional, focused. Natural daylight. Chicago suburbs commercial building background. Photorealistic documentary-style photography.
