@@ -671,3 +671,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > Close-up of a brick wall section showing two adjacent areas — one correctly tuckpointed with fresh packed mortar showing clean tooled joint profile, and one incorrectly caulked with gray elastomeric caulk that has begun to peel and partially debond from one brick face. The contrast between the correct and incorrect repair is clear. No workers — assessment documentation style. Natural raking light highlighting the joint texture difference. Photorealistic masonry detail photography.
+
+---
+
+## SEO Page: brick-repair-calumet-city-il
+**File name:** `public/images/seo/brick-repair-calumet-city-il.jpg`
+**Alt text:** Brick repair and replacement on a post-WWII brick two-flat building in Calumet City Illinois south Cook County
+
+**Prompt:**
+> A masonry worker carefully removing a spalled brick from the facade of a 1950s brick two-flat in a dense south suburban Chicago neighborhood. Worker using a cold chisel and hammer with controlled technique, safety glasses and work gloves visible. Replacement brick units and mortar bucket staged nearby. Calumet City Illinois dense residential block setting — close-spaced brick bungalows and two-flats, urban south Cook County character. Natural daylight. Photorealistic construction photography.
+
+---
+
+## SEO Page: tuckpointing-willowbrook-il
+**File name:** `public/images/seo/tuckpointing-willowbrook-il.jpg`
+**Alt text:** Tuckpointing and mortar joint repair on a commercial brick building in Willowbrook Illinois DuPage County Route 83 corridor
+
+**Prompt:**
+> A masonry worker using an oscillating multi-tool to remove deteriorated mortar joints from a commercial brick building exterior. Worker in hard hat, safety glasses, and dust mask. Fresh clean joint openings visible alongside uncut deteriorated joints for comparison. Clean DuPage County suburban commercial setting — strip center or professional office building. Willowbrook Illinois Route 83 corridor character. Natural daylight, photorealistic construction photography.
+
+---
+
+## SEO Page: chimney-repair-bartlett-il
+**File name:** `public/images/seo/chimney-repair-bartlett-il.jpg`
+**Alt text:** Chimney crown repair and upper course repointing on a residential brick chimney in Bartlett Illinois DuPage County
+
+**Prompt:**
+> A masonry contractor on rooftop staging adjacent to a brick chimney on a 1990s-era subdivision home — colonial or traditional style. Worker applying new concrete crown with a margin trowel, cracked original crown sections visible alongside fresh repair. Hard hat, safety glasses, and work gloves on. Bartlett Illinois large-lot subdivision neighborhood — well-kept homes, mature trees, DuPage and Kane County suburban character. Afternoon natural light. Photorealistic construction photography.
+
+---
+
+## SEO Page: efflorescence-waterproofing-glendale-heights-il
+**File name:** `public/images/seo/efflorescence-waterproofing-glendale-heights-il.jpg`
+**Alt text:** Efflorescence white staining on commercial brick building in Glendale Heights Illinois DuPage County before waterproofing treatment
+
+**Prompt:**
+> Close-up of heavy white efflorescence mineral deposits running down the face of a commercial brick building in a DuPage County suburban commercial corridor. Salt crystallization visible along mortar joint lines and below a parapet coping unit. Adjacent cleaned section visible showing treated brick. Army Trail Road or North Avenue commercial building context, Glendale Heights Illinois. Natural daylight, no workers — assessment documentation style. Photorealistic.
+
+---
+
+## SEO Page: parapet-wall-repair-oswego-il
+**File name:** `public/images/seo/parapet-wall-repair-oswego-il.jpg`
+**Alt text:** Parapet wall coping joint repointing on a commercial building in Oswego Illinois Kendall County Route 34 corridor
+
+**Prompt:**
+> A masonry worker at rooftop level repointing mortar joints on the coping of a brick parapet wall on a flat-roof commercial building. Worker in hard hat and gloves using a pointing trowel to pack fresh mortar into cleaned coping head joints. New mortar visible in completed joints alongside deteriorated original joints. Kendall County suburban commercial rooftop setting — Oswego Illinois Route 34 commercial corridor character, flat Midwest landscape in background. Photorealistic construction photography.
+
+---
+
+## Blog: why-north-facing-brick-deteriorate-faster
+**File name:** `public/images/blog/north-facing-brick-deterioration.jpg`
+**Alt text:** Close-up comparison of deteriorated north-facing brick wall versus well-preserved south-facing brick on the same building
+
+**Prompt:**
+> Side-angle view of a commercial brick building corner showing two adjacent elevations — the north-facing elevation with visibly recessed mortar joints, light efflorescence, and one or two spalled brick faces near the upper courses; the south-facing elevation showing intact mortar joints and clean brick faces. No workers — condition documentation photography. Natural daylight, overcast Midwest sky. Photorealistic masonry assessment photography emphasizing the directional deterioration contrast.
+
+---
+
+## Blog: post-wwii-brick-bungalows-masonry-problems
+**File name:** `public/images/blog/postwar-bungalow-masonry-repair.jpg`
+**Alt text:** Masonry contractor performing tuckpointing on a 1950s-era brick bungalow in south suburban Cook County Illinois
+
+**Prompt:**
+> A masonry worker on ladder staging performing tuckpointing on the brick facade of a 1950s-era postwar brick bungalow — classic red or cream Chicago common brick, one-story with small front porch, typical south Cook County residential character. Worker using an oscillating multi-tool to cut deteriorated mortar joints, safety glasses and dust mask on. Dense residential neighborhood — close-spaced similar bungalows on both sides, mature street trees. Natural overcast daylight. Photorealistic construction photography.
+
+---
+
+## Blog: what-repointing-actually-means
+**File name:** `public/images/blog/repointing-joint-cutting-process.jpg`
+**Alt text:** Masonry contractor cutting mortar joints to proper depth before repointing on a commercial brick building in Chicago suburbs
+
+**Prompt:**
+> Close-up of a masonry worker using an angle grinder with diamond blade to cut deteriorated mortar joints on a commercial brick wall. The blade is positioned in the joint and mortar dust is visible. A completed cut joint showing clean square edges and 3/4 inch depth is visible adjacent to the joint being cut. Worker wearing safety glasses, dust mask, hard hat, and work gloves. Midwest commercial building setting. Photorealistic jobsite photography emphasizing the mechanical joint cutting process.

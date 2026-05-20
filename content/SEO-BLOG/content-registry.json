@@ -469,6 +469,56 @@
       "publishDate": "2026-04-26",
       "image": "/images/after-brick-repair.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-calumet-city-il",
+      "title": "Brick Repair in Calumet City, IL — Structural & Cosmetic Repairs for South Cook County's Brick Buildings",
+      "primaryKeyword": "brick repair Calumet City IL",
+      "city": "Calumet City, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-willowbrook-il",
+      "title": "Tuckpointing in Willowbrook, IL — Mortar Joint Repair for DuPage County Brick Buildings",
+      "primaryKeyword": "tuckpointing Willowbrook IL",
+      "city": "Willowbrook, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-bartlett-il",
+      "title": "Chimney Repair in Bartlett, IL — Crown, Repointing, and Masonry Rebuilds for DuPage and Kane County",
+      "primaryKeyword": "chimney repair Bartlett IL",
+      "city": "Bartlett, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "efflorescence-waterproofing-glendale-heights-il",
+      "title": "Efflorescence & Masonry Waterproofing in Glendale Heights, IL — Stopping Water Infiltration in Brick Buildings",
+      "primaryKeyword": "efflorescence waterproofing Glendale Heights IL",
+      "city": "Glendale Heights, IL",
+      "service": "Efflorescence & Waterproofing",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-oswego-il",
+      "title": "Parapet Wall Repair in Oswego, IL — Commercial Roof Edge Masonry for Kendall County Properties",
+      "primaryKeyword": "parapet wall repair Oswego IL",
+      "city": "Oswego, IL",
+      "service": "Parapet Wall Repair",
+      "publishDate": "2026-05-11",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -674,6 +724,27 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-04-26"
+    },
+    {
+      "slug": "why-north-facing-brick-deteriorate-faster",
+      "title": "Why North-Facing Brick Walls Deteriorate Faster — And What to Do About It",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-11"
+    },
+    {
+      "slug": "post-wwii-brick-bungalows-masonry-problems",
+      "title": "Masonry Problems in Post-WWII Brick Bungalows — What to Expect and What It Costs to Fix",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-11"
+    },
+    {
+      "slug": "what-repointing-actually-means",
+      "title": "What 'Repointing' Actually Means — And How to Tell If It Was Done Right",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-05-11"
     }
   ],
   "coveredCities": [
@@ -716,7 +787,12 @@
     "Evergreen Park, IL",
     "Shorewood, IL",
     "Villa Park, IL",
-    "Addison, IL"
+    "Addison, IL",
+    "Calumet City, IL",
+    "Willowbrook, IL",
+    "Bartlett, IL",
+    "Glendale Heights, IL",
+    "Oswego, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -763,6 +839,10 @@
     {
       "intent": "masonry contractor Oak Park IL historic restoration tuckpointing",
       "date": "2026-04-26"
+    },
+    {
+      "intent": "brick repair south Cook County Chicago suburbs masonry contractor",
+      "date": "2026-05-11"
     }
   ],
   "coveredKeywords": [
@@ -839,7 +919,15 @@
     "brick repair Addison IL",
     "bowing bulging brick wall repair Chicago",
     "masonry maintenance multi-family building Chicago",
-    "tuckpointing vs caulking masonry joints"
+    "tuckpointing vs caulking masonry joints",
+    "brick repair Calumet City IL",
+    "tuckpointing Willowbrook IL",
+    "chimney repair Bartlett IL",
+    "efflorescence waterproofing Glendale Heights IL",
+    "parapet wall repair Oswego IL",
+    "north-facing brick wall deterioration Illinois",
+    "post-WWII brick bungalow masonry repair Chicago",
+    "repointing masonry quality standards Illinois"
   ],
-  "lastUpdated": "2026-04-26"
+  "lastUpdated": "2026-05-11"
 }
