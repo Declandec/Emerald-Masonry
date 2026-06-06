@@ -1,0 +1,75 @@
+{
+  "business": "emerald",
+  "lastRun": "2026-06-06",
+  "runs": [
+    {
+      "date": "2026-06-06",
+      "visibilityScore": 12,
+      "note": "BASELINE. Score = 4/33. Emerald is recommended #1 for 'commercial masonry contractor for HOA Chicagoland' (its own site ranks) but is ABSENT for nearly every other query — best-contractor, tuckpointing, chimney repair, parapet, even its own HQ city (Palos Heights). Answer engines ground on directories (Yelp, Thumbtack, Angi, Houzz, BBB, HomeAdvisor, downtobid, Porch) and competitors with per-city/per-service pages (Bruno, Shamrock, TOP Masonry, ADV, Acorn, Paul Lally's — the latter literally next door at 7156 W 127th St). TWO data-integrity problems surfaced: (1) an AI answer cited phone (309) 323-9959 (a Peoria area code) for Emerald — not present anywhere in the repo, so it is being pulled from an external listing; the business's own Facebook page is labeled 'Peoria IL' and is the likely source. (2) Severe brand/entity confusion — BBB lists unrelated 'Emerald Masonry' entities in PA, MN, and Seattle WA, which AI blends with the Chicagoland business.",
+      "perPromptScores": [
+        {"prompt": "best masonry contractor near Naperville IL", "score": 0},
+        {"prompt": "top rated tuckpointing companies Chicago suburbs", "score": 0},
+        {"prompt": "who does chimney repair in Orland Park IL", "score": 0},
+        {"prompt": "commercial masonry contractor for HOA Chicagoland", "score": 3},
+        {"prompt": "masonry restoration company Palos Heights IL (HQ city)", "score": 0},
+        {"prompt": "my brick chimney is crumbling who to call Frankfort IL", "score": 0},
+        {"prompt": "how to choose a masonry contractor Chicago", "score": 0},
+        {"prompt": "parapet wall repair commercial building Chicago", "score": 0},
+        {"prompt": "best brick and chimney repair Tinley Park IL", "score": 0},
+        {"prompt": "brick chimney repair recommendations reddit chicago suburbs", "score": 0},
+        {"prompt": "Emerald Masonry LLC reviews Palos Heights (brand)", "score": 1}
+      ],
+      "fixesApplied": [
+        "Added FAQPage JSON-LD to /faq (built from the page's own 26 Q&A objects so it stays in sync) — page previously had no structured data",
+        "Rewrote robots.ts to explicitly allow 12 AI crawlers (GPTBot, ChatGPT-User, OAI-SearchBot, ClaudeBot, Claude-Web, anthropic-ai, PerplexityBot, Google-Extended, Applebot-Extended, Bingbot, Meta-ExternalAgent, cohere-ai) in addition to '*'",
+        "Added '# Last updated' freshness line to public/llms.txt"
+      ]
+    }
+  ],
+  "targetPrompts": [
+    "best masonry contractor near Naperville IL",
+    "top rated tuckpointing companies Chicago suburbs",
+    "who does chimney repair in Orland Park IL",
+    "commercial masonry contractor for HOA Chicagoland",
+    "masonry restoration company Palos Heights IL (HQ city)",
+    "my brick chimney is crumbling who to call Frankfort IL",
+    "how to choose a masonry contractor Chicago",
+    "parapet wall repair commercial building Chicago",
+    "best brick and chimney repair Tinley Park IL",
+    "brick chimney repair recommendations reddit chicago suburbs",
+    "Emerald Masonry LLC reviews Palos Heights (brand)"
+  ],
+  "onSiteChecklist": {
+    "aiCrawlerAccess": "pass (was a bare '*' allow; now explicitly welcomes 12 AI bots)",
+    "llmsTxt": "pass (comprehensive, correct (708) phone; now date-stamped)",
+    "localBusinessSchema": "pass (LocalBusiness + geo + 7 Service + OfferCatalog in layout.tsx)",
+    "serviceSchema": "pass (7 Service entities)",
+    "faqPageSchema": "pass (was missing on /faq; now injected, 26 Q&As)",
+    "reviewSchema": "FAIL — no AggregateRating/Review. Not fabricated; site has testimonials but no verifiable aggregate count. Needs real review profiles first (see off-site).",
+    "answerFormattedContent": "pass (FAQ page Q&A + service/location pages)",
+    "napConsistency": "on-site OK (708 phone, Palos Heights everywhere). OFF-SITE BROKEN — (309) Peoria phone + 'Peoria IL' Facebook label + out-of-state BBB duplicates.",
+    "sitemap": "pass (includes /faq)"
+  },
+  "offSiteActions": [
+    {"action": "Fix the business Facebook page: change location from 'Peoria IL' to Palos Heights, IL and ensure phone shows (708) 288-1696 — this is the likely source of the wrong (309) 323-9959 number AI is citing", "why": "AI surfaced a Peoria phone number for Emerald; a wrong NAP on an owned profile actively misdirects leads and corrupts the entity.", "priority": "high", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Claim and fully optimize Google Business Profile (Palos Heights, all 10 services, service area to Cook/Will/DuPage/Kane, photos of completed jobs)", "why": "Highest-weighted local signal and the main grounding source for 'near me'/'best' contractor answers, where Emerald scored 0.", "priority": "high", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Build review profiles and a review-velocity habit — Google + Yelp + BBB; request a review after each completed job", "why": "AI equates 'best/top-rated' with review volume + recency. Emerald has no aggregate reviews, so review schema cannot be added honestly yet.", "priority": "high", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Disambiguate the brand from out-of-state look-alikes (Emerald Masonry & Construction in PA/Seattle, Emerald Masonry LLC in MN) — claim a correct BBB profile for the IL entity, add sameAs links + a Wikidata entry, keep 'Emerald Masonry LLC' + Palos Heights NAP identical everywhere", "why": "BBB/Yelp results for similarly named out-of-state firms get blended into AI answers about the Chicagoland business.", "priority": "high", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Create/claim listings on Angi, Thumbtack, Houzz, and HomeAdvisor with consistent NAP", "why": "These directories' 'best masonry/tuckpointing/chimney' pages ranked for Naperville, Chicago, Orland Park, Frankfort, and Tinley Park — all without Emerald.", "priority": "high", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Get listed in commercial-masonry listicles: downtobid '15 Best Commercial Masonry Contractors Chicago' and topmasonrycontractorschicago.com", "why": "Commercial/B2B listicles are exactly what AI quotes for HOA/property-manager queries — Emerald's strongest segment.", "priority": "med", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Consolidate or remove the stray Google Sites page (sites.google.com/view/emerald-masonry); point authority to emeraldmasonryil.com", "why": "A duplicate web property splits entity signal and competes with the canonical site.", "priority": "med", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Add free listings: Bing Places, Apple Business Connect, YellowPages", "why": "Broadens the citation footprint AI cross-references for entity confidence.", "priority": "low", "status": "pending", "addedRun": "2026-06-06"},
+    {"action": "Authentic participation where recommendations happen (local subreddits, property-manager forums) — non-spammy", "why": "The reddit query returned no installer thread; there is open space to become the cited recommendation.", "priority": "low", "status": "pending", "addedRun": "2026-06-06"}
+  ],
+  "citationGaps": [
+    "Yelp — masonry/tuckpointing/chimney TOP 10 pages (Naperville, Chicago, Palos Heights, Tinley Park)",
+    "Thumbtack — masonry contractors (Naperville, Chicago)",
+    "Angi — masons / chimney repair (Naperville, Orland Park, Palos Heights, Tinley Park)",
+    "Houzz — masonry contractors (Naperville, Palos Heights)",
+    "BBB — tuckpointing category + correct IL Emerald profile (currently only out-of-state Emerald entities)",
+    "HomeAdvisor / Porch — tuckpointing & brick/stone (Chicago, Frankfort)",
+    "downtobid + topmasonrycontractorschicago.com — commercial masonry listicles",
+    "Facebook — owned page mislabeled 'Peoria IL' (source of wrong (309) phone)",
+    "Google Business Profile — not surfacing for any local query (likely unclaimed/under-optimized)"
+  ]
+}

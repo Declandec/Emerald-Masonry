@@ -166,9 +166,29 @@ function FaqCard({ category, icon, items }: {
   );
 }
 
+// FAQPage structured data — built from the same category objects above so it
+// can never drift from what's rendered on the page. Lets AI assistants and
+// answer engines (ChatGPT, Perplexity, Google AI Overviews) extract Q&As cleanly.
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://emeraldmasonryil.com/faq#faq",
+  mainEntity: [gettingStarted, aboutWork, serviceArea, propertyManagers, insurance]
+    .flatMap((c) => c.items)
+    .map((item) => ({
+      "@type": "Question",
+      name: item.q,
+      acceptedAnswer: { "@type": "Answer", text: item.a },
+    })),
+};
+
 export default function FaqPage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <Navigation />
 
       {/* Page hero banner */}
