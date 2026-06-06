@@ -815,3 +815,147 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A property manager in business casual attire sitting at a folding table outside a commercial brick building, reviewing printed scope of work documents. Multiple estimate packets visible on the table. Building facade behind shows brick with visible mortar joint deterioration — the subject of the estimate. Professional, focused. Natural daylight. Chicago suburbs commercial building background. Photorealistic documentary-style photography.
+
+---
+
+## SEO: tuckpointing-western-springs-il
+**File name:** `public/images/seo/tuckpointing-western-springs-il.jpg`
+**Alt text:** Mason tuckpointing the mortar joints on a Tudor revival brick home in Western Springs, IL
+
+**Prompt:**
+> A masonry worker on a ladder hand-tooling fresh mortar into the joints of a 1920s Tudor revival brick home, decorative brickwork and a steep roofline visible. Worker wearing hard hat, safety glasses, and gloves, holding a tuckpointing trowel and jointer. Crisp color match between new and old mortar visible on the wall. Tree-lined affluent suburban street, warm late-morning light. Photorealistic residential jobsite photography, no CGI.
+
+---
+
+## SEO: commercial-masonry-channahon-il
+**File name:** `public/images/seo/commercial-masonry-channahon-il.jpg`
+**Alt text:** Commercial masonry crew repairing a CMU block and brick warehouse facade in Channahon, IL
+
+**Prompt:**
+> A commercial masonry crew working from a scissor lift on the facade of a large industrial warehouse, repairing cracked CMU block and a parapet edge. Workers in hard hats, hi-vis vests, safety glasses, and gloves. Loading docks and a truck visible in the background near the I-55 corridor. Overcast Midwest daylight, industrial setting. Photorealistic commercial jobsite photography, no illustration.
+
+---
+
+## SEO: brick-repair-hanover-park-il
+**File name:** `public/images/seo/brick-repair-hanover-park-il.jpg`
+**Alt text:** Mason cutting out and replacing spalled brick above a window on a 1980s brick-veneer home in Hanover Park, IL
+
+**Prompt:**
+> A mason cutting out spalled and cracked brick units above a window opening on a 1980s brick-veneer suburban home, a corroded steel lintel partially exposed. Replacement brick stacked nearby, color-matched. Worker in hard hat, eye protection, gloves, and dust mask. Suburban northwest-suburbs street, clear daylight. Photorealistic residential repair photography, no CGI.
+
+---
+
+## SEO: chimney-repair-montgomery-il
+**File name:** `public/images/seo/chimney-repair-montgomery-il.jpg`
+**Alt text:** Mason repairing the crown and repointing a brick chimney above the roofline on a home in Montgomery, IL
+
+**Prompt:**
+> A masonry worker on a roof beside a brick chimney, repairing a cracked concrete crown and repointing the upper joints. Roof harness and fall protection visible, worker in hard hat, safety glasses, and gloves. Fox Valley suburban neighborhood and tree canopy in the background, blue sky. Photorealistic roof-level chimney repair photography, no illustration.
+
+---
+
+## SEO: masonry-restoration-olympia-fields-il
+**File name:** `public/images/seo/masonry-restoration-olympia-fields-il.jpg`
+**Alt text:** Masonry restoration crew working on a large brick and stone estate facade in Olympia Fields, IL
+
+**Prompt:**
+> A masonry restoration crew working from pipe scaffolding on a large brick-and-stone estate facade, repointing joints and replacing matched stone units. Multiple workers in hard hats, safety glasses, and gloves. Manicured affluent south-suburban grounds in the foreground, warm afternoon light. Photorealistic full-scope restoration jobsite photography, no CGI.
+
+---
+
+## Blog: chicago-freeze-thaw-vs-national-averages
+**File name:** `public/images/blog/chicago-freeze-thaw-vs-national-averages.jpg`
+**Alt text:** Close-up of freeze-thaw spalling damage on a Chicago-area brick wall with eroded mortar joints and ice
+
+**Prompt:**
+> Extreme close-up of a Chicago-area brick wall in winter showing freeze-thaw damage — spalled brick faces with flaked surfaces, eroded recessed mortar joints, and thin ice forming in the cracks. Frost and a dusting of snow on the brick ledges. No workers; condition-documentation style. Cold overcast daylight, muted tones. Photorealistic building condition photography, no illustration.
+
+---
+
+## Blog: solid-masonry-vs-brick-veneer-repair
+**File name:** `public/images/blog/solid-masonry-vs-brick-veneer-repair.jpg`
+**Alt text:** Cutaway comparison of a solid multi-wythe masonry wall and a brick-veneer wall with metal ties and air gap
+
+**Prompt:**
+> A real jobsite cross-section view at an opening in a brick wall, showing the wall's construction — on one exposed section a thick multi-wythe solid brick wall with header courses, on an adjacent section a single brick-veneer layer with a visible air gap and metal wall ties to the framing behind. A mason pointing at the wall ties, in hard hat, gloves, and safety glasses. Natural daylight. Photorealistic instructional jobsite photography, no CGI.
+
+---
+
+## Blog: mortar-color-matching-tuckpointing
+**File name:** `public/images/blog/mortar-color-matching-tuckpointing.jpg`
+**Alt text:** Mason comparing cured mortar test joints against aged existing mortar on a brick wall for color matching
+
+**Prompt:**
+> A mason's gloved hand holding a small trowel beside a brick wall where several cured mortar test joints in slightly different colors have been tooled into an inconspicuous area, compared against the surrounding aged original mortar. Sand samples and pigment containers on a board nearby. Worker in safety glasses and gloves. Even natural daylight for true color. Photorealistic close-up craft photography, no illustration.
+
+---
+
+## SEO: commercial-masonry-harvey-il
+**File name:** `public/images/seo/commercial-masonry-harvey-il.jpg`
+**Alt text:** Commercial masonry crew repairing a brick and CMU block facade on an older industrial building in Harvey, IL
+
+**Prompt:**
+> A commercial masonry crew working from a swing stage on the tall brick-and-block facade of an early-1900s industrial building, repointing eroded joints and replacing spalled brick. Multiple workers in hard hats, high-visibility vests, safety glasses, and gloves. Loading dock and rail-corridor industrial setting in the background, overcast south-suburban daylight. Photorealistic industrial jobsite photography, no CGI or illustration.
+
+---
+
+## SEO: tuckpointing-justice-il
+**File name:** `public/images/seo/tuckpointing-justice-il.jpg`
+**Alt text:** Mason grinding out and repointing mortar joints on a 1960s brick ranch home in Justice, IL
+
+**Prompt:**
+> A mason repointing the mortar joints on the wall of a 1960s brick ranch home, fresh color-matched mortar tooled into freshly ground joints, an angle grinder with dust shroud resting nearby. Worker in hard hat, safety glasses, dust mask, and gloves. Modest southwest-suburban residential street in the background, bright daylight. Photorealistic residential tuckpointing photography, no illustration.
+
+---
+
+## SEO: chimney-repair-worth-il
+**File name:** `public/images/seo/chimney-repair-worth-il.jpg`
+**Alt text:** Mason repairing the crown and repointing a brick chimney above the roofline of a post-war home in Worth, IL
+
+**Prompt:**
+> A masonry worker on a roof beside a brick chimney, repairing a cracked crown and repointing the exposed joints, with the counterflashing visible at the roofline. Roof fall-protection harness in use, worker in hard hat, safety glasses, and gloves. Post-war southwest-suburban rooftops and tree canopy in the background, clear blue sky. Photorealistic roof-level chimney repair photography, no CGI.
+
+---
+
+## SEO: brick-repair-chicago-ridge-il
+**File name:** `public/images/seo/brick-repair-chicago-ridge-il.jpg`
+**Alt text:** Mason cutting out spalled brick and setting matched replacement units on a mid-century building in Chicago Ridge, IL
+
+**Prompt:**
+> Close-up of a mason cutting out spalled and cracked brick from a mid-century wall and setting matched replacement units with fresh mortar, a stack of color-matched brick on the ground beside him. Worker in hard hat, safety glasses, and gloves. Suburban commercial-corridor building in the background, even daylight. Photorealistic brick-replacement craft photography, no illustration.
+
+---
+
+## SEO: masonry-restoration-yorkville-il
+**File name:** `public/images/seo/masonry-restoration-yorkville-il.jpg`
+**Alt text:** Masonry restoration crew repointing a 19th-century brick and limestone downtown building near the Fox River in Yorkville, IL
+
+**Prompt:**
+> A masonry restoration crew on pipe scaffolding restoring a 19th-century brick-and-limestone commercial building, carefully repointing joints with soft lime-based mortar and replacing a matched limestone unit. Workers in hard hats, safety glasses, and gloves. Historic Fox River downtown streetscape and river in the background, warm morning light. Photorealistic historic restoration jobsite photography, no CGI.
+
+---
+
+## Blog: why-sandblasting-damages-brick
+**File name:** `public/images/blog/why-sandblasting-damages-brick.jpg`
+**Alt text:** Close-up comparison of brick with its fired surface stripped by sandblasting next to brick with an intact face
+
+**Prompt:**
+> Extreme close-up of an older brick wall showing the difference between brick whose hard fired surface has been stripped away by sandblasting — rough, pitted, open-pored faces — beside adjacent brick with an intact smooth fired skin. Condition-documentation style, no workers. Raking daylight to emphasize surface texture, muted tones. Photorealistic building-condition photography, no illustration.
+
+---
+
+## Blog: brick-veneer-ties-shelf-angles-hidden-steel
+**File name:** `public/images/blog/brick-veneer-ties-shelf-angles-hidden-steel.jpg`
+**Alt text:** Jobsite view of an opened brick veneer wall exposing corroded metal wall ties and a steel shelf angle at a floor line
+
+**Prompt:**
+> A jobsite view where a section of brick veneer has been removed to expose the hidden steel behind it — corrugated metal wall ties anchoring the brick to the structure and a horizontal steel shelf angle at the floor line showing rust. A mason pointing to a corroded tie, in hard hat, safety glasses, and gloves. Air gap and flashing visible behind the brick. Natural daylight. Photorealistic instructional jobsite photography, no CGI.
+
+---
+
+## Blog: hairline-vs-structural-cracks-brick
+**File name:** `public/images/blog/hairline-vs-structural-cracks-brick.jpg`
+**Alt text:** Brick wall showing a stair-step crack following the mortar joints beside a wider structural crack through the brick
+
+**Prompt:**
+> A brick wall documenting two kinds of cracking side by side — a fine stair-step crack climbing through the mortar joints near a window corner, and a wider crack running through the brick faces themselves. A gloved hand holding a crack-width gauge against one crack for scale. Condition-survey style, worker hand only, safety glove visible. Even overcast daylight. Photorealistic building-condition photography, no illustration.

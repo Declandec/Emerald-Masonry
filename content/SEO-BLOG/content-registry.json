@@ -579,6 +579,106 @@
       "publishDate": "2026-05-20",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-western-springs-il",
+      "title": "Tuckpointing in Western Springs, IL — Mortar Joint Repair for Tudor, Georgian, and Bungalow Brick Homes",
+      "primaryKeyword": "tuckpointing Western Springs IL",
+      "city": "Western Springs, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-06-03",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "commercial-masonry-channahon-il",
+      "title": "Commercial & Industrial Masonry in Channahon, IL — Block, Brick, and Facade Repair for Will County Distribution and Industrial Properties",
+      "primaryKeyword": "commercial masonry contractor Channahon IL",
+      "city": "Channahon, IL",
+      "service": "Commercial & Industrial Masonry",
+      "publishDate": "2026-06-03",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-hanover-park-il",
+      "title": "Brick Repair in Hanover Park, IL — Spalling, Cracked, and Failing Brick Repair for 1970s–1990s Homes and Commercial Buildings",
+      "primaryKeyword": "brick repair Hanover Park IL",
+      "city": "Hanover Park, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-06-03",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-montgomery-il",
+      "title": "Chimney Repair in Montgomery, IL — Crown Repair, Repointing, and Rebuilds for Kane and Kendall County Homes",
+      "primaryKeyword": "chimney repair Montgomery IL",
+      "city": "Montgomery, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-06-03",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-olympia-fields-il",
+      "title": "Masonry Restoration in Olympia Fields, IL — Full-Scope Brick and Stone Repair for South Suburban Estates and Institutional Buildings",
+      "primaryKeyword": "masonry restoration Olympia Fields IL",
+      "city": "Olympia Fields, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-06-03",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-harvey-il",
+      "title": "Commercial & Industrial Masonry in Harvey, IL — Brick, Block, and Facade Repair for South Cook County's Industrial and Institutional Buildings",
+      "primaryKeyword": "commercial masonry contractor Harvey IL",
+      "city": "Harvey, IL",
+      "service": "Commercial & Industrial Masonry",
+      "publishDate": "2026-06-06",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-justice-il",
+      "title": "Tuckpointing in Justice, IL — Mortar Joint Repair for Post-War Brick Homes and Buildings",
+      "primaryKeyword": "tuckpointing Justice IL",
+      "city": "Justice, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-06-06",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-worth-il",
+      "title": "Chimney Repair in Worth, IL — Crown Repair, Repointing, Flashing, and Rebuilds for Southwest Cook County Homes",
+      "primaryKeyword": "chimney repair Worth IL",
+      "city": "Worth, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-06-06",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-chicago-ridge-il",
+      "title": "Brick Repair in Chicago Ridge, IL — Spalling, Cracking, and Replacement for Mid-Century Brick Homes and Commercial Buildings",
+      "primaryKeyword": "brick repair Chicago Ridge IL",
+      "city": "Chicago Ridge, IL",
+      "service": "Brick Repair & Replacement",
+      "publishDate": "2026-06-06",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-yorkville-il",
+      "title": "Masonry Restoration in Yorkville, IL — Brick and Stone Repair for Historic Downtown Buildings and Newer Fox River Subdivisions",
+      "primaryKeyword": "masonry restoration Yorkville IL",
+      "city": "Yorkville, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-06-06",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
     }
   ],
   "blogPosts": [
@@ -826,6 +926,48 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-05-20"
+    },
+    {
+      "slug": "chicago-freeze-thaw-vs-national-averages",
+      "title": "How Chicago's Freeze-Thaw Climate Compares to the National Average — And Why Your Masonry Pays for the Difference",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-03"
+    },
+    {
+      "slug": "solid-masonry-vs-brick-veneer-repair",
+      "title": "Solid Masonry vs. Brick Veneer — Why the Two Walls Fail Differently and Get Repaired Differently",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-03"
+    },
+    {
+      "slug": "mortar-color-matching-tuckpointing",
+      "title": "Mortar Color Matching in Tuckpointing — Why Your Repair Looks Wrong, and How It's Supposed to Be Done",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-03"
+    },
+    {
+      "slug": "why-sandblasting-damages-brick",
+      "title": "Why Sandblasting and Power-Washing Ruin Brick — And How Masonry Should Actually Be Cleaned",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-06"
+    },
+    {
+      "slug": "brick-veneer-ties-shelf-angles-hidden-steel",
+      "title": "Brick Veneer Ties and Shelf Angles — The Hidden Steel That Holds Your Wall Up",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-06"
+    },
+    {
+      "slug": "hairline-vs-structural-cracks-brick",
+      "title": "Hairline Cracks vs. Structural Cracks in Brick — A Property Manager's Guide to What's Urgent",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-06"
     }
   ],
   "coveredCities": [
@@ -879,7 +1021,17 @@
     "Midlothian, IL",
     "Streamwood, IL",
     "Crest Hill, IL",
-    "River Forest, IL"
+    "River Forest, IL",
+    "Western Springs, IL",
+    "Channahon, IL",
+    "Hanover Park, IL",
+    "Montgomery, IL",
+    "Olympia Fields, IL",
+    "Harvey, IL",
+    "Justice, IL",
+    "Worth, IL",
+    "Chicago Ridge, IL",
+    "Yorkville, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -934,6 +1086,14 @@
     {
       "intent": "masonry restoration south Cook County Chicago south suburbs tuckpointing contractor",
       "date": "2026-05-20"
+    },
+    {
+      "intent": "tuckpointing Western Springs IL brick repointing residential",
+      "date": "2026-06-03"
+    },
+    {
+      "intent": "masonry restoration contractor Yorkville IL Kendall County brick stone tuckpointing",
+      "date": "2026-06-06"
     }
   ],
   "coveredKeywords": [
@@ -1027,7 +1187,23 @@
     "historic masonry restoration River Forest IL",
     "seasonal masonry maintenance calendar Illinois",
     "efflorescence recurring brick building Illinois",
-    "masonry scope of work property manager"
+    "masonry scope of work property manager",
+    "tuckpointing Western Springs IL",
+    "commercial masonry contractor Channahon IL",
+    "brick repair Hanover Park IL",
+    "chimney repair Montgomery IL",
+    "masonry restoration Olympia Fields IL",
+    "Chicago freeze-thaw cycles vs national average masonry",
+    "solid masonry vs brick veneer repair differences",
+    "mortar color matching tuckpointing Illinois",
+    "commercial masonry contractor Harvey IL",
+    "tuckpointing Justice IL",
+    "chimney repair Worth IL",
+    "brick repair Chicago Ridge IL",
+    "masonry restoration Yorkville IL",
+    "sandblasting power washing brick damage cleaning",
+    "brick veneer ties shelf angles hidden steel",
+    "hairline vs structural cracks brick wall"
   ],
-  "lastUpdated": "2026-05-20"
+  "lastUpdated": "2026-06-06"
 }
