@@ -959,3 +959,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A brick wall documenting two kinds of cracking side by side — a fine stair-step crack climbing through the mortar joints near a window corner, and a wider crack running through the brick faces themselves. A gloved hand holding a crack-width gauge against one crack for scale. Condition-survey style, worker hand only, safety glove visible. Even overcast daylight. Photorealistic building-condition photography, no illustration.
+
+---
+
+## SEO Page: parapet-wall-repair-joliet-il
+**File name:** `public/images/seo/parapet-wall-repair-joliet-il.jpg`
+**Alt text:** Repaired commercial parapet wall and coping on a brick building in Joliet, IL
+
+**Prompt:**
+> A rooftop view of a commercial brick building's parapet wall under repair in Joliet, Illinois. Masons resetting precast concrete coping onto fresh through-wall flashing along the top of the parapet, with repointed mortar joints visible on the roof-side face. Workers in hard hats, safety glasses, and gloves; roof membrane and a low Will County industrial skyline in the background. Natural daylight, photorealistic jobsite photography, no CGI.
+
+---
+
+## SEO Page: chimney-repair-naperville-il
+**File name:** `public/images/seo/chimney-repair-naperville-il.jpg`
+**Alt text:** Repaired brick chimney with new crown and repointed joints on a home in Naperville, IL
+
+**Prompt:**
+> A residential brick chimney being repaired above the roofline of a Naperville, Illinois home — a mason troweling a freshly sloped concrete crown with overhang, repointed mortar joints and new metal flashing at the roof line visible. Worker in hard hat, safety glasses, and gloves, secured on the roof. Suburban tree canopy and clear sky behind. Photorealistic jobsite photography, no illustration.
+
+---
+
+## SEO Page: masonry-restoration-tinley-park-il
+**File name:** `public/images/seo/masonry-restoration-tinley-park-il.jpg`
+**Alt text:** Restored commercial brick facade with repointed mortar joints in Tinley Park, IL
+
+**Prompt:**
+> A wide view of a multi-story commercial brick building in Tinley Park, Illinois mid-restoration — crew on scaffolding repointing joints and replacing spalled brick across the facade, a clear contrast between freshly restored and weathered sections. Workers in hard hats, safety glasses, and gloves. Overcast Midwest sky, south-suburban commercial district. Photorealistic jobsite photography, no CGI.
+
+---
+
+## SEO Page: efflorescence-waterproofing-lockport-il
+**File name:** `public/images/seo/efflorescence-waterproofing-lockport-il.jpg`
+**Alt text:** Brick wall in Lockport, IL cleaned of efflorescence and waterproofed against moisture intrusion
+
+**Prompt:**
+> Close-up jobsite photo of a brick wall in Lockport, Illinois with the lower portion still showing white chalky efflorescence and the upper portion freshly cleaned and repointed. A mason applying a clear breathable penetrating water repellent with a low-pressure sprayer, in safety glasses, respirator, and gloves. Natural daylight, limestone-and-brick canal-town context. Photorealistic, no illustration.
+
+---
+
+## SEO Page: tuckpointing-elgin-il
+**File name:** `public/images/seo/tuckpointing-elgin-il.jpg`
+**Alt text:** Freshly repointed brick wall with matched mortar joints on a building in Elgin, IL
+
+**Prompt:**
+> A mason tuckpointing a historic brick building in Elgin, Illinois near the Fox River — close-up of a tuckpointing trowel packing color-matched mortar into raked-out joints, half the wall freshly repointed and half still weathered. Worker in safety glasses, dust mask, and gloves. Warm natural daylight, older downtown masonry context. Photorealistic jobsite photography, no CGI.
+
+---
+
+## Blog: coping-roofline-masonry-leaks
+**File name:** `public/images/blog/coping-roofline-masonry-leaks.jpg`
+**Alt text:** Cracked coping joints at the top of a parapet wall identified as the source of a roofline masonry leak
+
+**Prompt:**
+> A rooftop documentation photo of the top of a brick parapet wall, focused on cracked and open joints between stone coping pieces with water staining tracking down the masonry below. A gloved hand pointing to a failed coping joint; flashing edge visible beneath a lifted cap. Worker hand only, safety glove. Even overcast daylight, condition-survey style. Photorealistic, no illustration.
+
+---
+
+## Blog: spot-repointing-vs-full-tuckpointing
+**File name:** `public/images/blog/spot-repointing-vs-full-tuckpointing.jpg`
+**Alt text:** One elevation of a brick wall showing selectively repointed sections beside fully repointed areas
+
+**Prompt:**
+> A brick building elevation showing the contrast between spot repointing and full repointing — a band of freshly repointed joints around windows and corners against a wall of older weathered joints, with a small section fully renewed. A mason on a ladder working an isolated failed area, in hard hat, safety glasses, and gloves. Overcast daylight. Photorealistic jobsite photography, no CGI.
+
+---
+
+## Blog: efflorescence-spalling-staining-brick-diagnosis
+**File name:** `public/images/blog/efflorescence-spalling-staining-brick-diagnosis.jpg`
+**Alt text:** A brick wall showing efflorescence, spalling, and rust staining together for comparison
+
+**Prompt:**
+> A condition-survey close-up of a brick wall displaying three distinct problems near each other — a white powdery efflorescence bloom, a section of flaking spalled brick faces, and an orange-brown rust stain running from a steel lintel. A gloved hand holding an inspection note beside the wall for scale. Even overcast daylight, worker hand only with safety glove. Photorealistic building-condition photography, no illustration.

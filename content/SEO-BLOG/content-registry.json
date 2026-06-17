@@ -679,6 +679,56 @@
       "publishDate": "2026-06-06",
       "image": "/images/after-residential.jpg",
       "competitorInformed": true
+    },
+    {
+      "slug": "parapet-wall-repair-joliet-il",
+      "title": "Parapet Wall Repair in Joliet, IL — Commercial Roofline Masonry That Stops Leaks at the Source",
+      "primaryKeyword": "parapet wall repair Joliet IL",
+      "city": "Joliet, IL",
+      "service": "Parapet Wall Repair",
+      "publishDate": "2026-06-17",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-naperville-il",
+      "title": "Chimney Repair in Naperville, IL — Crown Repair, Repointing, and Rebuilds Done Right",
+      "primaryKeyword": "chimney repair Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Chimney Repair",
+      "publishDate": "2026-06-17",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-restoration-tinley-park-il",
+      "title": "Masonry Restoration in Tinley Park, IL — Full-Scope Brick and Mortar Repair for Commercial and Institutional Buildings",
+      "primaryKeyword": "masonry restoration Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Masonry Restoration",
+      "publishDate": "2026-06-17",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "efflorescence-waterproofing-lockport-il",
+      "title": "Efflorescence & Masonry Waterproofing in Lockport, IL — Stopping Water Before It Wrecks Your Brick",
+      "primaryKeyword": "efflorescence waterproofing Lockport IL",
+      "city": "Lockport, IL",
+      "service": "Efflorescence & Waterproofing",
+      "publishDate": "2026-06-17",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-elgin-il",
+      "title": "Tuckpointing in Elgin, IL — Mortar Joint Repair for the Fox River Valley's Historic and Modern Brick",
+      "primaryKeyword": "tuckpointing Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Tuckpointing & Repointing",
+      "publishDate": "2026-06-17",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -968,6 +1018,27 @@
       "service": "Brick Repair & Replacement",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-06"
+    },
+    {
+      "slug": "coping-roofline-masonry-leaks",
+      "title": "Why So Many Brick Buildings Leak From the Top Down — Coping, Caps, and Roofline Masonry",
+      "service": "Parapet Wall Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-17"
+    },
+    {
+      "slug": "spot-repointing-vs-full-tuckpointing",
+      "title": "Spot Repointing vs. Full Tuckpointing — When Patching Saves Money and When It Wastes It",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-17"
+    },
+    {
+      "slug": "efflorescence-spalling-staining-brick-diagnosis",
+      "title": "Efflorescence, Spalling, or Staining? A Property Manager's Guide to Reading Your Brick",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-17"
     }
   ],
   "coveredCities": [
@@ -1094,6 +1165,10 @@
     {
       "intent": "masonry restoration contractor Yorkville IL Kendall County brick stone tuckpointing",
       "date": "2026-06-06"
+    },
+    {
+      "intent": "parapet wall rebuilds Chicago commercial masonry contractor",
+      "date": "2026-06-17"
     }
   ],
   "coveredKeywords": [
@@ -1203,7 +1278,15 @@
     "masonry restoration Yorkville IL",
     "sandblasting power washing brick damage cleaning",
     "brick veneer ties shelf angles hidden steel",
-    "hairline vs structural cracks brick wall"
+    "hairline vs structural cracks brick wall",
+    "parapet wall repair Joliet IL",
+    "chimney repair Naperville IL",
+    "masonry restoration Tinley Park IL",
+    "efflorescence waterproofing Lockport IL",
+    "tuckpointing Elgin IL",
+    "coping roofline masonry leaks Chicago",
+    "spot repointing vs full tuckpointing",
+    "efflorescence vs spalling vs staining brick"
   ],
-  "lastUpdated": "2026-06-06"
+  "lastUpdated": "2026-06-17"
 }
