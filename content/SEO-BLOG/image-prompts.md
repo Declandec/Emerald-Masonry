@@ -1112,3 +1112,59 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A craftsman mason carefully hand-repointing the soft lime mortar joints of an older Chicago-area brick home, taking obvious care to match color and tooling — the picture of skilled, non-destructive historic work. Worker in safety glasses and gloves. Warm natural daylight, mature residential setting. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: tuckpointing-mount-greenwood-chicago-il (location)
+**File name:** `public/images/seo/tuckpointing-mount-greenwood-chicago-il.jpg`
+**Alt text:** Freshly tuckpointed brick bungalow with color-matched mortar joints in Mount Greenwood, Chicago
+
+**Prompt:**
+> A craftsman mason hand-repointing the mortar joints on a classic Chicago brick bungalow, carefully matching mortar color and tooling so the new joints blend into the century-old brick. Worker in safety glasses and gloves on a ladder. Warm daylight, dense south-side residential street. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: chimney-repair-burbank-il (location)
+**File name:** `public/images/seo/chimney-repair-burbank-il.jpg`
+**Alt text:** Repaired brick chimney with new crown and repointed joints on a mid-century home in Burbank, IL
+
+**Prompt:**
+> A mason on roof staging finishing a brick chimney repair — a freshly recast sloped crown and clean repointed joints on a mid-century suburban home. Worker in hard hat, safety glasses, and gloves. Clear sky, flat southwest-suburb rooftops. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: brick-repair-oak-brook-il (location)
+**File name:** `public/images/seo/brick-repair-oak-brook-il.jpg`
+**Alt text:** Color-matched brick repair section on an upscale estate home facade in Oak Brook, IL
+
+**Prompt:**
+> A mason setting matched replacement brick into a section of an upscale estate-home facade, the repair blending invisibly into the surrounding wall. Worker in safety glasses and gloves, mature landscaping behind. Soft natural daylight, affluent suburban setting. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: foundation-masonry-repair-st-charles-il (location)
+**File name:** `public/images/seo/foundation-masonry-repair-st-charles-il.jpg`
+**Alt text:** Repointed brick and block foundation wall on a Fox Valley home in St. Charles, IL
+
+**Prompt:**
+> A mason repointing the mortar joints of an exposed brick-and-block foundation wall at grade, sealing a step crack near a window well. Worker in gloves and safety glasses, kneeling at the base of the wall. Even daylight, residential side yard. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: power-washing-mokena-il (location)
+**File name:** `public/images/seo/power-washing-mokena-il.jpg`
+**Alt text:** Clean brick facade after gentle low-pressure soft-wash masonry cleaning in Mokena, IL
+
+**Prompt:**
+> A worker gently soft-washing a brick home facade at controlled low pressure, half the wall visibly cleaner and brighter than the algae-streaked half still being cleaned. Worker in protective eyewear and gloves. Bright daylight, suburban Will County home. Photorealistic jobsite photography, no CGI.
+
+## Blog: road-salt-deicer-brick-damage-illinois
+**File name:** `public/images/blog/road-salt-deicer-brick-damage-illinois.jpg`
+**Alt text:** Salt-spalled brick steps with flaking faces and eroded mortar joints in winter
+
+**Prompt:**
+> A close documentation photo of brick front steps damaged by de-icing salt — spalled, flaking brick faces and washed-out mortar joints, with a light dusting of white salt residue and efflorescence. Winter daylight, residential stoop. Photorealistic, no illustration.
+
+## Blog: masonry-repair-permits-chicago-suburbs
+**File name:** `public/images/blog/masonry-repair-permits-chicago-suburbs.jpg`
+**Alt text:** Masonry crew working from scaffolding on a building facade where permitted structural repair is underway
+
+**Prompt:**
+> A masonry crew performing structural facade repair from scaffolding on an older multi-story brick building, the kind of permitted work that requires inspection. Workers in hard hats, safety glasses, and high-visibility vests. Overcast urban daylight. Photorealistic jobsite photography, no CGI.
+
+## Blog: what-to-expect-residential-masonry-repair-project
+**File name:** `public/images/blog/what-to-expect-residential-masonry-repair-project.jpg`
+**Alt text:** Mason reviewing completed brick repair work with a homeowner during a final walkthrough
+
+**Prompt:**
+> A mason in a company polo and safety glasses walking a homeowner through completed brick repair on the side of a tidy residential home, gesturing to neatly repointed joints, the work area clean. Warm late-afternoon daylight, suburban setting. Photorealistic documentation photography, no CGI.

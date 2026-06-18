@@ -825,6 +825,66 @@
       "publishDate": "2026-06-18",
       "image": "/images/after-commercial.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-mount-greenwood-chicago-il",
+      "title": "Tuckpointing in Mount Greenwood, Chicago, IL — Mortar Matching for the Bungalow Belt's Brick Homes",
+      "primaryKeyword": "tuckpointing Mount Greenwood Chicago IL",
+      "city": "Mount Greenwood, Chicago, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-burbank-il",
+      "title": "Chimney Repair in Burbank, IL — Crown Repair, Repointing, and Rebuilds for Bungalow-Belt Homes",
+      "primaryKeyword": "chimney repair Burbank IL",
+      "city": "Burbank, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-oak-brook-il",
+      "title": "Brick Repair in Oak Brook, IL — Spalling, Cracking, and Replacement for Estate Homes and Commercial Properties",
+      "primaryKeyword": "brick repair Oak Brook IL",
+      "city": "Oak Brook, IL",
+      "service": "Brick Repair & Replacement",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-st-charles-il",
+      "title": "Foundation Masonry Repair in St. Charles, IL — Brick & Block Foundation Wall Repair for Fox Valley Homes",
+      "primaryKeyword": "foundation masonry repair St. Charles IL",
+      "city": "St. Charles, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "power-washing-mokena-il",
+      "title": "Masonry Power Washing in Mokena, IL — Gentle Soft-Wash Cleaning for Brick and Stone",
+      "primaryKeyword": "masonry power washing Mokena IL",
+      "city": "Mokena, IL",
+      "service": "Masonry Power Washing",
+      "serviceSlug": "power-washing",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1156,6 +1216,27 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "road-salt-deicer-brick-damage-illinois",
+      "title": "How Road Salt and De-Icers Destroy Brick Steps, Stoops, and Foundations in Illinois",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "masonry-repair-permits-chicago-suburbs",
+      "title": "Do You Need a Permit for Masonry Repair in Chicago and the Suburbs?",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "what-to-expect-residential-masonry-repair-project",
+      "title": "What to Expect During a Residential Masonry Repair Project — From Estimate to Final Cleanup",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
     }
   ],
   "coveredCities": [
@@ -1220,7 +1301,11 @@
     "Justice, IL",
     "Worth, IL",
     "Chicago Ridge, IL",
-    "Yorkville, IL"
+    "Yorkville, IL",
+    "Mount Greenwood, Chicago, IL",
+    "Burbank, IL",
+    "Oak Brook, IL",
+    "St. Charles, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -1290,6 +1375,10 @@
     },
     {
       "intent": "tuckpointing Beverly Chicago historic brick greystone contractor",
+      "date": "2026-06-18"
+    },
+    {
+      "intent": "tuckpointing Mount Greenwood Chicago bungalow brick repointing contractor 60655",
       "date": "2026-06-18"
     }
   ],
@@ -1419,7 +1508,15 @@
     "when masonry repair is urgent",
     "how much does tuckpointing cost in Illinois",
     "signs of chimney damage Chicago",
-    "choosing a masonry contractor older brick home Chicago"
+    "choosing a masonry contractor older brick home Chicago",
+    "tuckpointing Mount Greenwood Chicago IL",
+    "chimney repair Burbank IL",
+    "brick repair Oak Brook IL",
+    "foundation masonry repair St. Charles IL",
+    "masonry power washing Mokena IL",
+    "road salt de-icer brick damage Illinois",
+    "masonry repair permit Chicago suburbs",
+    "what to expect residential masonry repair project"
   ],
   "visibilityRuns": [
     {
