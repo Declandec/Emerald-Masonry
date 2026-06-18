@@ -4,8 +4,8 @@ import Image from "next/image";
 import Link from "next/link";
 import Navigation from "@/components/sections/Navigation";
 import Footer from "@/components/sections/Footer";
+import { BASE_URL, BUSINESS, breadcrumbNode, faqPageNode, jsonLd } from "@/lib/schema";
 
-const BASE_URL = "https://emeraldmasonryil.com";
 const SUFFIX = " | Emerald Masonry";
 
 function buildTitle(title: string): string {
@@ -85,6 +85,16 @@ export default async function BlogPostPage({
           <p className="text-xs text-muted-foreground/40">{post.date}</p>
         </div>
 
+        {/* Answer-first block — written to be quoted by AI answer engines */}
+        {post.aiSummary && post.aiSummary !== post.excerpt && (
+          <div className="max-w-3xl mb-12 border-l-2 border-[var(--color-emerald)] pl-5">
+            <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-3">
+              Quick Answer
+            </p>
+            <p className="text-base text-foreground leading-relaxed">{post.aiSummary}</p>
+          </div>
+        )}
+
         {/* Hero image */}
         {post.image && (
           <div className="relative aspect-video md:aspect-[16/7] w-full overflow-hidden mb-10 md:mb-16">
@@ -108,6 +118,23 @@ export default async function BlogPostPage({
           dangerouslySetInnerHTML={{ __html: contentHtml }}
         />
 
+        {/* FAQ — visible Q&A mirrored as FAQPage schema */}
+        {post.faqs.length > 0 && (
+          <div className="max-w-3xl mt-16 pt-10 border-t border-border">
+            <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-8">
+              Frequently Asked Questions
+            </p>
+            <div className="divide-y divide-border">
+              {post.faqs.map((faq, i) => (
+                <div key={i} className="py-6 first:pt-0">
+                  <h2 className="text-base font-semibold text-foreground mb-3">{faq.question}</h2>
+                  <p className="text-sm text-muted-foreground leading-[1.8]">{faq.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* CTA */}
         <div className="max-w-3xl mt-16 pt-10 flex justify-start">
           <a
@@ -117,6 +144,33 @@ export default async function BlogPostPage({
             Book a Free Quote →
           </a>
         </div>
+
+        {/* JSON-LD: Article + FAQPage + BreadcrumbList */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: jsonLd(
+              {
+                "@context": "https://schema.org",
+                "@type": "Article",
+                headline: post.title,
+                description: post.excerpt,
+                datePublished: post.date,
+                dateModified: post.date,
+                image: post.image ? `${BASE_URL}${post.image}` : BUSINESS.image,
+                author: { "@type": "Organization", name: BUSINESS.name, url: BASE_URL },
+                publisher: { "@id": `${BASE_URL}/#business` },
+                mainEntityOfPage: `${BASE_URL}/blog/${slug}`,
+              },
+              faqPageNode(post.faqs),
+              breadcrumbNode([
+                { name: "Home", url: BASE_URL },
+                { name: "Blog", url: `${BASE_URL}/blog` },
+                { name: post.title, url: `${BASE_URL}/blog/${slug}` },
+              ]),
+            ),
+          }}
+        />
       </main>
       <Footer />
     </>

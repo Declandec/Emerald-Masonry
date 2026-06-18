@@ -6,6 +6,8 @@ import html from "remark-html";
 
 const BLOG_DIR = path.join(process.cwd(), "content/SEO-BLOG/blog");
 
+export type BlogFaq = { question: string; answer: string };
+
 export type BlogPost = {
   slug: string;
   title: string;
@@ -16,7 +18,24 @@ export type BlogPost = {
   image: string;
   keywords: string[];
   content: string;
+  // GEO / answer-engine fields (optional, backward-compatible)
+  aiSummary: string;
+  intent: string; // "informational" | "commercial" | "transactional"
+  faqs: BlogFaq[];
 };
+
+function normalizeBlogFaqs(raw: unknown): BlogFaq[] {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map((f) => {
+      const obj = (f ?? {}) as Record<string, string>;
+      return {
+        question: obj.question || obj.q || "",
+        answer: obj.answer || obj.a || "",
+      };
+    })
+    .filter((f) => f.question && f.answer);
+}
 
 export function getAllPosts(): BlogPost[] {
   if (!fs.existsSync(BLOG_DIR)) return [];
@@ -39,6 +58,9 @@ export function getAllPosts(): BlogPost[] {
       image: data.image || "",
       keywords: data.keywords || [],
       content,
+      aiSummary: data.aiSummary || data.excerpt || "",
+      intent: data.intent || "informational",
+      faqs: normalizeBlogFaqs(data.faqs),
     };
   });
 
@@ -62,6 +84,9 @@ export function getPostBySlug(slug: string): BlogPost | null {
     image: data.image || "",
     keywords: data.keywords || [],
     content,
+    aiSummary: data.aiSummary || data.excerpt || "",
+    intent: data.intent || "informational",
+    faqs: normalizeBlogFaqs(data.faqs),
   };
 }
 

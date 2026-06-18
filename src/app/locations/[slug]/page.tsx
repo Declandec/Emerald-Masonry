@@ -4,8 +4,13 @@ import Image from "next/image";
 import Link from "next/link";
 import Navigation from "@/components/sections/Navigation";
 import Footer from "@/components/sections/Footer";
-
-const BASE_URL = "https://emeraldmasonryil.com";
+import {
+  BASE_URL,
+  breadcrumbNode,
+  faqPageNode,
+  serviceNode,
+  jsonLd,
+} from "@/lib/schema";
 
 function buildTitle(metaTitle: string): string {
   if (metaTitle.length <= 60) return metaTitle;
@@ -72,6 +77,16 @@ export default async function LocationLandingPage({
             {page.excerpt}
           </p>
         </div>
+
+        {/* Answer-first block — written to be quoted by AI answer engines */}
+        {page.aiSummary && (
+          <div className="max-w-3xl mb-12 border-l-2 border-[var(--color-emerald)] pl-5">
+            <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-3">
+              Quick Answer
+            </p>
+            <p className="text-base text-foreground leading-relaxed">{page.aiSummary}</p>
+          </div>
+        )}
 
         {/* Hero image */}
         {page.image && (
@@ -147,31 +162,44 @@ export default async function LocationLandingPage({
           </div>
         </div>
 
-        {/* JSON-LD per page */}
+        {/* FAQ — visible Q&A that mirrors the FAQPage schema for AI answer engines */}
+        {page.faqs.length > 0 && (
+          <div className="max-w-3xl mt-16 pt-10 border-t border-border">
+            <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-8">
+              Frequently Asked Questions
+            </p>
+            <div className="divide-y divide-border">
+              {page.faqs.map((faq, i) => (
+                <div key={i} className="py-6 first:pt-0">
+                  <h2 className="text-base font-semibold text-foreground mb-3">
+                    {faq.question}
+                  </h2>
+                  <p className="text-sm text-muted-foreground leading-[1.8]">{faq.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* JSON-LD per page: Service + FAQPage + BreadcrumbList */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebPage",
-              name: buildTitle(page.metaTitle),
-              description: page.metaDescription,
-              url: `${BASE_URL}/locations/${slug}`,
-              about: {
-                "@type": "Service",
-                name: page.service,
-                areaServed: {
-                  "@type": "City",
-                  name: page.city,
-                },
-                provider: {
-                  "@type": "LocalBusiness",
-                  name: "Emerald Masonry LLC",
-                  telephone: "+17082881696",
-                  url: BASE_URL,
-                },
-              },
-            }),
+            __html: jsonLd(
+              serviceNode({
+                name: `${page.service} in ${page.city}`,
+                description: page.aiSummary || page.metaDescription,
+                url: `${BASE_URL}/locations/${slug}`,
+                city: page.city,
+                serviceType: page.service,
+              }),
+              faqPageNode(page.faqs),
+              breadcrumbNode([
+                { name: "Home", url: BASE_URL },
+                { name: "Service Areas", url: `${BASE_URL}/locations` },
+                { name: `${page.service} — ${page.city}`, url: `${BASE_URL}/locations/${slug}` },
+              ]),
+            ),
           }}
         />
       </main>

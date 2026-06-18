@@ -729,6 +729,102 @@
       "publishDate": "2026-06-17",
       "image": "/images/after-commercial-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-beverly-chicago-il",
+      "title": "Tuckpointing in Beverly, Chicago, IL — Mortar Matching for Century-Old Brick Homes and Greystones",
+      "primaryKeyword": "tuckpointing Beverly Chicago IL",
+      "city": "Beverly, Chicago, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "foundation-masonry-repair-oak-lawn-il",
+      "title": "Foundation Masonry Repair in Oak Lawn, IL — Brick & Block Foundation Wall Repair",
+      "primaryKeyword": "foundation masonry repair Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-oak-park-il",
+      "title": "Limestone & Sill Repair in Oak Park, IL — Stone Restoration for Historic Homes & Greystones",
+      "primaryKeyword": "limestone sill repair Oak Park IL",
+      "city": "Oak Park, IL",
+      "service": "Limestone & Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-repair-berwyn-il",
+      "title": "Lintel Repair in Berwyn, IL — Rusting Steel Lintel Repair for Bungalows & Two-Flats",
+      "primaryKeyword": "lintel repair Berwyn IL",
+      "city": "Berwyn, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "power-washing-naperville-il",
+      "title": "Masonry Power Washing in Naperville, IL — Gentle Soft-Wash Brick and Stone Cleaning",
+      "primaryKeyword": "masonry power washing Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Masonry Power Washing",
+      "serviceSlug": "power-washing",
+      "pageType": "location",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-vs-brick-replacement",
+      "title": "Tuckpointing vs. Brick Replacement: Which Does Your Wall Actually Need?",
+      "primaryKeyword": "tuckpointing vs brick replacement",
+      "city": "Chicagoland, IL",
+      "service": "Tuckpointing vs Brick Replacement",
+      "serviceSlug": "tuckpointing",
+      "pageType": "comparison",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-rebuild-vs-chimney-repair",
+      "title": "Chimney Rebuild vs. Repair: How to Tell Which One Your Chimney Needs",
+      "primaryKeyword": "chimney rebuild vs repair",
+      "city": "Chicagoland, IL",
+      "service": "Chimney Rebuild vs Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "comparison",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "when-masonry-repair-becomes-urgent",
+      "title": "When Masonry Repair Becomes Urgent: Signs You Shouldn't Wait Out",
+      "primaryKeyword": "when masonry repair is urgent",
+      "city": "Chicagoland, IL",
+      "service": "When Masonry Repair Is Urgent",
+      "serviceSlug": "masonry-restoration",
+      "pageType": "decision",
+      "publishDate": "2026-06-18",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1039,9 +1135,31 @@
       "service": "Brick Repair & Replacement",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-17"
+    },
+    {
+      "slug": "tuckpointing-cost-illinois",
+      "title": "How Much Does Tuckpointing Cost in Illinois? A Straight Answer on the Factors That Set the Price",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "signs-of-chimney-damage-chicago",
+      "title": "Signs of Chimney Damage Every Chicago Homeowner Should Know",
+      "service": "Chimney Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "choosing-masonry-contractor-older-brick-home",
+      "title": "How to Choose a Masonry Contractor for an Older Brick Home Near Chicago",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-18"
     }
   ],
   "coveredCities": [
+    "Beverly, Chicago, IL",
     "Orland Park, IL",
     "Oak Lawn, IL",
     "Tinley Park, IL",
@@ -1169,6 +1287,10 @@
     {
       "intent": "parapet wall rebuilds Chicago commercial masonry contractor",
       "date": "2026-06-17"
+    },
+    {
+      "intent": "tuckpointing Beverly Chicago historic brick greystone contractor",
+      "date": "2026-06-18"
     }
   ],
   "coveredKeywords": [
@@ -1286,7 +1408,34 @@
     "tuckpointing Elgin IL",
     "coping roofline masonry leaks Chicago",
     "spot repointing vs full tuckpointing",
-    "efflorescence vs spalling vs staining brick"
+    "efflorescence vs spalling vs staining brick",
+    "tuckpointing Beverly Chicago IL",
+    "foundation masonry repair Oak Lawn IL",
+    "limestone sill repair Oak Park IL",
+    "lintel repair Berwyn IL",
+    "masonry power washing Naperville IL",
+    "tuckpointing vs brick replacement",
+    "chimney rebuild vs repair",
+    "when masonry repair is urgent",
+    "how much does tuckpointing cost in Illinois",
+    "signs of chimney damage Chicago",
+    "choosing a masonry contractor older brick home Chicago"
   ],
-  "lastUpdated": "2026-06-17"
+  "visibilityRuns": [
+    {
+      "date": "2026-06-18",
+      "visibilityScore": 3,
+      "promptCount": 12,
+      "method": "WebSearch + WebFetch proxy for AI-answer grounding sources (not direct LLM calls)",
+      "notes": "GEO baseline on a hard near-me/directory/comparison prompt set. Emerald absent from the Yelp/BBB/Angi/Houzz/'best-of' listicles AI grounds on across all 12 generic intents; surfaces only on its own domain for an exact brand-name query. Dominant gaps are OFF-SITE (directory presence, reviews, Google Business Profile) — coordinate with the ai-visibility skill's off-site action plan. On-site GEO assets (14 service hubs, FAQ/Service/Breadcrumb schema, answer-first content, comparison/decision pages) shipped this run to build the citable on-site foundation.",
+      "topGaps": [
+        "No third-party directory presence (Yelp Top-10, BBB Palos Heights, Angi/Houzz/HomeAdvisor) — competitors own every slot",
+        "No off-site review proof anywhere (Google/Yelp/BBB) — no social-proof signal for AI to recommend",
+        "Weak near-me/emergency capture even for home base (Palos Heights, Oak Lawn) — Google Business Profile not ranking",
+        "Missing quotable cost/pricing content vs Delta/Kerry/Krisbud cost guides (addressed on-site this run via tuckpointing-cost-illinois)",
+        "Missing service-specific authority pages (lintel, parapet, limestone, historic) competitors rank with (addressed on-site this run via new hubs + location pages)"
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-18"
 }

@@ -1,6 +1,6 @@
 # Emerald Masonry LLC
 
-# Last updated: 2026-06-06
+# Last updated: 2026-06-18
 
 > Non-union, family-owned commercial masonry contractor serving Chicagoland with 40+ years of experience. Licensed, bonded, and insured in Illinois.
 
@@ -17,14 +17,23 @@ Emerald Masonry LLC provides professional masonry restoration and repair service
 
 ## Services
 
-- **Tuckpointing & Repointing**: Complete mortar joint removal and replacement. The single most important maintenance task for any brick building in Chicago's freeze-thaw climate. We grind out failing mortar fully — no skim coats, no surface patches.
-- **Brick Repair & Replacement**: Spalled, cracked, and damaged brick restoration. We source matching salvage and new brick to maintain the original appearance of the structure.
-- **Chimney Repair & Rebuilds**: Crown repair, flashing replacement, lintel work, and full chimney rebuilds. Chimney masonry is among the most failure-prone on any structure due to top and side exposure.
-- **Masonry Restoration & Façade Repair**: Full façade restoration for commercial buildings, churches, schools, and institutions. Parapet wall repair, lintel replacement, stone repointing.
-- **Efflorescence Removal & Waterproofing**: Mineral deposit removal and surface sealing to stop water infiltration and prevent further staining.
-- **Lintel Repair & Replacement**: Steel and stone lintel repair over windows and doors — a structural element often overlooked until failure is visible.
-- **Commercial Masonry**: Large-scale commercial contracts. Multi-building portfolio management. Preferred vendor for property management companies and HOA boards.
-- **Insurance Restoration**: Storm, hail, and freeze-thaw damage documentation and repair. We work directly with insurance carriers, TPAs, and adjusters.
+Emerald Masonry LLC performs the following masonry services for both residential and commercial properties across Chicago and the Chicagoland suburbs:
+
+- **Tuckpointing & Repointing** (/services/tuckpointing): Full-depth mortar joint removal and replacement with color- and hardness-matched mortar. The most important maintenance task for brick in Chicago's freeze-thaw climate.
+- **Chimney Repair** (/services/chimney-repair): Crown repair, tuckpointing, cap and flashing work, and full chimney rebuilds. The chimney is the most weather-exposed masonry on a building and fails first.
+- **Brick Repair** (/services/brick-repair): Repair of cracked, spalling, and damaged brick, addressing the water or movement causing it.
+- **Brick Replacement** (/services/brick-replacement): Cutting out failed brick and resetting matching or salvaged units so the repair disappears into the wall.
+- **Lintel Repair** (/services/lintel-repair): Replacing rusting steel lintels above windows and doors and rebuilding the masonry above, stopping rust-jacking damage.
+- **Parapet Wall Repair** (/services/parapet-wall-repair): Repointing, coping and through-wall flashing, and rebuilds of roofline masonry to stop leaks at the source.
+- **Foundation Masonry Repair** (/services/foundation-masonry-repair): Repointing and brick/block replacement on foundation walls, with water-entry correction.
+- **Limestone & Sill Repair** (/services/limestone-sill-repair): Crack and spall repair, Dutchman splices, and replacement of limestone and cast-stone sills, bands, and trim.
+- **Masonry Caulking & Joint Sealant** (/services/caulking): Flexible sealant for expansion/control joints and window/door perimeters where rigid mortar can't go.
+- **Masonry Power Washing** (/services/power-washing): Gentle, masonry-safe soft washing — never sandblasting — to remove dirt, staining, and organic growth.
+- **Masonry Sealing & Waterproofing** (/services/masonry-sealing, /services/waterproofing): Breathable penetrating water repellents applied after repairs, plus efflorescence removal.
+- **Commercial Masonry Restoration** (/services/commercial-masonry-restoration, /services/commercial): Multi-elevation tuckpointing, brick and CMU repair, parapet and lintel work, with written scopes and phased plans.
+- **Residential Masonry Restoration** (/services/residential-masonry-restoration): Whole-home brick and stone rehabilitation as one coordinated plan with matched materials.
+- **Historic Masonry Restoration** (/services/historic-masonry-restoration, /services/masonry-restoration): Lime-mortar repointing and period-sensitive brick and stone repair that preserves the building's fabric.
+- **Insurance Restoration**: Storm, hail, and freeze-thaw damage documentation and repair, working directly with carriers, TPAs, and adjusters.
 
 ## Who We Work With
 
@@ -59,11 +68,22 @@ Emerald Masonry LLC serves all of Chicagoland including:
 
 - [Home](https://emeraldmasonryil.com) — Company overview, services summary, contact form, and project gallery highlights
 - [Tuckpointing](https://emeraldmasonryil.com/services/tuckpointing) — Mortar joint restoration service details, diagnostics, and project gallery
-- [Brick Repair](https://emeraldmasonryil.com/services/brick-repair) — Brick repair and replacement service details
 - [Chimney Repair](https://emeraldmasonryil.com/services/chimney-repair) — Chimney repair and rebuild service details
-- [Masonry Restoration](https://emeraldmasonryil.com/services/masonry-restoration) — Façade restoration and large-scale masonry repair
+- [Brick Repair](https://emeraldmasonryil.com/services/brick-repair) — Repair of cracked and spalling brick
+- [Brick Replacement](https://emeraldmasonryil.com/services/brick-replacement) — Cutting out and matching failed brick units
+- [Lintel Repair](https://emeraldmasonryil.com/services/lintel-repair) — Rusting steel lintel replacement above openings
+- [Parapet Wall Repair](https://emeraldmasonryil.com/services/parapet-wall-repair) — Roofline masonry, coping, and flashing
+- [Foundation Masonry Repair](https://emeraldmasonryil.com/services/foundation-masonry-repair) — Brick and block foundation wall repair
+- [Limestone & Sill Repair](https://emeraldmasonryil.com/services/limestone-sill-repair) — Stone sill, band, and trim repair
+- [Caulking & Joint Sealant](https://emeraldmasonryil.com/services/caulking) — Expansion joints and sealant replacement
+- [Power Washing](https://emeraldmasonryil.com/services/power-washing) — Gentle, masonry-safe cleaning
+- [Masonry Sealing](https://emeraldmasonryil.com/services/masonry-sealing) — Breathable penetrating waterproofing
 - [Waterproofing](https://emeraldmasonryil.com/services/waterproofing) — Efflorescence removal and masonry waterproofing
+- [Commercial Masonry Restoration](https://emeraldmasonryil.com/services/commercial-masonry-restoration) — Multi-elevation commercial and institutional work
 - [Commercial](https://emeraldmasonryil.com/services/commercial) — Commercial masonry contracting and property management partnerships
+- [Residential Masonry Restoration](https://emeraldmasonryil.com/services/residential-masonry-restoration) — Whole-home brick and stone rehabilitation
+- [Historic Masonry Restoration](https://emeraldmasonryil.com/services/historic-masonry-restoration) — Lime-mortar, period-sensitive restoration
+- [Masonry Restoration](https://emeraldmasonryil.com/services/masonry-restoration) — Façade restoration and large-scale masonry repair
 - [Gallery](https://emeraldmasonryil.com/gallery) — Completed project photo gallery
 - [Blog](https://emeraldmasonryil.com/blog) — Masonry education articles and project case studies
 - [FAQ](https://emeraldmasonryil.com/faq) — Common questions from property managers, HOAs, and building owners
@@ -91,3 +111,14 @@ Emerald Masonry LLC serves all of Chicagoland including:
 - [Efflorescence & Waterproofing Burr Ridge IL](https://emeraldmasonryil.com/locations/efflorescence-waterproofing-burr-ridge-il)
 - [Lintel Replacement Bolingbrook IL](https://emeraldmasonryil.com/locations/lintel-replacement-bolingbrook-il)
 - [Historic Masonry Restoration Westmont IL](https://emeraldmasonryil.com/locations/historic-masonry-restoration-westmont-il)
+- [Tuckpointing Beverly Chicago IL](https://emeraldmasonryil.com/locations/tuckpointing-beverly-chicago-il)
+- [Foundation Masonry Repair Oak Lawn IL](https://emeraldmasonryil.com/locations/foundation-masonry-repair-oak-lawn-il)
+- [Limestone & Sill Repair Oak Park IL](https://emeraldmasonryil.com/locations/limestone-sill-repair-oak-park-il)
+- [Lintel Repair Berwyn IL](https://emeraldmasonryil.com/locations/lintel-repair-berwyn-il)
+- [Power Washing Naperville IL](https://emeraldmasonryil.com/locations/power-washing-naperville-il)
+
+## Comparison & Decision Guides
+
+- [Tuckpointing vs Brick Replacement](https://emeraldmasonryil.com/locations/tuckpointing-vs-brick-replacement) — Which repair your wall actually needs
+- [Chimney Rebuild vs Chimney Repair](https://emeraldmasonryil.com/locations/chimney-rebuild-vs-chimney-repair) — When to repair and when to rebuild
+- [When Masonry Repair Becomes Urgent](https://emeraldmasonryil.com/locations/when-masonry-repair-becomes-urgent) — Which signs can't wait

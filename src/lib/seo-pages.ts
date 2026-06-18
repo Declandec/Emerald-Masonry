@@ -6,6 +6,8 @@ import html from "remark-html";
 
 const SEO_DIR = path.join(process.cwd(), "content/SEO-BLOG/seo-pages");
 
+export type SeoFaq = { question: string; answer: string };
+
 export type SeoPage = {
   slug: string;
   title: string;
@@ -20,7 +22,26 @@ export type SeoPage = {
   image: string;
   imageAlt: string;
   content: string;
+  // GEO / answer-engine fields (optional, backward-compatible)
+  pageType: string; // "location" | "comparison" | "decision" | "faq-hub"
+  serviceSlug: string; // canonical /services/<slug> this page maps to
+  aiSummary: string; // 40–60 word answer-first, AI-citable block
+  faqs: SeoFaq[]; // drives FAQPage schema
 };
+
+// Normalize frontmatter faqs that may use {q,a} or {question,answer}.
+function normalizeFaqs(raw: unknown): SeoFaq[] {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map((f) => {
+      const obj = (f ?? {}) as Record<string, string>;
+      return {
+        question: obj.question || obj.q || "",
+        answer: obj.answer || obj.a || "",
+      };
+    })
+    .filter((f) => f.question && f.answer);
+}
 
 export function getAllSeoPages(): SeoPage[] {
   if (!fs.existsSync(SEO_DIR)) return [];
@@ -47,6 +68,10 @@ export function getAllSeoPages(): SeoPage[] {
       image: data.image || "",
       imageAlt: data.imageAlt || data.title || "",
       content,
+      pageType: data.pageType || "location",
+      serviceSlug: data.serviceSlug || "",
+      aiSummary: data.aiSummary || data.excerpt || "",
+      faqs: normalizeFaqs(data.faqs),
     };
   });
 }
@@ -72,6 +97,10 @@ export function getSeoPage(slug: string): SeoPage | null {
     image: data.image || "",
     imageAlt: data.imageAlt || data.title || "",
     content,
+    pageType: data.pageType || "location",
+    serviceSlug: data.serviceSlug || "",
+    aiSummary: data.aiSummary || data.excerpt || "",
+    faqs: normalizeFaqs(data.faqs),
   };
 }
 

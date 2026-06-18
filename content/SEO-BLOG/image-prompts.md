@@ -1031,3 +1031,84 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A condition-survey close-up of a brick wall displaying three distinct problems near each other — a white powdery efflorescence bloom, a section of flaking spalled brick faces, and an orange-brown rust stain running from a steel lintel. A gloved hand holding an inspection note beside the wall for scale. Even overcast daylight, worker hand only with safety glove. Photorealistic building-condition photography, no illustration.
+
+---
+
+# 2026-06-18 GEO Batch
+
+## SEO Page: tuckpointing-beverly-chicago-il
+**File name:** `public/images/seo/tuckpointing-beverly-chicago-il.jpg`
+**Alt text:** Color-matched tuckpointing on a century-old brick home in Chicago's Beverly neighborhood
+
+**Prompt:**
+> A mason tuckpointing a century-old red-brick home in Chicago's Beverly / Morgan Park district — close-up of a tuckpointing trowel packing soft lime mortar, color-matched, into raked-out joints, half the wall freshly repointed. Worker in safety glasses, dust mask, and gloves. Tree-lined historic-district street behind. Warm natural daylight, photorealistic jobsite photography, no CGI.
+
+## SEO Page: foundation-masonry-repair-oak-lawn-il
+**File name:** `public/images/seo/foundation-masonry-repair-oak-lawn-il.jpg`
+**Alt text:** Brick and block foundation wall repair on a mid-century home in Oak Lawn, IL
+
+**Prompt:**
+> A mason repointing and replacing damaged block at the foundation wall of a mid-century Oak Lawn home, at grade with a small excavated trench exposing the below-grade masonry. Worker in hard hat, safety glasses, and gloves; trowel and fresh mortar visible. Overcast Midwest daylight, residential setting. Photorealistic jobsite photography, no illustration.
+
+## SEO Page: limestone-sill-repair-oak-park-il
+**File name:** `public/images/seo/limestone-sill-repair-oak-park-il.jpg`
+**Alt text:** Limestone window sill restoration on a historic Oak Park, IL greystone
+
+**Prompt:**
+> Close-up of a stone mason performing a Dutchman repair on a cracked limestone window sill of a historic Oak Park greystone — splicing in a matched piece of new limestone, hand tools and color-matched stone repair mortar visible. Worker in safety glasses and gloves. Even natural daylight, historic residential facade. Photorealistic, no CGI.
+
+## SEO Page: lintel-repair-berwyn-il
+**File name:** `public/images/seo/lintel-repair-berwyn-il.jpg`
+**Alt text:** Rusting steel lintel replacement above a window on a Berwyn, IL brick bungalow
+
+**Prompt:**
+> A mason replacing a rusted steel lintel above a window on a 1920s Berwyn brick bungalow — brick above the opening temporarily removed, the corroded steel angle exposed, a galvanized replacement lintel ready to set. Worker in hard hat, safety glasses, gloves. Horizontal crack visible in adjacent brick. Natural daylight, dense residential block. Photorealistic jobsite photography, no illustration.
+
+## SEO Page: power-washing-naperville-il
+**File name:** `public/images/seo/power-washing-naperville-il.jpg`
+**Alt text:** Gentle soft-wash masonry cleaning on a brick home in Naperville, IL
+
+**Prompt:**
+> A masonry technician gently soft-washing a brick facade in Naperville with a low-pressure wand, half the wall visibly cleaner than the dirt-darkened other half. Worker in safety glasses, gloves, and waterproof apron. No aggressive high-pressure spray. Bright overcast daylight, suburban home. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: tuckpointing-vs-brick-replacement (comparison)
+**File name:** `public/images/seo/tuckpointing-vs-brick-replacement.jpg`
+**Alt text:** Side-by-side of mortar-joint tuckpointing and a cut-out brick replacement on the same wall
+
+**Prompt:**
+> A documentation photo of one brick wall showing both repairs side by side — on the left, freshly repointed mortar joints; on the right, a failed brick being cut out and replaced with a matching unit. A gloved hand gesturing between the two areas. Even overcast daylight, worker hand only with safety glove. Photorealistic building-condition photography, no illustration.
+
+## SEO Page: chimney-rebuild-vs-chimney-repair (comparison)
+**File name:** `public/images/seo/chimney-rebuild-vs-chimney-repair.jpg`
+**Alt text:** Comparison of a chimney crown/tuckpointing repair versus a full brick chimney rebuild
+
+**Prompt:**
+> A rooftop documentation image contrasting two chimneys — one sound stack receiving a crown and tuckpointing repair, and one heavily spalled, leaning chimney staged for a full rebuild. Mason in hard hat, safety glasses, and gloves on roof staging. Clear sky, residential rooftops. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: when-masonry-repair-becomes-urgent (decision)
+**File name:** `public/images/seo/when-masonry-repair-becomes-urgent.jpg`
+**Alt text:** Urgent masonry conditions — a leaning parapet and water-stained brick wall
+
+**Prompt:**
+> A building-condition photo highlighting urgent masonry failure — a visibly leaning parapet wall above the roofline with displaced coping and water staining tracking down the brick below. A mason in hard hat and safety glasses pointing up at the lean. Overcast daylight, commercial building. Photorealistic documentation photography, no illustration.
+
+## Blog: tuckpointing-cost-illinois
+**File name:** `public/images/blog/tuckpointing-cost-illinois.jpg`
+**Alt text:** Mason tuckpointing a brick wall from scaffolding, illustrating the labor behind tuckpointing cost
+
+**Prompt:**
+> A wide shot of a crew tuckpointing a multi-story brick building from scaffolding across a full elevation, conveying the scope and access that drive tuckpointing cost. Workers in hard hats, safety glasses, and gloves. Overcast Midwest sky, Chicago-area commercial district. Photorealistic jobsite photography, no CGI.
+
+## Blog: signs-of-chimney-damage-chicago
+**File name:** `public/images/blog/signs-of-chimney-damage-chicago.jpg`
+**Alt text:** Brick chimney showing a cracked crown, spalling, and white efflorescence staining
+
+**Prompt:**
+> A close documentation photo of a deteriorating brick chimney above a roofline showing several damage signs at once — a cracked concrete crown, spalled brick faces, and white efflorescence staining. A gloved hand pointing to the cracked crown. Even daylight, residential rooftop, worker hand only with safety glove. Photorealistic, no illustration.
+
+## Blog: choosing-masonry-contractor-older-brick-home
+**File name:** `public/images/blog/choosing-masonry-contractor-older-brick-home.jpg`
+**Alt text:** Mason carefully repointing a historic brick home with color-matched lime mortar
+
+**Prompt:**
+> A craftsman mason carefully hand-repointing the soft lime mortar joints of an older Chicago-area brick home, taking obvious care to match color and tooling — the picture of skilled, non-destructive historic work. Worker in safety glasses and gloves. Warm natural daylight, mature residential setting. Photorealistic jobsite photography, no CGI.

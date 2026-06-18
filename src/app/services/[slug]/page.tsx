@@ -6,6 +6,7 @@ import Footer from "@/components/sections/Footer";
 import ServiceFaqAccordion from "@/components/sections/ServiceFaqAccordion";
 import ServiceContactForm from "@/components/sections/ServiceContactForm";
 import services, { getService, getAllServiceSlugs } from "@/data/services";
+import { breadcrumbNode, faqPageNode, serviceNode, jsonLd } from "@/lib/schema";
 
 export function generateStaticParams() {
   return getAllServiceSlugs().map((slug) => ({ slug }));
@@ -126,6 +127,18 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
           </div>
         </section>
 
+        {/* Answer-first block — written to be quoted by AI answer engines */}
+        {service.aiSummary && (
+          <section className="px-6 py-12 md:px-12 lg:px-20 border-b border-border">
+            <div className="max-w-3xl border-l-2 border-[var(--color-emerald)] pl-5">
+              <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-3">
+                Quick Answer
+              </p>
+              <p className="text-base text-foreground leading-relaxed">{service.aiSummary}</p>
+            </div>
+          </section>
+        )}
+
         {/* Diagnostic Signs */}
         <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
           <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-4">
@@ -146,6 +159,65 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
             ))}
           </div>
         </section>
+
+        {/* Materials & Price Factors */}
+        {(service.materials?.length || service.priceFactors?.length) && (
+          <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20">
+              {service.materials?.length ? (
+                <div>
+                  <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-6">
+                    Materials We Use
+                  </p>
+                  <ul className="space-y-3">
+                    {service.materials.map((m) => (
+                      <li key={m} className="flex items-start gap-3">
+                        <span className="mt-1 w-1 h-1 rounded-full bg-[var(--color-emerald)] flex-shrink-0" />
+                        <span className="text-sm text-muted-foreground leading-relaxed">{m}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+              {service.priceFactors?.length ? (
+                <div>
+                  <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-6">
+                    What Affects the Price
+                  </p>
+                  <ul className="space-y-3">
+                    {service.priceFactors.map((p) => (
+                      <li key={p} className="flex items-start gap-3">
+                        <span className="mt-1 w-1 h-1 rounded-full bg-[var(--color-emerald)] flex-shrink-0" />
+                        <span className="text-sm text-muted-foreground leading-relaxed">{p}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <p className="text-xs text-muted-foreground/50 mt-6 leading-relaxed">
+                    Every building is different. We provide free on-site estimates so you get a real
+                    number for your property — call (708) 288-1696.
+                  </p>
+                </div>
+              ) : null}
+            </div>
+          </section>
+        )}
+
+        {/* Comparison / decision guidance */}
+        {service.comparisons?.length ? (
+          <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
+            <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-12">
+              Making the Right Call
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-border max-w-5xl">
+              {service.comparisons.map((c, i) => (
+                <div key={i} className="bg-background p-8">
+                  <h2 className="text-base font-semibold text-foreground mb-3">{c.heading}</h2>
+                  <p className="text-sm text-muted-foreground leading-[1.8]">{c.body}</p>
+                </div>
+              ))}
+            </div>
+          </section>
+        ) : null}
 
         {/* Gallery */}
         <section className="px-6 py-20 md:px-12 lg:px-20 border-b border-border">
@@ -267,6 +339,27 @@ export default async function ServicePage({ params }: { params: Promise<{ slug: 
             ))}
           </div>
         </section>
+
+        {/* JSON-LD: Service + FAQPage + BreadcrumbList */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: jsonLd(
+              serviceNode({
+                name: service.title,
+                description: service.aiSummary || service.tagline,
+                url: `${BASE_URL}/services/${slug}`,
+                serviceType: service.title,
+              }),
+              faqPageNode(service.faqs),
+              breadcrumbNode([
+                { name: "Home", url: BASE_URL },
+                { name: "Services", url: `${BASE_URL}/#services` },
+                { name: service.title, url: `${BASE_URL}/services/${slug}` },
+              ]),
+            ),
+          }}
+        />
       </main>
       <Footer />
     </>

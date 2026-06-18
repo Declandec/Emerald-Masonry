@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins, Uncial_Antiqua } from "next/font/google";
 import "./globals.css";
+import { localBusinessNode } from "@/lib/schema";
 
 const poppins = Poppins({
   variable: "--font-inter",
@@ -67,61 +68,13 @@ export default function RootLayout({
       className={`${poppins.variable} ${uncialAntiqua.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-background">
-        {/* JSON-LD Structured Data */}
+        {/* JSON-LD Structured Data — canonical LocalBusiness entity (see src/lib/schema.ts) */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "LocalBusiness",
-              "@id": "https://emeraldmasonryil.com",
-              name: "Emerald Masonry LLC",
-              description:
-                "Non-union, family-owned commercial masonry contractor with 40+ years of Chicagoland experience. Specializing in tuckpointing, brick restoration, insurance claim restoration, façade repair, chimney repair, efflorescence removal, waterproofing, and large-scale masonry projects for property managers, HOAs, churches, and insurance companies.",
-              url: "https://emeraldmasonryil.com",
-              telephone: "+17082881696",
-              email: "emeraldmasonryil@gmail.com",
-              logo: "https://emeraldmasonryil.com/logo.png",
-              priceRange: "$$$",
-              address: {
-                "@type": "PostalAddress",
-                streetAddress: "7156 W. 126th St. Suite 136",
-                addressLocality: "Palos Heights",
-                addressRegion: "IL",
-                postalCode: "60464",
-                addressCountry: "US",
-              },
-              geo: {
-                "@type": "GeoCoordinates",
-                latitude: 41.6631,
-                longitude: -87.7957,
-              },
-              areaServed: [
-                { "@type": "AdministrativeArea", name: "Cook County, Illinois" },
-                { "@type": "AdministrativeArea", name: "DuPage County, Illinois" },
-                { "@type": "AdministrativeArea", name: "Lake County, Illinois" },
-                { "@type": "AdministrativeArea", name: "Will County, Illinois" },
-                { "@type": "AdministrativeArea", name: "Kane County, Illinois" },
-                { "@type": "AdministrativeArea", name: "McHenry County, Illinois" },
-                { "@type": "AdministrativeArea", name: "Chicagoland, Illinois" },
-              ],
-              hasOfferCatalog: {
-                "@type": "OfferCatalog",
-                name: "Commercial Masonry Services",
-                itemListElement: [
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Commercial Tuckpointing & Repointing" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Insurance Restoration" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Masonry Façade Restoration" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Chimney Repair & Rebuilds" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Efflorescence Removal & Waterproofing" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Commercial Brick Repair & Replacement" } },
-                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Lintel Repair" } },
-                ],
-              },
-              sameAs: [
-                "https://www.facebook.com/people/Emerald-Masonry-LLC/61577959298549/",
-                "https://www.instagram.com/emeraldmasonryil/",
-              ],
+              ...localBusinessNode(),
             }),
           }}
         />
