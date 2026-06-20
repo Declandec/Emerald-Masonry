@@ -885,6 +885,66 @@
       "publishDate": "2026-06-18",
       "image": "/images/after-commercial-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-palos-heights-il",
+      "title": "Tuckpointing in Palos Heights, IL — Mortar Joint Repair From Your Local Masonry Company",
+      "primaryKeyword": "tuckpointing Palos Heights IL",
+      "city": "Palos Heights, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-06-20",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-oak-forest-il",
+      "title": "Chimney Repair in Oak Forest, IL — Crown Repair, Repointing, and Rebuilds",
+      "primaryKeyword": "chimney repair Oak Forest IL",
+      "city": "Oak Forest, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-20",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-sealing-homewood-il",
+      "title": "Masonry Sealing & Waterproofing in Homewood, IL — Protecting Brick From Water Damage",
+      "primaryKeyword": "masonry sealing Homewood IL",
+      "city": "Homewood, IL",
+      "service": "Masonry Sealing / Waterproofing",
+      "serviceSlug": "masonry-sealing",
+      "pageType": "location",
+      "publishDate": "2026-06-20",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "caulking-carol-stream-il",
+      "title": "Masonry Caulking & Joint Sealant in Carol Stream, IL — Sealing Expansion Joints and Gaps That Let Water In",
+      "primaryKeyword": "masonry caulking Carol Stream IL",
+      "city": "Carol Stream, IL",
+      "service": "Caulking & Joint Sealant",
+      "serviceSlug": "caulking",
+      "pageType": "location",
+      "publishDate": "2026-06-20",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-geneva-il",
+      "title": "Historic Masonry Restoration in Geneva, IL — Lime Mortar Repointing and Landmark-Sensitive Brick & Stone Repair",
+      "primaryKeyword": "historic masonry restoration Geneva IL",
+      "city": "Geneva, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-06-20",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1237,6 +1297,27 @@
       "service": "Residential Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-18"
+    },
+    {
+      "slug": "brick-foundation-vs-block-foundation-masonry-repair",
+      "title": "Brick Foundation vs. Block Foundation: How Masonry Repair Differs for Chicago Homes",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-20"
+    },
+    {
+      "slug": "why-limestone-sills-and-lintels-fail-restoration",
+      "title": "Why Limestone Sills and Lintels Fail — and How Stone Trim Is Restored",
+      "service": "Limestone & Sill Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-20"
+    },
+    {
+      "slug": "power-washing-vs-soft-washing-brick",
+      "title": "Power Washing vs. Soft Washing Brick: What Your Chicago Masonry Actually Needs",
+      "service": "Power Washing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-20"
     }
   ],
   "coveredCities": [
@@ -1305,7 +1386,12 @@
     "Mount Greenwood, Chicago, IL",
     "Burbank, IL",
     "Oak Brook, IL",
-    "St. Charles, IL"
+    "St. Charles, IL",
+    "Palos Heights, IL",
+    "Oak Forest, IL",
+    "Homewood, IL",
+    "Carol Stream, IL",
+    "Geneva, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -1321,6 +1407,10 @@
     "Historic Masonry Restoration"
   ],
   "competitorIntentsUsed": [
+    {
+      "intent": "tuckpointing licensed masonry contractor Palos Heights / Palos Park southwest suburbs — local service-authority page with no FAQ, no process steps, no price-factor education, no schema, and no neighborhood/housing-stock detail",
+      "date": "2026-06-20"
+    },
     {
       "intent": "tuckpointing contractor chicago suburbs IL",
       "date": "2026-04-02"
@@ -1516,7 +1606,15 @@
     "masonry power washing Mokena IL",
     "road salt de-icer brick damage Illinois",
     "masonry repair permit Chicago suburbs",
-    "what to expect residential masonry repair project"
+    "what to expect residential masonry repair project",
+    "tuckpointing Palos Heights IL",
+    "chimney repair Oak Forest IL",
+    "masonry sealing Homewood IL",
+    "masonry caulking Carol Stream IL",
+    "historic masonry restoration Geneva IL",
+    "brick foundation vs block foundation repair",
+    "why limestone sills and lintels fail",
+    "power washing vs soft washing brick"
   ],
   "visibilityRuns": [
     {
@@ -1534,5 +1632,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-18"
+  "lastUpdated": "2026-06-20"
 }

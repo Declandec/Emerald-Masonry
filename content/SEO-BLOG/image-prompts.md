@@ -1168,3 +1168,53 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A mason in a company polo and safety glasses walking a homeowner through completed brick repair on the side of a tidy residential home, gesturing to neatly repointed joints, the work area clean. Warm late-afternoon daylight, suburban setting. Photorealistic documentation photography, no CGI.
+
+---
+
+## Tuckpointing in Palos Heights, IL
+**File name:** `public/images/seo/tuckpointing-palos-heights-il.jpg`
+**Alt text:** Freshly repointed brick wall on a Palos Heights, IL home after professional tuckpointing
+**Prompt:**
+> Photorealistic close-up of a post-war brick home exterior in a southwest Cook County suburb, mortar joints freshly ground out and repointed with clean, color-matched mortar and a consistent concave joint profile. Half the wall shows crisp new repointing, the transition subtle and professional. Natural overcast daylight, sharp detail on brick texture and tooled joints. No people, no text, no logos. Documentary masonry-restoration photography.
+
+## Chimney Repair in Oak Forest, IL
+**File name:** `public/images/seo/chimney-repair-oak-forest-il.jpg`
+**Alt text:** Rebuilt and repointed brick chimney on an Oak Forest, IL home
+**Prompt:**
+> Photorealistic photo of a repaired red-brick residential chimney above an asphalt-shingle roof on a mid-century suburban Illinois home, fresh repointing and a new concrete crown, clean flashing at the roofline, sharp blue sky behind. Detail shows sound mortar joints and intact brick. No workers, no text, no logos. Professional exterior documentary photography.
+
+## Masonry Sealing & Waterproofing in Homewood, IL
+**File name:** `public/images/seo/masonry-sealing-homewood-il.jpg`
+**Alt text:** Brick wall treated with breathable masonry waterproofing sealer on a Homewood, IL home
+**Prompt:**
+> Photorealistic close-up of an older brick house wall after a breathable masonry water-repellent application, water beading and sheeting off the brick face during light rain, mortar joints sound and intact, rich natural brick color (not glossy or film-coated). Soft overcast light. No people, no text, no logos. Architectural detail photography.
+
+## Masonry Caulking & Joint Sealant in Carol Stream, IL
+**File name:** `public/images/seo/caulking-carol-stream-il.jpg`
+**Alt text:** Freshly sealed masonry expansion joint on a commercial brick building in Carol Stream, IL
+**Prompt:**
+> Photorealistic close-up of a vertical expansion joint on a commercial brick building, freshly sealed with clean, tooled gray polyurethane sealant over backer rod, crisp straight line between brick fields, professional finish. Overcast daylight, sharp focus on the joint. No people, no text, no logos. Commercial building-envelope documentary photography.
+
+## Historic Masonry Restoration in Geneva, IL
+**File name:** `public/images/seo/historic-masonry-restoration-geneva-il.jpg`
+**Alt text:** Restored historic brick and limestone facade on an older building in downtown Geneva, IL
+**Prompt:**
+> Photorealistic photo of a restored 19th-century brick-and-limestone commercial facade in a historic Fox River Valley downtown, lime-mortar repointing with a period-appropriate joint profile, cleaned limestone sills and lintels, warm aged brick tones, tall storefront windows. Soft late-afternoon light. No people, no text, no logos. Architectural preservation photography.
+
+## Blog — Brick Foundation vs. Block Foundation
+**File name:** `public/images/blog/brick-foundation-vs-block-foundation-masonry-repair.jpg`
+**Alt text:** Comparison of a brick foundation wall and a concrete-block foundation wall on Chicago-area homes
+**Prompt:**
+> Photorealistic photo of an exposed residential foundation wall in a Chicago-area basement, lower section solid brick laid in mortar, with a visible diagonal step crack following the joints, clean and well-lit, sharp masonry detail. Neutral daylight from a basement window. No people, no text, no logos. Documentary inspection photography.
+
+## Blog — Why Limestone Sills and Lintels Fail
+**File name:** `public/images/blog/why-limestone-sills-and-lintels-fail-restoration.jpg`
+**Alt text:** Spalling and cracked limestone window sill on an older Chicago brick home
+**Prompt:**
+> Photorealistic close-up of a weathered limestone window sill on an older brick home, surface spalling and sugaring with a hairline crack and faint rust staining at one end, surrounded by red brick and mortar joints. Raking natural light emphasizing the stone texture. No people, no text, no logos. Architectural detail photography.
+
+## Blog — Power Washing vs. Soft Washing Brick
+**File name:** `public/images/blog/power-washing-vs-soft-washing-brick.jpg`
+**Alt text:** Brick wall being gently cleaned with low-pressure soft washing
+**Prompt:**
+> Photorealistic photo of an older brick building wall being gently cleaned, left half darkened with dirt and organic growth, right half clean and bright after low-pressure soft washing, clear contrast line. Soft daylight, intact mortar joints and brick faces, no erosion. No people, no text, no logos. Documentary masonry-cleaning photography.
