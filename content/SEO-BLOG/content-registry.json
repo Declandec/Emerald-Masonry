@@ -945,6 +945,66 @@
       "publishDate": "2026-06-20",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-tinley-park-il",
+      "title": "Tuckpointing in Tinley Park, IL — Mortar Joint Repair for Brick Homes and Buildings",
+      "primaryKeyword": "tuckpointing Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-06-21",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-orland-park-il",
+      "title": "Chimney Repair in Orland Park, IL — Crown Repair, Repointing, and Rebuilds",
+      "primaryKeyword": "chimney repair Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-21",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-naperville-il",
+      "title": "Foundation Masonry Repair in Naperville, IL — Brick & Block Foundation Wall Repair",
+      "primaryKeyword": "foundation masonry repair Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-21",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-plainfield-il",
+      "title": "Commercial Masonry Restoration in Plainfield, IL — Brick, Block & Facade Repair",
+      "primaryKeyword": "commercial masonry restoration Plainfield IL",
+      "city": "Plainfield, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-06-21",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-elgin-il",
+      "title": "Brick Replacement in Elgin, IL — Replacing Spalled and Failed Brick the Right Way",
+      "primaryKeyword": "brick replacement Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-06-21",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1318,6 +1378,27 @@
       "service": "Power Washing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-20"
+    },
+    {
+      "slug": "trees-roots-masonry-foundation-chimney-damage",
+      "title": "How Trees and Their Roots Damage Masonry Foundations, Chimneys, and Walls",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-21"
+    },
+    {
+      "slug": "brick-steps-stoops-repair-vs-rebuild",
+      "title": "Brick Steps and Stoops: When to Repair and When to Rebuild",
+      "service": "Brick Repair & Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-21"
+    },
+    {
+      "slug": "glass-block-window-masonry-leaks-repair",
+      "title": "Glass Block Windows and Masonry: Why They Leak and How They're Repaired",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-21"
     }
   ],
   "coveredCities": [
@@ -1470,6 +1551,10 @@
     {
       "intent": "tuckpointing Mount Greenwood Chicago bungalow brick repointing contractor 60655",
       "date": "2026-06-18"
+    },
+    {
+      "intent": "tuckpointing Tinley Park IL brick repointing residential commercial — exact-match-domain/local service pages (tinleyparktuckpointing.com style) with thin keyword-stuffed copy, weak FAQ, and little Tinley-specific detail",
+      "date": "2026-06-21"
     }
   ],
   "coveredKeywords": [
@@ -1614,7 +1699,15 @@
     "historic masonry restoration Geneva IL",
     "brick foundation vs block foundation repair",
     "why limestone sills and lintels fail",
-    "power washing vs soft washing brick"
+    "power washing vs soft washing brick",
+    "tuckpointing Tinley Park IL",
+    "chimney repair Orland Park IL",
+    "foundation masonry repair Naperville IL",
+    "commercial masonry restoration Plainfield IL",
+    "brick replacement Elgin IL",
+    "tree roots masonry foundation chimney damage",
+    "brick steps stoops repair vs rebuild",
+    "glass block window masonry leaks repair"
   ],
   "visibilityRuns": [
     {
@@ -1632,5 +1725,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-20"
+  "lastUpdated": "2026-06-21"
 }

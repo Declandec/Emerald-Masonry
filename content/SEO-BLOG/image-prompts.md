@@ -1218,3 +1218,59 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **Alt text:** Brick wall being gently cleaned with low-pressure soft washing
 **Prompt:**
 > Photorealistic photo of an older brick building wall being gently cleaned, left half darkened with dirt and organic growth, right half clean and bright after low-pressure soft washing, clear contrast line. Soft daylight, intact mortar joints and brick faces, no erosion. No people, no text, no logos. Documentary masonry-cleaning photography.
+
+## SEO Page: tuckpointing-tinley-park-il (location)
+**File name:** `public/images/seo/tuckpointing-tinley-park-il.jpg`
+**Alt text:** Freshly tuckpointed brick home with color-matched mortar joints in Tinley Park, IL
+
+**Prompt:**
+> A mason hand-repointing the mortar joints on a brick southwest-suburban home, carefully matching mortar color and tooling to the existing joints. Worker in safety glasses and gloves on a ladder. Warm daylight, established residential street. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: chimney-repair-orland-park-il (location)
+**File name:** `public/images/seo/chimney-repair-orland-park-il.jpg`
+**Alt text:** Repaired brick chimney with new crown and repointed joints on a home in Orland Park, IL
+
+**Prompt:**
+> A mason on roof staging completing a brick chimney repair — freshly recast sloped crown and clean repointed joints on a suburban two-story home. Worker in hard hat, safety glasses, and gloves. Clear sky, subdivision rooftops. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: foundation-masonry-repair-naperville-il (location)
+**File name:** `public/images/seo/foundation-masonry-repair-naperville-il.jpg`
+**Alt text:** Repointed brick and block foundation wall on a home in Naperville, IL
+
+**Prompt:**
+> A mason repointing the mortar joints of an exposed brick-and-block foundation wall at grade and sealing a step crack near a window well. Worker kneeling in gloves and safety glasses. Even daylight, residential side yard. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: commercial-masonry-restoration-plainfield-il (location)
+**File name:** `public/images/seo/commercial-masonry-restoration-plainfield-il.jpg`
+**Alt text:** Restored commercial brick facade with fresh tuckpointing on a building in Plainfield, IL
+
+**Prompt:**
+> A masonry crew restoring a commercial brick facade from scaffolding — tuckpointing and brick repair across a multi-story elevation. Workers in hard hats, safety glasses, and high-visibility vests. Overcast daylight, suburban commercial district. Photorealistic jobsite photography, no CGI.
+
+## SEO Page: brick-replacement-elgin-il (location)
+**File name:** `public/images/seo/brick-replacement-elgin-il.jpg`
+**Alt text:** Section of matched replacement brick set into a wall on a home in Elgin, IL
+
+**Prompt:**
+> A close documentation photo of a mason setting matched replacement brick into a section where spalled brick was removed on an older Fox Valley home, the new brick blending into the surrounding wall. Worker's gloved hands and trowel visible. Even daylight. Photorealistic jobsite photography, no CGI.
+
+## Blog: trees-roots-masonry-foundation-chimney-damage
+**File name:** `public/images/blog/trees-roots-masonry-foundation-chimney-damage.jpg`
+**Alt text:** Large mature tree beside an older brick home with a step crack visible in the foundation wall
+
+**Prompt:**
+> A documentation photo of a large mature tree growing close to an older brick home, with a visible diagonal step crack in the foundation wall near the corner closest to the tree. Overcast daylight, established Chicago-area neighborhood. Photorealistic, no illustration.
+
+## Blog: brick-steps-stoops-repair-vs-rebuild
+**File name:** `public/images/blog/brick-steps-stoops-repair-vs-rebuild.jpg`
+**Alt text:** Deteriorating brick front steps with spalled brick and eroded mortar joints
+
+**Prompt:**
+> A close documentation photo of brick front steps and a stoop showing spalled, crumbling brick faces, washed-out mortar joints, and a few loose bricks, with light salt residue. Winter-into-spring daylight, residential entry. Photorealistic, no illustration.
+
+## Blog: glass-block-window-masonry-leaks-repair
+**File name:** `public/images/blog/glass-block-window-masonry-leaks-repair.jpg`
+**Alt text:** Glass block basement window set in brick with eroded perimeter mortar and water staining below
+
+**Prompt:**
+> A close documentation photo of a glass block basement window set into a brick wall, showing eroded mortar joints between the blocks and a cracked perimeter joint where the panel meets the brick, with faint water staining and efflorescence below. Even daylight. Photorealistic, no illustration.
