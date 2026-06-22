@@ -62,88 +62,90 @@ export default async function BlogPostPage({
   return (
     <>
       <Navigation />
-      <main className="px-6 pt-28 md:pt-40 pb-24 md:px-12 lg:px-20">
-        {/* Back link */}
-        <Link
-          href="/blog"
-          className="text-xs tracking-[0.2em] uppercase text-muted-foreground hover:text-foreground transition-colors duration-300 mb-8 md:mb-12 inline-block"
-        >
-          ← All Posts
-        </Link>
-
-        {/* Header */}
-        <div className="max-w-3xl mb-12">
-          <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-4">
-            {post.service} · {post.location}
-          </p>
-          <h1 className="text-3xl md:text-5xl font-semibold tracking-tight text-foreground mb-6">
-            {post.title}
-          </h1>
-          <p className="text-base text-muted-foreground leading-relaxed mb-4">
-            {post.excerpt}
-          </p>
-          <p className="text-xs text-muted-foreground/40">{post.date}</p>
-        </div>
-
-        {/* Answer-first block — written to be quoted by AI answer engines */}
-        {post.aiSummary && post.aiSummary !== post.excerpt && (
-          <div className="max-w-3xl mb-12 border-l-2 border-[var(--color-emerald)] pl-5">
-            <p className="text-xs tracking-[0.3em] uppercase text-[var(--color-emerald)] mb-3">
-              Quick Answer
+      <main className="bg-white">
+        {/* Hero */}
+        <section className="bg-[var(--color-charcoal)] pt-[110px] pb-14 px-6 md:px-12 lg:px-20">
+          <div className="max-w-3xl mx-auto">
+            <Link
+              href="/blog"
+              className="text-[11px] tracking-[0.3em] uppercase text-white/40 hover:text-white/70 transition-colors duration-300"
+            >
+              ← All Posts
+            </Link>
+            <p className="text-[11px] tracking-[0.45em] uppercase text-[var(--color-emerald)] font-semibold mt-6 mb-3">
+              {post.service}{post.location ? ` · ${post.location}` : ""}
             </p>
-            <p className="text-base text-foreground leading-relaxed">{post.aiSummary}</p>
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4 leading-tight">
+              {post.title}
+            </h1>
+            <p className="text-white/60 text-base leading-relaxed mb-3">{post.excerpt}</p>
+            {post.date && <p className="text-white/30 text-xs">{post.date}</p>}
           </div>
-        )}
+        </section>
 
-        {/* Hero image */}
-        {post.image && (
-          <div className="relative aspect-video md:aspect-[16/7] w-full overflow-hidden mb-10 md:mb-16">
-            <Image
-              src={post.image}
-              alt={post.title}
-              fill
-              className="object-cover"
-              priority
+        {/* Body */}
+        <section className="py-14 px-6 md:px-12 lg:px-20">
+          <div className="max-w-3xl mx-auto">
+            {/* Answer-first block — written to be quoted by AI answer engines */}
+            {post.aiSummary && post.aiSummary !== post.excerpt && (
+              <div className="border-l-4 border-[var(--color-emerald)] bg-gray-50 p-6 mb-10">
+                <p className="text-[11px] tracking-[0.3em] uppercase text-[var(--color-emerald)] font-semibold mb-2">
+                  Quick Answer
+                </p>
+                <p className="text-[15px] text-[var(--color-charcoal)] leading-relaxed">{post.aiSummary}</p>
+              </div>
+            )}
+
+            {/* Hero image */}
+            {post.image && (
+              <div className="relative aspect-video w-full overflow-hidden mb-10">
+                <Image src={post.image} alt={post.title} fill className="object-cover" priority />
+              </div>
+            )}
+
+            {/* Content */}
+            <div
+              className="text-[15px] leading-[1.85] text-gray-600
+                [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-[var(--color-charcoal)] [&_h2]:mt-10 [&_h2]:mb-4
+                [&_h3]:text-lg [&_h3]:font-bold [&_h3]:text-[var(--color-charcoal)] [&_h3]:mt-6 [&_h3]:mb-3
+                [&_p]:mb-4 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-4 [&_ol]:list-decimal [&_ol]:pl-6 [&_ol]:mb-4
+                [&_li]:mb-1.5 [&_strong]:text-[var(--color-charcoal)] [&_strong]:font-semibold
+                [&_a]:text-[var(--color-emerald)] [&_a]:font-medium hover:[&_a]:underline
+                [&_table]:w-full [&_table]:my-6 [&_th]:text-left [&_th]:border-b [&_th]:border-gray-300 [&_th]:py-2 [&_th]:font-bold [&_th]:text-[var(--color-charcoal)]
+                [&_td]:border-b [&_td]:border-gray-100 [&_td]:py-2 [&_td]:pr-4 [&_td]:align-top"
+              dangerouslySetInnerHTML={{ __html: contentHtml }}
             />
-          </div>
-        )}
 
-        {/* Content */}
-        <div
-          className="max-w-3xl prose prose-invert prose-sm md:prose-base
-            prose-headings:font-semibold prose-headings:tracking-tight
-            prose-p:text-muted-foreground prose-p:leading-[1.9]
-            prose-a:text-[var(--color-emerald)] prose-a:no-underline hover:prose-a:underline
-            prose-strong:text-foreground"
-          dangerouslySetInnerHTML={{ __html: contentHtml }}
-        />
-
-        {/* FAQ — visible Q&A mirrored as FAQPage schema */}
-        {post.faqs.length > 0 && (
-          <div className="max-w-3xl mt-16 pt-10 border-t border-border">
-            <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-8">
-              Frequently Asked Questions
-            </p>
-            <div className="divide-y divide-border">
-              {post.faqs.map((faq, i) => (
-                <div key={i} className="py-6 first:pt-0">
-                  <h2 className="text-base font-semibold text-foreground mb-3">{faq.question}</h2>
-                  <p className="text-sm text-muted-foreground leading-[1.8]">{faq.answer}</p>
+            {/* FAQ — visible Q&A mirrored as FAQPage schema */}
+            {post.faqs.length > 0 && (
+              <div className="mt-14 pt-10 border-t border-gray-200">
+                <p className="text-[11px] tracking-[0.45em] uppercase text-[var(--color-emerald)] font-semibold mb-6">
+                  Frequently Asked Questions
+                </p>
+                <div className="flex flex-col gap-4">
+                  {post.faqs.map((faq, i) => (
+                    <div key={i} className="border border-gray-200 bg-white p-6">
+                      <h2 className="text-[15px] font-bold text-[var(--color-charcoal)] mb-3 leading-snug">
+                        {faq.question}
+                      </h2>
+                      <p className="text-[14px] leading-[1.75] text-gray-500">{faq.answer}</p>
+                    </div>
+                  ))}
                 </div>
-              ))}
+              </div>
+            )}
+
+            {/* CTA */}
+            <div className="mt-12">
+              <a
+                href="/#contact"
+                className="inline-block px-6 py-3 bg-[var(--color-emerald)] text-white text-[12px] font-bold uppercase tracking-widest hover:opacity-90 transition-opacity"
+              >
+                Get a Free Estimate → (708) 288-1696
+              </a>
             </div>
           </div>
-        )}
-
-        {/* CTA */}
-        <div className="max-w-3xl mt-16 pt-10 flex justify-start">
-          <a
-            href="/#contact"
-            className="text-xs tracking-[0.3em] uppercase text-muted-foreground border-b border-muted-foreground pb-1 hover:text-foreground hover:border-foreground transition-colors duration-300"
-          >
-            Book a Free Quote →
-          </a>
-        </div>
+        </section>
 
         {/* JSON-LD: Article + FAQPage + BreadcrumbList */}
         <script
