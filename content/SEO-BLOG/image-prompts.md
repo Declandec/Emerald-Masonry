@@ -1274,3 +1274,51 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A close documentation photo of a glass block basement window set into a brick wall, showing eroded mortar joints between the blocks and a cracked perimeter joint where the panel meets the brick, with faint water staining and efflorescence below. Even daylight. Photorealistic, no illustration.
+
+---
+
+## Batch — 2026-06-22 (google mode)
+
+### Location pages
+
+**File name:** `public/images/locations/chimney-repair-crestwood-il.jpg`
+**Alt text:** Repaired brick chimney with new crown and repointed joints on a Crestwood, IL ranch home
+**Prompt:**
+> A photorealistic documentation photo of a repaired brick chimney on the roof of a post-war suburban brick ranch home, freshly recast concrete crown sloped to shed water, crisp newly repointed mortar joints, asphalt shingle roof, even overcast daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/brick-repair-schaumburg-il.jpg`
+**Alt text:** Section of a Schaumburg, IL brick veneer wall after spalled brick was cut out and replaced with matching units
+**Prompt:**
+> A close photorealistic photo of a 1970s–1980s suburban brick veneer wall where a patch of spalled brick has been cut out and replaced with carefully color- and texture-matched brick, fresh mortar joints blending into the surrounding wall, even daylight. No workers, no logos. Photorealistic, no illustration.
+
+**File name:** `public/images/locations/tuckpointing-manhattan-il.jpg`
+**Alt text:** Freshly repointed brick wall on a Manhattan, IL home after professional tuckpointing
+**Prompt:**
+> A photorealistic close documentation photo of a brick residential wall after tuckpointing, with crisp uniform color-matched mortar joints contrasting against older weathered brick, soft natural daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/lintel-repair-bensenville-il.jpg`
+**Alt text:** Repaired steel lintel and rebuilt brick course above a window opening on a Bensenville, IL commercial building
+**Prompt:**
+> A photorealistic documentation photo looking up at a brick wall above a window opening on a light-commercial building, showing a newly replaced and painted steel lintel angle with rebuilt, repointed brick courses above it, clean joints, even daylight. No workers. Photorealistic, no illustration.
+
+**File name:** `public/images/locations/masonry-sealing-batavia-il.jpg`
+**Alt text:** Brick and limestone wall on a Batavia, IL building after a breathable masonry sealer was applied
+**Prompt:**
+> A photorealistic photo of a mixed brick-and-limestone wall on an older Fox River town building shortly after a clear breathable water repellent was applied — water beading on the surface, no glossy sheen, natural stone and brick color unchanged, even daylight. No workers. Photorealistic, no illustration.
+
+### Blog posts
+
+**File name:** `public/images/blog/why-brick-chimneys-lean-pull-away-from-house.jpg`
+**Alt text:** A brick chimney leaning slightly and pulling away from the side of a house with a visible gap
+**Prompt:**
+> A photorealistic documentation photo of a tall brick residential chimney that is visibly tilting and pulling away from the exterior wall of a house, a clear opening gap and a caulked separation joint, stair-step cracking in nearby mortar, overcast daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/blog/through-wall-flashing-masonry-walls.jpg`
+**Alt text:** Base of a brick wall showing open weep holes above a through-wall flashing line
+**Prompt:**
+> A close photorealistic photo of the bottom courses of a brick wall showing evenly spaced open weep holes in the head joints just above a thin through-wall flashing line emerging at the face of the wall, slight water staining where water has drained out, even daylight. No workers. Photorealistic, no illustration.
+
+**File name:** `public/images/blog/breathable-vs-film-forming-brick-sealers.jpg`
+**Alt text:** Water beading on a brick wall treated with a breathable penetrating sealer
+**Prompt:**
+> A close photorealistic photo of a brick wall during a light rain with water clearly beading and running off the surface, the brick retaining its natural matte color with no glossy coating, demonstrating a breathable penetrating water repellent, even daylight. No workers. Photorealistic, no illustration, no CGI.
