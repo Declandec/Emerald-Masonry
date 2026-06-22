@@ -582,7 +582,7 @@ const services: Service[] = [
           "Sealer applied over failed joints traps water inside the wall and accelerates spalling. The correct sequence is to repoint and repair first, then clean, then seal. Waterproofing protects sound masonry — it does not fix a wall that is still letting water in.",
       },
     ],
-    relatedServices: ["masonry-sealing", "tuckpointing", "caulking", "power-washing"],
+    relatedServices: ["masonry-sealing", "tuckpointing", "caulking"],
   },
 
   {
@@ -1276,103 +1276,6 @@ const services: Service[] = [
   },
 
   {
-    slug: "power-washing",
-    title: "Masonry Power Washing",
-    subtitle: "Gentle, Masonry-Safe Cleaning",
-    tagline: "Brick should be cleaned, not blasted. The wrong pressure does permanent damage.",
-    description:
-      "Masonry cleaning sits at the intersection of appearance and preservation. Done correctly, it removes dirt, atmospheric staining, organic growth, and efflorescence and makes a building look decades younger. Done with too much pressure or the wrong technique, it erodes mortar joints, strips the fired face off brick, and drives water deep into the wall — causing the exact damage it was supposed to prevent.\n\nWe clean masonry using the gentlest effective method: appropriate pressure, masonry-safe cleaners matched to the staining, and techniques that protect soft brick and historic surfaces. We never sandblast brick. The goal is a clean wall that's also an undamaged one.",
-    scope: [
-      "Soft washing and low-pressure cleaning",
-      "Dirt and atmospheric stain removal",
-      "Organic growth (algae, moss) removal",
-      "Efflorescence cleaning",
-      "Pre-restoration and pre-sealing cleaning",
-      "Commercial facade cleaning",
-    ],
-    heroImage: "/images/restoration-facade.jpg",
-    diagnostics: [
-      {
-        title: "Atmospheric Soiling and Dirt",
-        description:
-          "Decades of airborne dirt and pollution dull a masonry facade. The right cleaning method lifts it without harming the brick or joints underneath.",
-      },
-      {
-        title: "Organic Growth",
-        description:
-          "Green or black algae, moss, and mildew on shaded, damp walls are cosmetic but signal persistent moisture. Cleaning removes the growth; addressing the dampness keeps it from returning.",
-      },
-      {
-        title: "Efflorescence and Staining",
-        description:
-          "White salt deposits and assorted staining can be cleaned with masonry-safe methods — though efflorescence also means the water source behind it should be addressed.",
-      },
-      {
-        title: "Prep Before Sealing or Restoration",
-        description:
-          "Sealers and repairs bond best to clean masonry. Gentle cleaning is the correct first step before waterproofing or restoration work.",
-      },
-    ],
-    gallery: [
-      { image: "/images/restoration-facade.jpg", caption: "Facade cleaning — Chicagoland" },
-      { image: "/images/work-efflorescence.jpg", caption: "Efflorescence and stain removal" },
-      { image: "/images/restoration-commercial.jpg", caption: "Commercial masonry cleaning" },
-    ],
-    faqs: [
-      {
-        question: "Will power washing damage my brick?",
-        answer:
-          "It can, if it's done with too much pressure or the wrong technique — eroding mortar and stripping the fired face off the brick. We use the gentlest effective method and masonry-safe cleaners, and we never sandblast brick. Done correctly, cleaning is safe and restorative.",
-      },
-      {
-        question: "Why shouldn't brick be sandblasted?",
-        answer:
-          "Sandblasting removes the hard, weather-resistant outer skin of the brick, exposing the soft, porous interior. That dramatically accelerates water absorption, spalling, and decay. It permanently damages the masonry and should never be used on brick.",
-      },
-      {
-        question: "Can you remove efflorescence and organic growth?",
-        answer:
-          "Yes. We clean efflorescence, algae, moss, and atmospheric staining with masonry-safe methods. With efflorescence, we also recommend addressing the water source so it doesn't simply return.",
-      },
-      {
-        question: "Should I clean before sealing or restoration?",
-        answer:
-          "Yes — sealers and repair materials bond best to clean masonry. Gentle cleaning is the proper first step in a waterproofing or restoration sequence.",
-      },
-    ],
-    keywords: [
-      "masonry power washing Chicago",
-      "brick cleaning Chicagoland",
-      "soft wash masonry Cook County",
-      "brick power washing Illinois",
-      "facade cleaning Chicago suburbs",
-      "masonry cleaning contractor near me",
-    ],
-    aiSummary:
-      "Emerald Masonry LLC cleans brick and masonry across Chicagoland with gentle, masonry-safe methods — never sandblasting — removing dirt, staining, and growth without harming the wall. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
-    materials: [
-      "Low-pressure soft-wash equipment",
-      "Masonry-safe, pH-appropriate cleaners",
-      "Biocidal treatments for organic growth",
-      "Stain-specific cleaning agents",
-    ],
-    priceFactors: [
-      "Square footage and number of elevations",
-      "Type and severity of staining",
-      "Surface fragility (historic or soft brick)",
-      "Access and height",
-    ],
-    comparisons: [
-      {
-        heading: "Soft washing vs. high-pressure blasting",
-        body:
-          "High pressure and sandblasting strip the protective face off brick and erode mortar, causing permanent damage. Soft washing with the right cleaner removes the soiling while leaving the masonry intact — it's the only appropriate approach for brick.",
-      },
-    ],
-    relatedServices: ["masonry-sealing", "waterproofing", "historic-masonry-restoration", "tuckpointing"],
-  },
-
-  {
     slug: "masonry-sealing",
     title: "Masonry Sealing & Waterproofing",
     subtitle: "Breathable Penetrating Sealers",
@@ -1466,7 +1369,7 @@ const services: Service[] = [
           "A penetrating repellent keeps liquid water out while letting vapor escape — correct for brick. A film coating traps moisture and causes spalling. The product choice, and sealing only after repairs, determine whether waterproofing helps or harms.",
       },
     ],
-    relatedServices: ["waterproofing", "tuckpointing", "caulking", "power-washing"],
+    relatedServices: ["waterproofing", "tuckpointing", "caulking"],
   },
 
   {
@@ -1757,7 +1660,7 @@ const services: Service[] = [
           "Standard repair uses modern materials and methods that damage historic masonry — hard mortar, high-pressure cleaning. Historic restoration matches the original soft mortar and uses gentle techniques, preserving the building's fabric while making it sound.",
       },
     ],
-    relatedServices: ["masonry-restoration", "limestone-sill-repair", "tuckpointing", "power-washing"],
+    relatedServices: ["masonry-restoration", "limestone-sill-repair", "tuckpointing"],
   },
 ];
 

@@ -45,7 +45,6 @@ export const CORE_SERVICES: string[] = [
   "Foundation Masonry Repair",
   "Limestone & Sill Repair",
   "Masonry Caulking & Joint Sealant",
-  "Masonry Power Washing",
   "Masonry Sealing & Waterproofing",
   "Commercial Masonry Restoration",
   "Residential Masonry Restoration",
@@ -83,7 +82,7 @@ export function localBusinessNode() {
     description:
       "Non-union, family-owned masonry contractor with 40+ years of Chicagoland experience. " +
       "Tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, " +
-      "foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, " +
+      "foundation and limestone/sill repair, caulking, sealing, and commercial, " +
       "residential, and historic masonry restoration across the greater Chicago area. " +
       "Licensed, bonded, and insured.",
     url: BUSINESS.url,

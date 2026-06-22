@@ -81,7 +81,7 @@ On a sealing job we inspect the wall first and tell you honestly whether it need
 
 Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
 
-For related reading and services, see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), and [power washing](/services/power-washing).
+For related reading and services, see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair).
 
 ## Frequently Asked Questions
 

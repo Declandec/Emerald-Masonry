@@ -28,7 +28,6 @@ Emerald Masonry LLC performs the following masonry services for both residential
 - **Foundation Masonry Repair** (/services/foundation-masonry-repair): Repointing and brick/block replacement on foundation walls, with water-entry correction.
 - **Limestone & Sill Repair** (/services/limestone-sill-repair): Crack and spall repair, Dutchman splices, and replacement of limestone and cast-stone sills, bands, and trim.
 - **Masonry Caulking & Joint Sealant** (/services/caulking): Flexible sealant for expansion/control joints and window/door perimeters where rigid mortar can't go.
-- **Masonry Power Washing** (/services/power-washing): Gentle, masonry-safe soft washing — never sandblasting — to remove dirt, staining, and organic growth.
 - **Masonry Sealing & Waterproofing** (/services/masonry-sealing, /services/waterproofing): Breathable penetrating water repellents applied after repairs, plus efflorescence removal.
 - **Commercial Masonry Restoration** (/services/commercial-masonry-restoration, /services/commercial): Multi-elevation tuckpointing, brick and CMU repair, parapet and lintel work, with written scopes and phased plans.
 - **Residential Masonry Restoration** (/services/residential-masonry-restoration): Whole-home brick and stone rehabilitation as one coordinated plan with matched materials.
@@ -76,7 +75,6 @@ Emerald Masonry LLC serves all of Chicagoland including:
 - [Foundation Masonry Repair](https://emeraldmasonryil.com/services/foundation-masonry-repair) — Brick and block foundation wall repair
 - [Limestone & Sill Repair](https://emeraldmasonryil.com/services/limestone-sill-repair) — Stone sill, band, and trim repair
 - [Caulking & Joint Sealant](https://emeraldmasonryil.com/services/caulking) — Expansion joints and sealant replacement
-- [Power Washing](https://emeraldmasonryil.com/services/power-washing) — Gentle, masonry-safe cleaning
 - [Masonry Sealing](https://emeraldmasonryil.com/services/masonry-sealing) — Breathable penetrating waterproofing
 - [Waterproofing](https://emeraldmasonryil.com/services/waterproofing) — Efflorescence removal and masonry waterproofing
 - [Commercial Masonry Restoration](https://emeraldmasonryil.com/services/commercial-masonry-restoration) — Multi-elevation commercial and institutional work
@@ -115,7 +113,6 @@ Emerald Masonry LLC serves all of Chicagoland including:
 - [Foundation Masonry Repair Oak Lawn IL](https://emeraldmasonryil.com/locations/foundation-masonry-repair-oak-lawn-il)
 - [Limestone & Sill Repair Oak Park IL](https://emeraldmasonryil.com/locations/limestone-sill-repair-oak-park-il)
 - [Lintel Repair Berwyn IL](https://emeraldmasonryil.com/locations/lintel-repair-berwyn-il)
-- [Power Washing Naperville IL](https://emeraldmasonryil.com/locations/power-washing-naperville-il)
 
 ## Comparison & Decision Guides
 

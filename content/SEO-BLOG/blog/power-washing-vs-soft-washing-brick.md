@@ -100,7 +100,7 @@ Before you hire anyone to wash your brick, ask:
 
 A pressure-washing service is in the business of cleaning. A masonry contractor is in the business of protecting the wall. That difference matters, because the person cleaning your brick should be able to recognize when the brick is too soft for pressure, when mortar needs to be repaired first, and when "just cleaning it" is the wrong call entirely.
 
-Emerald Masonry LLC is a family-owned masonry contractor with more than 40 years of bricklaying and restoration experience, based in Palos Heights and serving Chicagoland. We are licensed, bonded, and insured, and we treat [masonry power washing](/services/power-washing) as restoration work — protecting your investment, not just rinsing it. We have seen too many walls damaged by a quick, cheap high-pressure job, and we would rather get it right the first time.
+Emerald Masonry LLC is a family-owned masonry contractor with more than 40 years of bricklaying and restoration experience, based in Palos Heights and serving Chicagoland. We are licensed, bonded, and insured, and we treat [masonry cleaning and sealing](/services/masonry-sealing) as restoration work — protecting your investment, not just rinsing it. We have seen too many walls damaged by a quick, cheap high-pressure job, and we would rather get it right the first time.
 
 ## Frequently Asked Questions
 

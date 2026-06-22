@@ -88,7 +88,7 @@ Batavia is one of the Fox River's historic mill towns, and it shows in the mason
 
 Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
-Sealing works best as part of a maintenance plan — see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), [power washing](/services/power-washing), and [caulking and joint sealant](/services/caulking).
+Sealing works best as part of a maintenance plan — see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), and [caulking and joint sealant](/services/caulking).
 
 ## Frequently Asked Questions
 
