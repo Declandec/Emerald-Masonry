@@ -1322,3 +1322,49 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **Alt text:** Water beading on a brick wall treated with a breathable penetrating sealer
 **Prompt:**
 > A close photorealistic photo of a brick wall during a light rain with water clearly beading and running off the surface, the brick retaining its natural matte color with no glossy coating, demonstrating a breathable penetrating water repellent, even daylight. No workers. Photorealistic, no illustration, no CGI.
+
+## Batch — 2026-06-23 (google)
+
+### Location pages
+
+**File name:** `public/images/locations/tuckpointing-brookfield-il.jpg`
+**Alt text:** Freshly repointed brick wall on a Brookfield, IL home after professional tuckpointing
+**Prompt:**
+> A photorealistic close documentation photo of a 1920s–1940s brick bungalow wall after tuckpointing, crisp uniform color-matched mortar joints contrasting against older weathered brick, soft natural daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/chimney-repair-west-chicago-il.jpg`
+**Alt text:** Repaired brick chimney with a new crown and repointed joints on a West Chicago, IL home
+**Prompt:**
+> A photorealistic documentation photo of a repaired brick chimney on the roof of an older suburban home, a freshly recast concrete crown sloped to shed water, crisp newly repointed mortar joints, new flashing at the roofline, even overcast daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/foundation-masonry-repair-minooka-il.jpg`
+**Alt text:** Repaired concrete block foundation wall with repointed joints on a Minooka, IL home
+**Prompt:**
+> A photorealistic documentation photo of a concrete block foundation wall after masonry repair, fresh repointed mortar joints and a rebuilt lower section blended into the surrounding block, exposed exterior near grade, even daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/brick-repair-carpentersville-il.jpg`
+**Alt text:** Section of a Carpentersville, IL brick wall after spalled brick was cut out and replaced with matching units
+**Prompt:**
+> A close photorealistic photo of a mid-century suburban brick veneer wall where a patch of spalled brick has been cut out and replaced with carefully color- and texture-matched brick, fresh mortar joints blending into the surrounding wall, even daylight. No workers, no logos. Photorealistic, no illustration.
+
+**File name:** `public/images/locations/historic-masonry-restoration-flossmoor-il.jpg`
+**Alt text:** Restored historic brick and stone wall on a Flossmoor, IL home after lime mortar repointing
+**Prompt:**
+> A photorealistic documentation photo of a 1920s Tudor-style brick-and-limestone home wall after sensitive historic restoration, hand-repointed lime mortar joints matched in color and profile, clean repaired limestone trim, warm weathered brick, soft natural daylight. No workers. Photorealistic, no illustration, no CGI.
+
+### Blog posts
+
+**File name:** `public/images/blog/mortar-joint-profiles-concave-v-weathered.jpg`
+**Alt text:** Close view of crisp concave mortar joints on a freshly tuckpointed brick wall
+**Prompt:**
+> A close-up photorealistic photo of a brick wall showing neatly tooled concave mortar joints, the rounded recessed profile catching a soft shadow line, color-matched mortar against warm brick, even daylight. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/blog/spring-rain-saturated-soil-masonry-foundation-cracks.jpg`
+**Alt text:** Stair-step cracking in a concrete block foundation wall caused by soil movement
+**Prompt:**
+> A photorealistic documentation photo of an interior concrete block foundation wall showing a clear stair-step crack climbing diagonally through the mortar joints, faint white efflorescence near the crack, slightly damp lower courses, even diffuse light. No workers. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/blog/masonry-expansion-joints-why-brick-buildings-need-them.jpg`
+**Alt text:** Vertical masonry expansion joint filled with flexible sealant running up a brick commercial wall
+**Prompt:**
+> A close photorealistic photo of the face of a brick commercial wall showing a clean vertical expansion joint filled with smooth color-matched elastomeric sealant running top to bottom, the flexible joint clearly distinct from the surrounding mortar joints, even daylight. No workers, no logos. Photorealistic, no illustration.

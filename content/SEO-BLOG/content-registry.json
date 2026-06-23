@@ -1041,6 +1041,66 @@
       "publishDate": "2026-06-22",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-brookfield-il",
+      "title": "Tuckpointing in Brookfield, IL — Mortar Joint Repair for the Village's Older Brick Homes",
+      "primaryKeyword": "tuckpointing Brookfield IL",
+      "city": "Brookfield, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-06-23",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-west-chicago-il",
+      "title": "Chimney Repair in West Chicago, IL — Crown Repair, Repointing, Flashing, and Rebuilds",
+      "primaryKeyword": "chimney repair West Chicago IL",
+      "city": "West Chicago, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-23",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-minooka-il",
+      "title": "Foundation Masonry Repair in Minooka, IL — Brick & Block Foundation Wall Repair",
+      "primaryKeyword": "foundation masonry repair Minooka IL",
+      "city": "Minooka, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-23",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-carpentersville-il",
+      "title": "Brick Repair in Carpentersville, IL — Spalling, Cracking, and Replacement for Mid-Century and Older Brick",
+      "primaryKeyword": "brick repair Carpentersville IL",
+      "city": "Carpentersville, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-06-23",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-flossmoor-il",
+      "title": "Historic Masonry Restoration in Flossmoor, IL — Lime Mortar Repointing and Sensitive Brick & Stone Repair",
+      "primaryKeyword": "historic masonry restoration Flossmoor IL",
+      "city": "Flossmoor, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-06-23",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1449,6 +1509,27 @@
       "service": "Masonry Sealing / Waterproofing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-06-22"
+    },
+    {
+      "slug": "mortar-joint-profiles-concave-v-weathered",
+      "title": "Mortar Joint Profiles Explained — Concave, V, Weathered, and Why the Shape of Your Joints Matters",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-23"
+    },
+    {
+      "slug": "spring-rain-saturated-soil-masonry-foundation-cracks",
+      "title": "How Spring Rain and Saturated Soil Crack Masonry Foundations in Chicagoland",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-23"
+    },
+    {
+      "slug": "masonry-expansion-joints-why-brick-buildings-need-them",
+      "title": "Masonry Expansion Joints — Why Brick Buildings Crack Without Room to Move",
+      "service": "Caulking & Joint Sealant",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-06-23"
     }
   ],
   "coveredCities": [
@@ -1527,7 +1608,12 @@
     "Schaumburg, IL",
     "Manhattan, IL",
     "Bensenville, IL",
-    "Batavia, IL"
+    "Batavia, IL",
+    "Brookfield, IL",
+    "West Chicago, IL",
+    "Minooka, IL",
+    "Carpentersville, IL",
+    "Flossmoor, IL"
   ],
   "coveredServices": [
     "Tuckpointing & Repointing",
@@ -1543,6 +1629,10 @@
     "Historic Masonry Restoration"
   ],
   "competitorIntentsUsed": [
+    {
+      "intent": "tuckpointing Brookfield IL brick repointing residential — conversion-first local-service pages (Kerry Tuckpointing, Edmar/masonrytuckpointing.com, Mark's Tuckpointing) with a thin 4-question FAQ, one-line process, one sentence of climate, repeated free-estimate CTAs, no pricing/cost-factor framework, no FAQ/Service schema, and no Brookfield neighborhood or housing-stock specificity",
+      "date": "2026-06-23"
+    },
     {
       "intent": "brick repair Schaumburg IL \u2014 northwest-suburbs exact-match local-service page with a basic 5-question FAQ and broad cost ranges ($500\u2013$2,500) but no step-by-step repair process, no explanation of cost drivers within the bands, no FAQ/Service schema, and zero Schaumburg housing-stock/neighborhood/climate detail",
       "date": "2026-06-22"
@@ -1770,7 +1860,15 @@
     "masonry sealing Batavia IL",
     "why do brick chimneys lean",
     "through-wall flashing masonry",
-    "breathable vs film-forming brick sealer"
+    "breathable vs film-forming brick sealer",
+    "tuckpointing Brookfield IL",
+    "chimney repair West Chicago IL",
+    "foundation masonry repair Minooka IL",
+    "brick repair Carpentersville IL",
+    "historic masonry restoration Flossmoor IL",
+    "mortar joint profiles explained",
+    "saturated soil masonry foundation cracks",
+    "masonry expansion joints"
   ],
   "visibilityRuns": [
     {
@@ -1788,5 +1886,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-22"
+  "lastUpdated": "2026-06-23"
 }
