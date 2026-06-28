@@ -1368,3 +1368,51 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **Alt text:** Vertical masonry expansion joint filled with flexible sealant running up a brick commercial wall
 **Prompt:**
 > A close photorealistic photo of the face of a brick commercial wall showing a clean vertical expansion joint filled with smooth color-matched elastomeric sealant running top to bottom, the flexible joint clearly distinct from the surrounding mortar joints, even daylight. No workers, no logos. Photorealistic, no illustration.
+
+---
+
+## Batch 2026-06-28 (google mode)
+
+### Location pages
+
+**File name:** `public/images/locations/masonry-sealing-oak-lawn-il.jpg`
+**Alt text:** Mid-century Oak Lawn, IL brick home after breathable masonry water-repellent sealing
+**Prompt:**
+> A photorealistic documentation photo of a 1950s Chicago-style brick bungalow exterior wall after a clear breathable penetrating water repellent has been applied, the brick looking clean and matte (not glossy or wet-looking), tight mortar joints, even natural daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/chimney-repair-lombard-il.jpg`
+**Alt text:** Repaired brick chimney above the roofline on a Lombard, IL home after tuckpointing and crown repair
+**Prompt:**
+> A photorealistic photo of a residential brick chimney above an asphalt-shingle roofline after repair, fresh color-matched mortar joints, a clean repaired concrete crown, sound brick, blue sky behind. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/tuckpointing-joliet-il.jpg`
+**Alt text:** Older Joliet, IL brick home wall after professional tuckpointing and mortar joint repair
+**Prompt:**
+> A photorealistic documentation photo of an early-1900s Joliet brick home wall after tuckpointing, freshly repacked color-matched mortar joints across weathered red brick, crisp tooled joint profile, soft natural daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/brick-repair-geneva-il.jpg`
+**Alt text:** Section of a Geneva, IL brick home after spalled brick was replaced with matched units
+**Prompt:**
+> A close photorealistic photo of an older Fox River brick home wall where spalled and cracked bricks have been cut out and replaced with carefully color- and texture-matched reclaimed brick, fresh mortar blending into the surrounding wall, even daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/locations/lintel-repair-evergreen-park-il.jpg`
+**Alt text:** Repaired brick above a window on an Evergreen Park, IL home after steel lintel replacement
+**Prompt:**
+> A photorealistic documentation photo of the brick above a window opening on a mid-century brick home after a rusted steel lintel was replaced, new galvanized lintel just visible, rebuilt brick courses with matched mortar, no rust staining, even daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+### Blog posts
+
+**File name:** `public/images/blog/lintel-rust-stains-orange-streaks-brick.jpg`
+**Alt text:** Orange rust stains streaking down brick below a window from a corroding steel lintel
+**Prompt:**
+> A close photorealistic photo of a brick wall below a window showing orange-brown rust stains bleeding down the brick face from the mortar joint at the lintel line, faint cracking in the brick above, even diffuse daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/blog/chimney-crown-vs-chimney-cap.jpg`
+**Alt text:** Top of a brick chimney showing the sloped masonry crown and the metal flue cap
+**Prompt:**
+> A photorealistic photo looking up at the top of a residential brick chimney, clearly showing the sloped concrete crown slab and a stainless steel flue cap above the clay flue tile, sound brick below, blue sky. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+**File name:** `public/images/blog/brick-retaining-garden-wall-failure-signs.jpg`
+**Alt text:** Freestanding brick garden wall showing a lean and a bulge with open mortar joints
+**Prompt:**
+> A photorealistic documentation photo of a freestanding brick garden/retaining wall in a yard that is visibly leaning with a bulge in the middle and open, cracked mortar joints, soil and plantings behind it, overcast daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
