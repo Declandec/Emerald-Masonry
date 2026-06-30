@@ -1416,3 +1416,62 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **Alt text:** Freestanding brick garden wall showing a lean and a bulge with open mortar joints
 **Prompt:**
 > A photorealistic documentation photo of a freestanding brick garden/retaining wall in a yard that is visibly leaning with a bulge in the middle and open, cracked mortar joints, soil and plantings behind it, overcast daylight. No workers, no logos. Photorealistic, no illustration, no CGI.
+
+
+<!-- Batch 2026-06-29 (Emerald google mode) -->
+
+## Chimney Repair in Chicago Heights, IL
+**File:** `public/images/seo/chimney-repair-chicago-heights-il.jpg`
+**Alt:** Restored brick chimney above the roofline of a Chicago Heights home
+
+**Prompt:**
+> A repaired and repointed brick chimney rising above the roofline of an older south-suburban Chicago Heights home, fresh color-matched mortar joints, a new crown and cap, clean brick, overcast Midwest sky, photorealistic documentary jobsite photo, crew in PPE if shown, no text or logos
+
+## Tuckpointing in Clarendon Hills, IL
+**File:** `public/images/seo/tuckpointing-clarendon-hills-il.jpg`
+**Alt:** Freshly tuckpointed brick wall on a Clarendon Hills home
+
+**Prompt:**
+> Close-up of a freshly tuckpointed brick wall on an older Clarendon Hills home, crisp color- and profile-matched mortar joints, mature trees reflected in the windows, warm afternoon light, photorealistic documentary jobsite photo, no text or logos
+
+## Brick Replacement in South Holland, IL
+**File:** `public/images/seo/brick-replacement-south-holland-il.jpg`
+**Alt:** Color-matched replacement brick blended into a South Holland home wall
+
+**Prompt:**
+> A section of mid-century brick wall on a South Holland ranch home where spalled brick has been cut out and replaced with carefully color- and texture-matched brick that blends seamlessly, tidy mortar joints, photorealistic documentary jobsite photo, no text or logos
+
+## Foundation Masonry Repair in North Aurora, IL
+**File:** `public/images/seo/foundation-masonry-repair-north-aurora-il.jpg`
+**Alt:** Repointed and parged masonry foundation on a North Aurora home
+
+**Prompt:**
+> A repaired brick-and-block house foundation at grade on a North Aurora home, freshly repointed joints and a clean parge coat, healthy drainage at the base, Fox Valley setting, photorealistic documentary jobsite photo, no text or logos
+
+## Lintel Repair in Crete, IL
+**File:** `public/images/seo/lintel-repair-crete-il.jpg`
+**Alt:** Replaced steel lintel and reset brick above a window in Crete, IL
+
+**Prompt:**
+> A window opening on an older Crete building where a rusted steel lintel has been replaced and the brick above reset on a clean new galvanized lintel, no more rust staining, crisp mortar joints, photorealistic documentary jobsite photo, no text or logos
+
+## Painted Brick Moisture (blog)
+**File:** `public/images/seo/painted-brick-traps-moisture-masonry-repair-chicagoland-il.jpg`
+**Alt:** Spalling painted brick wall on a Chicagoland home
+
+**Prompt:**
+> A painted brick wall on an older Chicagoland home where the paint is blistering and the brick face is spalling beneath it from trapped moisture, documentary detail shot, overcast light, photorealistic, no text or logos
+
+## Greystone/Stone Foundation Repair (blog)
+**File:** `public/images/seo/stone-greystone-foundation-repair-chicago-il.jpg`
+**Alt:** Repointed limestone rubble-stone foundation of a Chicago greystone
+
+**Prompt:**
+> The limestone rubble-stone foundation wall of an old Chicago greystone, partly repointed with fresh compatible mortar against crumbling original joints, basement-level documentary photo, photorealistic, no text or logos
+
+## Masonry & Resale Value (blog)
+**File:** `public/images/seo/how-masonry-condition-affects-home-resale-value-chicagoland-il.jpg`
+**Alt:** Restored brick facade and chimney on a Chicagoland home for sale
+
+**Prompt:**
+> A well-kept brick Chicagoland home with crisp tuckpointing and a sound chimney, strong curb appeal on a clear day, documentary real-estate-style exterior photo, photorealistic, no text or logos
