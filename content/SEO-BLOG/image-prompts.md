@@ -1475,3 +1475,62 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A well-kept brick Chicagoland home with crisp tuckpointing and a sound chimney, strong curb appeal on a clear day, documentary real-estate-style exterior photo, photorealistic, no text or logos
+
+
+<!-- Batch 2026-07-02 (Emerald google mode) -->
+
+## Brick Repair in Westchester, IL
+**File:** `public/images/seo/brick-repair-westchester-il.jpg`
+**Alt:** Color-matched brick repair on a mid-century Westchester home
+
+**Prompt:**
+> A section of a 1960s brick ranch in Westchester, IL where spalled and cracked brick has been cut out and replaced with color- and texture-matched brick, crisp repointed joints, west-suburban Cook County setting, photorealistic documentary jobsite photo, crew in PPE if shown, no text or logos
+
+## Chimney Repair in Hazel Crest, IL
+**File:** `public/images/seo/chimney-repair-hazel-crest-il.jpg`
+**Alt:** Restored brick chimney on a Hazel Crest ranch home
+
+**Prompt:**
+> A repaired and repointed brick chimney above the roofline of a mid-century Hazel Crest, IL ranch home, new crown and cap, clean color-matched mortar joints, south-suburban setting, overcast Midwest sky, photorealistic documentary jobsite photo, no text or logos
+
+## Parapet Wall Repair in Wood Dale, IL
+**File:** `public/images/seo/parapet-wall-repair-wood-dale-il.jpg`
+**Alt:** Rebuilt parapet wall with new coping on a Wood Dale commercial building
+
+**Prompt:**
+> The rebuilt brick parapet wall along the roofline of a flat-roof Wood Dale, IL commercial building, freshly reset coping stones and repointed joints, flashing coordinated at the roof edge, industrial DuPage County setting, photorealistic documentary jobsite photo, crew in PPE if shown, no text or logos
+
+## Masonry Sealing in Wilmington, IL
+**File:** `public/images/seo/masonry-sealing-wilmington-il.jpg`
+**Alt:** Freshly sealed brick wall shedding water on a Wilmington home
+
+**Prompt:**
+> A brick wall on an older Wilmington, IL river-town home after breathable water-repellent sealing, water beading and running off the sound repointed brick, Kankakee River town setting, photorealistic documentary photo, no text or logos
+
+## Limestone & Sill Repair in Sugar Grove, IL
+**File:** `public/images/seo/limestone-sill-repair-sugar-grove-il.jpg`
+**Alt:** Restored limestone window sill on a Sugar Grove home
+
+**Prompt:**
+> A restored limestone window sill on a Sugar Grove, IL home, cracks and spalls repaired and color-matched, crisp joints where stone meets brick, Fox Valley Kane County setting, photorealistic documentary detail photo, no text or logos
+
+## Concrete vs Masonry (blog)
+**File:** `public/images/seo/concrete-vs-masonry-difference-who-fixes-what-chicagoland-il.jpg`
+**Alt:** Side-by-side of a poured concrete slab and a mortared brick wall
+
+**Prompt:**
+> A documentary split composition contrasting a poured concrete driveway slab with a mortared brick wall on a Chicagoland home, showing the material difference, natural daylight, photorealistic, no text or logos
+
+## Firebox vs Chimney Repair (blog)
+**File:** `public/images/seo/brick-fireplace-firebox-crumbling-vs-chimney-repair-chicago-il.jpg`
+**Alt:** Crumbling firebrick inside a brick fireplace firebox
+
+**Prompt:**
+> The inside of a residential brick fireplace firebox with deteriorated refractory mortar joints and spalled firebrick, warm interior light, documentary detail photo, photorealistic, no text or logos
+
+## Prioritize Masonry Repairs on a Budget (blog)
+**File:** `public/images/seo/how-to-prioritize-masonry-repairs-on-a-budget-chicagoland-il.jpg`
+**Alt:** Phased masonry repair in progress on a Chicagoland brick home
+
+**Prompt:**
+> A brick Chicagoland home mid-repair with one elevation freshly tuckpointed and repaired while another awaits work, showing phased restoration, clear daylight, documentary photo, photorealistic, no text or logos
