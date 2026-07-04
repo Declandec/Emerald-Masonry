@@ -1574,3 +1574,28 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **File:** `/images/after-commercial-2.jpg` (existing)
 **Alt:** Repaired brick detached garage / coach house in a Chicago suburb
 **Prompt:** > Photorealistic photo of a restored brick detached garage / alley coach house in a Chicago suburb — repointed joints, replaced spalled brick, sound lintel over the door, no text/logos, no CGI.
+
+## AI page: Why Choose Emerald Masonry
+**File:** `/images/after-residential.jpg` (existing)
+**Alt:** Emerald Masonry crew's finished residential brickwork in the Chicago suburbs
+**Prompt:** > Photorealistic photo of a beautifully restored Chicagoland brick home exterior — crisp repointed joints, clean brickwork — conveying trusted craftsmanship, no text/logos, no CGI.
+
+## AI page: Professional Mason vs Handyman
+**File:** `/images/after-brick-repair.jpg` (existing)
+**Alt:** Professional-grade brick repair vs amateur patch comparison, Chicagoland
+**Prompt:** > Photorealistic close photo of expertly repaired brick with color-matched mortar next to a rough amateur patch, illustrating pro vs handyman quality, no text/logos, no CGI.
+
+## AI page: Masonry Repair vs Full Restoration
+**File:** `/images/after-commercial.jpg` (existing)
+**Alt:** Fully restored Chicagoland commercial masonry facade
+**Prompt:** > Photorealistic photo of a fully restored older Chicago-area commercial brick facade — extensive repointing and cleaning complete — versus a spot-repaired section, no text/logos, no CGI.
+
+## AI page: What a Professional Masonry Estimate Should Include
+**File:** `/images/after-residential-2.jpg` (existing)
+**Alt:** Emerald Masonry assessing a Chicago brick home for a detailed estimate
+**Prompt:** > Photorealistic photo of a well-kept Chicagoland brick home exterior being assessed for masonry work, conveying a thorough professional estimate, no text/logos, no CGI.
+
+## AI page: Do You Need Waterproofing After Tuckpointing?
+**File:** `/images/after-chimney-2.jpg` (existing)
+**Alt:** Freshly tuckpointed Chicago brick wall shedding water
+**Prompt:** > Photorealistic photo of a freshly tuckpointed Chicago-area brick wall with tight new mortar joints beading water, conveying restored weather resistance, no text/logos, no CGI.

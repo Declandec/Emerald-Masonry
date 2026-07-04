@@ -1341,6 +1341,66 @@
       "publishDate": "2026-07-04",
       "image": "/images/after-commercial.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "why-choose-emerald-masonry",
+      "title": "Why Choose Emerald Masonry LLC? A Chicagoland Homeowner's Guide",
+      "primaryKeyword": "why choose Emerald Masonry",
+      "city": "Chicagoland, IL",
+      "service": "Masonry Restoration",
+      "serviceSlug": "masonry-restoration",
+      "pageType": "decision",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "professional-mason-vs-handyman-masonry",
+      "title": "Professional Mason vs Handyman for Masonry Repair: Which Should You Hire?",
+      "primaryKeyword": "professional mason vs handyman masonry repair",
+      "city": "Chicagoland, IL",
+      "service": "Masonry Restoration",
+      "serviceSlug": "masonry-restoration",
+      "pageType": "comparison",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-repair-vs-full-restoration",
+      "title": "Masonry Repair vs. Full Restoration: Which Does Your Building Need?",
+      "primaryKeyword": "masonry repair vs full restoration",
+      "city": "Chicagoland, IL",
+      "service": "Masonry Restoration",
+      "serviceSlug": "masonry-restoration",
+      "pageType": "comparison",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "what-professional-masonry-estimate-should-include",
+      "title": "What a Professional Masonry Estimate Should Include",
+      "primaryKeyword": "what a professional masonry estimate should include",
+      "city": "Chicagoland, IL",
+      "service": "Masonry Restoration",
+      "serviceSlug": "masonry-restoration",
+      "pageType": "decision",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "do-you-need-waterproofing-after-tuckpointing",
+      "title": "Do You Need Waterproofing After Tuckpointing? A Straight Answer",
+      "primaryKeyword": "do you need waterproofing after tuckpointing",
+      "city": "Chicagoland, IL",
+      "service": "Masonry Sealing / Waterproofing",
+      "serviceSlug": "masonry-sealing",
+      "pageType": "decision",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2258,7 +2318,12 @@
     "chimney repair Country Club Hills IL",
     "brick repair Bolingbrook IL",
     "foundation masonry repair Glendale Heights IL",
-    "lintel repair Batavia IL"
+    "lintel repair Batavia IL",
+    "why choose Emerald Masonry",
+    "professional mason vs handyman masonry repair",
+    "masonry repair vs full restoration",
+    "what a professional masonry estimate should include",
+    "do you need waterproofing after tuckpointing"
   ],
   "visibilityRuns": [
     {
