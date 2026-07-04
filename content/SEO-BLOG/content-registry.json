@@ -1281,6 +1281,66 @@
       "publishDate": "2026-07-02",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-hickory-hills-il",
+      "title": "Tuckpointing in Hickory Hills, IL",
+      "primaryKeyword": "tuckpointing Hickory Hills IL",
+      "city": "Hickory Hills, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-country-club-hills-il",
+      "title": "Chimney Repair in Country Club Hills, IL",
+      "primaryKeyword": "chimney repair Country Club Hills IL",
+      "city": "Country Club Hills, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-bolingbrook-il",
+      "title": "Brick Repair in Bolingbrook, IL — Repair, Replacement & Brick Matching",
+      "primaryKeyword": "brick repair Bolingbrook IL",
+      "city": "Bolingbrook, IL",
+      "service": "Brick Repair & Replacement",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-glendale-heights-il",
+      "title": "Foundation Masonry Repair in Glendale Heights, IL",
+      "primaryKeyword": "foundation masonry repair Glendale Heights IL",
+      "city": "Glendale Heights, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-repair-batavia-il",
+      "title": "Lintel Repair in Batavia, IL — Steel Lintel Replacement & Rust Jacking Fixes",
+      "primaryKeyword": "lintel repair Batavia IL",
+      "city": "Batavia, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-04",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1779,6 +1839,27 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-02",
       "intent": "commercial"
+    },
+    {
+      "slug": "why-masonry-repairs-fail-contractor-shortcuts",
+      "title": "Why Masonry Repairs Fail: 6 Contractor Shortcuts That Ruin the Job",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-04"
+    },
+    {
+      "slug": "failing-brick-retaining-walls-planters-chicago",
+      "title": "Failing Brick Retaining Walls & Planters in Chicago: Warning Signs, Causes, and How to Fix Them",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-04"
+    },
+    {
+      "slug": "garage-shed-detached-masonry-repair-chicago",
+      "title": "Detached Garage & Shed Masonry Repair in Chicago: Why Your Brick Outbuildings Fail First",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-04"
     }
   ],
   "coveredCities": [
@@ -1872,7 +1953,9 @@
     "Wood Dale, IL",
     "Woodridge, IL",
     "Worth, IL",
-    "Yorkville, IL"
+    "Yorkville, IL",
+    "Hickory Hills, IL",
+    "Country Club Hills, IL"
   ],
   "coveredServices": [
     "Brick Repair",
@@ -1981,6 +2064,10 @@
     {
       "intent": "brick repair Westchester IL — heavily templated exact-match landing page (masonrytuckpointing.com-style) with ~10 city mentions but zero neighborhood/home-style detail, no answer-first summary, generic masonry-education FAQ, no insurance/licensing/guarantee stated",
       "date": "2026-07-02"
+    },
+    {
+      "intent": "tuckpointing Hickory Hills IL — exact-match local service-area pages (Kerry, Acorn style) + regional shops with a process and '30 years' but templated copy reused across towns, thin FAQs, little Hickory Hills specificity, and no answer-first summary/schema; ours adds answer-first aiSummary, deeper AI-phrased FAQs, mortar-matching depth, and SW-Cook housing detail",
+      "date": "2026-07-04"
     }
   ],
   "coveredKeywords": [
@@ -2166,7 +2253,12 @@
     "when tuckpointing is not enough masonry restoration",
     "why commercial masonry bids vary Chicago",
     "why do brick chimneys lean",
-    "why limestone sills and lintels fail"
+    "why limestone sills and lintels fail",
+    "tuckpointing Hickory Hills IL",
+    "chimney repair Country Club Hills IL",
+    "brick repair Bolingbrook IL",
+    "foundation masonry repair Glendale Heights IL",
+    "lintel repair Batavia IL"
   ],
   "visibilityRuns": [
     {
@@ -2184,5 +2276,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-02"
+  "lastUpdated": "2026-07-04"
 }

@@ -1534,3 +1534,43 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A brick Chicagoland home mid-repair with one elevation freshly tuckpointed and repaired while another awaits work, showing phased restoration, clear daylight, documentary photo, photorealistic, no text or logos
+
+## Tuckpointing in Hickory Hills, IL
+**File:** `/images/after-residential.jpg` (existing)
+**Alt:** Freshly tuckpointed brick home in Hickory Hills, IL by Emerald Masonry
+**Prompt:** > Photorealistic daytime jobsite photo of a mid-century brick ranch in Hickory Hills, IL after tuckpointing — crisp color-matched mortar joints, clean workmanship, no text/logos, no CGI.
+
+## Chimney Repair in Country Club Hills, IL
+**File:** `/images/after-chimney.jpg` (existing)
+**Alt:** Repaired masonry chimney in Country Club Hills, IL
+**Prompt:** > Photorealistic photo of a repaired brick chimney on a south-suburban split-level in Country Club Hills, IL — new crown, fresh flashing, repointed top courses, blue sky, no text/logos, no CGI.
+
+## Brick Repair & Replacement in Bolingbrook, IL
+**File:** `/images/after-brick-repair.jpg` (existing)
+**Alt:** Seamless brick repair on a Bolingbrook, IL home
+**Prompt:** > Photorealistic photo of a brick wall on a Bolingbrook, IL subdivision home after brick repair — replacement bricks matched in size/color/texture, blended mortar, no visible patch, no text/logos, no CGI.
+
+## Foundation Masonry Repair in Glendale Heights, IL
+**File:** `/images/after-residential-2.jpg` (existing)
+**Alt:** Repaired brick/block foundation courses on a Glendale Heights, IL home
+**Prompt:** > Photorealistic photo of a repaired block/brick foundation at grade on a Glendale Heights, IL home — repointed lower courses, parged surface, clean landscaping transition, no text/logos, no CGI.
+
+## Lintel Repair in Batavia, IL
+**File:** `/images/after-commercial.jpg` (existing)
+**Alt:** Replaced steel lintel over a window on a Batavia, IL brick building
+**Prompt:** > Photorealistic photo of a repaired masonry opening on a Batavia, IL brick facade — new steel lintel installed, brick course above rebuilt and repointed, no rust staining, no text/logos, no CGI.
+
+## Blog: Why Masonry Repairs Fail
+**File:** `/images/after-residential-3.jpg` (existing)
+**Alt:** High-quality masonry repair with color-matched mortar on a Chicago brick home
+**Prompt:** > Photorealistic close photo contrasting properly repointed, color-matched mortar joints with a botched smeared repair on a Chicago-area brick wall, no text/logos, no CGI.
+
+## Blog: Failing Brick Retaining Walls & Planters
+**File:** `/images/after-mailbox.jpg` (existing)
+**Alt:** Rebuilt brick retaining/garden wall with proper drainage in Chicagoland
+**Prompt:** > Photorealistic photo of a sturdy rebuilt brick garden/retaining wall in a Chicagoland yard with visible weep holes and clean capstones, no text/logos, no CGI.
+
+## Blog: Garage, Shed & Detached-Structure Masonry
+**File:** `/images/after-commercial-2.jpg` (existing)
+**Alt:** Repaired brick detached garage / coach house in a Chicago suburb
+**Prompt:** > Photorealistic photo of a restored brick detached garage / alley coach house in a Chicago suburb — repointed joints, replaced spalled brick, sound lintel over the door, no text/logos, no CGI.
