@@ -1401,6 +1401,66 @@
       "publishDate": "2026-07-04",
       "image": "/images/after-chimney-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-chicago-il",
+      "title": "Tuckpointing in Chicago, IL — Repointing That Matches Your Brick and Stops Water",
+      "primaryKeyword": "tuckpointing Chicago IL",
+      "city": "Chicago, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-07-09",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-oak-lawn-il",
+      "title": "Chimney Repair in Oak Lawn, IL — Rebuilds, Tuckpointing & Crown Repair Done Right",
+      "primaryKeyword": "chimney repair Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-09",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-orland-park-il",
+      "title": "Brick Repair in Orland Park, IL — Matched, Reset, and Made Watertight",
+      "primaryKeyword": "brick repair Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-09",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-sealing-naperville-il",
+      "title": "Masonry Sealing & Waterproofing in Naperville, IL — Keep Water Out, Let Your Brick Breathe",
+      "primaryKeyword": "masonry sealing Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Masonry Sealing / Waterproofing",
+      "serviceSlug": "masonry-sealing",
+      "pageType": "location",
+      "publishDate": "2026-07-09",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-repair-downers-grove-il",
+      "title": "Lintel Repair in Downers Grove, IL — Stop the Rust Before It Cracks Your Brick",
+      "primaryKeyword": "lintel repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-09",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -1920,6 +1980,30 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-04"
+    },
+    {
+      "slug": "how-to-spot-bad-tuckpointing-job-chicago",
+      "title": "How to Spot a Bad Tuckpointing Job: Red Flags Every Chicago Homeowner Should Check",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-09",
+      "intent": "commercial"
+    },
+    {
+      "slug": "chimney-flashing-leaks-chicago",
+      "title": "Chimney Flashing Leaks: Why Your Chicago Chimney Leaks Where It Meets the Roof",
+      "service": "Chimney Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-09",
+      "intent": "informational"
+    },
+    {
+      "slug": "parging-foundation-coating-chicago",
+      "title": "Parging and Foundation Coating: Protecting Chicago's Brick and Block Foundations",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-09",
+      "intent": "informational"
     }
   ],
   "coveredCities": [
@@ -1943,8 +2027,10 @@
     "Channahon, IL",
     "Chicago Heights, IL",
     "Chicago Ridge, IL",
+    "Chicago, IL",
     "Cicero, IL",
     "Clarendon Hills, IL",
+    "Country Club Hills, IL",
     "Crest Hill, IL",
     "Crestwood, IL",
     "Crete, IL",
@@ -1961,6 +2047,7 @@
     "Hanover Park, IL",
     "Harvey, IL",
     "Hazel Crest, IL",
+    "Hickory Hills, IL",
     "Hinsdale, IL",
     "Homer Glen, IL",
     "Homewood, IL",
@@ -2013,9 +2100,7 @@
     "Wood Dale, IL",
     "Woodridge, IL",
     "Worth, IL",
-    "Yorkville, IL",
-    "Hickory Hills, IL",
-    "Country Club Hills, IL"
+    "Yorkville, IL"
   ],
   "coveredServices": [
     "Brick Repair",
@@ -2128,6 +2213,10 @@
     {
       "intent": "tuckpointing Hickory Hills IL — exact-match local service-area pages (Kerry, Acorn style) + regional shops with a process and '30 years' but templated copy reused across towns, thin FAQs, little Hickory Hills specificity, and no answer-first summary/schema; ours adds answer-first aiSummary, deeper AI-phrased FAQs, mortar-matching depth, and SW-Cook housing detail",
       "date": "2026-07-04"
+    },
+    {
+      "intent": "tuckpointing Chicago IL — broad metro contractor homepages (Casey/AAA-1/Augustyn-style) with no FAQ/FAQPage schema, no Chicago neighborhood/housing-stock segmentation, weak commercial/HOA/property-manager messaging, no answer-first Quick Answer",
+      "date": "2026-07-09"
     }
   ],
   "coveredKeywords": [
@@ -2138,12 +2227,14 @@
     "CMU vs brick repair differences property managers",
     "Chicago freeze-thaw cycles vs national average masonry",
     "HOA masonry maintenance budget planning",
+    "bad tuckpointing job",
     "bowing bulging brick wall repair Chicago",
     "breathable vs film-forming brick sealer",
     "brick foundation vs block foundation repair",
     "brick matching replacement material Chicago",
     "brick repair Addison IL",
     "brick repair Aurora IL",
+    "brick repair Bolingbrook IL",
     "brick repair Calumet City IL",
     "brick repair Carpentersville IL",
     "brick repair Chicago Ridge IL",
@@ -2154,17 +2245,20 @@
     "brick repair Lombard IL",
     "brick repair Oak Brook IL",
     "brick repair Oak Lawn IL",
+    "brick repair Orland Park IL",
     "brick repair Schaumburg IL",
     "brick repair Westchester IL",
     "brick replacement Elgin IL",
     "brick replacement South Holland IL",
     "brick steps stoops repair vs rebuild",
     "brick veneer ties shelf angles hidden steel",
+    "chimney flashing leak",
     "chimney rebuild vs repair",
     "chimney repair Bartlett IL",
     "chimney repair Burbank IL",
     "chimney repair Burr Ridge IL",
     "chimney repair Chicago Heights IL",
+    "chimney repair Country Club Hills IL",
     "chimney repair Crestwood IL",
     "chimney repair Hazel Crest IL",
     "chimney repair Homer Glen IL",
@@ -2175,6 +2269,7 @@
     "chimney repair Naperville IL",
     "chimney repair New Lenox IL",
     "chimney repair Oak Forest IL",
+    "chimney repair Oak Lawn IL",
     "chimney repair Orland Park IL",
     "chimney repair Palos Park IL",
     "chimney repair Villa Park IL",
@@ -2194,6 +2289,7 @@
     "concrete vs masonry",
     "coping roofline masonry leaks Chicago",
     "crumbling fireplace firebox",
+    "do you need waterproofing after tuckpointing",
     "does tuckpointing increase home value",
     "efflorescence recurring brick building Illinois",
     "efflorescence vs spalling vs staining brick",
@@ -2202,6 +2298,7 @@
     "efflorescence waterproofing Glendale Heights IL",
     "efflorescence waterproofing Lockport IL",
     "efflorescence waterproofing Palos Hills IL",
+    "foundation masonry repair Glendale Heights IL",
     "foundation masonry repair Minooka IL",
     "foundation masonry repair Naperville IL",
     "foundation masonry repair North Aurora IL",
@@ -2222,9 +2319,11 @@
     "lime mortar vs Portland cement mortar masonry",
     "limestone sill repair Oak Park IL",
     "limestone sill repair Sugar Grove IL",
+    "lintel repair Batavia IL",
     "lintel repair Bensenville IL",
     "lintel repair Berwyn IL",
     "lintel repair Crete IL",
+    "lintel repair Downers Grove IL",
     "lintel repair Evergreen Park IL",
     "lintel replacement Bolingbrook IL",
     "lintel replacement Darien IL",
@@ -2236,6 +2335,7 @@
     "masonry insurance claims Illinois",
     "masonry maintenance multi-family building Chicago",
     "masonry repair permit Chicago suburbs",
+    "masonry repair vs full restoration",
     "masonry restoration Berwyn IL",
     "masonry restoration Blue Island IL",
     "masonry restoration Lansing IL",
@@ -2248,6 +2348,7 @@
     "masonry scope of work property manager",
     "masonry sealing Batavia IL",
     "masonry sealing Homewood IL",
+    "masonry sealing Naperville IL",
     "masonry sealing Oak Lawn IL",
     "masonry sealing Wilmington IL",
     "masonry warranty commercial building Illinois",
@@ -2263,9 +2364,11 @@
     "parapet wall repair Naperville IL",
     "parapet wall repair Oswego IL",
     "parapet wall repair Wood Dale IL",
+    "parging foundation",
     "post-WWII brick bungalow masonry repair Chicago",
     "post-storm masonry inspection checklist commercial",
     "prioritize masonry repairs",
+    "professional mason vs handyman masonry repair",
     "repointing masonry quality standards Illinois",
     "road salt de-icer brick damage Illinois",
     "saturated soil masonry foundation cracks",
@@ -2281,12 +2384,14 @@
     "tuckpointing Beverly Chicago IL",
     "tuckpointing Bridgeview IL",
     "tuckpointing Brookfield IL",
+    "tuckpointing Chicago IL",
     "tuckpointing Cicero IL",
     "tuckpointing Clarendon Hills IL",
     "tuckpointing Downers Grove IL",
     "tuckpointing Elgin IL",
     "tuckpointing Elmhurst IL",
     "tuckpointing Glen Ellyn IL",
+    "tuckpointing Hickory Hills IL",
     "tuckpointing Joliet IL",
     "tuckpointing Justice IL",
     "tuckpointing La Grange IL",
@@ -2307,23 +2412,15 @@
     "tuckpointing vs caulking masonry joints",
     "waterproofing after tuckpointing sequence",
     "weep holes masonry walls drainage",
+    "what a professional masonry estimate should include",
     "what causes brick to spall Illinois",
     "what to expect residential masonry repair project",
     "when masonry repair is urgent",
     "when tuckpointing is not enough masonry restoration",
+    "why choose Emerald Masonry",
     "why commercial masonry bids vary Chicago",
     "why do brick chimneys lean",
-    "why limestone sills and lintels fail",
-    "tuckpointing Hickory Hills IL",
-    "chimney repair Country Club Hills IL",
-    "brick repair Bolingbrook IL",
-    "foundation masonry repair Glendale Heights IL",
-    "lintel repair Batavia IL",
-    "why choose Emerald Masonry",
-    "professional mason vs handyman masonry repair",
-    "masonry repair vs full restoration",
-    "what a professional masonry estimate should include",
-    "do you need waterproofing after tuckpointing"
+    "why limestone sills and lintels fail"
   ],
   "visibilityRuns": [
     {
@@ -2341,5 +2438,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-04"
+  "lastUpdated": "2026-07-09"
 }

@@ -1599,3 +1599,62 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 **File:** `/images/after-chimney-2.jpg` (existing)
 **Alt:** Freshly tuckpointed Chicago brick wall shedding water
 **Prompt:** > Photorealistic photo of a freshly tuckpointed Chicago-area brick wall with tight new mortar joints beading water, conveying restored weather resistance, no text/logos, no CGI.
+
+
+<!-- Batch 2026-07-09 (Emerald google mode) -->
+
+## Tuckpointing in Chicago, IL
+**File:** `public/images/seo/tuckpointing-chicago-il.jpg`
+**Alt:** Freshly tuckpointed Chicago greystone / two-flat
+
+**Prompt:**
+> A Chicago greystone and brick two-flat with freshly tuckpointed, color- and profile-matched mortar joints against clean historic brick, bungalow-belt street, warm daylight, photorealistic documentary jobsite photo, no text or logos
+
+## Chimney Repair in Oak Lawn, IL
+**File:** `public/images/seo/chimney-repair-oak-lawn-il.jpg`
+**Alt:** Restored brick chimney on an Oak Lawn home
+
+**Prompt:**
+> A repaired brick chimney above an Oak Lawn, IL brick ranch roofline, fresh crown and cap, clean matched mortar joints, overcast sky, photorealistic documentary jobsite photo, no text or logos
+
+## Brick Repair in Orland Park, IL
+**File:** `public/images/seo/brick-repair-orland-park-il.jpg`
+**Alt:** Color-matched brick repair on an Orland Park home
+
+**Prompt:**
+> A brick wall section on an Orland Park, IL home with spalled brick cut out and replaced with color- and texture-matched brick, tidy repointed joints, photorealistic documentary jobsite photo, no text or logos
+
+## Masonry Sealing in Naperville, IL
+**File:** `public/images/seo/masonry-sealing-naperville-il.jpg`
+**Alt:** Sealed brick wall shedding water on a Naperville home
+
+**Prompt:**
+> A Naperville, IL brick wall after breathable water-repellent sealing, water beading off sound repointed brick, DuPage subdivision setting, photorealistic documentary photo, no text or logos
+
+## Lintel Repair in Downers Grove, IL
+**File:** `public/images/seo/lintel-repair-downers-grove-il.jpg`
+**Alt:** Replaced steel lintel and reset brick in Downers Grove
+
+**Prompt:**
+> A window opening on a Downers Grove, IL brick home with a rusted steel lintel replaced by a new primed lintel and the brick reset, no rust staining, crisp joints, photorealistic documentary jobsite photo, no text or logos
+
+## Spot a Bad Tuckpointing Job (blog)
+**File:** `public/images/seo/how-to-spot-bad-tuckpointing-job-chicago.jpg`
+**Alt:** Good vs smeared tuckpointing joints comparison
+
+**Prompt:**
+> A close documentary comparison of a clean tooled tuckpointing joint beside a sloppy joint with mortar smeared over the brick faces, Chicago brick wall, natural light, photorealistic, no text or logos
+
+## Chimney Flashing Leaks (blog)
+**File:** `public/images/seo/chimney-flashing-leaks-chicago.jpg`
+**Alt:** Chimney-to-roof junction with step and counterflashing
+
+**Prompt:**
+> A close documentary view of a brick chimney meeting the roof, step flashing and counterflashing set into a cut reglet and a sound crown, water-tight detail, photorealistic, no text or logos
+
+## Parging & Foundation Coating (blog)
+**File:** `public/images/seo/parging-foundation-coating-chicago.jpg`
+**Alt:** Freshly parged masonry foundation on a Chicago home
+
+**Prompt:**
+> A freshly parged brick-and-block foundation wall at grade on a Chicago home, smooth new parge coat over sound masonry, clean grade line, documentary photo, photorealistic, no text or logos
