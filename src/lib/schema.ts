@@ -135,11 +135,13 @@ export function faqPageNode(faqs: Faq[] | undefined) {
   };
 }
 
-/** BreadcrumbList node from [{name, url}] in order. */
-export function breadcrumbNode(items: { name: string; url: string }[]) {
+/** BreadcrumbList node from [{name, url}] in order. Pass `id` (the page URL) to
+ *  give it a stable @id that a WebPage node's `breadcrumb` can reference. */
+export function breadcrumbNode(items: { name: string; url: string }[], id?: string) {
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    ...(id ? { "@id": `${id}#breadcrumb` } : {}),
     itemListElement: items.map((it, i) => ({
       "@type": "ListItem",
       position: i + 1,
@@ -169,6 +171,53 @@ export function serviceNode(opts: {
       ? { "@type": "City", name: opts.city }
       : SERVICE_AREA_COUNTIES.map((name) => ({ "@type": "AdministrativeArea", name })),
   };
+}
+
+/** WebPage node — the page itself, fused to the business entity by @id. Giving
+ *  every page a WebPage that `about`s the shared #business entity is what lets AI
+ *  answer engines resolve all our pages to one trusted contractor. */
+export function webPageNode(opts: {
+  url: string;
+  name: string;
+  description: string;
+  breadcrumbUrl?: string;
+}) {
+  return {
+    "@type": "WebPage",
+    "@id": `${opts.url}#webpage`,
+    url: opts.url,
+    name: opts.name,
+    description: opts.description,
+    isPartOf: { "@id": `${BASE_URL}/#website` },
+    about: { "@id": `${BASE_URL}/#business` },
+    ...(opts.breadcrumbUrl ? { breadcrumb: { "@id": `${opts.breadcrumbUrl}#breadcrumb` } } : {}),
+  };
+}
+
+/** WebSite node — anchor referenced by every WebPage's isPartOf. */
+export function webSiteNode() {
+  return {
+    "@type": "WebSite",
+    "@id": `${BASE_URL}/#website`,
+    url: BASE_URL,
+    name: BUSINESS.name,
+    publisher: { "@id": `${BASE_URL}/#business` },
+  };
+}
+
+/** Combine nodes into a single @graph document. This is the strongest structured-
+ *  data shape: one <script> whose nodes cross-reference by @id (entity fusion),
+ *  rather than several disconnected islands. Nulls are dropped. */
+export function graph(...nodes: unknown[]): string {
+  const clean = nodes.filter(Boolean).map((n) => {
+    if (n && typeof n === "object" && "@context" in (n as Record<string, unknown>)) {
+      const copy = { ...(n as Record<string, unknown>) };
+      delete copy["@context"];
+      return copy;
+    }
+    return n;
+  });
+  return JSON.stringify({ "@context": "https://schema.org", "@graph": clean });
 }
 
 /** Serialize one or more nodes into a single <script> string. */

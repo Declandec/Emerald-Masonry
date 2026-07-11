@@ -116,3 +116,38 @@ export function getAllSeoSlugs(): string[] {
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
 }
+
+export type RelatedLink = { slug: string; label: string };
+export type RelatedPages = {
+  nearbyCities: RelatedLink[]; // same service, other cities — the city-to-city mesh
+  relatedServices: RelatedLink[]; // same city, other services
+};
+
+/**
+ * Build the internal-link mesh for a location page. Missing this mesh (city pages
+ * that never link to sibling-city pages) is the single biggest reason our location
+ * cluster doesn't rank — Google needs these links to crawl and trust the cluster.
+ * Only `location` pages participate, so comparison/decision hubs don't pollute it.
+ */
+// Match on serviceSlug when present, else fall back to the service display name,
+// so the mesh still forms on older pages that never set serviceSlug in frontmatter.
+function svcKey(p: SeoPage): string {
+  return p.serviceSlug || p.service;
+}
+
+export function getRelatedSeoPages(page: SeoPage, limit = 6): RelatedPages {
+  const all = getAllSeoPages().filter((p) => p.pageType === "location" && p.slug !== page.slug);
+  const key = svcKey(page);
+
+  const nearbyCities = all
+    .filter((p) => key && svcKey(p) === key && p.city !== page.city)
+    .slice(0, limit)
+    .map((p) => ({ slug: p.slug, label: p.city || p.title }));
+
+  const relatedServices = all
+    .filter((p) => p.city && p.city === page.city && svcKey(p) !== key)
+    .slice(0, limit)
+    .map((p) => ({ slug: p.slug, label: p.service || p.title }));
+
+  return { nearbyCities, relatedServices };
+}

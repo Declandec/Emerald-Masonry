@@ -1,5 +1,5 @@
 import { MetadataRoute } from "next";
-import { getAllSeoSlugs } from "@/lib/seo-pages";
+import { getAllSeoPages } from "@/lib/seo-pages";
 import { getAllServiceSlugs } from "@/data/services";
 import fs from "fs";
 import path from "path";
@@ -15,55 +15,46 @@ function getBlogSlugs(): string[] {
     .map((f) => f.replace(/\.md$/, ""));
 }
 
+// Use a page's real publish/update date for lastModified. Every URL claiming
+// "modified today" erodes the freshness signal, so fall back to now only when a
+// page carries no usable date.
+function pageDate(raw: string | undefined, fallback: Date): Date {
+  if (!raw) return fallback;
+  const d = new Date(raw);
+  return Number.isNaN(d.getTime()) ? fallback : d;
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
+  const now = new Date();
   const serviceSlugs = getAllServiceSlugs();
   const blogSlugs = getBlogSlugs();
-  const seoSlugs = getAllSeoSlugs();
+  const seoPages = getAllSeoPages();
 
   const staticRoutes: MetadataRoute.Sitemap = [
-    {
-      url: BASE_URL,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 1.0,
-    },
-    {
-      url: `${BASE_URL}/gallery`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
-    },
-    {
-      url: `${BASE_URL}/blog`,
-      lastModified: new Date(),
-      changeFrequency: "daily",
-      priority: 0.8,
-    },
-    {
-      url: `${BASE_URL}/faq`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.6,
-    },
+    { url: BASE_URL, lastModified: now, changeFrequency: "weekly", priority: 1.0 },
+    { url: `${BASE_URL}/locations`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${BASE_URL}/gallery`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${BASE_URL}/blog`, lastModified: now, changeFrequency: "daily", priority: 0.8 },
+    { url: `${BASE_URL}/faq`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
   ];
 
   const serviceRoutes: MetadataRoute.Sitemap = serviceSlugs.map((slug) => ({
     url: `${BASE_URL}/services/${slug}`,
-    lastModified: new Date(),
+    lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.9,
   }));
 
   const blogRoutes: MetadataRoute.Sitemap = blogSlugs.map((slug) => ({
     url: `${BASE_URL}/blog/${slug}`,
-    lastModified: new Date(),
+    lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.7,
   }));
 
-  const locationRoutes: MetadataRoute.Sitemap = seoSlugs.map((slug) => ({
-    url: `${BASE_URL}/locations/${slug}`,
-    lastModified: new Date(),
+  const locationRoutes: MetadataRoute.Sitemap = seoPages.map((page) => ({
+    url: `${BASE_URL}/locations/${page.slug}`,
+    lastModified: pageDate(page.date, now),
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));

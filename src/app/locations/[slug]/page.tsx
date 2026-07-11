@@ -1,4 +1,4 @@
-import { getSeoPage, getSeoPageHtml, getAllSeoSlugs } from "@/lib/seo-pages";
+import { getSeoPage, getSeoPageHtml, getAllSeoSlugs, getRelatedSeoPages } from "@/lib/seo-pages";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
@@ -9,7 +9,10 @@ import {
   breadcrumbNode,
   faqPageNode,
   serviceNode,
-  jsonLd,
+  localBusinessNode,
+  webSiteNode,
+  webPageNode,
+  graph,
 } from "@/lib/schema";
 
 function buildTitle(metaTitle: string): string {
@@ -60,6 +63,7 @@ export default async function LocationLandingPage({
   if (!page) notFound();
 
   const contentHtml = await getSeoPageHtml(page.content);
+  const related = getRelatedSeoPages(page);
 
   return (
     <>
@@ -162,18 +166,20 @@ export default async function LocationLandingPage({
           </div>
         </div>
 
-        {/* FAQ — visible Q&A that mirrors the FAQPage schema for AI answer engines */}
+        {/* FAQ — visible Q&A that mirrors the FAQPage schema. One H2 section
+            heading with each question as an H3 keeps a clean single-H1 → H2 → H3
+            outline so Google reads the keyword hierarchy correctly. */}
         {page.faqs.length > 0 && (
           <div className="max-w-3xl mt-16 pt-10 border-t border-border">
-            <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mb-8">
-              Frequently Asked Questions
-            </p>
+            <h2 className="text-xl md:text-2xl font-semibold tracking-tight text-foreground mb-8">
+              {`${page.service} in ${page.city} — Frequently Asked Questions`}
+            </h2>
             <div className="divide-y divide-border">
               {page.faqs.map((faq, i) => (
                 <div key={i} className="py-6 first:pt-0">
-                  <h2 className="text-base font-semibold text-foreground mb-3">
+                  <h3 className="text-base font-semibold text-foreground mb-3">
                     {faq.question}
-                  </h2>
+                  </h3>
                   <p className="text-sm text-muted-foreground leading-[1.8]">{faq.answer}</p>
                 </div>
               ))}
@@ -181,11 +187,76 @@ export default async function LocationLandingPage({
           </div>
         )}
 
-        {/* JSON-LD per page: Service + FAQPage + BreadcrumbList */}
+        {/* Internal link mesh — same service in nearby cities + other services in
+            this city. The crawlable city-to-city cluster that lifts the whole
+            location set in search. */}
+        {(related.nearbyCities.length > 0 || related.relatedServices.length > 0) && (
+          <div className="max-w-3xl mt-16 pt-10 border-t border-border grid gap-10 sm:grid-cols-2">
+            {related.nearbyCities.length > 0 && (
+              <div>
+                <h2 className="text-base font-semibold tracking-tight text-foreground mb-4">
+                  {`${page.service} in Nearby Areas`}
+                </h2>
+                <ul className="flex flex-col gap-2">
+                  {related.nearbyCities.map((r) => (
+                    <li key={r.slug}>
+                      <Link href={`/locations/${r.slug}`} className="text-sm text-[var(--color-emerald)] hover:underline">
+                        {`${page.service} in ${r.label}`}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {related.relatedServices.length > 0 && (
+              <div>
+                <h2 className="text-base font-semibold tracking-tight text-foreground mb-4">
+                  {`Other Masonry Services in ${page.city}`}
+                </h2>
+                <ul className="flex flex-col gap-2">
+                  {related.relatedServices.map((r) => (
+                    <li key={r.slug}>
+                      <Link href={`/locations/${r.slug}`} className="text-sm text-[var(--color-emerald)] hover:underline">
+                        {`${r.label} in ${page.city}`}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            <p className="sm:col-span-2 text-sm text-muted-foreground">
+              {page.serviceSlug && (
+                <>
+                  Learn more about our{" "}
+                  <Link href={`/services/${page.serviceSlug}`} className="text-[var(--color-emerald)] hover:underline">
+                    {page.service.toLowerCase()} services
+                  </Link>{" "}
+                  across Chicagoland, or{" "}
+                </>
+              )}
+              <Link href="/locations" className="text-[var(--color-emerald)] hover:underline">
+                view all service areas
+              </Link>
+              .
+            </p>
+          </div>
+        )}
+
+        {/* JSON-LD: single @graph — LocalBusiness + WebSite + WebPage + Service +
+            FAQPage + BreadcrumbList, cross-linked by @id (entity fusion) so answer
+            engines resolve every page to one trusted contractor. */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: jsonLd(
+            __html: graph(
+              localBusinessNode(),
+              webSiteNode(),
+              webPageNode({
+                url: `${BASE_URL}/locations/${slug}`,
+                name: page.metaTitle || page.title,
+                description: page.aiSummary || page.metaDescription,
+                breadcrumbUrl: `${BASE_URL}/locations/${slug}`,
+              }),
               serviceNode({
                 name: `${page.service} in ${page.city}`,
                 description: page.aiSummary || page.metaDescription,
@@ -194,11 +265,14 @@ export default async function LocationLandingPage({
                 serviceType: page.service,
               }),
               faqPageNode(page.faqs),
-              breadcrumbNode([
-                { name: "Home", url: BASE_URL },
-                { name: "Service Areas", url: `${BASE_URL}/locations` },
-                { name: `${page.service} — ${page.city}`, url: `${BASE_URL}/locations/${slug}` },
-              ]),
+              breadcrumbNode(
+                [
+                  { name: "Home", url: BASE_URL },
+                  { name: "Service Areas", url: `${BASE_URL}/locations` },
+                  { name: `${page.service} — ${page.city}`, url: `${BASE_URL}/locations/${slug}` },
+                ],
+                `${BASE_URL}/locations/${slug}`,
+              ),
             ),
           }}
         />
