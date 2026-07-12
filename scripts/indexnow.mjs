@@ -17,7 +17,7 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
-const HOST = "emeraldmasonryil.com";
+const HOST = "www.emeraldmasonryil.com";
 const KEY = "d57bddff3750c113b14fd5c937b858f9";
 const ORIGIN = `https://${HOST}`;
 
