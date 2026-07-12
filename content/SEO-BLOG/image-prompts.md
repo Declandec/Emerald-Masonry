@@ -1658,3 +1658,59 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A freshly parged brick-and-block foundation wall at grade on a Chicago home, smooth new parge coat over sound masonry, clean grade line, documentary photo, photorealistic, no text or logos
+
+## Tuckpointing Riverside (location)
+**File:** `public/images/seo/tuckpointing-riverside-il.jpg`
+**Alt:** Repointed soft-brick wall on a historic Riverside, IL home
+
+**Prompt:**
+> A mason repointing the soft red brick of a late-1800s Victorian home in Riverside, IL under a mature tree canopy, freshly tooled lime-mortar joints color-matched to the original, hand tools and a mortar board on the scaffold plank, worker in PPE, dappled natural light, photorealistic documentary jobsite photo, no text or logos
+
+## Chimney Repair Countryside (location)
+**File:** `public/images/seo/chimney-repair-countryside-il.jpg`
+**Alt:** Rebuilt brick chimney above the roofline on a Countryside, IL ranch home
+
+**Prompt:**
+> A brick chimney on a 1960s suburban ranch house in Countryside, IL rebuilt above the roofline, new cast concrete crown with an overhang and drip edge, new metal chimney cap, fresh step flashing at the roof junction, clean tooled joints, worker in PPE on a low-pitch roof, photorealistic documentary jobsite photo, no text or logos
+
+## Brick Replacement Forest Park (location)
+**File:** `public/images/seo/brick-replacement-forest-park-il.jpg`
+**Alt:** Replacement Chicago common brick set into a Forest Park two-flat wall
+
+**Prompt:**
+> A close documentary view of a 1920s Forest Park, IL brick two-flat where individual spalled bricks have been cut out and replaced with matched salvaged Chicago common brick, color-matched mortar, joints tooled to match the surrounding wall, chisel and hammer resting nearby, natural light, photorealistic, no text or logos
+
+## Parapet Wall Repair Summit (location)
+**File:** `public/images/seo/parapet-wall-repair-summit-il.jpg`
+**Alt:** Rebuilt parapet wall and reset coping on a Summit, IL commercial building
+
+**Prompt:**
+> A rebuilt brick parapet wall on a flat-roofed commercial warehouse in Summit, IL, limestone coping stones reset with fresh sealant joints, new through-wall flashing visible at the base of the parapet, roof membrane tied back in, scaffolding along the facade, workers in hard hats and safety harnesses, overcast industrial light, photorealistic documentary jobsite photo, no text or logos
+
+## Limestone Sill Repair La Grange Park (location)
+**File:** `public/images/seo/limestone-sill-repair-la-grange-park-il.jpg`
+**Alt:** Restored Indiana limestone window sill on a La Grange Park, IL brick home
+
+**Prompt:**
+> A close documentary view of an Indiana limestone window sill on a 1930s brick Georgian home in La Grange Park, IL after restoration, a Dutchman repair piece of matched limestone set into the failed section, recut drip edge underneath, soft sealant joints at the sill ends, clean stone face, natural light, photorealistic, no text or logos
+
+## Chimney Repair Cost in Illinois (blog)
+**File:** `public/images/seo/chimney-repair-cost-illinois.jpg`
+**Alt:** Mason assessing a deteriorated brick chimney for a repair estimate
+
+**Prompt:**
+> A mason in PPE standing on a roof beside a weathered brick chimney with crumbling mortar joints and a cracked crown, clipboard in hand assessing the scope of repair, Chicago-area rooftops in the background, overcast daylight, photorealistic documentary photo, no text or logos
+
+## Chimney Sweep vs Masonry Contractor (blog)
+**File:** `public/images/seo/chimney-sweep-vs-masonry-contractor.jpg`
+**Alt:** Brick chimney showing both flue interior and exterior masonry
+
+**Prompt:**
+> A documentary split view of a brick chimney on a Chicago home, one side showing the sooty flue interior looking down the liner and the other showing the exterior brick stack with deteriorated mortar joints and spalling brick, natural light, photorealistic, no text or logos
+
+## How to Tell If Mortar Is Failing (blog)
+**File:** `public/images/seo/how-to-tell-if-mortar-is-failing-screwdriver-test.jpg`
+**Alt:** Screwdriver test on a crumbling mortar joint in a Chicago brick wall
+
+**Prompt:**
+> A close macro documentary shot of a hand pressing a flathead screwdriver into a mortar joint on an old Chicago brick wall, the mortar crumbling into sand and falling away, receded joints and a small pile of mortar grit on the ledge below, sharp natural light, photorealistic, no text or logos
