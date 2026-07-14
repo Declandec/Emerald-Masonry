@@ -17,9 +17,25 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
-const HOST = "www.emeraldmasonryil.com";
 const KEY = "d57bddff3750c113b14fd5c937b858f9";
-const ORIGIN = `https://${HOST}`;
+
+// Every fetch here must time out and must consume (or cancel) its body —
+// an undici response whose body is never read holds the socket open and the
+// process hangs instead of exiting.
+async function get(url) {
+  const res = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(20_000) });
+  const body = await res.text();
+  return { res, body };
+}
+
+// IndexNow rejects a submission whose host doesn't match where the URLs
+// actually resolve, and apex-vs-www has flipped on this project before. So
+// resolve the canonical host at runtime rather than hardcoding it: follow the
+// redirect chain from the apex and take whatever host ends up serving.
+const { res: rootRes } = await get("https://emeraldmasonryil.com/");
+const ORIGIN = new URL(rootRes.url).origin;
+const HOST = new URL(ORIGIN).host;
+console.error(`canonical host: ${HOST}`);
 
 const args = process.argv.slice(2);
 
@@ -60,24 +76,27 @@ if (!urlList.length) {
 // Verify the key file is actually live first — submitting before the deploy
 // lands is the most common way this silently fails.
 const keyUrl = `${ORIGIN}/${KEY}.txt`;
-const keyRes = await fetch(keyUrl);
-const keyBody = keyRes.ok ? (await keyRes.text()).trim() : "";
-if (keyBody !== KEY) {
-  console.error(`Key file not live yet at ${keyUrl} (got ${keyRes.status}). Deploy first.`);
+const { res: keyRes, body: keyRaw } = await get(keyUrl);
+if (!keyRes.ok || keyRaw.trim() !== KEY) {
+  console.error(`Key file not live at ${keyUrl} (HTTP ${keyRes.status}). Deploy first.`);
   process.exit(1);
 }
+console.error(`key file verified; submitting ${urlList.length} URL(s)…`);
 
 const res = await fetch("https://api.indexnow.org/indexnow", {
   method: "POST",
   headers: { "Content-Type": "application/json; charset=utf-8" },
+  signal: AbortSignal.timeout(30_000),
   body: JSON.stringify({ host: HOST, key: KEY, keyLocation: keyUrl, urlList }),
 });
+
+const respBody = await res.text(); // consume so the socket closes and node exits
 
 // IndexNow returns 200 or 202 on success, and both mean accepted.
 console.log(`IndexNow: HTTP ${res.status} ${res.statusText}`);
 for (const u of urlList) console.log(`  ${u}`);
 if (!res.ok) {
-  console.error(await res.text());
+  console.error(respBody);
   process.exit(1);
 }
-console.log(`Submitted ${urlList.length} URL(s).`);
+console.log(`Submitted ${urlList.length} URL(s) as ${HOST}.`);
