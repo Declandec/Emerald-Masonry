@@ -1714,3 +1714,59 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A close macro documentary shot of a hand pressing a flathead screwdriver into a mortar joint on an old Chicago brick wall, the mortar crumbling into sand and falling away, receded joints and a small pile of mortar grit on the ledge below, sharp natural light, photorealistic, no text or logos
+
+## Chimney Repair Palos Heights (location)
+**File:** `public/images/seo/chimney-repair-palos-heights-il.jpg`
+**Alt:** Rebuilt brick chimney with new crown and cap on a Palos Heights, IL home
+
+**Prompt:**
+> A brick chimney on a mid-century brick ranch home in Palos Heights, IL repaired above the roofline, new cast concrete crown with a drip-edge overhang, new stainless chimney cap, fresh step flashing at the roof junction, crisp tooled mortar joints, mature trees and a leafy Palos-area street behind, worker in PPE on a low-pitch roof, photorealistic documentary jobsite photo, no text or logos
+
+## Foundation Masonry Repair Berwyn (location)
+**File:** `public/images/seo/foundation-masonry-repair-berwyn-il.jpg`
+**Alt:** Repointed and parged brick foundation at grade on a Berwyn, IL bungalow
+
+**Prompt:**
+> The exposed foundation course of a 1920s Chicago brick bungalow in Berwyn, IL after masonry repair, deteriorated mortar repointed and the block/brick foundation face cleaned and parged smooth at grade, clean grade line along a narrow city lot, documentary photo, natural light, photorealistic, no text or logos
+
+## Tuckpointing Oak Park (location)
+**File:** `public/images/seo/tuckpointing-oak-park-il.jpg`
+**Alt:** Color-matched repointing on a historic Prairie-style brick home in Oak Park, IL
+
+**Prompt:**
+> A mason repointing the brick of a historic Prairie School / American Foursquare home in Oak Park, IL, freshly tooled mortar joints color-matched to the original soft lime mortar, hand tools on a mortar board, worker in PPE, mature parkway trees and a landmark-district streetscape behind, dappled natural light, photorealistic documentary jobsite photo, no text or logos
+
+## Brick Replacement Wheaton (location)
+**File:** `public/images/seo/brick-replacement-wheaton-il.jpg`
+**Alt:** Replacement brick blended into a brick-veneer wall on a Wheaton, IL home
+
+**Prompt:**
+> A close documentary view of a brick-veneer wall on a 1990s Wheaton, IL home where several spalled bricks have been cut out and replaced with closely matched brick, color-matched mortar, joints tooled to match the surrounding wall, a subtle blend into the existing field, natural light, photorealistic, no text or logos
+
+## Lintel Repair Homer Glen (location)
+**File:** `public/images/seo/lintel-repair-homer-glen-il.jpg`
+**Alt:** New steel lintel and reset brick over a wide garage opening on a Homer Glen, IL home
+
+**Prompt:**
+> A wide garage-door opening on a large brick-veneer home in Homer Glen, IL where a rusted steel lintel has been replaced with a new galvanized lintel and the brick course above reset, no rust staining, crisp mortar joints, photorealistic documentary jobsite photo, no text or logos
+
+## Why Is Water Coming Through My Brick Wall (blog)
+**File:** `public/images/seo/water-coming-through-brick-wall-causes.jpg`
+**Alt:** Water staining and efflorescence tracing an entry point on a brick wall
+
+**Prompt:**
+> A documentary close view of a Chicago brick wall showing the path of water intrusion — a cracked mortar joint and a failed sill above, with a damp stain and white efflorescence bloom tracking down the brick below, overcast light after rain, photorealistic, no text or logos
+
+## Does Ivy Damage Brick (blog)
+**File:** `public/images/seo/does-ivy-damage-brick-masonry.jpg`
+**Alt:** Climbing ivy on an old brick wall with holdfasts gripping the mortar joints
+
+**Prompt:**
+> A close documentary view of climbing ivy on an old Chicago brick wall, adhesive holdfasts and tendrils gripping into the mortar joints, a section pulled back to reveal deteriorated joints and residue on the brick face beneath, natural light, photorealistic, no text or logos
+
+## How Long Does Tuckpointing Last (blog)
+**File:** `public/images/seo/how-long-does-tuckpointing-last.jpg`
+**Alt:** Freshly tuckpointed brick wall with crisp tooled mortar joints
+
+**Prompt:**
+> A documentary comparison on a Chicago brick wall between a section of freshly tuckpointed, crisply tooled and color-matched mortar joints and an adjacent weathered section with receding, sandy, deteriorating joints, natural light, photorealistic, no text or logos
