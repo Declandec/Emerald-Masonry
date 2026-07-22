@@ -1770,3 +1770,59 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A documentary comparison on a Chicago brick wall between a section of freshly tuckpointed, crisply tooled and color-matched mortar joints and an adjacent weathered section with receding, sandy, deteriorating joints, natural light, photorealistic, no text or logos
+
+## Brick Repair Evergreen Park (location)
+**File:** `public/images/seo/brick-repair-evergreen-park-il.jpg`
+**Alt:** Repaired brick and repointed joints on an Evergreen Park, IL bungalow
+
+**Prompt:**
+> A 1950s Chicago brick bungalow in Evergreen Park, IL after brick repair — deteriorated mortar joints freshly repointed, a few spalled bricks reset and blended, clean tooled joints matched to the original, small city lot, natural light, photorealistic documentary jobsite photo, no text or logos
+
+## Parapet Wall Repair Cicero (location)
+**File:** `public/images/seo/parapet-wall-repair-cicero-il.jpg`
+**Alt:** Rebuilt parapet and reset coping on a Cicero, IL commercial building
+
+**Prompt:**
+> A rebuilt brick parapet wall atop a flat-roofed two-story brick storefront along a Cicero, IL commercial corridor, limestone coping stones reset with fresh sealant joints, new through-wall flashing at the parapet base, roof membrane tied back in, scaffolding along the facade, workers in hard hats and harnesses, overcast light, photorealistic documentary jobsite photo, no text or logos
+
+## Masonry Sealing Frankfort (location)
+**File:** `public/images/seo/masonry-sealing-frankfort-il.jpg`
+**Alt:** Breathable water-repellent being applied to sound brick on a Frankfort, IL home
+
+**Prompt:**
+> A mason applying a clear penetrating breathable water repellent to the sound brick facade of a large newer Frankfort, IL home, low-pressure sprayer, brick darkening slightly where wet, crisp intact mortar joints, worker in PPE, natural light, photorealistic documentary jobsite photo, no text or logos
+
+## Limestone Sill Repair Hinsdale (location)
+**File:** `public/images/seo/limestone-sill-repair-hinsdale-il.jpg`
+**Alt:** Dutchman repair on an Indiana limestone sill of a historic Hinsdale, IL home
+
+**Prompt:**
+> A close documentary view of an Indiana limestone window sill on a stately older brick home in Hinsdale, IL after a Dutchman repair — a matched piece of new limestone set into the failed section, recut drip edge underneath, soft sealant joints at the sill ends, clean matched stone face, natural light, photorealistic, no text or logos
+
+## Residential Masonry Restoration Beverly (location)
+**File:** `public/images/seo/residential-masonry-restoration-beverly-chicago-il.jpg`
+**Alt:** Whole-home masonry restoration on a historic Beverly, Chicago greystone
+
+**Prompt:**
+> A grand century-old brick-and-greystone home in the Beverly neighborhood of Chicago mid-restoration — repointed lime-matched mortar joints, cleaned limestone detailing, a restored chimney, scaffolding on one elevation, workers in PPE, mature trees on a historic-district street, natural light, photorealistic documentary jobsite photo, no text or logos
+
+## Why Brick Cracks Around Windows and Doors (blog)
+**File:** `public/images/seo/why-brick-cracks-around-windows-doors.jpg`
+**Alt:** Step and horizontal cracks in brick at the corner of a window opening
+
+**Prompt:**
+> A close documentary view of a Chicago brick wall at a window opening showing a diagonal step crack running from the corner and a horizontal crack in the joint just above the window with faint rust staining, natural light, photorealistic, no text or logos
+
+## How Often Should You Seal Brick (blog)
+**File:** `public/images/seo/how-often-should-you-seal-brick.jpg`
+**Alt:** Water beading on sealed brick next to water soaking into unsealed brick
+
+**Prompt:**
+> A close documentary comparison on a brick wall — water droplets beading and rolling off a freshly sealed section on one side, and water darkening and soaking into an unsealed weathered section on the other, natural light, photorealistic, no text or logos
+
+## Chicago Facade Inspection Ordinance (blog)
+**File:** `public/images/seo/chicago-facade-inspection-ordinance-masonry.jpg`
+**Alt:** Swing-stage facade inspection and masonry repair on a tall Chicago brick building
+
+**Prompt:**
+> A tall older Chicago commercial brick-and-terracotta building with a suspended swing-stage scaffold on the facade, a mason in a hard hat and harness examining and repairing deteriorated mortar joints and spalled masonry high up, city street below, overcast daylight, photorealistic documentary photo, no text or logos
