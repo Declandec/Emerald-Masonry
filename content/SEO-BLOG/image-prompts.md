@@ -1826,3 +1826,75 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 
 **Prompt:**
 > A tall older Chicago commercial brick-and-terracotta building with a suspended swing-stage scaffold on the facade, a mason in a hard hat and harness examining and repairing deteriorated mortar joints and spalled masonry high up, city street below, overcast daylight, photorealistic documentary photo, no text or logos
+
+## Tuckpointing in Berwyn, IL (location)
+**File:** `/images/after-residential.jpg` (existing real after-photo reused)
+**Alt:** Tuckpointing and brick repointing on a Berwyn Illinois brick bungalow, Cook County
+**Prompt:** Photorealistic daytime photo of a freshly tuckpointed 1920s Chicago-style brick bungalow in Berwyn, IL — crisp new mortar joints, clean face brick, mason's tools staged on drop cloths, no visible faces; documentary jobsite realism, natural overcast light, no CGI, no text.
+
+## Chimney Repair in Elmhurst, IL (location)
+**File:** `/images/after-chimney.jpg`
+**Alt:** Rebuilt brick chimney with new crown and flashing on an Elmhurst Illinois home
+**Prompt:** Photorealistic photo of a repaired brick chimney on an older DuPage County home — new poured crown, fresh flashing at the roofline, repointed brick, blue sky; realistic residential rooftop, workers in PPE if shown, no CGI, no text.
+
+## Brick Repair in Naperville, IL (location)
+**File:** `/images/after-brick-repair.jpg`
+**Alt:** Completed brick repair on a spalled and cracked brick wall of a Naperville Illinois home
+**Prompt:** Photorealistic close-up of a repaired brick wall section — replacement brick color-matched into the field, tooled mortar joints, spalling remediated; sharp jobsite detail, natural light, no CGI, no text.
+
+## Lintel Repair in Tinley Park, IL (location)
+**File:** `/images/after-residential-2.jpg`
+**Alt:** Repaired steel lintel and rebuilt brick course above a window on a Tinley Park brick home
+**Prompt:** Photorealistic photo of a rebuilt brick course above a window opening after steel lintel replacement — clean new lintel, matched brick, tooled joints, rust staining gone; documentary realism, natural light, no CGI, no text.
+
+## Foundation Masonry Repair in Lockport, IL (location)
+**File:** `/images/after-residential-3.jpg`
+**Alt:** Repointed brick and block foundation with fresh parge coat on a Lockport Illinois home
+**Prompt:** Photorealistic photo of a repaired masonry foundation at grade — repointed mortar joints, replaced block/brick, fresh parge coat, tidy excavation line; realistic jobsite, overcast light, no CGI, no text.
+
+## Blog: Step Cracks in Brick Walls
+**File:** `/images/after-brick-repair.jpg`
+**Alt:** Repaired stair-step crack in a brick wall following the mortar joints
+**Prompt:** Photorealistic close-up of a brick wall where a stair-step mortar crack has been raked and repointed — matched mortar, clean tooled joints, faint trace of the former crack line; sharp documentary detail, natural light, no CGI, no text.
+
+## Blog: Greystone Facade Restoration in Chicago
+**File:** `/images/after-commercial-2.jpg`
+**Alt:** Restored Chicago greystone limestone facade with repointed joints and pieced-in stone
+**Prompt:** Photorealistic photo of a restored Chicago greystone facade — cleaned limestone, soft lime-mortar repointing, a subtly pieced-in Dutchman stone repair, carved sills intact; dignified historic street realism, natural light, no CGI, no text.
+
+## Blog: Commercial Storefront Masonry Repair in Chicago
+**File:** `/images/after-commercial.jpg`
+**Alt:** Restored brick storefront facade and parapet on a Chicago commercial building
+**Prompt:** Photorealistic photo of a repaired masonry storefront facade on an older Chicago-area commercial building — repointed brick, restored parapet, new lintel above large display windows, scaffolding partially struck; documentary commercial jobsite, natural light, PPE if workers shown, no CGI, no text.
+
+## Tuckpointing in Berwyn, IL
+**File:** `/images/seo/tuckpointing-berwyn-il.jpg`  **Alt:** Tuckpointing and mortar joint repair on a brick bungalow in Berwyn Illinois Cook County
+**Prompt:** Photorealistic daytime photo of a mason repointing the mortar joints on a classic 1920s Chicago-style brick bungalow in Berwyn, IL — trowel and fresh mortar visible, crisp new joints beside weathered brick, worker in PPE on a ladder. Documentary jobsite realism, natural light, no text, no logos.
+
+## Chimney Repair in Elmhurst, IL
+**File:** `/images/seo/chimney-repair-elmhurst-il.jpg`  **Alt:** Rebuilt brick chimney with new crown and flashing on an Elmhurst Illinois home
+**Prompt:** Photorealistic photo of a repaired red-brick residential chimney above the roofline of an older Elmhurst, IL Georgian home — fresh mortar, a clean new concrete crown and metal flashing, blue sky. Crisp restoration detail, no workers, no text, no logos.
+
+## Brick Repair in Naperville, IL
+**File:** `/images/seo/brick-repair-naperville-il.jpg`  **Alt:** Replaced and repaired brick blended into a Naperville Illinois brick veneer wall
+**Prompt:** Photorealistic close photo of a brick-veneer wall section on a Naperville, IL home where spalled bricks have been replaced with color- and texture-matched brick and fresh mortar, the repair nearly invisible. Natural daylight, documentary realism, no text, no logos.
+
+## Lintel Repair in Tinley Park, IL
+**File:** `/images/seo/lintel-repair-tinley-park-il.jpg`  **Alt:** New steel lintel installed above a window with rebuilt brick on a Tinley Park Illinois home
+**Prompt:** Photorealistic photo of a repaired window head on a Tinley Park, IL brick home — a new painted steel angle lintel in place, the brick course above rebuilt with matched mortar, prior rust staining gone. Clean jobsite realism, natural light, no text, no logos.
+
+## Foundation Masonry Repair in Lockport, IL
+**File:** `/images/seo/foundation-masonry-repair-lockport-il.jpg`  **Alt:** Repaired brick and block foundation with fresh parging on a Lockport Illinois home
+**Prompt:** Photorealistic photo of a repaired masonry foundation on an older Lockport, IL home — repointed brick/block at grade, fresh parge coating, tidy soil line. Overcast documentary realism, no workers, no text, no logos.
+
+## BLOG: Step Cracks in Brick Walls
+**File:** `/images/blog/step-cracks-in-brick-walls.jpg`  **Alt:** Stair-step crack climbing through the mortar joints of a brick wall
+**Prompt:** Photorealistic close photo of a diagonal stair-step crack running through the mortar joints of a red-brick residential wall, following the joints in a staircase pattern. Sharp detail, natural side light, no text, no logos.
+
+## BLOG: Greystone Facade Restoration in Chicago
+**File:** `/images/blog/greystone-facade-restoration-chicago.jpg`  **Alt:** Restored limestone greystone facade on a Chicago rowhouse
+**Prompt:** Photorealistic photo of a restored Chicago greystone facade — carved Bedford-limestone front on a late-1800s rowhouse, cleaned stone, crisp repointed joints, ornamental sills. Warm daylight, dignified historic detail, no text, no logos.
+
+## BLOG: Commercial Storefront Masonry Repair in Chicago
+**File:** `/images/blog/commercial-storefront-masonry-repair-chicago.jpg`  **Alt:** Restored brick facade and parapet on a Chicago commercial storefront
+**Prompt:** Photorealistic photo of a restored older brick commercial storefront on a Chicagoland corridor — repointed facade, repaired parapet above the roofline, clean lintels over display windows, sidewalk below. Documentary urban realism, no text, no logos.
