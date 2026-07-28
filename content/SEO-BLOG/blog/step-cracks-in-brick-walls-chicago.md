@@ -173,32 +173,3 @@ Step crack repair often touches several trades at once. Emerald Masonry handles 
 A step crack is your brick wall pointing at something. Sometimes it's just tired mortar; sometimes it's a moving foundation. The mistake is treating them all the same — filling the crack and hoping. Read the width, the taper, the offset, and the wall's shape, and get a professional eye on anything that's widening or paired with a bulge or sticking doors.
 
 **Emerald Masonry LLC** is a **family-owned**, **licensed, bonded, and insured** masonry contractor with **40+ years** of experience repairing brick throughout Chicago and the suburbs. We'll tell you honestly whether your step crack is cosmetic or structural, and fix the cause — not just the symptom. Schedule a **free on-site estimate** today: call **(708) 288-1696** or reach us through our [contact page](/#contact).
-
-## Frequently Asked Questions
-
-### Are step cracks in brick walls serious?
-It depends on the crack. Hairline stair-step cracks that stay the same width for years are often cosmetic and only need repointing. Cracks that are widening, wider than about a quarter inch, offset side-to-side, or paired with a bulging wall or sticking doors are signs of active foundation movement and should be inspected promptly.
-
-### What causes stair-step cracks in brick?
-They almost always follow the mortar joints because mortar is the weakest path through a wall. The underlying cause is usually differential foundation settlement, expansive clay soil swelling and shrinking with moisture, poor drainage against the foundation, tree roots, a rusted steel lintel, or freeze-thaw damage over many Chicago winters.
-
-### How do I know if a brick crack is structural?
-Watch for width and movement. A structural crack typically widens over time, is wider at the top or bottom than the other end, shows the two sides no longer lined up (offset), or comes with a wall that bows or bulges. Cracks near foundation level, or accompanied by doors and windows that suddenly stick, also point to structural settlement.
-
-### Can you just fill a step crack with caulk or mortar?
-Filling the crack without addressing the cause is the most common mistake. If the wall is still moving, patched mortar or caulk simply cracks again — and it hides the real problem while water keeps getting in. A proper repair diagnoses and stabilizes the cause first, then repoints or rebuilds the affected brick.
-
-### How much does step crack repair cost in the Chicago area?
-There's no flat price because it depends on the cause and the extent — a short, stable crack that only needs raking and repointing is a modest repair, while cracks driven by foundation settlement or a bulging wall can require rebuilding a section or stabilizing the footing. Emerald Masonry provides a free on-site estimate after inspecting the actual wall. Call (708) 288-1696.
-
-### Why do older Chicago brick homes get step cracks so often?
-The Chicago area sits on expansive clay soils that swell when wet and shrink in drought, moving foundations up and down. Combine that with 100-plus freeze-thaw cycles a year and century-old brick bungalows, greystones, and two-flats with original mortar, and stair-step cracking becomes one of the most common masonry issues in the region.
-
-### Will a step crack in my brick wall get worse over winter?
-It can. Water that enters an open crack freezes and expands, prying the joint wider each freeze-thaw cycle, and saturated clay soil around the foundation moves more in winter and spring. That's why sealing the cause and repointing before winter matters, rather than leaving an open crack exposed.
-
-### Do step cracks mean I need a whole new foundation?
-Usually not. Most step cracks are repaired at the wall level — raking the failed joints, replacing damaged brick, and repointing with matched mortar — after the drainage or minor settlement cause is corrected. A full foundation or footing repair is only needed when there's significant ongoing structural movement, which an on-site inspection determines.
-
-### Who repairs step cracks in brick walls near me in Chicagoland?
-Emerald Masonry LLC repairs step cracks throughout Chicago and the suburbs — Cook, DuPage, Will, and the surrounding counties. We're family-owned with 40+ years of experience, licensed, bonded, and insured, and we offer free on-site estimates. Call (708) 288-1696.
