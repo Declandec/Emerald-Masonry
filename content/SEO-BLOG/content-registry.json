@@ -1701,6 +1701,66 @@
       "publishDate": "2026-07-28",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-oak-lawn-il",
+      "title": "Tuckpointing in Oak Lawn, IL \u2014 Mortar Joint Repair for Post-War Brick Homes",
+      "primaryKeyword": "tuckpointing Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-tinley-park-il",
+      "title": "Chimney Repair in Tinley Park, IL \u2014 Crowns, Flashing, Repointing and Rebuilds",
+      "primaryKeyword": "chimney repair Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-hinsdale-il",
+      "title": "Historic Masonry Restoration in Hinsdale, IL \u2014 Preserving Century-Old Brick and Stone",
+      "primaryKeyword": "historic masonry restoration Hinsdale IL",
+      "city": "Hinsdale, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-joliet-il",
+      "title": "Foundation Masonry Repair in Joliet, IL \u2014 Limestone, Brick and Block Foundations",
+      "primaryKeyword": "foundation masonry repair Joliet IL",
+      "city": "Joliet, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-aurora-il",
+      "title": "Limestone and Sill Repair in Aurora, IL \u2014 Restoring Stone Sills, Lintels and Trim",
+      "primaryKeyword": "limestone sill repair Aurora IL",
+      "city": "Aurora, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2358,6 +2418,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-28",
       "image": "/images/after-commercial.jpg"
+    },
+    {
+      "slug": "what-happens-if-you-wait-too-long-to-tuckpoint",
+      "title": "What Happens If You Wait Too Long to Tuckpoint? The Real Cost of Deferring Masonry Repair",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "how-to-clean-brick-without-damaging-it",
+      "title": "How to Clean Brick Without Damaging It: Moss, Algae, Soot and Stains on Chicagoland Masonry",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-residential-2.jpg"
+    },
+    {
+      "slug": "chicago-common-brick-why-it-crumbles",
+      "title": "Chicago Common Brick: Why the City's Oldest Brick Crumbles and How It's Repaired",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-29",
+      "image": "/images/after-brick-repair.jpg"
     }
   ],
   "coveredCities": [
@@ -2599,6 +2683,10 @@
     {
       "intent": "tuckpointing Berwyn IL \u2014 top-ranking competitor service-area pages are trust-signal heavy but geographically thin: they name Berwyn but give no bungalow/two-flat architectural specificity, no mortar-matching (Type N vs Type S) building science, and no cost or process detail; ours wins with Berwyn's actual 1920s Chicago-brick bungalow/two-flat stock (Depot District, dense Cook County lots), soft-brick mortar-hardness matching, real cost drivers, a full process, a stronger FAQ, and FAQ/Service schema",
       "date": "2026-07-28"
+    },
+    {
+      "intent": "tuckpointing Oak Lawn IL / brick repointing Oak Lawn 60453 \u2014 top results are exact-match-domain local pages and cloned multi-town service-area templates (oaklawntuckpointing.com, Kerry, Acorn, R&J style) listing services, a gallery and testimonials but with NO on-page FAQ, no answer-first summary, no cost-driver guidance, no mortar-matching explanation, and zero Oak Lawn architectural or climate specificity beyond a street address (one renders a broken '0 + Years of Experience'); ours wins with an answer-first Quick Answer, six AI-phrased FAQs with FAQPage schema, era-specific mortar-hardness matching (post-war Portland mortar and denser machine-made brick vs. pre-1920 lime mortar), real Oak Lawn geography (95th St corridor, Stony Creek, Advocate Christ Medical Center area, 1967 tornado rebuild stock, Evergreen Park/Chicago Ridge/Burbank borders), a qualitative cost-driver framework, and honest spot-vs-full repointing guidance",
+      "date": "2026-07-29"
     }
   ],
   "coveredKeywords": [
@@ -3223,7 +3311,37 @@
     "foundation masonry repair Lockport IL",
     "step cracks in brick walls",
     "greystone facade restoration Chicago",
-    "commercial storefront masonry repair Chicago"
+    "commercial storefront masonry repair Chicago",
+    "tuckpointing Oak Lawn IL",
+    "brick repointing Oak Lawn IL",
+    "mortar joint repair Oak Lawn",
+    "spot tuckpointing Oak Lawn",
+    "chimney repair Tinley Park IL",
+    "chimney rebuild Tinley Park IL",
+    "chimney crown repair Tinley Park",
+    "chimney flashing repair Tinley Park IL",
+    "historic masonry restoration Hinsdale IL",
+    "lime mortar repointing Hinsdale IL",
+    "historic brick restoration Hinsdale Illinois",
+    "foundation masonry repair Joliet IL",
+    "limestone foundation repair Joliet IL",
+    "parging foundation Joliet IL",
+    "block foundation repair Joliet Illinois",
+    "limestone sill repair Aurora IL",
+    "stone sill replacement Aurora IL",
+    "dutchman stone repair Illinois",
+    "limestone restoration Aurora Illinois",
+    "what happens if you wait too long to tuckpoint",
+    "cost of delaying masonry repair",
+    "deferred tuckpointing damage",
+    "how to clean brick without damaging it",
+    "moss and algae on brick",
+    "pressure washing brick damage",
+    "how to remove efflorescence from brick",
+    "Chicago common brick",
+    "Chicago common brick repair",
+    "why is my brick crumbling",
+    "common brick vs face brick"
   ],
   "visibilityRuns": [
     {
@@ -3241,5 +3359,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-28"
+  "lastUpdated": "2026-07-29"
 }

@@ -1898,3 +1898,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Commercial Storefront Masonry Repair in Chicago
 **File:** `/images/blog/commercial-storefront-masonry-repair-chicago.jpg`  **Alt:** Restored brick facade and parapet on a Chicago commercial storefront
 **Prompt:** Photorealistic photo of a restored older brick commercial storefront on a Chicagoland corridor — repointed facade, repaired parapet above the roofline, clean lintels over display windows, sidewalk below. Documentary urban realism, no text, no logos.
+
+## Tuckpointing in Oak Lawn, IL
+**File:** `/images/seo/tuckpointing-oak-lawn-il.jpg`  **Alt:** Tuckpointing and mortar joint repair on a post-war brick ranch home in Oak Lawn Illinois
+**Prompt:** Photorealistic daytime photo of a mason repointing mortar joints on a 1950s-era face-brick ranch home in Oak Lawn, IL — crisp freshly tooled joints beside weathered brick, trowel and mortar board visible, worker in PPE. Documentary jobsite realism, natural light, no text, no logos.
+
+## Chimney Repair in Tinley Park, IL
+**File:** `/images/seo/chimney-repair-tinley-park-il.jpg`  **Alt:** Repaired brick chimney with new crown and flashing on a home in Tinley Park Illinois
+**Prompt:** Photorealistic photo of a repaired red-brick residential chimney above the roofline of a Tinley Park, IL two-story home — new poured concrete crown with a drip edge, stainless cap, clean step flashing, freshly repointed joints, blue sky. Crisp restoration detail, no workers, no text, no logos.
+
+## Historic Masonry Restoration in Hinsdale, IL
+**File:** `/images/seo/historic-masonry-restoration-hinsdale-il.jpg`  **Alt:** Restored historic brick and limestone facade on a century-old home in Hinsdale Illinois
+**Prompt:** Photorealistic photo of a restored early-1900s brick-and-limestone facade on a large Hinsdale, IL home — hand-repointed lime mortar joints, carved limestone sills and water table cleaned and repaired, mature trees, warm afternoon light. Dignified historic detail, no workers, no text, no logos.
+
+## Foundation Masonry Repair in Joliet, IL
+**File:** `/images/seo/foundation-masonry-repair-joliet-il.jpg`  **Alt:** Repaired limestone and block foundation wall with fresh parging on an older home in Joliet Illinois
+**Prompt:** Photorealistic photo of a repaired quarried-limestone foundation wall at grade on an older Joliet, IL home — repointed stone joints, fresh parge coat on the exposed section, tidy soil line sloping away. Overcast documentary realism, no workers, no text, no logos.
+
+## Limestone and Sill Repair in Aurora, IL
+**File:** `/images/seo/limestone-sill-repair-aurora-il.jpg`  **Alt:** Restored limestone window sill and stone trim on a historic building in Aurora Illinois
+**Prompt:** Photorealistic close photo of a restored limestone window sill on a 19th-century Aurora, IL stone building — a dutchman stone patch fitted into the sill nose, matched joints repointed, sound brick below, carved trim above. Sharp detail, natural side light, no text, no logos.
+
+## BLOG: What Happens If You Wait Too Long to Tuckpoint
+**File:** `/images/blog/what-happens-if-you-wait-too-long-to-tuckpoint.jpg`  **Alt:** Deeply receded mortar joints and spalling brick faces on a neglected Chicagoland brick wall
+**Prompt:** Photorealistic close photo of a badly neglected brick wall — mortar joints receded deep behind the brick faces, sandy mortar crumbling out, several brick faces spalled and flaking away, faint white efflorescence. Harsh detail, overcast light, documentary realism, no text, no logos.
+
+## BLOG: How to Clean Brick Without Damaging It
+**File:** `/images/blog/how-to-clean-brick-without-damaging-it.jpg`  **Alt:** Brick wall being gently cleaned with a soft brush showing cleaned and uncleaned sections
+**Prompt:** Photorealistic photo of a brick wall mid-cleaning — a gloved hand working a soft natural-bristle brush over wet brick, a clear line between the cleaned section and the green algae-stained section beside it, no pressure washer. Natural daylight, documentary realism, no text, no logos.
+
+## BLOG: Chicago Common Brick — Why It Crumbles
+**File:** `/images/blog/chicago-common-brick-why-it-crumbles.jpg`  **Alt:** Weathered salmon-colored Chicago common brick side wall with crumbling faces and washed-out mortar joints
+**Prompt:** Photorealistic close photo of an exposed Chicago common brick side wall — soft salmon and buff colored brick with crumbled, pitted faces, washed-out mortar joints, sandy residue, typical of a pre-1940 Chicago two-flat or coach house. Overcast light, gritty urban documentary realism, no text, no logos.
