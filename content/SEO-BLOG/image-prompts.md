@@ -1930,3 +1930,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Chicago Common Brick — Why It Crumbles
 **File:** `/images/blog/chicago-common-brick-why-it-crumbles.jpg`  **Alt:** Weathered salmon-colored Chicago common brick side wall with crumbling faces and washed-out mortar joints
 **Prompt:** Photorealistic close photo of an exposed Chicago common brick side wall — soft salmon and buff colored brick with crumbled, pitted faces, washed-out mortar joints, sandy residue, typical of a pre-1940 Chicago two-flat or coach house. Overcast light, gritty urban documentary realism, no text, no logos.
+
+## Chimney Repair in Beverly, Chicago, IL
+**File:** `/images/seo/chimney-repair-beverly-chicago-il.jpg`  **Alt:** Restored historic multi-flue brick chimney on a century-old home in Beverly Chicago Illinois
+**Prompt:** Photorealistic photo of a tall restored multi-flue brick chimney with corbelled stepped top courses rising above the slate roof of a century-old Victorian home in Beverly, Chicago — freshly repointed lime mortar joints, a new concrete crown with drip edge, mature trees behind. Warm afternoon light, dignified historic detail, no workers, no text, no logos.
+
+## Tuckpointing in Burbank, IL
+**File:** `/images/seo/tuckpointing-burbank-il.jpg`  **Alt:** Tuckpointing and brick repointing on a post-war brick home in Burbank Illinois
+**Prompt:** Photorealistic daytime photo of a mason repointing mortar joints on a 1960s brick Cape Cod in Burbank, IL, with a detached brick garage visible along the alley behind — crisp new joints beside weathered brick, worker in PPE, mortar board and trowel. Documentary jobsite realism, natural light, no text, no logos.
+
+## Historic Masonry Restoration in Naperville, IL
+**File:** `/images/seo/historic-masonry-restoration-naperville-il.jpg`  **Alt:** Restored historic brick and limestone facade on a century-old building in Naperville Illinois
+**Prompt:** Photorealistic photo of a restored mid-1800s brick and limestone building facade in downtown Naperville, IL — hand-repointed soft lime mortar joints, cleaned limestone sills and water table, original window openings. Overcast even light, careful preservation detail, no workers, no text, no logos.
+
+## Parapet Wall Repair in Frankfort, IL
+**File:** `/images/seo/parapet-wall-repair-frankfort-il.jpg`  **Alt:** Rebuilt brick parapet wall with new coping on a commercial building in Frankfort Illinois
+**Prompt:** Photorealistic photo taken from a flat commercial rooftop in Frankfort, IL showing a rebuilt brick parapet wall — freshly repointed joints on the roof face, new limestone coping with proper slope and overhang, roof membrane terminating cleanly at the base. Documentary realism, bright overcast sky, no workers, no text, no logos.
+
+## Brick Repair in St. Charles, IL
+**File:** `/images/seo/brick-repair-st-charles-il.jpg`  **Alt:** Replaced and repaired brick blended into a wall on a St. Charles Illinois home
+**Prompt:** Photorealistic close photo of a brick wall section on a St. Charles, IL home where spalled and cracked bricks have been cut out and replaced with color- and texture-matched units and fresh tooled mortar, the repair nearly invisible against the weathered surrounding brick. Natural daylight, documentary realism, no text, no logos.
+
+## BLOG: Type N vs Type S vs Type M Mortar
+**File:** `/images/blog/type-n-vs-type-s-mortar-chicago.jpg`  **Alt:** Freshly tooled mortar joints matched in color and hardness on a Chicagoland brick wall
+**Prompt:** Photorealistic close photo of a brick wall mid-repointing — a mason's pointing trowel and hawk with fresh mortar, several joints newly packed and tooled to a concave profile beside older weathered joints, showing a close color match. Sharp macro detail, natural side light, no text, no logos.
+
+## BLOG: Terra Cotta and Cast Stone Facade Repair in Chicago
+**File:** `/images/blog/terra-cotta-cast-stone-facade-repair-chicago.jpg`  **Alt:** Restored ornamental terra cotta and cast stone facade detail on a Chicago commercial building
+**Prompt:** Photorealistic photo of ornate glazed architectural terra cotta detail on an early-1900s Chicago commercial building facade — molded cornice and window surround with a soft cream glaze, crisp repointed joints, fine crazing visible in the older glaze nearby. Warm daylight, rich architectural detail, no workers, no text, no logos.
+
+## BLOG: Party Walls and Shared Masonry
+**File:** `/images/blog/party-wall-masonry-who-pays-chicago.jpg`  **Alt:** Shared brick party wall between two attached Chicago buildings showing deteriorated mortar joints
+**Prompt:** Photorealistic photo of the exposed shared party wall between two attached Chicago brick buildings — soft salmon common brick, deteriorated washed-out mortar joints, the roofline of one building meeting the wall of the other, narrow gangway below. Overcast urban documentary realism, no text, no logos.

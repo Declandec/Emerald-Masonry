@@ -1761,6 +1761,66 @@
       "publishDate": "2026-07-29",
       "image": "/images/after-residential.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-beverly-chicago-il",
+      "title": "Chimney Repair in Beverly, Chicago, IL \u2014 Historic Stacks, Crowns and Rebuilds",
+      "primaryKeyword": "chimney repair Beverly Chicago IL",
+      "city": "Beverly, Chicago, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-burbank-il",
+      "title": "Tuckpointing in Burbank, IL \u2014 Mortar Joint Repair for Brick Ranches and Bungalows",
+      "primaryKeyword": "tuckpointing Burbank IL",
+      "city": "Burbank, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-naperville-il",
+      "title": "Historic Masonry Restoration in Naperville, IL \u2014 Century Homes and Downtown Brick",
+      "primaryKeyword": "historic masonry restoration Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-frankfort-il",
+      "title": "Parapet Wall Repair in Frankfort, IL \u2014 Roof-Edge Masonry for Commercial Buildings",
+      "primaryKeyword": "parapet wall repair Frankfort IL",
+      "city": "Frankfort, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-st-charles-il",
+      "title": "Brick Repair in St. Charles, IL \u2014 Spalled Brick, Step Cracks and Fox River Stone",
+      "primaryKeyword": "brick repair St. Charles IL",
+      "city": "St. Charles, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2442,6 +2502,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-29",
       "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "type-n-vs-type-s-mortar-chicago",
+      "title": "Type N vs Type S vs Type M Mortar: Choosing the Right Mix for Chicago Brick",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "terra-cotta-cast-stone-facade-repair-chicago",
+      "title": "Terra Cotta and Cast Stone Facade Repair in Chicago: What Building Owners Need to Know",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-commercial-3.jpg"
+    },
+    {
+      "slug": "party-wall-masonry-who-pays-chicago",
+      "title": "Party Walls and Shared Masonry: Who Pays When the Brick Between Two Buildings Fails?",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-30",
+      "image": "/images/after-residential-2.jpg"
     }
   ],
   "coveredCities": [
@@ -2569,10 +2653,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing Brookfield IL brick repointing residential \u2014 conversion-first local-service pages (Kerry Tuckpointing, Edmar/masonrytuckpointing.com, Mark's Tuckpointing) with a thin 4-question FAQ, one-line process, one sentence of climate, repeated free-estimate CTAs, no pricing/cost-factor framework, no FAQ/Service schema, and no Brookfield neighborhood or housing-stock specificity",
-      "date": "2026-06-23"
-    },
-    {
       "intent": "brick repair Schaumburg IL \u2014 northwest-suburbs exact-match local-service page with a basic 5-question FAQ and broad cost ranges ($500\u2013$2,500) but no step-by-step repair process, no explanation of cost drivers within the bands, no FAQ/Service schema, and zero Schaumburg housing-stock/neighborhood/climate detail",
       "date": "2026-06-22"
     },
@@ -2687,6 +2767,10 @@
     {
       "intent": "tuckpointing Oak Lawn IL / brick repointing Oak Lawn 60453 \u2014 top results are exact-match-domain local pages and cloned multi-town service-area templates (oaklawntuckpointing.com, Kerry, Acorn, R&J style) listing services, a gallery and testimonials but with NO on-page FAQ, no answer-first summary, no cost-driver guidance, no mortar-matching explanation, and zero Oak Lawn architectural or climate specificity beyond a street address (one renders a broken '0 + Years of Experience'); ours wins with an answer-first Quick Answer, six AI-phrased FAQs with FAQPage schema, era-specific mortar-hardness matching (post-war Portland mortar and denser machine-made brick vs. pre-1920 lime mortar), real Oak Lawn geography (95th St corridor, Stony Creek, Advocate Christ Medical Center area, 1967 tornado rebuild stock, Evergreen Park/Chicago Ridge/Burbank borders), a qualitative cost-driver framework, and honest spot-vs-full repointing guidance",
       "date": "2026-07-29"
+    },
+    {
+      "intent": "chimney repair Beverly Chicago IL / chimney repair 60643 \u2014 ranking results split between directories (Yelp, Yellow Pages) and long-standing local tuckpointing shops running generic city-wide chimney service pages; the strongest contractor page carries real trust signals (since 1988, IL license number, BBB seal, free estimates, bilingual staff) and does open answer-first, but has NO FAQ section, NO step-by-step process, NO cost-driver guidance beyond a blanket percentage discount, no crown/cap/flashing material or technique depth, no case detail, no schema markup, and zero Beverly specificity (generic 'Chicago and suburbs' copy); ours wins by writing for Beverly's actual chimneys \u2014 Ridge Historic District housing stock, tall corbelled multi-flue pre-1930 stacks, why they need soft lime mortar rather than hard Portland mix, a crown/cap/flashing/repoint/corbel/rebuild repair ladder, salvaged brick and corbelled-top reconstruction, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
+      "date": "2026-07-30"
     }
   ],
   "coveredKeywords": [
@@ -3341,7 +3425,41 @@
     "Chicago common brick",
     "Chicago common brick repair",
     "why is my brick crumbling",
-    "common brick vs face brick"
+    "common brick vs face brick",
+    "chimney repair Beverly Chicago IL",
+    "chimney repair 60643",
+    "historic chimney restoration Beverly IL",
+    "chimney crown repair Beverly Chicago",
+    "tuckpointing Burbank IL",
+    "brick repointing Burbank IL",
+    "mortar joint repair Burbank Illinois",
+    "garage tuckpointing Burbank Illinois",
+    "historic masonry restoration Naperville IL",
+    "lime mortar repointing Naperville IL",
+    "downtown Naperville brick building restoration",
+    "parapet wall repair Frankfort IL",
+    "coping stone repair Frankfort",
+    "through-wall flashing parapet Illinois",
+    "roof edge masonry repair Will County",
+    "brick repair St. Charles IL",
+    "spalling brick repair St. Charles IL",
+    "step crack repair St Charles IL",
+    "Fox River masonry repair Illinois",
+    "Type N vs Type S mortar",
+    "Type M mortar",
+    "Type O mortar",
+    "mortar types for tuckpointing",
+    "what mortar to use on old brick",
+    "terra cotta facade repair Chicago",
+    "cast stone repair Chicago",
+    "architectural terra cotta restoration",
+    "terra cotta anchor corrosion",
+    "crazing glaze terra cotta",
+    "party wall masonry repair Chicago",
+    "who pays for party wall repair",
+    "shared wall brick repair",
+    "exposed party wall repair",
+    "masonry access agreement neighbor"
   ],
   "visibilityRuns": [
     {
@@ -3359,5 +3477,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-29"
+  "lastUpdated": "2026-07-30"
 }
