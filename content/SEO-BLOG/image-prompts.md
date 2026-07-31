@@ -1962,3 +1962,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Party Walls and Shared Masonry
 **File:** `/images/blog/party-wall-masonry-who-pays-chicago.jpg`  **Alt:** Shared brick party wall between two attached Chicago buildings showing deteriorated mortar joints
 **Prompt:** Photorealistic photo of the exposed shared party wall between two attached Chicago brick buildings — soft salmon common brick, deteriorated washed-out mortar joints, the roofline of one building meeting the wall of the other, narrow gangway below. Overcast urban documentary realism, no text, no logos.
+
+## Chimney Repair in Mount Greenwood, Chicago, IL
+**File:** `/images/seo/chimney-repair-mount-greenwood-chicago-il.jpg`  **Alt:** Repaired brick chimney with new crown and cap on a post-war home in Mount Greenwood Chicago Illinois
+**Prompt:** Photorealistic photo of a repaired red-brick chimney above the roofline of a 1950s brick Georgian in Mount Greenwood, Chicago — new poured concrete crown with drip edge, stainless chimney cap over the flue, freshly repointed joints, clear sky. Crisp restoration detail, no workers, no text, no logos.
+
+## Brick Repair in Palos Heights, IL
+**File:** `/images/seo/brick-repair-palos-heights-il.jpg`  **Alt:** Replaced and repaired brick blended into a wall on a Palos Heights Illinois home
+**Prompt:** Photorealistic close photo of a wall section on a 1960s Palos Heights, IL brick ranch where spalled bricks have been cut out and replaced with color- and texture-matched units and fresh tooled mortar, wooded lot and mature trees softly blurred behind. Natural dappled daylight, documentary realism, no text, no logos.
+
+## Limestone and Sill Repair in Geneva, IL
+**File:** `/images/seo/limestone-sill-repair-geneva-il.jpg`  **Alt:** Restored limestone window sill and stone trim on a historic home in Geneva Illinois
+**Prompt:** Photorealistic close photo of a restored limestone window sill on a 19th-century Fox Valley stone building in Geneva, IL — a dutchman stone patch fitted into the sill nose, matched lime mortar joints repointed, weathered stone above and sound brick below. Sharp detail, soft natural side light, no text, no logos.
+
+## Foundation Masonry Repair in Homer Glen, IL
+**File:** `/images/seo/foundation-masonry-repair-homer-glen-il.jpg`  **Alt:** Repaired block foundation wall with fresh parging on a home in Homer Glen Illinois
+**Prompt:** Photorealistic photo of a repaired concrete block foundation at grade on a Homer Glen, IL home — repointed block joints, a repaired horizontal crack, fresh parge coat on the exposed section, soil graded away from the wall, mature landscaping set back. Overcast documentary realism, no workers, no text, no logos.
+
+## Caulking and Joint Sealant in Oak Brook, IL
+**File:** `/images/seo/caulking-oak-brook-il.jpg`  **Alt:** New joint sealant installed at precast panel joints on a commercial building in Oak Brook Illinois
+**Prompt:** Photorealistic close photo of freshly installed grey joint sealant in the vertical joint between two precast concrete panels on a suburban Oak Brook, IL office building — clean tooled bead, crisp panel edges, reflective window glazing beside it. Bright overcast light, commercial documentary realism, no text, no logos.
+
+## BLOG: Buying a Home with Masonry Problems
+**File:** `/images/blog/buying-home-masonry-problems-inspection-guide.jpg`  **Alt:** Buyer inspecting deteriorated mortar joints and spalled brick on a Chicagoland home before purchase
+**Prompt:** Photorealistic photo of a person in ordinary clothes crouched close to the brick wall of an older Chicagoland home, pressing a screwdriver into a crumbling mortar joint to test it, spalled brick faces visible nearby. Natural daylight, candid documentary realism, no text, no logos.
+
+## BLOG: Masonry Sealants 101
+**File:** `/images/blog/masonry-sealants-silicone-urethane-hybrid-caulk.jpg`  **Alt:** New joint sealant with backer rod installed in a masonry expansion joint on a Chicagoland building
+**Prompt:** Photorealistic macro photo of a masonry expansion joint mid-installation — grey foam backer rod visible seated in the open section of the joint, fresh tooled sealant bead in the adjoining section, caulking gun nozzle at the edge of frame. Sharp detail, natural light, no text, no logos.
+
+## BLOG: Precast Panel and Curtain Wall Joint Failure
+**File:** `/images/blog/precast-panel-curtain-wall-joint-failure-chicago.jpg`  **Alt:** Precast concrete panel joints and sealant on a suburban Chicagoland office building facade
+**Prompt:** Photorealistic photo looking up the facade of a 1980s suburban Chicagoland office building — grid of precast concrete panels with visible vertical and horizontal sealant joints, some old sealant split and pulled away, faint staining running below a joint. Flat overcast light, commercial documentary realism, no text, no logos.

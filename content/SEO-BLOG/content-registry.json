@@ -1821,6 +1821,66 @@
       "publishDate": "2026-07-30",
       "image": "/images/after-brick-repair.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-mount-greenwood-chicago-il",
+      "title": "Chimney Repair in Mount Greenwood, Chicago, IL \u2014 Crowns, Caps and Post-War Stacks",
+      "primaryKeyword": "chimney repair Mount Greenwood Chicago IL",
+      "city": "Mount Greenwood, Chicago, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-palos-heights-il",
+      "title": "Brick Repair in Palos Heights, IL \u2014 Spalled Brick and Step Cracks, Fixed Locally",
+      "primaryKeyword": "brick repair Palos Heights IL",
+      "city": "Palos Heights, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-geneva-il",
+      "title": "Limestone and Sill Repair in Geneva, IL \u2014 Restoring Fox Valley Stone",
+      "primaryKeyword": "limestone sill repair Geneva IL",
+      "city": "Geneva, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-homer-glen-il",
+      "title": "Foundation Masonry Repair in Homer Glen, IL \u2014 Block Walls, Cracks and Parging",
+      "primaryKeyword": "foundation masonry repair Homer Glen IL",
+      "city": "Homer Glen, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "caulking-oak-brook-il",
+      "title": "Caulking and Joint Sealant in Oak Brook, IL \u2014 Commercial Building Envelope Work",
+      "primaryKeyword": "caulking Oak Brook IL",
+      "city": "Oak Brook, IL",
+      "service": "Caulking & Joint Sealant",
+      "serviceSlug": "caulking",
+      "pageType": "location",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2526,6 +2586,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-30",
       "image": "/images/after-residential-2.jpg"
+    },
+    {
+      "slug": "buying-home-masonry-problems-inspection-guide",
+      "title": "Buying a Home with Masonry Problems: What to Check Before You Close",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "masonry-sealants-silicone-urethane-hybrid-caulk",
+      "title": "Masonry Sealants 101: Silicone, Urethane and Hybrid Caulk \u2014 What Goes Where",
+      "service": "Caulking & Joint Sealant",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-commercial-2.jpg"
+    },
+    {
+      "slug": "precast-panel-curtain-wall-joint-failure-chicago",
+      "title": "Precast Panel and Curtain Wall Joints: Why Suburban Office Buildings Leak",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-07-31",
+      "image": "/images/after-commercial-3.jpg"
     }
   ],
   "coveredCities": [
@@ -2649,13 +2733,10 @@
     "Parapet Wall Repair",
     "Residential Masonry Restoration",
     "Tuckpointing",
-    "Tuckpointing & Repointing"
+    "Tuckpointing & Repointing",
+    "Caulking & Joint Sealant"
   ],
   "competitorIntentsUsed": [
-    {
-      "intent": "brick repair Schaumburg IL \u2014 northwest-suburbs exact-match local-service page with a basic 5-question FAQ and broad cost ranges ($500\u2013$2,500) but no step-by-step repair process, no explanation of cost drivers within the bands, no FAQ/Service schema, and zero Schaumburg housing-stock/neighborhood/climate detail",
-      "date": "2026-06-22"
-    },
     {
       "intent": "tuckpointing licensed masonry contractor Palos Heights / Palos Park southwest suburbs \u2014 local service-authority page with no FAQ, no process steps, no price-factor education, no schema, and no neighborhood/housing-stock detail",
       "date": "2026-06-20"
@@ -2771,6 +2852,10 @@
     {
       "intent": "chimney repair Beverly Chicago IL / chimney repair 60643 \u2014 ranking results split between directories (Yelp, Yellow Pages) and long-standing local tuckpointing shops running generic city-wide chimney service pages; the strongest contractor page carries real trust signals (since 1988, IL license number, BBB seal, free estimates, bilingual staff) and does open answer-first, but has NO FAQ section, NO step-by-step process, NO cost-driver guidance beyond a blanket percentage discount, no crown/cap/flashing material or technique depth, no case detail, no schema markup, and zero Beverly specificity (generic 'Chicago and suburbs' copy); ours wins by writing for Beverly's actual chimneys \u2014 Ridge Historic District housing stock, tall corbelled multi-flue pre-1930 stacks, why they need soft lime mortar rather than hard Portland mix, a crown/cap/flashing/repoint/corbel/rebuild repair ladder, salvaged brick and corbelled-top reconstruction, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
       "date": "2026-07-30"
+    },
+    {
+      "intent": "chimney repair Mount Greenwood Chicago IL / chimney repair 60655 \u2014 ranking set dominated by Yelp/BBB directory pages plus regional tuckpointing shops running one templated service-area page cloned across dozens of neighborhoods; the strongest carries real trust signals (30+ years, Chicago Masons License number, workmanship warranty, free estimates) and does include an FAQ, but only three generic questions ('what is masonry', 'can you color match'), with NO cost guidance, NO step-by-step process, NO explanation of what a crown or cap does or how it fails, no case detail, no schema markup, and zero Mount Greenwood specificity (opening copy would read identically for any town); ours wins by writing for 60655's actual post-war stacks on 1950s-60s bungalows, ranches and Georgians \u2014 leading with the gas-conversion and orphaned-flue deterioration mechanism (cooler wetter flue gases condensing inside an oversized flue, no hot fire to dry the masonry) that no competitor addresses, plus era-specific Portland-vs-lime mortar matching, a cap/crown/flashing/repoint/rebuild ladder explaining what each component does, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
+      "date": "2026-07-31"
     }
   ],
   "coveredKeywords": [
@@ -3459,7 +3544,42 @@
     "who pays for party wall repair",
     "shared wall brick repair",
     "exposed party wall repair",
-    "masonry access agreement neighbor"
+    "masonry access agreement neighbor",
+    "chimney repair Mount Greenwood Chicago IL",
+    "chimney repair 60655",
+    "unused chimney repair Chicago",
+    "chimney cap installation 60655",
+    "brick repair Palos Heights IL",
+    "spalling brick repair Palos Heights IL",
+    "local masonry company Palos Heights",
+    "step crack repair Palos Heights IL",
+    "limestone sill repair Geneva IL",
+    "stone sill replacement Geneva IL",
+    "dutchman stone repair Geneva IL",
+    "historic stone repair Kane County",
+    "foundation masonry repair Homer Glen IL",
+    "block foundation repair Homer Glen IL",
+    "bowing foundation wall Homer Glen Illinois",
+    "parging foundation Homer Glen IL",
+    "caulking Oak Brook IL",
+    "joint sealant Oak Brook Illinois",
+    "commercial caulking contractor Oak Brook IL",
+    "building envelope caulking DuPage County",
+    "expansion joint sealant Oak Brook",
+    "buying a home with masonry problems",
+    "home inspection masonry checklist",
+    "masonry red flags home buying",
+    "pre-purchase masonry inspection Chicagoland",
+    "masonry sealants",
+    "silicone vs urethane caulk",
+    "hybrid sealant MS polymer",
+    "backer rod joint sealant",
+    "hourglass sealant profile",
+    "precast panel joint failure",
+    "curtain wall joint sealant",
+    "commercial building leaking not roof",
+    "embedded steel corrosion precast",
+    "EIFS joint failure"
   ],
   "visibilityRuns": [
     {
@@ -3477,5 +3597,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-30"
+  "lastUpdated": "2026-07-31"
 }
