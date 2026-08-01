@@ -3595,7 +3595,85 @@
         "Missing quotable cost/pricing content vs Delta/Kerry/Krisbud cost guides (addressed on-site this run via tuckpointing-cost-illinois)",
         "Missing service-specific authority pages (lintel, parapet, limestone, historic) competitors rank with (addressed on-site this run via new hubs + location pages)"
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "visibilityScore": 2.8,
+      "promptCount": 12,
+      "method": "WebSearch + WebFetch proxy for AI-answer grounding sources (not direct LLM calls)",
+      "perPrompt": [
+        {
+          "prompt": "best tuckpointing contractor Palos Heights IL",
+          "score": 0,
+          "groundedOn": "Yelp Top-10 / BBB category pages; Galway, Acorn, MD Roofing, Paul Lally's own location pages"
+        },
+        {
+          "prompt": "chimney repair near me Oak Lawn IL",
+          "score": 0,
+          "groundedOn": "Thumbtack ratings + Angi Top-10 + BBB; A-1 Safety, Kerry, Chimney Bear"
+        },
+        {
+          "prompt": "best masonry contractor southwest suburbs Chicago",
+          "score": 0,
+          "groundedOn": "downtobid listicle, Yelp, Thumbtack; Fortune Restoration named for SW suburbs"
+        },
+        {
+          "prompt": "my chimney is crumbling who do I call Chicago masonry",
+          "score": 0,
+          "groundedOn": "Soumar, Fortune, Gralak, Elite, MT Masonry own service pages"
+        },
+        {
+          "prompt": "tuckpointing vs brick replacement which do I need",
+          "score": 0,
+          "groundedOn": "Angi article + A O Handy, Fortune, Golden Stones blog posts"
+        },
+        {
+          "prompt": "commercial masonry contractor for property managers Chicago",
+          "score": 0,
+          "groundedOn": "downtobid; Fortune property-management page, Bruno, North Shore, CTC"
+        },
+        {
+          "prompt": "brick repair Orland Park IL masonry",
+          "score": 0,
+          "groundedOn": "Chimcare, Arrow, Bolingbrook Masonry, Kerry, Paul Lally's per-city pages"
+        },
+        {
+          "prompt": "how much does tuckpointing cost in Illinois",
+          "score": 0,
+          "groundedOn": "Delta Tuckpointing cost guides, Kerry, Krisbud, Manta, HomeAdvisor"
+        },
+        {
+          "prompt": "historic masonry restoration Chicago suburbs contractor",
+          "score": 0,
+          "groundedOn": "Landmarks Illinois contractor directory, Soumar (since 1938), Fortune, RestoreWorks, JSL"
+        },
+        {
+          "prompt": "masonry contractor HOA condo association Chicago",
+          "score": 0,
+          "groundedOn": "Yelp; AAA-1, North Shore, Casey, Bald Eagle association-specific pages"
+        },
+        {
+          "prompt": "lintel replacement contractor Chicago suburbs brick",
+          "score": 0,
+          "groundedOn": "Krisbud, Bruno, General Masonry, Acorn, Gralak lintel service pages"
+        },
+        {
+          "prompt": "Emerald Masonry LLC Palos Heights (brand query)",
+          "score": 1,
+          "groundedOn": "own domain surfaced, BUT answer quoted the OLD (309) 323-9959 number, 'Peoria IL' Facebook label, and 'six years experience / nearly one year independent' \u2014 contradicting canonical 40+ years and (708) 288-1696"
+        }
+      ],
+      "notes": "FLAT vs the 2026-06-18 baseline (3%) despite 169 location pages + 97 blog posts now live. Emerald is absent from all 11 generic intents; it surfaces only on an exact brand-name query, and even there the AI answer returned CONFLICTING ENTITY DATA. Root cause is unchanged and OFF-SITE: answer engines ground almost entirely on directories (Yelp, Thumbtack, Angi, BBB, HomeAdvisor, downtobid, Landmarks Illinois) and on competitors' per-city/per-service pages, and Emerald appears in none of them. CRITICAL FINDING THIS RUN: the old (309) 323-9959 Peoria number was still live ON-SITE in 8 files / 21 occurrences (5 location pages, 3 blog posts) \u2014 the ai-visibility registry incorrectly recorded the site as '100% on (708) 288-1696'. All 21 corrected to (708) 288-1696 / tel:+17082881696 this run. Owned Facebook page is still labeled 'Peoria IL' and a duplicate Google Sites property (sites.google.com/view/emerald-masonry) competes with the real domain.",
+      "topGaps": [
+        "ON-SITE NAP DEFECT (fixed this run): (309) 323-9959 live on 8 pages, 21 occurrences \u2014 AI cited it as the current number",
+        "Owned Facebook page still labeled 'Peoria IL' with the old number \u2014 the likely source AI keeps grounding on (off-site, ai-visibility owns)",
+        "Duplicate Google Sites property (sites.google.com/view/emerald-masonry) splits the brand entity against emeraldmasonryil.com",
+        "Zero third-party directory presence \u2014 Yelp/Angi/Thumbtack/BBB/HomeAdvisor Top-10 slots all held by competitors across every prompt",
+        "No review proof anywhere \u2014 competitors surface with rating + review counts (Thumbtack 4.2-5.0, Yelp 69 reviews); AI has no social-proof signal to recommend Emerald",
+        "Not present in curated listicles AI leans on (downtobid 'Best Commercial Masonry Chicago', Landmarks Illinois masonry contractor directory)",
+        "Cost-query capture lost to Delta/Kerry/Krisbud dedicated cost guides despite tuckpointing-cost-illinois being live"
+      ]
     }
   ],
-  "lastUpdated": "2026-07-31"
+  "lastUpdated": "2026-08-01"
 }

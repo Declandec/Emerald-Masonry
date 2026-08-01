@@ -88,4 +88,4 @@ They are not the same as the insurance company's adjuster, who represents the ca
 
 ---
 
-Emerald Masonry LLC provides written masonry assessments and repair documentation suitable for insurance claims throughout the Chicago southwest suburbs. If you've had storm damage and need a professional assessment, we offer free on-site estimates. [Contact us](/#contact) or call [(309) 323-9959](tel:3093239959).
+Emerald Masonry LLC provides written masonry assessments and repair documentation suitable for insurance claims throughout the Chicago southwest suburbs. If you've had storm damage and need a professional assessment, we offer free on-site estimates. [Contact us](/#contact) or call [(708) 288-1696](tel:+17082881696).

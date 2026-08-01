@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "Frankfort, IL"
 service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Frankfort, IL | Emerald Masonry LLC"
-metaDescription: "Expert brick repair & replacement in Frankfort, IL. Historic downtown and residential specialists. Licensed, 40+ yrs experience. Call (309) 323-9959."
+metaDescription: "Expert brick repair & replacement in Frankfort, IL. Historic downtown and residential specialists. Licensed, 40+ yrs experience. Call (708) 288-1696."
 excerpt: "Frankfort's historic downtown and well-established residential neighborhoods contain significant older brick construction — from early 20th century commercial facades on Kansas Street to mid-century brick homes in surrounding subdivisions. Brick repair done right protects building value, maintains historic character, and stops water intrusion before it causes structural damage. Emerald Masonry LLC serves Frankfort and Will County with 40+ years of Chicagoland masonry experience."
 image: "/images/after-brick-repair.jpg"
 imageAlt: "Repaired brick wall on a commercial building in Frankfort Illinois Will County"
@@ -106,4 +106,4 @@ Emerald Masonry LLC serves Frankfort and Will County, including Mokena, New Leno
 
 **Free on-site estimates. $1,000 project minimum. Licensed, bonded, and insured.**
 
-[Schedule a Free Estimate](/#contact) | Call [(309) 323-9959](tel:3093239959)
+[Schedule a Free Estimate](/#contact) | Call [(708) 288-1696](tel:+17082881696)

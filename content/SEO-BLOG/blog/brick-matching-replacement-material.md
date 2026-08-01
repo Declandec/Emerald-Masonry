@@ -71,4 +71,4 @@ A contractor who dismisses these questions doesn't have a serious matching proce
 
 ---
 
-Emerald Masonry LLC takes brick matching seriously on every repair project. We source reclaimed Chicago common brick for historic properties and work with regional suppliers for modern brick matching throughout the southwest suburbs of Chicago. [Contact us](/#contact) to discuss your project, or call [(309) 323-9959](tel:3093239959).
+Emerald Masonry LLC takes brick matching seriously on every repair project. We source reclaimed Chicago common brick for historic properties and work with regional suppliers for modern brick matching throughout the southwest suburbs of Chicago. [Contact us](/#contact) to discuss your project, or call [(708) 288-1696](tel:+17082881696).

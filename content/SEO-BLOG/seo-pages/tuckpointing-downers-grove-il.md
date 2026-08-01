@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "Downers Grove, IL"
 service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Downers Grove, IL | Emerald Masonry LLC"
-metaDescription: "Expert tuckpointing & mortar repointing in Downers Grove, IL. Licensed, 40+ yrs Chicagoland experience. Free on-site estimates. Call (309) 323-9959."
+metaDescription: "Expert tuckpointing & mortar repointing in Downers Grove, IL. Licensed, 40+ yrs Chicagoland experience. Free on-site estimates. Call (708) 288-1696."
 excerpt: "Downers Grove's commercial corridors and older residential neighborhoods are home to thousands of brick buildings that face constant pressure from DuPage County's freeze-thaw cycles. When mortar joints fail, tuckpointing is the repair that stops the damage before it becomes a full-scale brick replacement project. Emerald Masonry LLC delivers precise, properly matched tuckpointing for commercial and residential properties throughout Downers Grove."
 image: "/images/after-commercial-2.jpg"
 imageAlt: "Completed commercial tuckpointing project on a brick building in Downers Grove Illinois DuPage County"
@@ -109,4 +109,4 @@ Emerald Masonry LLC is based in Palos Heights and serves Downers Grove and the b
 
 **Free on-site estimates. No project too large or too small above our $1,000 minimum.**
 
-[Request a Free Estimate](/#contact) | Call [(309) 323-9959](tel:3093239959)
+[Request a Free Estimate](/#contact) | Call [(708) 288-1696](tel:+17082881696)

@@ -96,4 +96,4 @@ Look for color variation in the brick above window openings. A section where the
 
 ## Service Coverage
 
-Emerald Masonry LLC performs lintel assessment and replacement throughout the Chicago southwest suburbs — Cook, Will, DuPage, and Kane counties. [Contact us](/#contact) to schedule an assessment, or call [(309) 323-9959](tel:3093239959).
+Emerald Masonry LLC performs lintel assessment and replacement throughout the Chicago southwest suburbs — Cook, Will, DuPage, and Kane counties. [Contact us](/#contact) to schedule an assessment, or call [(708) 288-1696](tel:+17082881696).

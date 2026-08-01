@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "Mokena, IL"
 service: "Chimney Repair"
 metaTitle: "Chimney Repair in Mokena, IL | Emerald Masonry LLC"
-metaDescription: "Professional chimney repair in Mokena, IL — crown, flashing, tuckpointing & rebuilds. Licensed masonry contractor, 40+ yrs experience. (309) 323-9959."
+metaDescription: "Professional chimney repair in Mokena, IL — crown, flashing, tuckpointing & rebuilds. Licensed masonry contractor, 40+ yrs experience. (708) 288-1696."
 excerpt: "A leaking or deteriorating chimney is one of the more deceptive maintenance problems a Mokena homeowner faces — interior damage appears long after the exterior problem started. Emerald Masonry LLC performs the full range of chimney repair work, from mortar joint repointing and crown repairs to partial and full chimney rebuilds, serving Mokena and Will County residential and commercial properties."
 image: "/images/after-chimney.jpg"
 imageAlt: "Repaired and repointed brick chimney on a residential home in Mokena Illinois Will County"
@@ -90,4 +90,4 @@ Emerald Masonry LLC serves Mokena and Will County, including Frankfort, New Leno
 
 **Free on-site estimates. Licensed, bonded, and insured. $1,000 project minimum.**
 
-[Request a Free Estimate](/#contact) | Call [(309) 323-9959](tel:3093239959)
+[Request a Free Estimate](/#contact) | Call [(708) 288-1696](tel:+17082881696)

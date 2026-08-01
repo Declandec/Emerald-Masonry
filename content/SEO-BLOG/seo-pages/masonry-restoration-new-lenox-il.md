@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "New Lenox, IL"
 service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in New Lenox, IL | Emerald Masonry LLC"
-metaDescription: "Full masonry restoration in New Lenox, IL — brick, stone, mortar & structural facade repairs. Licensed, 40+ yrs Chicagoland experience. (309) 323-9959."
+metaDescription: "Full masonry restoration in New Lenox, IL — brick, stone, mortar & structural facade repairs. Licensed, 40+ yrs Chicagoland experience. (708) 288-1696."
 excerpt: "New Lenox is one of Will County's fastest-growing suburbs, but it also has a significant inventory of older institutional, commercial, and residential masonry that requires serious restoration work — not just cosmetic patching. Emerald Masonry LLC provides comprehensive masonry restoration services for churches, commercial buildings, institutional properties, and older residential structures throughout New Lenox."
 image: "/images/after-commercial.jpg"
 imageAlt: "Restored brick commercial building facade in New Lenox Illinois Will County"
@@ -91,4 +91,4 @@ Emerald Masonry LLC serves New Lenox and the surrounding Will County area, inclu
 
 **Free on-site estimates. $1,000 project minimum. Licensed, bonded, and insured.**
 
-[Request a Free Estimate](/#contact) | Call [(309) 323-9959](tel:3093239959)
+[Request a Free Estimate](/#contact) | Call [(708) 288-1696](tel:+17082881696)

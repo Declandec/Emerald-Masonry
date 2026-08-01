@@ -16,7 +16,7 @@ secondaryKeywords:
 city: "Bolingbrook, IL"
 service: "Parapet Wall Repair"
 metaTitle: "Parapet Wall Repair in Bolingbrook, IL | Emerald Masonry LLC"
-metaDescription: "Commercial parapet wall repair & rebuilding in Bolingbrook, IL. Specialists in flat-roof commercial masonry. Licensed, insured. Call (309) 323-9959."
+metaDescription: "Commercial parapet wall repair & rebuilding in Bolingbrook, IL. Specialists in flat-roof commercial masonry. Licensed, insured. Call (708) 288-1696."
 excerpt: "Bolingbrook's commercial corridors along Route 53, Veterans Parkway, and Boughton Road are densely built with retail centers, office complexes, and industrial buildings from the 1970s through 1990s — nearly all featuring flat or low-slope roofs with brick parapet walls. These parapets are the most weather-exposed masonry on any commercial building, and at 30 to 50 years old, most of them are in urgent need of assessment. Emerald Masonry LLC specializes in commercial parapet repair and rebuilding throughout Bolingbrook and the DuPage/Will County corridor."
 image: "/images/after-commercial-3.jpg"
 imageAlt: "Repaired brick parapet wall on a commercial building in Bolingbrook Illinois Route 53 corridor"
@@ -91,4 +91,4 @@ Emerald Masonry LLC serves Bolingbrook and the surrounding DuPage and Will Count
 
 **Free on-site estimates for commercial properties. $1,000 project minimum. Licensed, bonded, and insured.**
 
-[Request a Free Estimate](/#contact) | Call [(309) 323-9959](tel:3093239959)
+[Request a Free Estimate](/#contact) | Call [(708) 288-1696](tel:+17082881696)
