@@ -1994,3 +1994,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Precast Panel and Curtain Wall Joint Failure
 **File:** `/images/blog/precast-panel-curtain-wall-joint-failure-chicago.jpg`  **Alt:** Precast concrete panel joints and sealant on a suburban Chicagoland office building facade
 **Prompt:** Photorealistic photo looking up the facade of a 1980s suburban Chicagoland office building — grid of precast concrete panels with visible vertical and horizontal sealant joints, some old sealant split and pulled away, faint staining running below a joint. Flat overcast light, commercial documentary realism, no text, no logos.
+
+## Chimney Repair in Evergreen Park, IL
+**File:** `/images/seo/chimney-repair-evergreen-park-il.jpg`  **Alt:** Repaired brick chimney with new flashing and crown on a 1950s home in Evergreen Park Illinois
+**Prompt:** Photorealistic photo of a repaired brick chimney on a low-pitch 1950s roof in Evergreen Park, IL — bright new step and counter flashing at the roof-to-chimney joint, fresh concrete crown with drip edge, repointed joints, neighboring rooftops close by. Documentary jobsite realism, natural light, no workers, no text, no logos.
+
+## Lintel Repair in Oak Lawn, IL
+**File:** `/images/seo/lintel-repair-oak-lawn-il.jpg`  **Alt:** New steel lintel installed above a window with rebuilt brick on an Oak Lawn Illinois home
+**Prompt:** Photorealistic close photo of a repaired window head on a 1960s Oak Lawn, IL brick ranch — new painted steel angle lintel in place above a wide picture window, brick courses above rebuilt with matched mortar, prior rust staining gone. Clean jobsite realism, natural daylight, no text, no logos.
+
+## Historic Masonry Restoration in Elmhurst, IL
+**File:** `/images/seo/historic-masonry-restoration-elmhurst-il.jpg`  **Alt:** Restored historic brick and stone facade on a century-old home in Elmhurst Illinois
+**Prompt:** Photorealistic photo of a restored early-1900s brick facade on a large Elmhurst, IL home — hand-repointed soft lime mortar joints, cleaned stone sills and trim, mature shade trees, one section showing the crisp contrast between restored and weathered brick. Warm afternoon light, careful preservation detail, no workers, no text, no logos.
+
+## Tuckpointing in Homer Glen, IL
+**File:** `/images/seo/tuckpointing-homer-glen-il.jpg`  **Alt:** Tuckpointing and mortar joint repair on a brick veneer home in Homer Glen Illinois
+**Prompt:** Photorealistic daytime photo of a mason repointing mortar joints on a large brick veneer home in Homer Glen, IL, set on a wooded lot with mature trees — freshly tooled joints beside weathered brick, open weep holes visible in the bottom course, worker in PPE. Dappled natural light, documentary realism, no text, no logos.
+
+## Parapet Wall Repair in Aurora, IL
+**File:** `/images/seo/parapet-wall-repair-aurora-il.jpg`  **Alt:** Rebuilt brick and limestone parapet with new coping on a historic commercial building in Aurora Illinois
+**Prompt:** Photorealistic photo taken from the flat roof of a 19th-century downtown Aurora, IL commercial building — rebuilt brick parapet with freshly repointed lime mortar joints on the roof face, new limestone coping with proper slope and drip edge, roof membrane terminating cleanly at the base. Bright overcast light, documentary realism, no workers, no text, no logos.
+
+## BLOG: Water in the Basement — Masonry or Drainage?
+**File:** `/images/blog/basement-water-foundation-masonry-or-drainage.jpg`  **Alt:** Repaired masonry foundation wall at grade with corrected drainage on a Chicagoland home
+**Prompt:** Photorealistic photo of the base of a Chicagoland home's masonry foundation during a rain — a downspout with a proper extension carrying water well away from the wall, soil graded to slope away, repointed block joints and fresh parging at grade, wet ground. Overcast light, documentary realism, no text, no logos.
+
+## BLOG: Brick Grades — SW vs MW
+**File:** `/images/blog/brick-grades-sw-mw-weathering-spalling.jpg`  **Alt:** Close view of spalled brick faces beside sound matched replacement brick on a Chicagoland wall
+**Prompt:** Photorealistic macro photo of a brick wall showing a sharp contrast — several badly spalled and delaminating brick faces with their fired skin flaked away, directly beside newly set matched replacement bricks with intact faces and fresh tooled joints. Sharp detail, natural side light, no text, no logos.
+
+## BLOG: Brick Bonds and Patterns
+**File:** `/images/blog/brick-bonds-patterns-repair-matching.jpg`  **Alt:** Brick wall showing common bond with header courses and a soldier course above a window on a Chicagoland home
+**Prompt:** Photorealistic photo of an older Chicago brick wall clearly showing common bond — regular header courses of short brick ends every several rows — with a soldier course above a window opening and a rowlock brick sill below it. Even natural light, architectural documentary clarity, no text, no logos.

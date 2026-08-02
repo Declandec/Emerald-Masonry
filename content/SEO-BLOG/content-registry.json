@@ -1881,6 +1881,66 @@
       "publishDate": "2026-07-31",
       "image": "/images/after-commercial.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-evergreen-park-il",
+      "title": "Chimney Repair in Evergreen Park, IL \u2014 Flashing, Crowns and Rebuilds",
+      "primaryKeyword": "chimney repair Evergreen Park IL",
+      "city": "Evergreen Park, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "lintel-repair-oak-lawn-il",
+      "title": "Lintel Repair in Oak Lawn, IL \u2014 Rust Jacking, Cracked Brick and Steel Replacement",
+      "primaryKeyword": "lintel repair Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-elmhurst-il",
+      "title": "Historic Masonry Restoration in Elmhurst, IL \u2014 Century Brick, Stone and Chimneys",
+      "primaryKeyword": "historic masonry restoration Elmhurst IL",
+      "city": "Elmhurst, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-homer-glen-il",
+      "title": "Tuckpointing in Homer Glen, IL \u2014 Mortar Joint Repair on Large-Lot Brick Homes",
+      "primaryKeyword": "tuckpointing Homer Glen IL",
+      "city": "Homer Glen, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-aurora-il",
+      "title": "Parapet Wall Repair in Aurora, IL \u2014 Roof-Edge Masonry on Historic and Commercial Buildings",
+      "primaryKeyword": "parapet wall repair Aurora IL",
+      "city": "Aurora, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2610,6 +2670,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-31",
       "image": "/images/after-commercial-3.jpg"
+    },
+    {
+      "slug": "basement-water-foundation-masonry-or-drainage",
+      "title": "Water in the Basement: Is It Your Foundation Masonry or Your Drainage?",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "brick-grades-sw-mw-weathering-spalling",
+      "title": "Brick Grades Explained: Why SW vs MW Brick Decides Whether Your Wall Spalls",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "brick-bonds-patterns-repair-matching",
+      "title": "Brick Bonds and Patterns: Why the Layout of Your Wall Changes How It's Repaired",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-02",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -2738,10 +2822,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing licensed masonry contractor Palos Heights / Palos Park southwest suburbs \u2014 local service-authority page with no FAQ, no process steps, no price-factor education, no schema, and no neighborhood/housing-stock detail",
-      "date": "2026-06-20"
-    },
-    {
       "intent": "tuckpointing contractor chicago suburbs IL",
       "date": "2026-04-02"
     },
@@ -2856,6 +2936,10 @@
     {
       "intent": "chimney repair Mount Greenwood Chicago IL / chimney repair 60655 \u2014 ranking set dominated by Yelp/BBB directory pages plus regional tuckpointing shops running one templated service-area page cloned across dozens of neighborhoods; the strongest carries real trust signals (30+ years, Chicago Masons License number, workmanship warranty, free estimates) and does include an FAQ, but only three generic questions ('what is masonry', 'can you color match'), with NO cost guidance, NO step-by-step process, NO explanation of what a crown or cap does or how it fails, no case detail, no schema markup, and zero Mount Greenwood specificity (opening copy would read identically for any town); ours wins by writing for 60655's actual post-war stacks on 1950s-60s bungalows, ranches and Georgians \u2014 leading with the gas-conversion and orphaned-flue deterioration mechanism (cooler wetter flue gases condensing inside an oversized flue, no hot fire to dry the masonry) that no competitor addresses, plus era-specific Portland-vs-lime mortar matching, a cap/crown/flashing/repoint/rebuild ladder explaining what each component does, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
       "date": "2026-07-31"
+    },
+    {
+      "intent": "chimney repair Evergreen Park IL / chimney repair 60805 \u2014 ranking set dominated by chimney-franchise location pages (Chimcare-style) and regional tuckpointing shops; the strongest is better than most templates (5-question FAQ, six-step process, rough cost band) but the copy is mass-produced across 60+ service-area cities, mentions crown/cap/flashing only in passing with no explanation of what each part does, has NO mortar-matching content, no schema markup, pricing untied to height/brick/severity, and only generic local colour ('older homes common in this area', bare neighborhood-name list); ours wins with a genuinely different diagnostic position \u2014 that on Evergreen Park's low-pitch 1950s roofs most 'chimney leaks' are FLASHING failures rather than masonry failures, so the job is identifying which of three water paths is active before anyone quotes a rebuild \u2014 plus a crown-vs-cap-vs-flashing explanation of function, era-appropriate Portland-vs-lime mortar matching, tight-lot gangway access handling, church/institutional capability, and six AI-phrased FAQs with FAQPage schema. Deliberately distinct from the Beverly (historic corbelled lime-mortar stacks) and Mount Greenwood (gas-conversion orphaned flues) chimney pages.",
+      "date": "2026-08-02"
     }
   ],
   "coveredKeywords": [
@@ -3579,7 +3663,37 @@
     "curtain wall joint sealant",
     "commercial building leaking not roof",
     "embedded steel corrosion precast",
-    "EIFS joint failure"
+    "EIFS joint failure",
+    "chimney repair Evergreen Park IL",
+    "chimney repair 60805",
+    "chimney flashing repair Evergreen Park IL",
+    "chimney crown vs chimney cap",
+    "lintel repair Oak Lawn IL",
+    "steel lintel replacement Oak Lawn IL",
+    "rust jacking brick repair Cook County",
+    "garage door lintel repair Oak Lawn IL",
+    "historic masonry restoration Elmhurst IL",
+    "lime mortar repointing Elmhurst IL",
+    "century home masonry repair Elmhurst",
+    "tuckpointing Homer Glen IL",
+    "brick veneer repointing Will County",
+    "weep holes brick veneer",
+    "parapet wall repair Aurora IL",
+    "coping stone repair Aurora",
+    "historic commercial masonry Aurora IL",
+    "water in basement foundation or drainage",
+    "cove joint leak",
+    "hydrostatic pressure basement",
+    "interior vs exterior foundation repair",
+    "brick grades SW MW NW",
+    "severe weathering brick",
+    "brick absorption rate",
+    "fired face brick skin",
+    "brick bonds and patterns",
+    "common bond header course",
+    "soldier course brick",
+    "rowlock course",
+    "jack arch brick opening"
   ],
   "visibilityRuns": [
     {
@@ -3675,5 +3789,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01"
+  "lastUpdated": "2026-08-02"
 }
