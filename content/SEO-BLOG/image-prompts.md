@@ -2026,3 +2026,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Brick Bonds and Patterns
 **File:** `/images/blog/brick-bonds-patterns-repair-matching.jpg`  **Alt:** Brick wall showing common bond with header courses and a soldier course above a window on a Chicagoland home
 **Prompt:** Photorealistic photo of an older Chicago brick wall clearly showing common bond — regular header courses of short brick ends every several rows — with a soldier course above a window opening and a rowlock brick sill below it. Even natural light, architectural documentary clarity, no text, no logos.
+
+## Residential Masonry Restoration in Orland Park, IL
+**File:** `/images/seo/residential-masonry-restoration-orland-park-il.jpg`  **Alt:** Restored brick facade, chimney and window sills on a home in Orland Park Illinois
+**Prompt:** Photorealistic photo of a large brick home in Orland Park, IL after full exterior masonry restoration — freshly repointed joints, a rebuilt chimney with new crown and cap, repaired sills and clean lintel heads above the windows, all reading as one coordinated job. Late afternoon light, documentary realism, no workers, no text, no logos.
+
+## Brick Repair in Downers Grove, IL
+**File:** `/images/seo/brick-repair-downers-grove-il.jpg`  **Alt:** Matched replacement brick blended into a repaired wall on a Downers Grove Illinois home
+**Prompt:** Photorealistic close photo of a brick wall section on an early-1900s Downers Grove, IL home where spalled units have been cut out and replaced with salvaged matched brick and fresh tooled mortar, mature tree shadows across the wall. Natural dappled light, documentary realism, no text, no logos.
+
+## Limestone and Sill Repair in Lockport, IL
+**File:** `/images/seo/limestone-sill-repair-lockport-il.jpg`  **Alt:** Restored limestone sill and canal-era stone wall on a historic building in Lockport Illinois
+**Prompt:** Photorealistic photo of a restored dolomitic limestone wall and window sill on an 1840s canal-era building in Lockport, IL — coarse weathered stone, a fitted dutchman patch at the sill nose, freshly repointed soft lime joints, canal-district setting behind. Overcast even light, historic documentary detail, no text, no logos.
+
+## Chimney Repair in Batavia, IL
+**File:** `/images/seo/chimney-repair-batavia-il.jpg`  **Alt:** Repaired brick chimney with new crown and cap on a home in Batavia Illinois
+**Prompt:** Photorealistic photo of a restored tall brick chimney above the roofline of a 19th-century Fox Valley home in Batavia, IL — rebuilt corbelled top courses, new poured concrete crown with drip edge, stainless cap, repointed lime mortar joints, river-valley treeline behind. Clear morning light, no workers, no text, no logos.
+
+## Masonry Sealing in Tinley Park, IL
+**File:** `/images/seo/masonry-sealing-tinley-park-il.jpg`  **Alt:** Brick wall treated with breathable masonry sealer after repointing in Tinley Park Illinois
+**Prompt:** Photorealistic close photo of a brick wall in Tinley Park, IL immediately after breathable sealer application — water beading and running off the brick face while the masonry itself looks completely untreated and matte, crisp repointed joints visible. Sharp macro detail, natural daylight, no text, no logos.
+
+## BLOG: What a Masonry Estimate Should Include
+**File:** `/images/blog/what-a-masonry-estimate-should-include.jpg`  **Alt:** Homeowner reviewing a written masonry estimate against a repaired brick wall in Chicagoland
+**Prompt:** Photorealistic photo of a clipboard with a multi-page written scope document and a pen resting on it, held at the base of a weathered Chicagoland brick wall with visible deteriorated mortar joints behind. Shallow depth of field, natural daylight, documentary realism, no readable text, no logos.
+
+## BLOG: Should I Remove My Chimney Instead of Repairing It?
+**File:** `/images/blog/should-i-remove-my-chimney-instead-of-repairing.jpg`  **Alt:** Masonry chimney above the roofline of a Chicagoland home being assessed for repair or removal
+**Prompt:** Photorealistic photo of a deteriorating brick chimney standing above the roofline of an older Chicagoland home — spalled faces, open mortar joints, a cracked crown, no cap on the flue, roof shingles meeting it at aged flashing. Flat overcast light, honest documentary realism, no workers, no text, no logos.
+
+## BLOG: Salvaged Brick Sourcing and Matching
+**File:** `/images/blog/salvaged-brick-sourcing-matching-chicago.jpg`  **Alt:** Salvaged Chicago common brick set beside original weathered brick in a matched wall repair
+**Prompt:** Photorealistic photo of a stack of cleaned salvaged Chicago common brick on a pallet — soft salmon and buff tones, old mortar removed, varied weathering across units — with a partially repaired brick wall in the background behind it. Natural daylight, gritty documentary realism, no text, no logos.

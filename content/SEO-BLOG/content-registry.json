@@ -1941,6 +1941,66 @@
       "publishDate": "2026-08-02",
       "image": "/images/after-commercial-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "residential-masonry-restoration-orland-park-il",
+      "title": "Residential Masonry Restoration in Orland Park, IL \u2014 Whole-Envelope Repair, Not Patchwork",
+      "primaryKeyword": "residential masonry restoration Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-downers-grove-il",
+      "title": "Brick Repair in Downers Grove, IL \u2014 Spalled Brick, Step Cracks and Matching",
+      "primaryKeyword": "brick repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-lockport-il",
+      "title": "Limestone and Sill Repair in Lockport, IL \u2014 Canal-Town Stone Restored",
+      "primaryKeyword": "limestone sill repair Lockport IL",
+      "city": "Lockport, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-batavia-il",
+      "title": "Chimney Repair in Batavia, IL \u2014 Crowns, Caps, Flashing and Rebuilds",
+      "primaryKeyword": "chimney repair Batavia IL",
+      "city": "Batavia, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-sealing-tinley-park-il",
+      "title": "Masonry Sealing in Tinley Park, IL \u2014 Breathable Waterproofing Done Right",
+      "primaryKeyword": "masonry sealing Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Masonry Sealing / Waterproofing",
+      "serviceSlug": "masonry-sealing",
+      "pageType": "location",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2694,6 +2754,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-02",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "what-a-masonry-estimate-should-include",
+      "title": "What a Masonry Estimate Should Include \u2014 and How to Compare Two That Differ by Thousands",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "should-i-remove-my-chimney-instead-of-repairing",
+      "title": "Should I Remove My Chimney Instead of Repairing It?",
+      "service": "Chimney Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-chimney-2.jpg"
+    },
+    {
+      "slug": "salvaged-brick-sourcing-matching-chicago",
+      "title": "Salvaged Brick: Where Matching Brick Actually Comes From in Chicago",
+      "service": "Brick Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-03",
+      "image": "/images/after-brick-repair.jpg"
     }
   ],
   "coveredCities": [
@@ -2822,10 +2906,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing contractor chicago suburbs IL",
-      "date": "2026-04-02"
-    },
-    {
       "intent": "chimney repair New Lenox IL residential",
       "date": "2026-04-09"
     },
@@ -2940,6 +3020,10 @@
     {
       "intent": "chimney repair Evergreen Park IL / chimney repair 60805 \u2014 ranking set dominated by chimney-franchise location pages (Chimcare-style) and regional tuckpointing shops; the strongest is better than most templates (5-question FAQ, six-step process, rough cost band) but the copy is mass-produced across 60+ service-area cities, mentions crown/cap/flashing only in passing with no explanation of what each part does, has NO mortar-matching content, no schema markup, pricing untied to height/brick/severity, and only generic local colour ('older homes common in this area', bare neighborhood-name list); ours wins with a genuinely different diagnostic position \u2014 that on Evergreen Park's low-pitch 1950s roofs most 'chimney leaks' are FLASHING failures rather than masonry failures, so the job is identifying which of three water paths is active before anyone quotes a rebuild \u2014 plus a crown-vs-cap-vs-flashing explanation of function, era-appropriate Portland-vs-lime mortar matching, tight-lot gangway access handling, church/institutional capability, and six AI-phrased FAQs with FAQPage schema. Deliberately distinct from the Beverly (historic corbelled lime-mortar stacks) and Mount Greenwood (gas-conversion orphaned flues) chimney pages.",
       "date": "2026-08-02"
+    },
+    {
+      "intent": "residential masonry restoration Orland Park IL \u2014 unusually directory-dominated SERP (Porch '10 Best', Procore, Yelp, Thumbtack, Angi, chamberofcommerce.com) so the 'who should I hire' intent is largely owned by aggregators rather than contractor pages; the contractor pages that do rank are service-area template clones duplicated across dozens of suburbs with a services list, no FAQ, no cost guidance, no process, no mortar-matching content, no schema and no Orland Park specificity beyond the town name in the H1; ours does not compete as another 'we do masonry here' page \u2014 it takes the restoration-vs-repair position (most homes need four things done in the RIGHT ORDER, not one thing done well) and supplies an explicit repair-priority framework (water sources first, then corroding steel, then water damage, then protection, then cosmetic) plus phasing guidance, veneer-specific failure points for the 1970s-2000s stock, the Old Orland historic-core mortar distinction, and six AI-phrased FAQs with FAQPage schema",
+      "date": "2026-08-03"
     }
   ],
   "coveredKeywords": [
@@ -3693,7 +3777,36 @@
     "common bond header course",
     "soldier course brick",
     "rowlock course",
-    "jack arch brick opening"
+    "jack arch brick opening",
+    "residential masonry restoration Orland Park IL",
+    "whole house masonry restoration Chicagoland",
+    "masonry repair phasing Orland Park Illinois",
+    "brick repair Downers Grove IL",
+    "spalling brick repair Downers Grove IL",
+    "matched brick replacement DuPage",
+    "limestone sill repair Lockport IL",
+    "I&M Canal limestone masonry",
+    "Lockport limestone building restoration",
+    "dutchman stone repair Will County",
+    "chimney repair Batavia IL",
+    "chimney crown repair Batavia IL",
+    "historic chimney repair Batavia IL",
+    "masonry sealing Tinley Park IL",
+    "breathable masonry sealer Chicagoland",
+    "silane siloxane sealer Illinois",
+    "brick sealing after tuckpointing",
+    "what a masonry estimate should include",
+    "comparing masonry bids",
+    "masonry scope of work",
+    "grinding depth repointing",
+    "should I remove my chimney",
+    "chimney removal vs repair",
+    "decommissioning a chimney",
+    "chimney removal above roofline",
+    "salvaged brick Chicago",
+    "reclaimed brick matching",
+    "antique brick sourcing",
+    "where to find matching brick"
   ],
   "visibilityRuns": [
     {
@@ -3789,5 +3902,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-02"
+  "lastUpdated": "2026-08-03"
 }
