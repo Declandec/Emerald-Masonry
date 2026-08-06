@@ -2061,6 +2061,66 @@
       "publishDate": "2026-08-05",
       "image": "/images/after-chimney-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-la-grange-il",
+      "title": "Chimney Repair in La Grange, IL \u2014 Matching Mortar to a Victorian Stack",
+      "primaryKeyword": "chimney repair La Grange IL",
+      "city": "La Grange, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-chimney.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "limestone-sill-repair-western-springs-il",
+      "title": "Limestone and Sill Repair in Western Springs, IL \u2014 Stone on Century-Old Homes",
+      "primaryKeyword": "limestone sill repair Western Springs IL",
+      "city": "Western Springs, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-glen-ellyn-il",
+      "title": "Brick Repair in Glen Ellyn, IL \u2014 Spalled Faces, Step Cracks and Matching",
+      "primaryKeyword": "brick repair Glen Ellyn IL",
+      "city": "Glen Ellyn, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-mokena-il",
+      "title": "Tuckpointing in Mokena, IL \u2014 Repointing Newer Brick Before It Spalls",
+      "primaryKeyword": "tuckpointing Mokena IL",
+      "city": "Mokena, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-geneva-il",
+      "title": "Parapet Wall Repair in Geneva, IL \u2014 Roof-Edge Masonry on Historic Downtown Buildings",
+      "primaryKeyword": "parapet wall repair Geneva IL",
+      "city": "Geneva, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2862,6 +2922,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-05",
       "image": "/images/after-residential-2.jpg"
+    },
+    {
+      "slug": "emergency-masonry-brick-fell-off-house",
+      "title": "A Brick Fell Off My House \u2014 What to Do Right Now",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "why-masonry-contractors-wont-quote-over-the-phone",
+      "title": "Why Masonry Contractors Won't Quote Over the Phone \u2014 and What It Means If One Does",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "brick-patios-walkways-driveways-flatwork-repair",
+      "title": "Brick Patios, Walkways and Steps: Why Flatwork Fails Differently Than Walls",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-06",
+      "image": "/images/after-mailbox.jpg"
     }
   ],
   "coveredCities": [
@@ -2990,10 +3074,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing La Grange IL brick repointing",
-      "date": "2026-04-12"
-    },
-    {
       "intent": "tuckpointing chicago suburbs contractor DuPage County",
       "date": "2026-04-12"
     },
@@ -3108,6 +3188,10 @@
     {
       "intent": "historic masonry restoration Lemont IL / Lemont limestone building repair \u2014 SERP mixes stone suppliers, directory listings (Landmarks Illinois contractor archive, Yelp) and regional restoration contractors running service-area template pages; the strongest competitor is better than most (three-question FAQ, a genuine mortar-matching paragraph citing composition, color, texture, hardness and breathability) but the same boilerplate is templated across 18+ communities, with NO step-by-step process, NO cost guidance beyond 'repair is more cost-effective than replacement', NO lime-mortar specifics, no schema, no case studies \u2014 and critically it gestures at 'historic limestone structures that echo our town's quarrying past' WITHOUT EVER NAMING THE STONE; ours names Athens Marble, explains it is dolomitic limestone rather than marble, ties it to the I&M Canal and the Chicago Water Tower, explains the specific failure mode of layered dolomite (delamination along bedding planes), frames lime-vs-Portland mortar as preservation-vs-destruction rather than preference, and states plainly that matched replacement stone is scarce because the quarries closed \u2014 which reframes repair-before-replacement as a materials reality",
       "date": "2026-08-05"
+    },
+    {
+      "intent": "chimney repair La Grange IL \u2014 the strongest competitor set analyzed to date. Alongside the usual chimney-franchise pages (one operator runs THREE near-duplicate La Grange pages, i.e. thin-content proliferation), the leading result segments problems by housing era, names local architectural styles (Italianate, Queen Anne, Tudor Revival, Craftsman), includes a repair-vs-replace section, a five-question FAQ covering historic districts and permits, and a real mortar spec citing Type N (ASTM C270) with a Portland-damages-historic-brick warning. Its gaps: NO cost guidance or cost-driver framework at all, NO step-by-step process, no answer-first summary, no schema markup, an obviously templated multi-city framework with La Grange details bolted on, and \u2014 telling \u2014 case references to Park Ridge and Evanston on a La Grange page. Ours beats it on its own strongest point: prescribing 'Type N for historic homes' is closer than most contractors get but still an oversimplification, since Type N contains Portland cement and can be harder than genuinely soft 1880s-90s brick, which often wants Type O or a custom lime blend. We publish the full mortar gradient (M/S/N/O/lime) plus the governing softer-than-the-brick rule so a homeowner can evaluate ANY contractor's answer, and add the cost drivers, repair ladder, three-water-paths diagnostic and process the competitor omits entirely.",
+      "date": "2026-08-06"
     }
   ],
   "coveredKeywords": [
@@ -3920,7 +4004,35 @@
     "tuckpointing timeline",
     "mortar cure time",
     "masonry weather delays",
-    "scaffolding setup time"
+    "scaffolding setup time",
+    "chimney repair La Grange IL",
+    "Type O mortar historic chimney",
+    "corbelled chimney repair Cook County",
+    "historic chimney repair La Grange 60525",
+    "limestone sill repair Western Springs IL",
+    "stone sill replacement Western Springs IL",
+    "dutchman stone repair Cook County",
+    "brick repair Glen Ellyn IL",
+    "spalling brick repair Glen Ellyn IL",
+    "tuckpointing Mokena IL",
+    "when does new brick need tuckpointing",
+    "parapet wall repair Geneva IL",
+    "historic downtown Geneva building masonry",
+    "coping stone repair Geneva",
+    "brick fell off my house",
+    "emergency masonry repair Chicago",
+    "loose brick above sidewalk",
+    "falling masonry liability",
+    "masonry stabilization",
+    "masonry quote over the phone",
+    "why won't contractors give a price",
+    "door to door masonry scam",
+    "written masonry scope",
+    "brick patio repair Chicagoland",
+    "brick walkway repair Chicago",
+    "brick paver settling",
+    "paver base failure",
+    "mortared vs sand set pavers"
   ],
   "visibilityRuns": [
     {
@@ -4016,5 +4128,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-05"
+  "lastUpdated": "2026-08-06"
 }

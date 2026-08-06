@@ -2090,3 +2090,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: How Long Does Masonry Work Take
 **File:** `/images/blog/how-long-do-masonry-repairs-take-timelines.jpg`  **Alt:** Masonry crew mid-project on a Chicagoland brick home with staging and protected work area
 **Prompt:** Photorealistic photo of an active masonry jobsite on a Chicagoland brick two-story — staging erected against one elevation, landscaping covered with protective sheeting, a section of wall with joints ground out and open beside a section already repointed, tools and mortar board on the platform. Natural daylight, documentary jobsite realism, workers in PPE, no text, no logos.
+
+## Chimney Repair in La Grange, IL
+**File:** `/images/seo/chimney-repair-la-grange-il.jpg`  **Alt:** Restored corbelled Victorian brick chimney above the roofline of a historic home in La Grange Illinois
+**Prompt:** Photorealistic photo of a tall restored Victorian brick chimney above the slate roof of an 1890s La Grange, IL home — rebuilt stepped corbelled top courses, new concrete crown with drip edge, soft lime mortar joints freshly repointed, mature historic-district streetscape behind. Warm late-afternoon light, dignified architectural detail, no workers, no text, no logos.
+
+## Limestone and Sill Repair in Western Springs, IL
+**File:** `/images/seo/limestone-sill-repair-western-springs-il.jpg`  **Alt:** Restored limestone window sill and stone trim on a century-old home in Western Springs Illinois
+**Prompt:** Photorealistic close photo of a restored limestone window sill on a pre-1920 Western Springs, IL home — crisp restored slope and nose profile, a fitted dutchman patch at one end, matched lime joints, and clean sound brick below where streaking has been removed. Sharp detail, soft natural side light, no text, no logos.
+
+## Brick Repair in Glen Ellyn, IL
+**File:** `/images/seo/brick-repair-glen-ellyn-il.jpg`  **Alt:** Matched replacement brick blended into a repaired wall on a Glen Ellyn Illinois home
+**Prompt:** Photorealistic photo of a repaired brick wall section on a 1920s Glen Ellyn, IL home directly beneath a gutter line — spalled units replaced with salvaged matched brick and fresh tooled mortar, the vertical band of former water damage now sound, mature trees overhead. Dappled natural light, documentary realism, no text, no logos.
+
+## Tuckpointing in Mokena, IL
+**File:** `/images/seo/tuckpointing-mokena-il.jpg`  **Alt:** Tuckpointing and mortar joint repair on a brick veneer home in Mokena Illinois
+**Prompt:** Photorealistic photo of a mason spot-repointing the chimney of a 1990s brick veneer home in Mokena, IL — freshly tooled joints on the stack against otherwise sound newer brick below, worker in PPE on roof staging, suburban subdivision rooftops behind. Bright natural light, documentary jobsite realism, no text, no logos.
+
+## Parapet Wall Repair in Geneva, IL
+**File:** `/images/seo/parapet-wall-repair-geneva-il.jpg`  **Alt:** Rebuilt brick and limestone parapet with new coping on a historic downtown building in Geneva Illinois
+**Prompt:** Photorealistic photo taken from the flat roof of a 19th-century Third Street commercial building in Geneva, IL — rebuilt brick parapet with freshly repointed lime joints, new limestone coping with proper slope and drip edge, a sidewalk protection canopy visible far below on the street side. Bright overcast light, commercial documentary realism, no workers, no text, no logos.
+
+## BLOG: A Brick Fell Off My House
+**File:** `/images/blog/emergency-masonry-brick-fell-off-house.jpg`  **Alt:** Fallen brick and mortar debris at the base of a Chicagoland masonry wall after a freeze
+**Prompt:** Photorealistic photo of a single fallen brick with old mortar still attached lying on a wet concrete walkway, with the dark void it came from visible in the brick wall above and behind it, damp winter light. Sharp foreground detail, stark documentary realism, no people, no text, no logos.
+
+## BLOG: Why Masons Won't Quote Over the Phone
+**File:** `/images/blog/why-masonry-contractors-wont-quote-over-the-phone.jpg`  **Alt:** Mason inspecting mortar joints on a Chicagoland brick wall during an on-site estimate
+**Prompt:** Photorealistic photo of a mason in work clothes pressing a screwdriver into a mortar joint on an older Chicagoland brick wall, clipboard tucked under one arm, examining the joint closely at arm's length. Natural daylight, candid documentary realism, no readable text, no logos.
+
+## BLOG: Brick Patios, Walkways and Steps
+**File:** `/images/blog/brick-patios-walkways-driveways-flatwork-repair.jpg`  **Alt:** Repaired brick walkway and steps with resettled pavers on a Chicagoland property
+**Prompt:** Photorealistic photo of a brick walkway mid-repair on a Chicagoland property — one section lifted with the compacted gravel base exposed and screeded, salvaged pavers stacked beside it, the adjacent relaid section level and tightly jointed, brick front steps beyond. Natural daylight, documentary jobsite realism, no text, no logos.
