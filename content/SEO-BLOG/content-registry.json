@@ -2001,6 +2001,66 @@
       "publishDate": "2026-08-03",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-lemont-il",
+      "title": "Historic Masonry Restoration in Lemont, IL \u2014 Athens Marble and Canal-Era Stone",
+      "primaryKeyword": "historic masonry restoration Lemont IL",
+      "city": "Lemont, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "tuckpointing-palos-park-il",
+      "title": "Tuckpointing in Palos Park, IL \u2014 Mortar Repair on Wooded-Lot Brick Homes",
+      "primaryKeyword": "tuckpointing Palos Park IL",
+      "city": "Palos Park, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-wheaton-il",
+      "title": "Commercial Masonry Restoration in Wheaton, IL \u2014 Facades, Parapets and Institutional Buildings",
+      "primaryKeyword": "commercial masonry restoration Wheaton IL",
+      "city": "Wheaton, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-new-lenox-il",
+      "title": "Brick Repair in New Lenox, IL \u2014 Spalled Brick, Rust Stains and Veneer Failures",
+      "primaryKeyword": "brick repair New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-elgin-il",
+      "title": "Chimney Repair in Elgin, IL \u2014 Victorian Stacks, Crowns and Rebuilds",
+      "primaryKeyword": "chimney repair Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2778,6 +2838,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-03",
       "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "athens-marble-chicagoland-limestone-guide",
+      "title": "Athens Marble: The Local Limestone That Built Chicago \u2014 and How to Repair It",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "church-steeple-bell-tower-masonry-restoration",
+      "title": "Church Steeple and Bell Tower Masonry: Why Towers Fail First and What Restoration Costs",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-commercial-3.jpg"
+    },
+    {
+      "slug": "how-long-do-masonry-repairs-take-timelines",
+      "title": "How Long Does Masonry Work Actually Take? Realistic Timelines by Job Type",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-05",
+      "image": "/images/after-residential-2.jpg"
     }
   ],
   "coveredCities": [
@@ -2906,10 +2990,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "chimney repair New Lenox IL residential",
-      "date": "2026-04-09"
-    },
-    {
       "intent": "tuckpointing La Grange IL brick repointing",
       "date": "2026-04-12"
     },
@@ -3024,6 +3104,10 @@
     {
       "intent": "residential masonry restoration Orland Park IL \u2014 unusually directory-dominated SERP (Porch '10 Best', Procore, Yelp, Thumbtack, Angi, chamberofcommerce.com) so the 'who should I hire' intent is largely owned by aggregators rather than contractor pages; the contractor pages that do rank are service-area template clones duplicated across dozens of suburbs with a services list, no FAQ, no cost guidance, no process, no mortar-matching content, no schema and no Orland Park specificity beyond the town name in the H1; ours does not compete as another 'we do masonry here' page \u2014 it takes the restoration-vs-repair position (most homes need four things done in the RIGHT ORDER, not one thing done well) and supplies an explicit repair-priority framework (water sources first, then corroding steel, then water damage, then protection, then cosmetic) plus phasing guidance, veneer-specific failure points for the 1970s-2000s stock, the Old Orland historic-core mortar distinction, and six AI-phrased FAQs with FAQPage schema",
       "date": "2026-08-03"
+    },
+    {
+      "intent": "historic masonry restoration Lemont IL / Lemont limestone building repair \u2014 SERP mixes stone suppliers, directory listings (Landmarks Illinois contractor archive, Yelp) and regional restoration contractors running service-area template pages; the strongest competitor is better than most (three-question FAQ, a genuine mortar-matching paragraph citing composition, color, texture, hardness and breathability) but the same boilerplate is templated across 18+ communities, with NO step-by-step process, NO cost guidance beyond 'repair is more cost-effective than replacement', NO lime-mortar specifics, no schema, no case studies \u2014 and critically it gestures at 'historic limestone structures that echo our town's quarrying past' WITHOUT EVER NAMING THE STONE; ours names Athens Marble, explains it is dolomitic limestone rather than marble, ties it to the I&M Canal and the Chicago Water Tower, explains the specific failure mode of layered dolomite (delamination along bedding planes), frames lime-vs-Portland mortar as preservation-vs-destruction rather than preference, and states plainly that matched replacement stone is scarce because the quarries closed \u2014 which reframes repair-before-replacement as a materials reality",
+      "date": "2026-08-05"
     }
   ],
   "coveredKeywords": [
@@ -3806,7 +3890,37 @@
     "salvaged brick Chicago",
     "reclaimed brick matching",
     "antique brick sourcing",
-    "where to find matching brick"
+    "where to find matching brick",
+    "historic masonry restoration Lemont IL",
+    "Athens Marble limestone Lemont",
+    "canal era stone restoration Illinois",
+    "dolomitic limestone repair Cook County",
+    "tuckpointing Palos Park IL",
+    "shaded elevation brick repair Cook County",
+    "mortar joint repair Palos Park Illinois",
+    "commercial masonry restoration Wheaton IL",
+    "facade restoration Wheaton IL",
+    "institutional masonry repair Wheaton",
+    "condo association masonry DuPage",
+    "brick repair New Lenox IL",
+    "brick veneer repair Will County",
+    "weep hole repair brick veneer Illinois",
+    "chimney repair Elgin IL",
+    "corbelled chimney repair Kane County",
+    "historic chimney restoration Elgin IL",
+    "Athens Marble limestone",
+    "limestone delamination bedding planes",
+    "Joliet limestone building",
+    "I&M Canal stone quarry",
+    "church steeple masonry restoration",
+    "bell tower masonry repair",
+    "belfry louver water damage",
+    "steeple flashing repair",
+    "how long does masonry repair take",
+    "tuckpointing timeline",
+    "mortar cure time",
+    "masonry weather delays",
+    "scaffolding setup time"
   ],
   "visibilityRuns": [
     {
@@ -3902,5 +4016,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-03"
+  "lastUpdated": "2026-08-05"
 }

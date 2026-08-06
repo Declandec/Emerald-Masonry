@@ -2058,3 +2058,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Salvaged Brick Sourcing and Matching
 **File:** `/images/blog/salvaged-brick-sourcing-matching-chicago.jpg`  **Alt:** Salvaged Chicago common brick set beside original weathered brick in a matched wall repair
 **Prompt:** Photorealistic photo of a stack of cleaned salvaged Chicago common brick on a pallet — soft salmon and buff tones, old mortar removed, varied weathering across units — with a partially repaired brick wall in the background behind it. Natural daylight, gritty documentary realism, no text, no logos.
+
+## Historic Masonry Restoration in Lemont, IL
+**File:** `/images/seo/historic-masonry-restoration-lemont-il.jpg`  **Alt:** Restored Athens Marble limestone facade on a canal-era historic building in Lemont Illinois
+**Prompt:** Photorealistic photo of a restored 1800s dolomitic limestone building facade in Lemont, IL — cream-to-buff rough-faced blocks with visible horizontal bedding, freshly repointed soft lime joints, one section showing a fitted stone patch, canal-corridor bluff setting behind. Overcast even light, historic documentary detail, no workers, no text, no logos.
+
+## Tuckpointing in Palos Park, IL
+**File:** `/images/seo/tuckpointing-palos-park-il.jpg`  **Alt:** Tuckpointing and mortar joint repair on a wooded-lot brick home in Palos Park Illinois
+**Prompt:** Photorealistic photo of a mason repointing the shaded north elevation of a brick home in Palos Park, IL, deep forest-preserve canopy overhead — freshly tooled joints beside damp, faintly green-tinged weathered brick, worker in PPE. Dappled filtered light through trees, documentary realism, no text, no logos.
+
+## Commercial Masonry Restoration in Wheaton, IL
+**File:** `/images/seo/commercial-masonry-restoration-wheaton-il.jpg`  **Alt:** Restored brick facade and parapet on a commercial building in downtown Wheaton Illinois
+**Prompt:** Photorealistic photo of a restored late-1800s brick commercial block in downtown Wheaton, IL — repointed facade, rebuilt parapet with new limestone coping above the roofline, clean lintel heads over storefront windows, protected sidewalk below. Bright overcast light, commercial documentary realism, no workers, no text, no logos.
+
+## Brick Repair in New Lenox, IL
+**File:** `/images/seo/brick-repair-new-lenox-il.jpg`  **Alt:** Matched replacement brick blended into a repaired veneer wall on a New Lenox Illinois home
+**Prompt:** Photorealistic close photo of a brick veneer wall on a 1990s New Lenox, IL home where spalled units below a window have been replaced with matched brick and fresh tooled mortar, prior rust staining from the lintel above now gone, open weep holes visible at the base course. Natural daylight, documentary realism, no text, no logos.
+
+## Chimney Repair in Elgin, IL
+**File:** `/images/seo/chimney-repair-elgin-il.jpg`  **Alt:** Restored corbelled Victorian brick chimney above the roofline of a historic home in Elgin Illinois
+**Prompt:** Photorealistic photo of a tall restored Victorian brick chimney rising above the steep roof of an 1890s Elgin, IL home — rebuilt stepped corbelled top courses, new concrete crown with drip edge, repointed lime mortar joints, ornate rooflines of the historic district behind. Warm late-day light, dignified historic detail, no workers, no text, no logos.
+
+## BLOG: Athens Marble — Chicagoland's Local Limestone
+**File:** `/images/blog/athens-marble-chicagoland-limestone-guide.jpg`  **Alt:** Weathered Athens Marble dolomitic limestone wall showing delamination beside restored repointed stone
+**Prompt:** Photorealistic macro photo of a dolomitic limestone wall showing sharp contrast — one area with the stone face delaminating and shedding in visible horizontal layers, directly beside a restored section with a fitted dutchman patch and fresh soft lime joints. Sharp detail, natural side light, no text, no logos.
+
+## BLOG: Church Steeple and Bell Tower Masonry
+**File:** `/images/blog/church-steeple-bell-tower-masonry-restoration.jpg`  **Alt:** Restored brick and stone church bell tower with repointed joints and repaired cornice in Chicagoland
+**Prompt:** Photorealistic photo looking up at a restored late-1800s church bell tower in Chicagoland — brick and limestone shaft, louvered belfry openings near the top, repaired stone cornice with crisp repointed joints, scaffolding partially struck at one elevation. Clear sky, architectural documentary realism, no workers, no text, no logos.
+
+## BLOG: How Long Does Masonry Work Take
+**File:** `/images/blog/how-long-do-masonry-repairs-take-timelines.jpg`  **Alt:** Masonry crew mid-project on a Chicagoland brick home with staging and protected work area
+**Prompt:** Photorealistic photo of an active masonry jobsite on a Chicagoland brick two-story — staging erected against one elevation, landscaping covered with protective sheeting, a section of wall with joints ground out and open beside a section already repointed, tools and mortar board on the platform. Natural daylight, documentary jobsite realism, workers in PPE, no text, no logos.
