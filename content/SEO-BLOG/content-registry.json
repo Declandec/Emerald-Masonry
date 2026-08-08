@@ -2121,6 +2121,66 @@
       "publishDate": "2026-08-06",
       "image": "/images/after-commercial-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "residential-masonry-restoration-oak-forest-il",
+      "title": "Residential Masonry Restoration in Oak Forest, IL \u2014 Phasing Work on a Real Budget",
+      "primaryKeyword": "residential masonry restoration Oak Forest IL",
+      "city": "Oak Forest, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "caulking-burr-ridge-il",
+      "title": "Caulking and Joint Sealant in Burr Ridge, IL \u2014 Office and Corporate Envelopes",
+      "primaryKeyword": "caulking Burr Ridge IL",
+      "city": "Burr Ridge, IL",
+      "service": "Caulking & Joint Sealant",
+      "serviceSlug": "caulking",
+      "pageType": "location",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-shorewood-il",
+      "title": "Brick Replacement in Shorewood, IL \u2014 Cutting Out Failed Units and Matching Them",
+      "primaryKeyword": "brick replacement Shorewood IL",
+      "city": "Shorewood, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-carpentersville-il",
+      "title": "Foundation Masonry Repair in Carpentersville, IL \u2014 Block Walls, Cracks and Parging",
+      "primaryKeyword": "foundation masonry repair Carpentersville IL",
+      "city": "Carpentersville, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "lintel-repair-bridgeview-il",
+      "title": "Lintel Repair in Bridgeview, IL \u2014 Rust Jacking Above Windows and Garage Doors",
+      "primaryKeyword": "lintel repair Bridgeview IL",
+      "city": "Bridgeview, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -2946,6 +3006,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-06",
       "image": "/images/after-mailbox.jpg"
+    },
+    {
+      "slug": "why-new-brick-looks-different-weathering-in",
+      "title": "Why Your New Brick Looks Wrong \u2014 and Whether It Will Actually Blend In",
+      "service": "Brick Replacement",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "why-houses-on-same-block-age-differently-masonry",
+      "title": "Why Two Identical Houses on the Same Block Age Completely Differently",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "masonry-air-leakage-energy-loss-failed-joints",
+      "title": "Drafty Brick House? What Failed Mortar Joints Do to Your Heating Bill",
+      "service": "Tuckpointing & Repointing",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-08",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -3074,10 +3158,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing chicago suburbs contractor DuPage County",
-      "date": "2026-04-12"
-    },
-    {
       "intent": "brick repair Aurora IL commercial residential",
       "date": "2026-04-13"
     },
@@ -3192,6 +3272,10 @@
     {
       "intent": "chimney repair La Grange IL \u2014 the strongest competitor set analyzed to date. Alongside the usual chimney-franchise pages (one operator runs THREE near-duplicate La Grange pages, i.e. thin-content proliferation), the leading result segments problems by housing era, names local architectural styles (Italianate, Queen Anne, Tudor Revival, Craftsman), includes a repair-vs-replace section, a five-question FAQ covering historic districts and permits, and a real mortar spec citing Type N (ASTM C270) with a Portland-damages-historic-brick warning. Its gaps: NO cost guidance or cost-driver framework at all, NO step-by-step process, no answer-first summary, no schema markup, an obviously templated multi-city framework with La Grange details bolted on, and \u2014 telling \u2014 case references to Park Ridge and Evanston on a La Grange page. Ours beats it on its own strongest point: prescribing 'Type N for historic homes' is closer than most contractors get but still an oversimplification, since Type N contains Portland cement and can be harder than genuinely soft 1880s-90s brick, which often wants Type O or a custom lime blend. We publish the full mortar gradient (M/S/N/O/lime) plus the governing softer-than-the-brick rule so a homeowner can evaluate ANY contractor's answer, and add the cost drivers, repair ladder, three-water-paths diagnostic and process the competitor omits entirely.",
       "date": "2026-08-06"
+    },
+    {
+      "intent": "residential masonry restoration Oak Forest IL \u2014 SERP mixes chimney franchises, roofing-and-siding companies bolting masonry onto their service list, and cloned service-area pages. The most structurally complete result is transparently automated: heavy boilerplate ('Property owners in Oak Forest, IL and nearby communities...'), repetitive sentence patterns, stock imagery, no credentials or certifications, no schema. Its one apparent advantage \u2014 a 'Cost Snapshot' publishing generic national figures ($300-$1,500 repairs, $10-$30/sq ft, $50-$100/hr) \u2014 is actually its worst feature, because it supplies NO cost drivers, NO mortar-matching content at all, NO process and NO prioritization, so it anchors homeowners to a number unrelated to their house. Ours takes the position that actually helps in a village of modest post-war homes: the real question is not 'what does restoration cost' but 'the whole exterior needs work and I can afford one item a year, so what first.' We publish an explicit priority sequence (water sources, then corroding steel, then water damage, then protection, then cosmetic), phasing across budget years with the all-at-once trade-off stated honestly, per-element itemization, real cost drivers instead of a fabricated range, and era-appropriate mortar matching. Deliberately distinct from the Orland Park residential-restoration page, which addresses affluent 1970s-2000s veneer and leads on restoration-vs-repair.",
+      "date": "2026-08-08"
     }
   ],
   "coveredKeywords": [
@@ -4032,7 +4116,37 @@
     "brick walkway repair Chicago",
     "brick paver settling",
     "paver base failure",
-    "mortared vs sand set pavers"
+    "mortared vs sand set pavers",
+    "residential masonry restoration Oak Forest IL",
+    "phased masonry repair Chicagoland",
+    "masonry repair budget Cook County",
+    "post-war brick home masonry repair",
+    "caulking Burr Ridge IL",
+    "EIFS joint sealant Illinois",
+    "expansion joint sealant Burr Ridge",
+    "brick replacement Shorewood IL",
+    "discontinued brick match Chicagoland",
+    "brick matching Will County",
+    "foundation masonry repair Carpentersville IL",
+    "bowing foundation wall Carpentersville Illinois",
+    "foundation crack repair Kane County",
+    "brick foundation repair Fox Valley",
+    "lintel repair Bridgeview IL",
+    "steel lintel replacement Bridgeview IL",
+    "shelf angle repair Chicagoland",
+    "new brick looks different",
+    "brick repair doesn't match",
+    "mortar drying lighter",
+    "brick weathering in over time",
+    "patina on brick",
+    "why is my brick worse than my neighbor's",
+    "building orientation masonry damage",
+    "drying time masonry wall",
+    "microclimate building envelope",
+    "drafty brick house",
+    "air leakage through mortar joints",
+    "stack effect old house",
+    "interior insulation solid masonry risk"
   ],
   "visibilityRuns": [
     {
@@ -4128,5 +4242,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-06"
+  "lastUpdated": "2026-08-08"
 }

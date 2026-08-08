@@ -2122,3 +2122,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Brick Patios, Walkways and Steps
 **File:** `/images/blog/brick-patios-walkways-driveways-flatwork-repair.jpg`  **Alt:** Repaired brick walkway and steps with resettled pavers on a Chicagoland property
 **Prompt:** Photorealistic photo of a brick walkway mid-repair on a Chicagoland property — one section lifted with the compacted gravel base exposed and screeded, salvaged pavers stacked beside it, the adjacent relaid section level and tightly jointed, brick front steps beyond. Natural daylight, documentary jobsite realism, no text, no logos.
+
+## Residential Masonry Restoration in Oak Forest, IL
+**File:** `/images/seo/residential-masonry-restoration-oak-forest-il.jpg`  **Alt:** Restored brick facade and chimney on a post-war home in Oak Forest Illinois
+**Prompt:** Photorealistic photo of a 1960s brick ranch in Oak Forest, IL after phased exterior masonry restoration — repointed joints on the front elevation, a rebuilt chimney with new crown and cap, clean lintel heads above a wide picture window, attached brick garage beside it. Late-afternoon light, modest suburban documentary realism, no workers, no text, no logos.
+
+## Caulking and Joint Sealant in Burr Ridge, IL
+**File:** `/images/seo/caulking-burr-ridge-il.jpg`  **Alt:** New joint sealant installed at precast panel joints on a corporate building in Burr Ridge Illinois
+**Prompt:** Photorealistic close photo of freshly installed grey sealant in the vertical joint between two precast concrete panels on a suburban Burr Ridge, IL corporate office building — clean tooled bead, crisp panel edges, reflective curtain wall glazing adjacent. Bright overcast light, commercial documentary realism, no text, no logos.
+
+## Brick Replacement in Shorewood, IL
+**File:** `/images/seo/brick-replacement-shorewood-il.jpg`  **Alt:** Matched replacement brick set into a repaired veneer wall on a Shorewood Illinois home
+**Prompt:** Photorealistic close photo of a brick veneer wall on a late-1990s Shorewood, IL home where a cluster of spalled units has been cut out and replaced with carefully matched brick and fresh tooled mortar, the blend distributed so no patch reads as a block. Natural daylight, sharp documentary realism, no text, no logos.
+
+## Foundation Masonry Repair in Carpentersville, IL
+**File:** `/images/seo/foundation-masonry-repair-carpentersville-il.jpg`  **Alt:** Repaired block foundation wall with fresh parging on a home in Carpentersville Illinois
+**Prompt:** Photorealistic photo of the uphill foundation wall of a hillside home in Carpentersville, IL — repointed concrete block at grade, a repaired horizontal crack, fresh parge coat on the exposed section, sloping ground rising away behind and soil graded to divert water. Overcast documentary realism, no workers, no text, no logos.
+
+## Lintel Repair in Bridgeview, IL
+**File:** `/images/seo/lintel-repair-bridgeview-il.jpg`  **Alt:** New steel lintel installed above a window with rebuilt brick on a Bridgeview Illinois home
+**Prompt:** Photorealistic close photo of a repaired garage-door head on a 1960s Bridgeview, IL brick home — new painted steel angle lintel spanning the wide opening, brick courses above rebuilt with matched mortar, prior rust staining removed from the face. Clean jobsite realism, natural daylight, no text, no logos.
+
+## BLOG: Why New Brick Looks Different
+**File:** `/images/blog/why-new-brick-looks-different-weathering-in.jpg`  **Alt:** Newly replaced brick and fresh mortar beside weathered original brick on a Chicagoland wall
+**Prompt:** Photorealistic macro photo of a brick wall showing a completed repair — several replacement bricks with noticeably brighter fresh mortar joints sitting directly beside decades-weathered original brick and darkened old mortar, the contrast obvious but the coursing perfectly aligned. Sharp detail, even natural light, no text, no logos.
+
+## BLOG: Why Houses on the Same Block Age Differently
+**File:** `/images/blog/why-houses-on-same-block-age-differently-masonry.jpg`  **Alt:** Two similar brick homes on a Chicagoland block showing different degrees of masonry weathering
+**Prompt:** Photorealistic photo looking down a Chicagoland residential block of near-identical post-war brick homes — one in bright sun with clean sound brickwork, the adjacent one heavily shaded by mature trees with visibly darker, damper, deteriorating masonry. Natural mid-morning light, documentary realism, no people, no text, no logos.
+
+## BLOG: Drafty Brick House and Failed Mortar Joints
+**File:** `/images/blog/masonry-air-leakage-energy-loss-failed-joints.jpg`  **Alt:** Repointed brick wall with sound tooled joints on a Chicagoland home
+**Prompt:** Photorealistic close photo of an older Chicago brick wall in winter, half showing deeply receded crumbling mortar joints with visible gaps and half freshly repointed with tight tooled joints, light frost on the brick faces. Cold flat winter light, sharp documentary detail, no text, no logos.
