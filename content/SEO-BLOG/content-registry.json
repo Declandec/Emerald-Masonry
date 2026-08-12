@@ -2181,6 +2181,66 @@
       "publishDate": "2026-08-08",
       "image": "/images/after-brick-repair.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-elgin-il",
+      "title": "Commercial Masonry Restoration in Elgin, IL \u2014 Small and Mid-Size Buildings",
+      "primaryKeyword": "commercial masonry restoration Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "residential-masonry-restoration-palos-heights-il",
+      "title": "Residential Masonry Restoration in Palos Heights, IL \u2014 Whole-House Work From Down the Street",
+      "primaryKeyword": "residential masonry restoration Palos Heights IL",
+      "city": "Palos Heights, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "caulking-schaumburg-il",
+      "title": "Caulking and Joint Sealant in Schaumburg, IL \u2014 Office, Retail and Panel Buildings",
+      "primaryKeyword": "caulking Schaumburg IL",
+      "city": "Schaumburg, IL",
+      "service": "Caulking & Joint Sealant",
+      "serviceSlug": "caulking",
+      "pageType": "location",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-bolingbrook-il",
+      "title": "CMU Block Repair in Bolingbrook, IL \u2014 Industrial and Warehouse Masonry",
+      "primaryKeyword": "CMU block repair Bolingbrook IL",
+      "city": "Bolingbrook, IL",
+      "service": "CMU Block Repair",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "efflorescence-waterproofing-elmhurst-il",
+      "title": "Efflorescence and Waterproofing in Elmhurst, IL \u2014 Finding the Water, Not Just the Stain",
+      "primaryKeyword": "efflorescence waterproofing Elmhurst IL",
+      "city": "Elmhurst, IL",
+      "service": "Efflorescence & Waterproofing",
+      "serviceSlug": "masonry-sealing",
+      "pageType": "location",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -3030,6 +3090,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-08",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "masonry-sequencing-with-other-trades",
+      "title": "Roof, Windows, Gutters or Masonry \u2014 Which Trade Goes First?",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "where-additions-meet-original-masonry-cold-joints",
+      "title": "Why the Crack Is Always Where the Addition Meets the Original House",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "restoration-mason-vs-new-construction-mason",
+      "title": "Restoration Masons vs. New-Construction Masons: Why the Difference Matters on an Old House",
+      "service": "Historic Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-08-11",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -3158,10 +3242,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "brick repair Aurora IL commercial residential",
-      "date": "2026-04-13"
-    },
-    {
       "intent": "steel lintel replacement Hinsdale IL masonry contractor",
       "date": "2026-04-24"
     },
@@ -3276,6 +3356,10 @@
     {
       "intent": "residential masonry restoration Oak Forest IL \u2014 SERP mixes chimney franchises, roofing-and-siding companies bolting masonry onto their service list, and cloned service-area pages. The most structurally complete result is transparently automated: heavy boilerplate ('Property owners in Oak Forest, IL and nearby communities...'), repetitive sentence patterns, stock imagery, no credentials or certifications, no schema. Its one apparent advantage \u2014 a 'Cost Snapshot' publishing generic national figures ($300-$1,500 repairs, $10-$30/sq ft, $50-$100/hr) \u2014 is actually its worst feature, because it supplies NO cost drivers, NO mortar-matching content at all, NO process and NO prioritization, so it anchors homeowners to a number unrelated to their house. Ours takes the position that actually helps in a village of modest post-war homes: the real question is not 'what does restoration cost' but 'the whole exterior needs work and I can afford one item a year, so what first.' We publish an explicit priority sequence (water sources, then corroding steel, then water damage, then protection, then cosmetic), phasing across budget years with the all-at-once trade-off stated honestly, per-element itemization, real cost drivers instead of a fabricated range, and era-appropriate mortar matching. Deliberately distinct from the Orland Park residential-restoration page, which addresses affluent 1970s-2000s veneer and leads on restoration-vs-repair.",
       "date": "2026-08-08"
+    },
+    {
+      "intent": "commercial masonry restoration Elgin IL / facade restoration Elgin \u2014 a genuinely strong field, but strong at one end only. The dominant result is a Milwaukee-based facade firm (414 area code, since 1926) emphasizing 10,000+ restoration projects, AIA contracts, terra cotta, steel and concrete restoration and landmark work including the Elgin Tower Building, targeting government offices, museums and cultural institutions. Alongside it: directory aggregators (downtobid, Houzz, Procore, Landmarks Illinois) and large union commercial contractors serving GC-managed retail, school and healthcare work. What NONE provide: an FAQ, cost guidance, a step-by-step process, phasing guidance, or a single line addressed to a small property owner, condo association or parish on a budget \u2014 small owners and budget-conscious managers are the explicitly underserved segment. Ours does not pretend to compete on institutional scale; it names the segment it serves (storefronts, 20-30 unit associations, parish churches, medical offices), states plainly when we are the WRONG call (AIA-contract landmark work, union-required projects), and supplies the diagnostic content, cost drivers led by access, phasing for boards and reserve planning, and the parapet/through-wall-flashing misdiagnosis the field withholds.",
+      "date": "2026-08-11"
     }
   ],
   "coveredKeywords": [
@@ -4146,7 +4230,36 @@
     "drafty brick house",
     "air leakage through mortar joints",
     "stack effect old house",
-    "interior insulation solid masonry risk"
+    "interior insulation solid masonry risk",
+    "commercial masonry restoration Elgin IL",
+    "downtown Elgin building masonry repair",
+    "condo association masonry Kane County",
+    "small commercial building masonry Chicagoland",
+    "non-union masonry contractor Elgin",
+    "residential masonry restoration Palos Heights IL",
+    "whole house masonry restoration Cook County",
+    "caulking Schaumburg IL",
+    "building envelope caulking northwest suburbs",
+    "office park caulking Chicago suburbs",
+    "CMU block repair Bolingbrook IL",
+    "warehouse masonry repair Will County",
+    "split face block repair Illinois",
+    "loading dock masonry repair Bolingbrook IL",
+    "efflorescence waterproofing Elmhurst IL",
+    "white stains on brick Elmhurst IL",
+    "salt deposits on brick Chicagoland",
+    "masonry before or after roof",
+    "order of exterior home repairs",
+    "flashing chimney roof responsibility",
+    "exterior renovation sequencing",
+    "crack where addition meets house",
+    "cold joint masonry",
+    "toothing in brick",
+    "sealant vs mortar moving joint",
+    "restoration mason vs new construction mason",
+    "hand raking vs grinding joints",
+    "questions to ask a mason",
+    "preservation standards masonry"
   ],
   "visibilityRuns": [
     {
@@ -4242,5 +4355,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-08"
+  "lastUpdated": "2026-08-11"
 }

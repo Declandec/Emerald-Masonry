@@ -2154,3 +2154,35 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Drafty Brick House and Failed Mortar Joints
 **File:** `/images/blog/masonry-air-leakage-energy-loss-failed-joints.jpg`  **Alt:** Repointed brick wall with sound tooled joints on a Chicagoland home
 **Prompt:** Photorealistic close photo of an older Chicago brick wall in winter, half showing deeply receded crumbling mortar joints with visible gaps and half freshly repointed with tight tooled joints, light frost on the brick faces. Cold flat winter light, sharp documentary detail, no text, no logos.
+
+## Commercial Masonry Restoration in Elgin, IL
+**File:** `/images/seo/commercial-masonry-restoration-elgin-il.jpg`  **Alt:** Restored brick and stone facade on a historic downtown commercial building in Elgin Illinois
+**Prompt:** Photorealistic photo of a restored two-storefront late-1800s brick and stone commercial building in downtown Elgin, IL — repointed lime mortar joints, rebuilt parapet with new limestone coping, clean lintel heads over display windows, sidewalk below. Bright overcast light, modest-scale commercial documentary realism, no workers, no text, no logos.
+
+## Residential Masonry Restoration in Palos Heights, IL
+**File:** `/images/seo/residential-masonry-restoration-palos-heights-il.jpg`  **Alt:** Restored brick facade, chimney and sills on a home in Palos Heights Illinois
+**Prompt:** Photorealistic photo of a 1960s brick split-level in Palos Heights, IL after whole-house masonry restoration — repointed joints, rebuilt chimney with new crown and cap, restored sills, heavy mature tree canopy over the shaded side of the house. Warm late-afternoon light, documentary realism, no workers, no text, no logos.
+
+## Caulking and Joint Sealant in Schaumburg, IL
+**File:** `/images/seo/caulking-schaumburg-il.jpg`  **Alt:** New joint sealant installed at precast panel joints on an office building in Schaumburg Illinois
+**Prompt:** Photorealistic photo looking along the facade of a suburban Schaumburg, IL office building — long grid of precast concrete panel joints with freshly installed tooled sealant beads running vertically and horizontally, reflective glazing between. Bright overcast light, commercial documentary realism, no workers, no text, no logos.
+
+## CMU Block Repair in Bolingbrook, IL
+**File:** `/images/seo/cmu-block-repair-bolingbrook-il.jpg`  **Alt:** Repaired CMU block wall with replaced units and repointed joints on an industrial building in Bolingbrook Illinois
+**Prompt:** Photorealistic photo of a concrete block warehouse wall in Bolingbrook, IL near a loading dock — a section of impact-damaged block replaced with matched new units, joints repointed, a restored sealed control joint running vertically, dock bumpers and truck court in frame. Flat overcast light, industrial documentary realism, no workers, no text, no logos.
+
+## Efflorescence and Waterproofing in Elmhurst, IL
+**File:** `/images/seo/efflorescence-waterproofing-elmhurst-il.jpg`  **Alt:** Brick wall in Elmhurst Illinois after efflorescence treatment and water source correction
+**Prompt:** Photorealistic close photo of a 1920s brick wall in Elmhurst, IL showing a clear contrast — one area still carrying chalky white efflorescence bloom, the adjacent treated area clean with sound repointed joints and a corrected downspout visible at the edge of frame. Natural daylight, sharp documentary detail, no text, no logos.
+
+## BLOG: Which Trade Goes First
+**File:** `/images/blog/masonry-sequencing-with-other-trades.jpg`  **Alt:** Exterior renovation in progress on a Chicagoland brick home with masonry and roofing work coordinated
+**Prompt:** Photorealistic photo of a Chicagoland brick two-story mid-renovation — masonry staging up against one elevation with repointed joints visible, a chimney with fresh flashing at the roofline, roofing materials stacked on the roof nearby, landscaping covered with protective sheeting. Natural daylight, documentary jobsite realism, workers in PPE, no text, no logos.
+
+## BLOG: Where Additions Meet Original Masonry
+**File:** `/images/blog/where-additions-meet-original-masonry-cold-joints.jpg`  **Alt:** Vertical crack at the junction where a brick addition meets original masonry on a Chicagoland home
+**Prompt:** Photorealistic photo of the exterior junction where a later brick addition meets an older brick house — a clean vertical crack running the full height exactly at the seam, the two brick colors and textures visibly different on either side of the line. Even natural light, sharp architectural documentary detail, no text, no logos.
+
+## BLOG: Restoration Mason vs New-Construction Mason
+**File:** `/images/blog/restoration-mason-vs-new-construction-mason.jpg`  **Alt:** Restoration mason hand-raking mortar joints on a century-old Chicagoland brick wall
+**Prompt:** Photorealistic close photo of a mason carefully hand-raking a mortar joint on soft century-old Chicago brick using a hand tool rather than a power grinder, dust minimal, the brick arrises intact and undamaged, worker in PPE. Natural side light, documentary craft realism, no text, no logos.
