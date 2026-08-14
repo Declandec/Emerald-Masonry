@@ -2186,3 +2186,31 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 ## BLOG: Restoration Mason vs New-Construction Mason
 **File:** `/images/blog/restoration-mason-vs-new-construction-mason.jpg`  **Alt:** Restoration mason hand-raking mortar joints on a century-old Chicagoland brick wall
 **Prompt:** Photorealistic close photo of a mason carefully hand-raking a mortar joint on soft century-old Chicago brick using a hand tool rather than a power grinder, dust minimal, the brick arrises intact and undamaged, worker in PPE. Natural side light, documentary craft realism, no text, no logos.
+
+---
+
+## Batch — 2026-08-13
+
+### 1. Lintel Replacement — Cicero, IL
+Photorealistic documentary photograph of a new galvanized steel angle lintel installed above a first-floor window on a 1920s Chicago-style two-flat, with a mason in hard hat, safety glasses and gloves setting through-wall flashing on top of the steel before rebuilding the brick course above. Narrow city lot, neighboring building close on the left, overcast midday light. Sharp focus on the flashing layer. No CGI, no text, no logos, no signage.
+
+### 2. Limestone Sill Repair — Riverside, IL
+Photorealistic close-up of a weathered dolomitic limestone window sill on a 19th-century Riverside home, showing delamination along the bedding planes and a partially completed dutchman repair with a matched stone insert. Mature trees and curving street softly blurred behind. Natural diffused daylight. No CGI, no text, no logos.
+
+### 3. Brick Replacement — Villa Park, IL
+Photorealistic photograph of a mason in PPE carefully removing a spalled brick from a mid-century Villa Park home by cutting the surrounding mortar joints rather than the brick itself, hand chisel in use, adjacent units undamaged. Salvaged replacement bricks stacked on a board nearby. Late afternoon sun. No CGI, no text, no logos.
+
+### 4. Masonry Sealing — Crest Hill, IL
+Photorealistic photograph of a masonry technician in coveralls, respirator and eye protection applying a breathable penetrating sealer with a low-pressure sprayer to a concrete block wall on a Crest Hill commercial building, water beading visible on an already-treated section to the right. Bright overcast sky. No CGI, no text, no logos.
+
+### 5. Historic Masonry Restoration — St. Charles, IL
+Photorealistic photograph of a restoration mason hand-raking a mortar joint on a 19th-century Fox River limestone building facade in downtown St. Charles, using hand tools rather than a grinder, custom lime mortar and mixing board in the foreground. Warm morning light on the stone. No CGI, no text, no logos.
+
+### 6. Blog — Why the Bottom Three Courses of Brick Fail First
+Photorealistic ground-level photograph of the lowest three courses of brick on an older Chicagoland home in late winter, showing spalled brick faces, eroded mortar joints and white salt and efflorescence deposits, with a plowed snow pile still banked against the wall and a salted walkway in the foreground. Flat gray March light. No CGI, no text, no logos.
+
+### 7. Blog — What a Mason Sees That a Home Inspector Doesn't
+Photorealistic photograph of a mason in PPE pressing a key into a mortar joint on a century-old brick wall to test its hardness, holding a clipboard, examining the joint edge-on at close range. Shallow depth of field on the hand and joint. Natural daylight. No CGI, no text, no logos.
+
+### 8. Blog — Unhappy With a Masonry Repair
+Photorealistic photograph of a recently repointed section of brick wall on a Chicagoland home where the new mortar reads visibly lighter and slightly wider than the surrounding original joints, with faint mortar smears on a few brick faces. Straight-on view, even overcast light, no people. No CGI, no text, no logos.

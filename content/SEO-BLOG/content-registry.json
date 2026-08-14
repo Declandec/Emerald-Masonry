@@ -2241,6 +2241,46 @@
       "publishDate": "2026-08-11",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "lintel-replacement-cicero-il",
+      "city": "Cicero, IL",
+      "service": "Lintel Replacement",
+      "primaryKeyword": "lintel replacement Cicero IL",
+      "date": "2026-08-13",
+      "competitorInformed": true
+    },
+    {
+      "slug": "limestone-sill-repair-riverside-il",
+      "city": "Riverside, IL",
+      "service": "Limestone / Sill Repair",
+      "primaryKeyword": "limestone sill repair Riverside IL",
+      "date": "2026-08-13",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-villa-park-il",
+      "city": "Villa Park, IL",
+      "service": "Brick Replacement",
+      "primaryKeyword": "brick replacement Villa Park IL",
+      "date": "2026-08-13",
+      "competitorInformed": false
+    },
+    {
+      "slug": "masonry-sealing-crest-hill-il",
+      "city": "Crest Hill, IL",
+      "service": "Masonry Sealing",
+      "primaryKeyword": "masonry sealing Crest Hill IL",
+      "date": "2026-08-13",
+      "competitorInformed": false
+    },
+    {
+      "slug": "historic-masonry-restoration-st-charles-il",
+      "city": "St. Charles, IL",
+      "service": "Historic Masonry Restoration",
+      "primaryKeyword": "historic masonry restoration St. Charles IL",
+      "date": "2026-08-13",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -3114,6 +3154,24 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-11",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "why-the-bottom-three-courses-of-brick-fail-first",
+      "title": "Why the Bottom Three Courses of Brick Always Fail First",
+      "service": "Brick Repair",
+      "date": "2026-08-13"
+    },
+    {
+      "slug": "what-a-mason-sees-that-a-home-inspector-doesnt",
+      "title": "What a Mason Sees That a Home Inspector Doesn't",
+      "service": "Masonry Inspection",
+      "date": "2026-08-13"
+    },
+    {
+      "slug": "unhappy-with-a-masonry-repair-what-to-do",
+      "title": "Unhappy With a Masonry Repair? How to Tell Cosmetic From Defective",
+      "service": "Masonry Restoration",
+      "date": "2026-08-13"
     }
   ],
   "coveredCities": [
@@ -3238,13 +3296,10 @@
     "Residential Masonry Restoration",
     "Tuckpointing",
     "Tuckpointing & Repointing",
-    "Caulking & Joint Sealant"
+    "Caulking & Joint Sealant",
+    "Masonry Sealing"
   ],
   "competitorIntentsUsed": [
-    {
-      "intent": "steel lintel replacement Hinsdale IL masonry contractor",
-      "date": "2026-04-24"
-    },
     {
       "intent": "tuckpointing Cicero IL brick repointing residential commercial",
       "date": "2026-04-25"
@@ -3360,6 +3415,12 @@
     {
       "intent": "commercial masonry restoration Elgin IL / facade restoration Elgin \u2014 a genuinely strong field, but strong at one end only. The dominant result is a Milwaukee-based facade firm (414 area code, since 1926) emphasizing 10,000+ restoration projects, AIA contracts, terra cotta, steel and concrete restoration and landmark work including the Elgin Tower Building, targeting government offices, museums and cultural institutions. Alongside it: directory aggregators (downtobid, Houzz, Procore, Landmarks Illinois) and large union commercial contractors serving GC-managed retail, school and healthcare work. What NONE provide: an FAQ, cost guidance, a step-by-step process, phasing guidance, or a single line addressed to a small property owner, condo association or parish on a budget \u2014 small owners and budget-conscious managers are the explicitly underserved segment. Ours does not pretend to compete on institutional scale; it names the segment it serves (storefronts, 20-30 unit associations, parish churches, medical offices), states plainly when we are the WRONG call (AIA-contract landmark work, union-required projects), and supplies the diagnostic content, cost drivers led by access, phasing for boards and reserve planning, and the parapet/through-wall-flashing misdiagnosis the field withholds.",
       "date": "2026-08-11"
+    },
+    {
+      "date": "2026-08-13",
+      "intent": "lintel replacement Cicero IL",
+      "gapExploited": "Ranking page is a templated multi-city steel-lintel page whose FAQ section is a TUCKPOINTING Q&A sitting on a lintel page, with no answer-first summary, no cost guidance, no shoring or process detail and no schema. Critically, no page in the SERP explains through-wall flashing above the new lintel - the detail that decides whether the replacement lasts decades or repeats.",
+      "page": "lintel-replacement-cicero-il"
     }
   ],
   "coveredKeywords": [
@@ -4259,7 +4320,128 @@
     "restoration mason vs new construction mason",
     "hand raking vs grinding joints",
     "questions to ask a mason",
-    "preservation standards masonry"
+    "preservation standards masonry",
+    "lintel replacement Cicero IL",
+    "steel lintel replacement Cicero Illinois",
+    "rusted lintel repair Cicero IL 60804",
+    "cracked brick above window Cicero",
+    "two-flat lintel replacement Chicago area",
+    "rust jacking brick repair Cicero",
+    "lintel flashing installation Illinois",
+    "masonry contractor Cicero IL",
+    "brick repair above window Cicero Illinois",
+    "landlord masonry repair Cicero",
+    "shelf angle repair Cook County",
+    "limestone sill repair Riverside IL",
+    "limestone repair Riverside Illinois",
+    "stone sill replacement Riverside IL",
+    "historic stone repair Riverside IL 60546",
+    "cracked window sill repair Riverside",
+    "landmark district masonry Riverside Illinois",
+    "spalling limestone repair Riverside",
+    "stone lintel repair Riverside IL",
+    "masonry contractor Riverside Illinois",
+    "Olmsted district home masonry",
+    "brick replacement Villa Park IL",
+    "brick replacement Villa Park Illinois",
+    "spalled brick replacement Villa Park IL",
+    "masonry contractor Villa Park IL 60181",
+    "cracked brick replacement DuPage County",
+    "brick matching Villa Park Illinois",
+    "brick mason near me Villa Park",
+    "replace damaged brick house DuPage",
+    "post-war brick repair Villa Park",
+    "brick repair Villa Park Illinois",
+    "salvaged brick match Chicagoland",
+    "masonry sealing Crest Hill IL",
+    "brick sealing Crest Hill Illinois",
+    "masonry waterproofing Crest Hill IL 60403",
+    "breathable masonry sealer Will County",
+    "block wall sealing Crest Hill",
+    "brick waterproofing contractor Crest Hill",
+    "efflorescence treatment Crest Hill IL",
+    "masonry sealing near me Crest Hill",
+    "sealing brick after tuckpointing",
+    "moisture damage masonry Crest Hill Illinois",
+    "historic masonry restoration St. Charles IL",
+    "historic brick restoration St Charles Illinois",
+    "lime mortar repointing St. Charles IL",
+    "century home masonry repair St Charles",
+    "historic district masonry contractor Kane County",
+    "stone facade restoration St. Charles IL 60174",
+    "Fox River limestone building repair",
+    "historic chimney restoration St Charles IL",
+    "masonry restoration near me St. Charles",
+    "downtown St Charles building masonry",
+    "historic home brick repair Illinois",
+    "brick spalling at grade",
+    "bottom courses of brick failing",
+    "why is my brick crumbling at the bottom",
+    "splash back brick damage",
+    "road salt damage brick",
+    "salt crystallization masonry",
+    "rising damp masonry",
+    "snow banking against wall",
+    "grade too high against brick",
+    "water table masonry",
+    "efflorescence at base of wall",
+    "freeze-thaw brick damage Illinois",
+    "foundation masonry repair Chicagoland",
+    "brick replacement at grade",
+    "tuckpointing lowest courses",
+    "downspout extension foundation",
+    "grading slope away from house",
+    "deicer damage concrete brick",
+    "Chicago bungalow water table",
+    "two-flat base course repair",
+    "Type S mortar below grade",
+    "spalling brick repair Chicago",
+    "masonry contractor near me Chicago",
+    "licensed and insured mason Chicagoland",
+    "free masonry estimate Chicago",
+    "brick repair near grade",
+    "home inspection masonry limitations",
+    "what home inspectors miss masonry",
+    "masonry assessment vs home inspection",
+    "mortar hardness testing",
+    "screwdriver test mortar joints",
+    "prior bad repointing damage",
+    "rust jacking steel lintel",
+    "hidden masonry damage",
+    "brick veneer ties corrosion",
+    "weep holes blocked",
+    "chimney crown inspection",
+    "through-wall flashing missing",
+    "spalling brick repair Chicagoland",
+    "Type O mortar historic brick",
+    "lime mortar historic brick",
+    "efflorescence diagnosis",
+    "parapet wall inspection",
+    "buying a home masonry",
+    "pre-purchase masonry assessment",
+    "repointing brick wall",
+    "brick repair Chicago",
+    "unhappy with masonry repair",
+    "bad tuckpointing job signs",
+    "mortar smeared on brick face",
+    "repointing looks wrong",
+    "mortar color mismatch repair",
+    "joint profile tooling wrong",
+    "shallow repointing failure",
+    "hard mortar on soft brick",
+    "spalling after repointing",
+    "masonry warranty claim",
+    "contractor dispute masonry",
+    "mechanics lien Illinois contractor",
+    "second opinion masonry",
+    "grinding damage brick arrises",
+    "overcut joints grinder",
+    "efflorescence on new mortar",
+    "salvaged brick matching",
+    "weep holes filled mortar",
+    "documenting contractor work photos",
+    "masonry punch list",
+    "redoing failed tuckpointing"
   ],
   "visibilityRuns": [
     {
@@ -4355,5 +4537,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-11"
+  "lastUpdated": "2026-08-13"
 }
