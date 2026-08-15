@@ -2242,3 +2242,31 @@ Photorealistic wide photograph of a Chicago-style brick three-flat rental buildi
 
 ### 8. Blog — Masonry Repairs Before Selling
 Photorealistic photograph of a freshly repaired brick chimney and repointed upper courses on a well-kept Chicagoland home, viewed from the front yard, with the rest of the roofline and facade in good order. Clean, tidy, listing-ready appearance. Warm early-evening light. No people. No CGI, no text, no logos.
+
+---
+
+## Batch — 2026-08-15
+
+### 1. Tuckpointing — Elmwood Park, IL
+Photorealistic documentary photograph taken in a narrow gangway between two 1920s Chicago-style brick houses, showing the contrast between hard red face brick returning around the front corner and softer salmon-colored Chicago common brick on the side wall, with a mason in hard hat, safety glasses and gloves packing fresh mortar into a raked joint on the common-brick elevation. Two mortar mixing boards with visibly different mixes on the ground nearby. Overcast diffused daylight, tight three-foot working space. No CGI, no text, no logos.
+
+### 2. Chimney Repair — Downers Grove, IL
+Photorealistic rooftop photograph comparing chimney terminations on a suburban street: in the foreground a true masonry chimney with a poured concrete crown and clay flue tiles projecting through it, freshly repointed; behind it a brick-clad chase capped with a rusting galvanized sheet-metal chase cover streaking the brick below with orange. Mature tree canopy overhanging, dappled late-morning light. No CGI, no text, no logos.
+
+### 3. Parapet Wall Repair — Berwyn, IL
+Photorealistic photograph of the roof-level parapet on a two-story 1920s brick storefront building, with limestone coping units partially removed and set aside, stainless through-wall flashing being laid at the parapet base, and a mason in full PPE working from staging. Flat roof membrane, alley and neighboring rooftops behind, flat gray afternoon light. No CGI, no text, no logos, no signage.
+
+### 4. Brick Repair — Maywood, IL
+Photorealistic close photograph of a century-old brick wall on a Maywood home where an old, obviously harder gray mortar patch sits intact while the soft red brick faces around it have spalled and flaked away, with a mason in PPE carefully removing the hard patch using hand tools rather than a grinder. Salvaged period brick stacked on a board in the foreground. Natural side light, sharp documentary detail. No CGI, no text, no logos.
+
+### 5. Brick Replacement — Plainfield, IL
+Photorealistic photograph of the lower wall of a late-1990s suburban brick-veneer home showing a distinct horizontal band of spalled, flaking brick at lawn-sprinkler height, with a sprinkler head visible in the turf aimed at the wall and mulch piled above the weep-hole course. A mason in PPE kneeling, pulling mulch back to expose the weep holes. Bright overcast morning light. No CGI, no text, no logos.
+
+### 6. Blog — Replacing Windows in a Brick House
+Photorealistic photograph of a window opening on an older Chicago brick home mid-repair, with the brick courses above the opening removed, temporary shoring in place, a corroded steel angle lintel exposed and a cracked limestone sill below, worker in PPE assessing the opening. Straight-on view, even natural daylight, sharp architectural detail. No CGI, no text, no logos.
+
+### 7. Blog — Brick Repair and Replacement Cost in Illinois
+Photorealistic photograph of a Chicagoland brick elevation showing three visibly different conditions side by side in one frame: a section of sound brick with freshly repointed joints, a section with several matched replacement units recently set, and a section of spalled, deteriorated brick awaiting work. Scaffolding frame at the edge of the frame. Flat even overcast light, no people. No CGI, no text, no logos.
+
+### 8. Blog — Anchoring Into Brick
+Photorealistic close photograph of an old rusted steel sign bracket bolted into a brick storefront wall, the brick cracked and spalled radiating out from the anchor with orange rust staining running down the face, and a second cleaner anchor point nearby correctly set into the mortar joint with stainless hardware and sealed. Natural daylight, shallow depth of field. No CGI, no text, no logos, no readable signage.
