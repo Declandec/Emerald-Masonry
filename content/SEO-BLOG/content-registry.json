@@ -2281,6 +2281,46 @@
       "primaryKeyword": "historic masonry restoration St. Charles IL",
       "date": "2026-08-13",
       "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-melrose-park-il",
+      "city": "Melrose Park, IL",
+      "service": "Commercial Masonry Restoration",
+      "primaryKeyword": "commercial masonry restoration Melrose Park IL",
+      "date": "2026-08-15",
+      "competitorInformed": true
+    },
+    {
+      "slug": "caulking-park-ridge-il",
+      "city": "Park Ridge, IL",
+      "service": "Caulking & Joint Sealant",
+      "primaryKeyword": "caulking Park Ridge IL",
+      "date": "2026-08-15",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-bedford-park-il",
+      "city": "Bedford Park, IL",
+      "service": "CMU Block Repair",
+      "primaryKeyword": "CMU block repair Bedford Park IL",
+      "date": "2026-08-15",
+      "competitorInformed": false
+    },
+    {
+      "slug": "residential-masonry-restoration-elmwood-park-il",
+      "city": "Elmwood Park, IL",
+      "service": "Residential Masonry Restoration",
+      "primaryKeyword": "residential masonry restoration Elmwood Park IL",
+      "date": "2026-08-15",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-evanston-il",
+      "city": "Evanston, IL",
+      "service": "Limestone & Sill Repair",
+      "primaryKeyword": "limestone sill repair Evanston IL",
+      "date": "2026-08-15",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -3172,6 +3212,24 @@
       "title": "Unhappy With a Masonry Repair? How to Tell Cosmetic From Defective",
       "service": "Masonry Restoration",
       "date": "2026-08-13"
+    },
+    {
+      "slug": "dryer-vents-furnace-exhaust-brick-damage",
+      "title": "The Brick Around Your Dryer Vent Is Failing Faster Than the Rest of Your Wall",
+      "service": "Brick Repair",
+      "date": "2026-08-15"
+    },
+    {
+      "slug": "rental-property-masonry-what-to-fix-first",
+      "title": "Rental Property Masonry: What to Fix Now, What Can Wait, and What Will Cost You Later",
+      "service": "Masonry Restoration",
+      "date": "2026-08-15"
+    },
+    {
+      "slug": "selling-a-house-masonry-repairs-worth-doing",
+      "title": "Selling a Brick House: Which Masonry Repairs Are Worth Doing First",
+      "service": "Masonry Restoration",
+      "date": "2026-08-15"
     }
   ],
   "coveredCities": [
@@ -3273,7 +3331,12 @@
     "Wood Dale, IL",
     "Woodridge, IL",
     "Worth, IL",
-    "Yorkville, IL"
+    "Yorkville, IL",
+    "Melrose Park, IL",
+    "Park Ridge, IL",
+    "Bedford Park, IL",
+    "Elmwood Park, IL",
+    "Evanston, IL"
   ],
   "coveredServices": [
     "Brick Repair",
@@ -3297,13 +3360,10 @@
     "Tuckpointing",
     "Tuckpointing & Repointing",
     "Caulking & Joint Sealant",
-    "Masonry Sealing"
+    "Masonry Sealing",
+    "Commercial Masonry Restoration"
   ],
   "competitorIntentsUsed": [
-    {
-      "intent": "tuckpointing Cicero IL brick repointing residential commercial",
-      "date": "2026-04-25"
-    },
     {
       "intent": "masonry contractor Oak Park IL historic restoration tuckpointing",
       "date": "2026-04-26"
@@ -3421,6 +3481,12 @@
       "intent": "lintel replacement Cicero IL",
       "gapExploited": "Ranking page is a templated multi-city steel-lintel page whose FAQ section is a TUCKPOINTING Q&A sitting on a lintel page, with no answer-first summary, no cost guidance, no shoring or process detail and no schema. Critically, no page in the SERP explains through-wall flashing above the new lintel - the detail that decides whether the replacement lasts decades or repeats.",
       "page": "lintel-replacement-cicero-il"
+    },
+    {
+      "date": "2026-08-15",
+      "intent": "commercial masonry restoration Melrose Park IL",
+      "gapExploited": "The ranking local page is a ~15,000-word municipality page that is almost entirely village history back to 1873, demographics, landmarks and a wall of scraped testimonials - no answer-first summary, no FAQ, no cost drivers, no process explanation, no timelines, and essentially nothing about Melrose Park's actual building stock. Length without information. This page instead answers the question a commercial owner here actually has: is my wall load-bearing multi-wythe masonry or brick veneer on a steel frame? Melrose Park mixes 1920s-1950s load-bearing industrial brick with 1960s-onward veneer on the same blocks, and the two have different failure modes, different hidden steel, different repairs and different costs.",
+      "page": "commercial-masonry-restoration-melrose-park-il"
     }
   ],
   "coveredKeywords": [
@@ -4441,7 +4507,132 @@
     "weep holes filled mortar",
     "documenting contractor work photos",
     "masonry punch list",
-    "redoing failed tuckpointing"
+    "redoing failed tuckpointing",
+    "commercial masonry restoration Melrose Park IL",
+    "commercial tuckpointing Melrose Park Illinois",
+    "warehouse masonry repair Melrose Park IL 60160",
+    "industrial building brick repair Cook County",
+    "loading dock masonry repair Illinois",
+    "parapet wall repair Melrose Park IL",
+    "shelf angle repair commercial building",
+    "multi-wythe brick wall repair Chicago area",
+    "commercial masonry contractor Melrose Park",
+    "facade repair Melrose Park Illinois",
+    "occupied building masonry restoration",
+    "caulking Park Ridge IL",
+    "masonry caulking Park Ridge Illinois",
+    "joint sealant replacement Park Ridge IL 60068",
+    "window perimeter caulking brick home Illinois",
+    "control joint sealant repair Cook County",
+    "failed caulk around windows Park Ridge",
+    "masonry sealant contractor Park Ridge IL",
+    "backer rod sealant installation Chicago area",
+    "caulking vs tuckpointing difference",
+    "brick expansion joint sealant Illinois",
+    "exterior caulking contractor near me Park Ridge",
+    "CMU block repair Bedford Park IL",
+    "concrete block repair Bedford Park Illinois",
+    "warehouse block wall repair Cook County",
+    "industrial CMU repair Bedford Park IL 60638",
+    "painted block wall spalling repair Illinois",
+    "loading dock block damage repair Chicago area",
+    "control joint repair concrete block",
+    "block wall crack repair Bedford Park",
+    "commercial masonry contractor Bedford Park IL",
+    "CMU tuckpointing industrial building",
+    "impact damage block wall repair Illinois",
+    "residential masonry restoration Elmwood Park IL",
+    "masonry restoration Elmwood Park Illinois",
+    "brick home repair Elmwood Park IL 60707",
+    "Chicago style bungalow masonry repair",
+    "whole house tuckpointing Elmwood Park",
+    "brick restoration contractor Cook County",
+    "phased masonry repair by elevation",
+    "post war brick home masonry repair Illinois",
+    "residential masonry contractor near me Elmwood Park",
+    "brick facade restoration Elmwood Park IL",
+    "two flat masonry restoration Chicago area",
+    "limestone sill repair Evanston IL",
+    "limestone repair Evanston Illinois",
+    "stone sill replacement Evanston IL 60201",
+    "greystone facade repair Evanston",
+    "dutchman stone repair Chicago north shore",
+    "delaminating limestone sill Illinois",
+    "cast stone sill repair Evanston IL",
+    "limestone lintel repair Cook County",
+    "historic stone repair contractor Evanston",
+    "window sill masonry repair Evanston Illinois",
+    "stone restoration near me Evanston",
+    "dryer vent brick damage",
+    "furnace exhaust damaging brick",
+    "spalling brick around vent",
+    "high efficiency furnace sidewall vent masonry",
+    "condensing furnace exhaust brick damage",
+    "efflorescence around dryer vent",
+    "bathroom fan vent brick wall",
+    "brick repair around vent penetration",
+    "masonry penetration sealant",
+    "condensate damage masonry",
+    "white crust on brick near vent",
+    "flue gas condensate acidic brick",
+    "vent hood brick repair Chicago",
+    "dryer vent through brick wall",
+    "crumbling brick under vent",
+    "freeze thaw brick damage Illinois",
+    "Chicago bungalow brick repair",
+    "brick spalling repair Chicago",
+    "mortar joint repair around penetration",
+    "brick veneer vent termination",
+    "PVC vent termination brick wall",
+    "caulking around vents brick",
+    "lint buildup vent masonry",
+    "drainplane penetration masonry",
+    "brick replacement near me Illinois",
+    "family owned masonry contractor Chicago",
+    "rental property masonry repair",
+    "landlord masonry maintenance Chicago",
+    "two flat masonry repair Chicagoland",
+    "investment property brick repair",
+    "deferred maintenance masonry cost",
+    "property manager masonry budget",
+    "capital expense masonry repair",
+    "tuckpointing rental building",
+    "parapet wall repair apartment building",
+    "lintel repair rental property",
+    "masonry repair priority list",
+    "what masonry to fix first",
+    "chimney repair rental property Illinois",
+    "efflorescence basement rental",
+    "multi unit building masonry restoration",
+    "HOA masonry maintenance",
+    "commercial masonry restoration Chicagoland",
+    "tenant occupied masonry work",
+    "greystone facade restoration",
+    "mortar joint repair Chicago",
+    "masonry repair vs rebuild cost",
+    "water damage brick wall rental",
+    "masonry repairs before selling house",
+    "selling brick house repairs",
+    "tuckpointing before listing",
+    "home inspection masonry issues seller",
+    "chimney repair before selling",
+    "what to fix before selling brick home",
+    "masonry inspection contingency",
+    "seller credit masonry repair",
+    "curb appeal brick repair",
+    "spalling brick before sale",
+    "rust stains above windows selling",
+    "lintel repair before listing",
+    "efflorescence basement selling house",
+    "masonry disclosure Illinois",
+    "pre listing masonry assessment",
+    "Chicago bungalow selling masonry",
+    "two flat sale masonry repair",
+    "chimney crown repair Illinois",
+    "mortar joint repair before sale",
+    "repointing cost factors Illinois",
+    "written masonry scope estimate",
+    "masonry second opinion Chicago"
   ],
   "visibilityRuns": [
     {
@@ -4537,5 +4728,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13"
+  "lastUpdated": "2026-08-15"
 }

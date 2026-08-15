@@ -2214,3 +2214,31 @@ Photorealistic photograph of a mason in PPE pressing a key into a mortar joint o
 
 ### 8. Blog — Unhappy With a Masonry Repair
 Photorealistic photograph of a recently repointed section of brick wall on a Chicagoland home where the new mortar reads visibly lighter and slightly wider than the surrounding original joints, with faint mortar smears on a few brick faces. Straight-on view, even overcast light, no people. No CGI, no text, no logos.
+
+---
+
+## Batch — 2026-08-15
+
+### 1. Commercial Masonry Restoration — Melrose Park, IL
+Photorealistic documentary photograph of masons in hard hats, high-visibility vests and safety glasses repointing the upper wall of a 1940s brick industrial building in Melrose Park from a scissor lift, with a loading dock and parked semi-trailer in the foreground still in active use. Flat gray overcast light. Sharp focus on the lift platform and the wall. No CGI, no text, no logos, no signage.
+
+### 2. Caulking & Joint Sealant — Park Ridge, IL
+Photorealistic close-up of a technician in gloves and safety glasses tooling a fresh polyurethane sealant bead at the perimeter joint of a window on a 1930s brick colonial, with gray foam backer rod visible in the adjacent untooled section of the joint. Shallow depth of field on the caulking gun and joint. Bright diffused daylight. No CGI, no text, no logos.
+
+### 3. CMU Block Repair — Bedford Park, IL
+Photorealistic photograph of a large painted concrete block warehouse wall at dock height in an industrial area, showing peeling paint with spalled and crumbling block beneath it, a partially completed repair section of clean new matched block to the right, and a mason in PPE working the transition. Truck court and drive aisle in the background. Late morning light. No CGI, no text, no logos.
+
+### 4. Residential Masonry Restoration — Elmwood Park, IL
+Photorealistic photograph of a Chicago-style brick home on a narrow lot with completed repointing on the sunlit south elevation and visibly weathered original joints continuing around onto the shaded side, illustrating phased elevation-by-elevation work. Ladders and a mortar board staged in the gangway. Late afternoon sun. No CGI, no text, no logos.
+
+### 5. Limestone & Sill Repair — Evanston, IL
+Photorealistic close-up of two limestone window sills on the same greystone facade — one delaminating in flat sheets along its bedding planes, the other intact and crisp — with a mason in PPE examining the failed one. Mature trees blurred behind. Soft overcast light. No CGI, no text, no logos.
+
+### 6. Blog — Dryer Vents and Furnace Exhaust Damaging Brick
+Photorealistic close-up of a brick wall around a dryer vent hood and a white PVC high-efficiency furnace sidewall exhaust, showing a distinct halo of spalled brick faces, white efflorescence crust and eroded mortar joints radiating out from the penetrations while the surrounding wall stays sound. Winter morning, faint ice on the hood. No CGI, no text, no logos.
+
+### 7. Blog — Rental Property Masonry Priorities
+Photorealistic wide photograph of a Chicago-style brick three-flat rental building from the sidewalk, with masons working on the parapet and coping at the roofline from a scaffold while the lower floors remain occupied and undisturbed. Tenant windows, protected entry walkway below. Overcast midday light. No CGI, no text, no logos.
+
+### 8. Blog — Masonry Repairs Before Selling
+Photorealistic photograph of a freshly repaired brick chimney and repointed upper courses on a well-kept Chicagoland home, viewed from the front yard, with the rest of the roofline and facade in good order. Clean, tidy, listing-ready appearance. Warm early-evening light. No people. No CGI, no text, no logos.
