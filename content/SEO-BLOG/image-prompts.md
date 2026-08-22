@@ -2270,3 +2270,29 @@ Photorealistic photograph of a Chicagoland brick elevation showing three visibly
 
 ### 8. Blog — Anchoring Into Brick
 Photorealistic close photograph of an old rusted steel sign bracket bolted into a brick storefront wall, the brick cracked and spalled radiating out from the anchor with orange rust staining running down the face, and a second cleaner anchor point nearby correctly set into the mortar joint with stainless hardware and sealed. Natural daylight, shallow depth of field. No CGI, no text, no logos, no readable signage.
+
+## Batch — 2026-08-22
+
+### 1. Tuckpointing — Naperville, IL
+Photorealistic documentary photograph of the base of a suburban brick veneer wall, shot low and close, showing a freshly repointed bottom course with small open weep holes clearly visible between bricks, mulch pulled back from the wall to expose them, and a mason in hard hat, safety glasses and gloves kneeling and clearing one weep hole with a thin tool. Manicured lawn and an irrigation head visible in soft focus behind. Bright overcast morning light, shallow depth of field. No CGI, no text, no logos.
+
+### 2. Brick Repair — Tinley Park, IL
+Photorealistic photograph of an attached garage wall facing a salted concrete driveway in winter-worn condition, showing the lowest three courses of brick badly spalled and flaking while the brick above is intact, with a mason in full PPE removing a damaged unit and matched replacement bricks stacked on a board beside him. Snowmelt and salt residue on the drive, flat gray daylight. No CGI, no text, no logos.
+
+### 3. Foundation Masonry Repair — Downers Grove, IL
+Photorealistic interior basement photograph of an exposed rubble limestone foundation wall in an older home, irregular quarried stones with deeply eroded lime mortar joints and loose grit on the floor at the base, a work light raking across the surface, and a mason in PPE repointing a section with soft lime mortar using a pointing trowel and hawk. Deep shadows, warm work-light illumination. No CGI, no text, no logos.
+
+### 4. Parapet Wall Repair — Blue Island, IL
+Photorealistic rooftop photograph looking along the back face of a tall brick parapet on an early-1900s two-story commercial storefront, showing badly washed-out mortar and spalled brick on the roof-side face that is far worse than the street face, limestone coping units lifted and set aside, and masons in full PPE installing through-wall flashing at the parapet base. Flat roof membrane, adjacent rooftops and a rail corridor in the background, overcast afternoon light. No CGI, no text, no logos, no signage.
+
+### 5. Limestone & Sill Repair — Elgin, IL
+Photorealistic close photograph of a limestone window sill on a Victorian brick home, showing the stone delaminating in flat parallel layers with an old grey cement patch blistering and lifting away at one end, and a mason in PPE carefully removing the failed patch by hand with a chisel. A freshly cut matched stone dutchman patch resting on a cloth in the foreground. Natural side light, sharp architectural detail. No CGI, no text, no logos.
+
+### 6. Blog — Why the Top of Your Chimney Fails First
+Photorealistic rooftop photograph of a tall masonry chimney showing a clear vertical gradient of deterioration: badly eroded mortar and spalled brick at the top courses, improving steadily down the stack, and sound masonry at the roofline. A cracked mortar-wash crown at the top with clay flue tile protruding. Mason in hard hat and harness on roof staging assessing the top courses. Clear morning light, wide sky. No CGI, no text, no logos.
+
+### 7. Blog — Gutters, Downspouts and Grading
+Photorealistic photograph during steady rain of a downspout discharging directly against the base of a brick wall with no extension, water pooling and splashing onto visibly spalled bottom courses, mulch built up above the weep-hole line, and grade sloping back toward the house. Overflowing clogged gutter above sheeting water down the wall face. Gray wet daylight, water motion visible. No CGI, no text, no logos.
+
+### 8. Blog — Brick Pillars, Columns and Entrance Monuments
+Photorealistic photograph of a subdivision entrance monument pillar visibly leaning and cracked through several courses near its base, with the surrounding turf heaved and a snowplow-scarred curb beside it, alongside a second completed pillar rebuilt plumb with a new overhanging limestone cap. Mason in PPE checking plumb with a level. Late afternoon light, suburban entrance setting. No CGI, no text, no logos, no readable signage.

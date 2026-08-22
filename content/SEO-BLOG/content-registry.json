@@ -2376,6 +2376,66 @@
       "date": "2026-08-15",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-naperville-il",
+      "title": "Tuckpointing in Naperville, IL — Solid Masonry and Brick Veneer Are Not the Same Repair",
+      "primaryKeyword": "tuckpointing Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-tinley-park-il",
+      "title": "Brick Repair in Tinley Park, IL — Damaged Brick and Failed Brick Are Different Problems",
+      "primaryKeyword": "brick repair Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "foundation-masonry-repair-downers-grove-il",
+      "title": "Foundation Masonry Repair in Downers Grove, IL — Four Different Foundations, Four Different Repairs",
+      "primaryKeyword": "foundation masonry repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-blue-island-il",
+      "title": "Parapet Wall Repair in Blue Island, IL — The Only Wall That Gets Wet From Both Sides",
+      "primaryKeyword": "parapet wall repair Blue Island IL",
+      "city": "Blue Island, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-elgin-il",
+      "title": "Limestone & Sill Repair in Elgin, IL — Why the Stone Under Your Windows Fails Before the Brick Does",
+      "primaryKeyword": "limestone sill repair Elgin IL",
+      "city": "Elgin, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -3303,6 +3363,39 @@
       "title": "Anchoring Into Brick: Awnings, Handrails, Signs and Deck Ledgers — and the Damage They Cause",
       "service": "Brick Repair",
       "date": "2026-08-15"
+    },
+    {
+      "slug": "why-the-top-of-your-chimney-fails-first",
+      "title": "Why the Top of Your Chimney Always Fails First — and How Far Down the Damage Really Goes",
+      "primaryKeyword": "why the top of a chimney fails first",
+      "service": "Chimney Repair",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-chimney.jpg",
+      "intent": "informational"
+    },
+    {
+      "slug": "gutters-downspouts-grading-brick-damage-chicagoland",
+      "title": "Gutters, Downspouts and Grading: The Cheapest Masonry Repair You Will Ever Make",
+      "primaryKeyword": "downspout damaging brick wall",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-commercial.jpg",
+      "intent": "informational"
+    },
+    {
+      "slug": "brick-pillars-columns-entrance-monuments-repair-chicagoland",
+      "title": "Brick Pillars, Porch Columns and Entrance Monuments: Repair or Rebuild?",
+      "primaryKeyword": "brick pillar repair",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-22",
+      "image": "/images/after-mailbox.jpg",
+      "intent": "informational"
     }
   ],
   "coveredCities": [
@@ -3439,10 +3532,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "brick repair south Cook County Chicago suburbs masonry contractor",
-      "date": "2026-05-11"
-    },
-    {
       "intent": "masonry restoration south Cook County Chicago south suburbs tuckpointing contractor",
       "date": "2026-05-20"
     },
@@ -3562,6 +3651,10 @@
       "date": "2026-08-15",
       "intent": "tuckpointing Elmwood Park IL / brick repointing Elmwood Park",
       "gapExploited": "One of the stronger SERPs analyzed. The leading result is genuinely substantive — nine-question FAQ, a real ASTM C270 mortar table (Type N/S/M with PSI and misuse risks), a six-phase process, published price bands ($8-$25 per linear foot) and hard trust signals (39+ years, an Illinois license number, $2M liability, family-owned since 1987). Others range from a mortar-ratio-heavy but fully templated exact-match page to broad metro homepages. What NONE have is a single line of Elmwood Park specificity — the strongest page own neighborhood-expertise section lists Evanston, Lake Forest, Winnetka, Highland Park, Glenview and Northbrook (an entirely different housing market) and dispatches crews from Libertyville, ~35 miles north. Not one page distinguishes between brick types on the same building. Ours attacks the strongest competitor at its strongest point: a published per-linear-foot rate looks like transparency but is the wrong unit here, because the typical Elmwood Park house is effectively two buildings — hard face brick on the street elevation, soft Chicago common brick on the sides and rear — which fail on different schedules and require different mortar hardness. We publish the governing rule (mortar must be softer than the brick it holds), apply it per elevation, price by elevation instead of per foot, and explain why the back of the house always looks worse."
+    },
+    {
+      "intent": "tuckpointing Naperville IL / brick repointing Naperville — the strongest Naperville SERP analyzed to date. The leading result is a genuinely good location page: a six-question FAQ, an explicit Type S/N/O mortar comparison that correctly explains hard-mortar-on-soft-brick spalling, published cost bands ($8-$18/sq ft residential, $2,500-$14,000 typical, $12-$22/sq ft downtown commercial), six ZIP codes, twelve named neighborhoods (Riverwalk, Cress Creek, Eagle Chase, Ashbury), an era breakdown from 1880s commercial through 2000s east-side construction, named commercial corridors, a DuPage freeze-thaw cycle count, and hard trust signals (since 1994, 100+ five-star reviews, BBB, no subcontracting). A second contender leans on 20+ years and 100+ reviews; directories (HomeAdvisor) and exact-match template pages fill the rest. Documented gaps across the whole set: NO step-by-step process anywhere, NO JSON-LD schema, no answer-first summary, no timelines, thin warranty language, no urgency triage. Ours attacks the leader at its strongest point: segmenting by build era and publishing a per-square-foot band looks like expertise, but era is the wrong primary variable and area is the wrong unit, because the overwhelming majority of Naperville stock is BRICK VENEER — a drained rain screen, not solid masonry. On veneer the joints are the symptom and the cavity drainage system (weep holes, through-wall flashing, wall ties) is the mechanism; repointing a veneer wall while mortaring its weep holes shut makes it worse, and not one competitor page mentions weep holes, flashing or ties. We publish the wall-type diagnostic first, then the mortar-hardness rule, then the drainage rule, plus the process the entire SERP omits.",
+      "date": "2026-08-22"
     }
   ],
   "coveredKeywords": [
@@ -4730,7 +4823,35 @@
     "deck ledger brick veneer",
     "sign anchors masonry wall",
     "rust jacking anchor bolt brick",
-    "repairing anchor holes masonry"
+    "repairing anchor holes masonry",
+    "tuckpointing Naperville IL",
+    "brick repair Tinley Park IL",
+    "foundation masonry repair Downers Grove IL",
+    "parapet wall repair Blue Island IL",
+    "limestone sill repair Elgin IL",
+    "why the top of a chimney fails first",
+    "chimney rebuild above roofline",
+    "how far down to rebuild a chimney",
+    "downspout damaging brick wall",
+    "gutters and masonry damage",
+    "grading against foundation brick",
+    "mulch covering weep holes",
+    "brick pillar repair",
+    "entrance monument repair HOA",
+    "brick mailbox repair Illinois",
+    "porch pier repair Chicago",
+    "leaning brick pillar fix",
+    "frost heave masonry footing",
+    "brick veneer repair Naperville IL",
+    "weep holes brick veneer Naperville",
+    "stone foundation repair Downers Grove IL",
+    "hollow clay tile foundation repair Illinois",
+    "through wall flashing parapet repair Illinois",
+    "coping stone replacement Blue Island IL",
+    "water table stone repair Elgin IL",
+    "subdivision entrance wall repair Tinley Park",
+    "negative grade foundation repair",
+    "pillar cap coping stone"
   ],
   "visibilityRuns": [
     {
@@ -4826,5 +4947,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-15"
+  "lastUpdated": "2026-08-22"
 }
