@@ -2322,3 +2322,59 @@ Photorealistic photograph of a suburban home's stone wainscot with a section of 
 
 ### 8. Blog — Adjacent Construction Damage
 Photorealistic photograph of a century-old Chicago brick side wall newly exposed to the sky after the building next door was demolished, showing unfinished common brick, open joist pockets where the neighbour's floor framing was embedded, and fresh stepped diagonal cracking, with an excavator working in the open lot beside it. A crack monitoring gauge visible mounted across one crack. Overcast urban daylight. No CGI, no text, no logos, no signage.
+
+## Commercial Masonry Restoration Joliet (location) — 2026-08-25
+**Intended path:** `/images/seo/commercial-masonry-restoration-joliet-il.jpg`
+**Alt:** Restored commercial brick and limestone facade with repointed joints in Joliet, Illinois
+
+**Prompt:**
+> Documentary photo of an occupied early-1900s downtown commercial block in Joliet, Illinois mid-restoration, the ground-floor storefronts still trading with lights on, pipe staging with dust screening erected across one elevation only, a covered protected walkway keeping the public sidewalk open beneath, masons in hard hats and safety glasses repointing dolomitic limestone above the storefront line, the untouched adjacent building showing weathered open joints for contrast, bright overcast morning light, photorealistic, no text or logos
+
+## Brick Replacement Oak Lawn (location) — 2026-08-25
+**Intended path:** `/images/seo/brick-replacement-oak-lawn-il.jpg`
+**Alt:** Rebuilt brick wall section with matched replacement brick on a home in Oak Lawn, Illinois
+
+**Prompt:**
+> Documentary photo of a 1960s Oak Lawn brick ranch with a failed section of face brick below the front picture window opened up for rebuilding, spalled brick faces clearly visible in the untouched area above, a pallet of matched replacement brick dry-laid against the wall for colour approval, a mason in hard hat and gloves setting a course to a line, clean drop cloths and tuckpointing tools, bright flat midday light, photorealistic, no text or logos
+
+## Masonry Caulking Naperville (location) — 2026-08-25
+**Intended path:** `/images/seo/caulking-naperville-il.jpg`
+**Alt:** Replaced perimeter sealant joint at a window in a brick wall in Naperville, Illinois
+
+**Prompt:**
+> Instructional close documentary photo of a window perimeter joint in a brick-veneer wall being resealed, a cutaway view showing round foam backer rod seated at depth with fresh sealant tooled over it in a shallow hourglass bead, curled strips of old cracked sealant on the drop cloth below, a caulking gun and tooling spatula in frame, open weep holes visible in the course beneath, flat even daylight, sharp macro detail, photorealistic, no text or logos
+
+## Residential Masonry Restoration La Grange (location) — 2026-08-25
+**Intended path:** `/images/seo/residential-masonry-restoration-la-grange-il.jpg`
+**Alt:** Restored brick and limestone home exterior with repointed joints in La Grange, Illinois
+
+**Prompt:**
+> Wide documentary photo of an early-1900s La Grange brick and limestone home mid-restoration, pipe staging still standing on one elevation with masons in hard hats repointing near the chimney, the completed elevation beside it showing crisp matched joints, restored limestone sills and a rebuilt chimney crown, a clipboard condition survey resting on a tailgate in the foreground, mature tree canopy overhead, warm late-afternoon light, photorealistic, no text or logos
+
+## Lintel Repair Aurora (location) — 2026-08-25
+**Intended path:** `/images/seo/lintel-repair-aurora-il.jpg`
+**Alt:** Replaced steel lintel and rebuilt brick course above a window opening in Aurora, Illinois
+
+**Prompt:**
+> Close documentary photo of a window opening on an Aurora, Illinois brick home mid-repair, temporary shoring supporting the masonry above the opening, the corroded steel angle lintel removed and lying below with visible orange scale and swelling, a new protected steel angle set with through-wall flashing turned up at the head, salvaged brick stacked in course order for reuse, orange rust staining still visible on the untouched brick beside it, mason in PPE, sharp raking morning light, photorealistic, no text or logos
+
+## Fire Damage Masonry Restoration (blog) — 2026-08-25
+**Intended path:** `/images/seo/fire-damage-masonry-restoration-chicago.jpg`
+**Alt:** Fire-damaged brick wall being assessed and rebuilt on a Chicago building
+
+**Prompt:**
+> Documentary photo of a fire-damaged Chicago brick building being assessed, soot-blackened brick above the window heads with spalled and popped brick faces near the seat of the fire, a mason in hard hat and respirator probing a mortar joint with a screwdriver where the mortar has gone chalky and powdery, temporary shoring and protective tarping over the open roof edge, salvaged sound brick sorted into stacks below, flat overcast daylight, high detail, photorealistic, no text or logos
+
+## Graffiti Removal on Brick (blog) — 2026-08-25
+**Intended path:** `/images/seo/graffiti-removal-brick-masonry-chicago.jpg`
+**Alt:** Graffiti being gently removed from a Chicago brick wall with a poultice and low-pressure rinse
+
+**Prompt:**
+> Instructional documentary photo of a Chicago common brick wall partway through graffiti removal, a poultice paste spread and covered over part of a spray-painted tag, an already-treated section showing clean brick with its fired face intact and only faint ghosting remaining, an adjacent area from a previous sandblasting visibly rough and pitted with eroded joint edges for contrast, a technician in gloves and safety glasses rinsing with a wide low-pressure fan tip held well back, flat overcast light, sharp detail, photorealistic, no text or logos
+
+## Birds, Bees & Animals in Masonry (blog) — 2026-08-25
+**Intended path:** `/images/seo/birds-bees-animals-masonry-damage-chicago.jpg`
+**Alt:** Small nesting holes bored into deteriorated mortar joints on a Chicago brick wall
+
+**Prompt:**
+> Close documentary macro photo of a Chicago brick wall where several small round nesting holes have been excavated into visibly sandy, receded mortar joints, a solitary bee at one entrance, the surrounding joints crumbling and binder-depleted, a screwdriver resting where it has easily penetrated an adjacent joint, an uncapped chimney with a bird visible on it softly out of focus in the background, warm morning side light, shallow depth of field, photorealistic, no text or logos
