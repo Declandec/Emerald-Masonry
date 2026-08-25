@@ -2296,3 +2296,29 @@ Photorealistic photograph during steady rain of a downspout discharging directly
 
 ### 8. Blog — Brick Pillars, Columns and Entrance Monuments
 Photorealistic photograph of a subdivision entrance monument pillar visibly leaning and cracked through several courses near its base, with the surrounding turf heaved and a snowplow-scarred curb beside it, alongside a second completed pillar rebuilt plumb with a new overhanging limestone cap. Mason in PPE checking plumb with a level. Late afternoon light, suburban entrance setting. No CGI, no text, no logos, no readable signage.
+
+## Batch — 2026-08-24
+
+### 1. Commercial Masonry Restoration — Oak Brook, IL
+Photorealistic photograph of a 1980s suburban office building brick elevation shot from a boom lift at the second floor line, showing a long horizontal crack running the width of the wall exactly at the shelf angle with orange rust staining bleeding below it, and a mason in hard hat, harness, safety glasses and gloves probing an opened section of the wall where the steel angle and flashing are exposed. Manicured corporate landscaping and parking below. Flat overcast light. No CGI, no text, no logos, no signage.
+
+### 2. Limestone & Sill Repair — Beverly, Chicago, IL
+Photorealistic close photograph of a grey Indiana limestone facade on a Chicago greystone, showing one area where the hand-tooled face has sugared into a soft granular surface beside an intact tooled section, with a mason in PPE fitting a freshly cut matched limestone dutchman patch into a squared recess. Stainless pins and a lime mortar board in the foreground. Raking natural side light bringing out the tooling. No CGI, no text, no logos.
+
+### 3. Brick Repair — Burbank, IL
+Photorealistic streetscape photograph looking down a block of near-identical 1950s brick ranches and Cape Cods, framed so the same horizontal band of spalled, flaking brick is visible near grade on house after house receding into the distance, with a mason in PPE working on the nearest wall. Concrete walks and driveways tight to the houses. Flat even overcast daylight, deep focus. No CGI, no text, no logos.
+
+### 4. Tuckpointing — New Lenox, IL
+Photorealistic close photograph of a limestone window sill on a 1990s brick veneer home with the mortar joint directly beneath it eroded and open while the surrounding wall joints remain tight and sound, and a mason in hard hat and safety glasses repointing just that joint line with a pointing trowel and hawk. Vinyl-clad window and modern brick colour blend visible. Bright overcast morning light, shallow depth of field. No CGI, no text, no logos.
+
+### 5. Chimney Repair — Aurora, IL
+Photorealistic photograph composed to show two chimneys in one frame across a Fox River neighborhood rooftop view: in the foreground a tall slender 1890s corbelled brick stack with soft eroded lime mortar joints and a mason in PPE and harness repointing it, and behind it a squat 1960s chimney with a cracked mortar-wash crown. Fox Valley tree canopy and river bluff beyond. Clear morning light. No CGI, no text, no logos.
+
+### 6. Blog — Sagging Brick Arches
+Photorealistic photograph of a jack arch above a window on an older Chicago brick building mid-repair, showing timber shoring in the opening and a curved plywood centering form in place, the arch partly dismantled with numbered salvaged bricks stacked on a board, and a corroded steel arch bar exposed behind the removed units. Mason in full PPE laying a wedge-shaped brick against the form. Even natural daylight, sharp architectural detail. No CGI, no text, no logos.
+
+### 7. Blog — Manufactured Stone Veneer Failure
+Photorealistic photograph of a suburban home's stone wainscot with a section of manufactured stone removed, exposing corroded metal lath, a failed scratch coat and dark water-stained sheathing behind it, with the surrounding stone running straight down into mulch and soil with no weep screed visible. A mason in PPE holding one removed cast stone piece showing its flat grey cement back and mould seam. Bright overcast light. No CGI, no text, no logos.
+
+### 8. Blog — Adjacent Construction Damage
+Photorealistic photograph of a century-old Chicago brick side wall newly exposed to the sky after the building next door was demolished, showing unfinished common brick, open joist pockets where the neighbour's floor framing was embedded, and fresh stepped diagonal cracking, with an excavator working in the open lot beside it. A crack monitoring gauge visible mounted across one crack. Overcast urban daylight. No CGI, no text, no logos, no signage.

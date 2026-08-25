@@ -2436,6 +2436,66 @@
       "publishDate": "2026-08-22",
       "image": "/images/after-residential.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-oak-brook-il",
+      "title": "Commercial Masonry Restoration in Oak Brook, IL — When Repointing the Same Crack Twice Means the Wall Has Nowhere to Move",
+      "primaryKeyword": "commercial masonry restoration Oak Brook IL",
+      "city": "Oak Brook, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "limestone-sill-repair-beverly-chicago-il",
+      "title": "Limestone & Sill Repair in Beverly, Chicago — The Greystone Problem Is the Face, Not the Stone",
+      "primaryKeyword": "limestone sill repair Beverly Chicago IL",
+      "city": "Beverly, Chicago, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-burbank-il",
+      "title": "Brick Repair in Burbank, IL — Why a Whole Street of 1950s Houses Fails at the Same Height",
+      "primaryKeyword": "brick repair Burbank IL",
+      "city": "Burbank, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-new-lenox-il",
+      "title": "Tuckpointing in New Lenox, IL — Newer Brick Fails at the Details, Not Across the Wall",
+      "primaryKeyword": "tuckpointing New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-aurora-il",
+      "title": "Chimney Repair in Aurora, IL — One City, Three Completely Different Chimneys",
+      "primaryKeyword": "chimney repair Aurora IL",
+      "city": "Aurora, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -3396,6 +3456,39 @@
       "publishDate": "2026-08-22",
       "image": "/images/after-mailbox.jpg",
       "intent": "informational"
+    },
+    {
+      "slug": "brick-arch-repair-sagging-jack-arch-chicago",
+      "title": "Sagging Brick Arches Over Windows and Doors: Why They Drop, and What It Takes to Put One Back",
+      "primaryKeyword": "brick arch repair",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-residential-2.jpg",
+      "intent": "informational"
+    },
+    {
+      "slug": "manufactured-stone-veneer-failure-repair-chicagoland",
+      "title": "Manufactured Stone Veneer Is Failing All Over Chicagoland — Here's Why, and What Actually Fixes It",
+      "primaryKeyword": "manufactured stone veneer failure",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-commercial.jpg",
+      "intent": "informational"
+    },
+    {
+      "slug": "adjacent-construction-teardown-damage-masonry-chicago",
+      "title": "They Tore Down the House Next Door and Now My Brick Is Cracked: Adjacent Construction Damage to Masonry",
+      "primaryKeyword": "adjacent construction damage masonry",
+      "service": "Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-08-24",
+      "image": "/images/after-commercial-3.jpg",
+      "intent": "informational"
     }
   ],
   "coveredCities": [
@@ -3532,10 +3625,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "masonry restoration south Cook County Chicago south suburbs tuckpointing contractor",
-      "date": "2026-05-20"
-    },
-    {
       "intent": "tuckpointing Western Springs IL brick repointing residential",
       "date": "2026-06-03"
     },
@@ -3655,6 +3744,10 @@
     {
       "intent": "tuckpointing Naperville IL / brick repointing Naperville — the strongest Naperville SERP analyzed to date. The leading result is a genuinely good location page: a six-question FAQ, an explicit Type S/N/O mortar comparison that correctly explains hard-mortar-on-soft-brick spalling, published cost bands ($8-$18/sq ft residential, $2,500-$14,000 typical, $12-$22/sq ft downtown commercial), six ZIP codes, twelve named neighborhoods (Riverwalk, Cress Creek, Eagle Chase, Ashbury), an era breakdown from 1880s commercial through 2000s east-side construction, named commercial corridors, a DuPage freeze-thaw cycle count, and hard trust signals (since 1994, 100+ five-star reviews, BBB, no subcontracting). A second contender leans on 20+ years and 100+ reviews; directories (HomeAdvisor) and exact-match template pages fill the rest. Documented gaps across the whole set: NO step-by-step process anywhere, NO JSON-LD schema, no answer-first summary, no timelines, thin warranty language, no urgency triage. Ours attacks the leader at its strongest point: segmenting by build era and publishing a per-square-foot band looks like expertise, but era is the wrong primary variable and area is the wrong unit, because the overwhelming majority of Naperville stock is BRICK VENEER — a drained rain screen, not solid masonry. On veneer the joints are the symptom and the cavity drainage system (weep holes, through-wall flashing, wall ties) is the mechanism; repointing a veneer wall while mortaring its weep holes shut makes it worse, and not one competitor page mentions weep holes, flashing or ties. We publish the wall-type diagnostic first, then the mortar-hardness rule, then the drainage rule, plus the process the entire SERP omits.",
       "date": "2026-08-22"
+    },
+    {
+      "intent": "commercial masonry restoration Oak Brook IL / facade repair Oak Brook — SERP splits three ways: (1) long-established institutional restoration firms, one operating since 1938 and another since 1993 with BOMA/SWRI/ABC/EIMA/Dryvit affiliations, marketing sealant, masonry, EIFS, coatings and parking-structure repair across four states to manufacturing, logistics, retail, multi-unit and institutional clients; (2) cloned chimney-franchise location pages templated across 60+ cities that dangle consumer teaser prices ($299 and $199 inspections) on a page nominally about commercial masonry; (3) directory aggregators (Procore, Landmarks Illinois). Gaps across the entire set: NO FAQ anywhere, NO cost or budgeting guidance, NO step-by-step process, NO facade condition-assessment methodology, NO phasing or reserve-planning content for property managers, no timelines, no warranty detail, and — despite one firm serving four states — zero Oak Brook or DuPage-specific content. Ours refuses the premise the institutional firms sell: their marketing rests on historic and landmark credentials, but Oak Brook's commercial stock is not historic masonry. It is 1970s-1990s corporate office-park construction — cavity-wall brick veneer on a steel or concrete frame, with shelf angles at the floor lines, through-wall flashing frequently omitted or mislapped, and movement joints either never installed at correct spacing or since mortared shut. On that stock the most misdiagnosed condition is movement-joint and shelf-angle failure presenting as tired mortar, which is why buildings get repointed every decade and crack in exactly the same places. We publish the crack-pattern diagnostic (what a crack's position relative to floor lines, corners and openings actually means), the irreversible moisture-expansion mechanism behind repeat cracking, a real assessment and repair process, cost drivers led by access, occupied-building staging, reserve-year phasing for boards, and an explicit statement of when a large institutional restoration firm is the RIGHT call instead of us. Deliberately distinct from the Elgin commercial page (institutional-scale field, underserved small owners, parapet/through-wall-flashing misdiagnosis) and the Melrose Park and Plainfield commercial pages.",
+      "date": "2026-08-24"
     }
   ],
   "coveredKeywords": [
@@ -4851,7 +4944,37 @@
     "water table stone repair Elgin IL",
     "subdivision entrance wall repair Tinley Park",
     "negative grade foundation repair",
-    "pillar cap coping stone"
+    "pillar cap coping stone",
+    "commercial masonry restoration Oak Brook IL",
+    "limestone sill repair Beverly Chicago IL",
+    "brick repair Burbank IL",
+    "tuckpointing New Lenox IL",
+    "chimney repair Aurora IL",
+    "brick arch repair",
+    "sagging jack arch window",
+    "manufactured stone veneer failure",
+    "adjacent construction damage masonry",
+    "shelf angle repair Chicagoland commercial",
+    "masonry expansion joint repair Illinois",
+    "greystone limestone repair Chicago 60643",
+    "spot repointing brick veneer New Lenox",
+    "chimney chase repair Aurora Illinois",
+    "teardown next door cracked my brick",
+    "party wall exposed after demolition",
+    "weep screed missing stone veneer",
+    "stone veneer rot behind wall",
+    "arch bar rusted masonry",
+    "keystone dropped brick arch",
+    "preconstruction survey masonry",
+    "crack monitoring gauge masonry",
+    "facade condition assessment Chicagoland",
+    "condo association facade repair Oak Brook",
+    "Bedford limestone repair Chicago",
+    "salt damage brick repair southwest suburbs",
+    "adhered stone veneer water damage",
+    "excavation damage to neighboring foundation",
+    "segmental arch masonry repair",
+    "chimney crown repair Aurora Illinois"
   ],
   "visibilityRuns": [
     {
@@ -4947,5 +5070,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-22"
+  "lastUpdated": "2026-08-24"
 }
