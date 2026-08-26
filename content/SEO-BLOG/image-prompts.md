@@ -2378,3 +2378,59 @@ Photorealistic photograph of a century-old Chicago brick side wall newly exposed
 
 **Prompt:**
 > Close documentary macro photo of a Chicago brick wall where several small round nesting holes have been excavated into visibly sandy, receded mortar joints, a solitary bee at one entrance, the surrounding joints crumbling and binder-depleted, a screwdriver resting where it has easily penetrated an adjacent joint, an uncapped chimney with a bird visible on it softly out of focus in the background, warm morning side light, shallow depth of field, photorealistic, no text or logos
+
+## Commercial Masonry Restoration Cicero (location) — 2026-08-26
+**Intended path:** `/images/seo/commercial-masonry-restoration-cicero-il.jpg`
+**Alt:** Restored commercial brick facade with repointed joints and rebuilt parapet in Cicero, Illinois
+
+**Prompt:**
+> Documentary photo of a dense zero-lot-line brick commercial building in Cicero, Illinois mid-restoration, pipe staging erected tight against the wall with dust screening because there is no setback for a lift, a covered protected walkway keeping the public sidewalk open beneath, the ground-floor shop still open with lights on, masons in hard hats and safety glasses repointing near the parapet, a narrow shared alley visible at the rear kept clear for access, flat overcast morning light, photorealistic, no text or logos
+
+## Brick Replacement Palos Heights (location) — 2026-08-26
+**Intended path:** `/images/seo/brick-replacement-palos-heights-il.jpg`
+**Alt:** Rebuilt brick section with matched replacement brick on a split-level home in Palos Heights, Illinois
+
+**Prompt:**
+> Documentary photo of a 1970s Palos Heights split-level with a brick front elevation and siding on the side wall, a failed section of face brick beside the entry opened up for rebuilding, several candidate replacement bricks of slightly different blends dry-laid against the wall side by side for colour comparison, spalled original brick faces visible above, mason in hard hat and gloves holding a sample unit up to the wall, bright flat midday light, photorealistic, no text or logos
+
+## Masonry Caulking Hinsdale (location) — 2026-08-26
+**Intended path:** `/images/seo/caulking-hinsdale-il.jpg`
+**Alt:** Replaced perimeter sealant joint at a stone-trimmed window opening in Hinsdale, Illinois
+
+**Prompt:**
+> Instructional close documentary photo of a limestone-trimmed window perimeter on an early-1900s Hinsdale home, one side showing an old sealant joint with a distinct dark oil-bleed halo staining the stone on both sides of the bead, the other side freshly resealed with a clean non-staining bead over visible foam backer rod and no discolouration, a caulking gun and tooling spatula resting on the sill, soft even overcast daylight, sharp macro detail, photorealistic, no text or logos
+
+## Residential Masonry Restoration Mount Greenwood (location) — 2026-08-26
+**Intended path:** `/images/seo/residential-masonry-restoration-mount-greenwood-chicago-il.jpg`
+**Alt:** Restored brick bungalow facade with repointed joints and limestone trim in Mount Greenwood, Chicago
+
+**Prompt:**
+> Documentary photo of a 1920s Chicago brick bungalow in Mount Greenwood mid-restoration, the hard face brick of the street elevation freshly repointed with crisp matched joints and restored limestone banding and sills, the softer common brick side wall visible down the narrow gangway still showing eroded sandy joints for contrast, a rebuilt chimney crown on the roof above, masons' tools and a mortar board on a tarp at the front walk, warm late-afternoon light, photorealistic, no text or logos
+
+## Masonry Sealing New Lenox (location) — 2026-08-26
+**Intended path:** `/images/seo/masonry-sealing-new-lenox-il.jpg`
+**Alt:** Water absorption test on a brick wall before sealing in New Lenox, Illinois
+
+**Prompt:**
+> Instructional close documentary photo of a brick veneer wall being water-tested before sealing, one sprayed patch showing water beading and running off an intact brick face while an adjacent patch has darkened and soaked in immediately, a spray bottle in a gloved hand, open weep holes visible in the base course below, an untreated and a treated section meeting at a masked line, flat even daylight, sharp detail, photorealistic, no text or logos
+
+## Hidden Conditions & Change Orders (blog) — 2026-08-26
+**Intended path:** `/images/seo/hidden-conditions-change-orders-masonry-repair.jpg`
+**Alt:** Mason documenting deeper-than-expected mortar deterioration found after opening a brick joint
+
+**Prompt:**
+> Documentary photo of a mason on staging photographing a freshly ground-out mortar joint with a phone, the cut-out revealing sandy deteriorated mortar continuing far deeper into the wall than the surface suggested, a depth gauge and screwdriver held into the joint for scale, a clipboard with a written scope resting on the staging plank beside him, adjacent untouched joints looking deceptively sound, flat overcast daylight, high detail, photorealistic, no text or logos
+
+## Vehicle Impact & Loading Dock Masonry (blog) — 2026-08-26
+**Intended path:** `/images/seo/vehicle-impact-bollards-loading-dock-masonry-damage.jpg`
+**Alt:** Impact-damaged loading dock masonry being sounded and rebuilt with new bollard protection
+
+**Prompt:**
+> Documentary photo of a commercial loading dock where a brick and block wall beside an overhead door has been struck by a vehicle, cracked and displaced units at trailer-bumper height with chalk marks circling a wider debonded area found by sounding, a torn dock bumper hanging loose, a mason in hard hat and hi-vis tapping the wall with a hammer to check for drummy masonry, a newly set steel pipe bollard in the foreground, overcast industrial daylight, photorealistic, no text or logos
+
+## Vacant Building Masonry Deterioration (blog) — 2026-08-26
+**Intended path:** `/images/seo/vacant-boarded-buildings-masonry-deterioration-chicago.jpg`
+**Alt:** Deteriorating parapet and stained brick elevation on a vacant Chicago building
+
+**Prompt:**
+> Documentary photo of a vacant early-1900s Chicago brick building, boarded ground-floor openings fitted into the frames rather than fastened to the brick, a long dark staining track running down the elevation from a blocked scupper above, white efflorescence blooming across the lower courses, small plants growing from the gutter and from open joints in the parapet, mortar debris scattered on the sidewalk below and a caution barrier around it, flat grey winter light, photorealistic, no text or logos
