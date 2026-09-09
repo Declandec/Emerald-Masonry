@@ -2608,3 +2608,63 @@ Photorealistic photograph of a jobsite trailer table with a masonry payment appl
 
 ### 8. Blog — Drone vs Hands-On Façade Inspection
 Photorealistic photograph composed to contain both methods at once: a small survey drone hovering at parapet height alongside a commercial brick building, and in the same frame a mason in PPE and fall protection on the roof edge below it, tapping the parapet with a sounding hammer and lifting a coping stone. Late-afternoon side light raking the wall, wide framing. No CGI, no text, no readable signage, no logos.
+
+---
+
+# Batch — 2026-09-09 (google mode)
+
+## Church & Institutional Masonry Restoration in Naperville, IL
+**Intended path:** `public/images/seo/church-masonry-restoration-naperville-il.jpg`
+**Alt text:** Restored brick and limestone church facade and tower masonry in Naperville, Illinois
+
+**Prompt:**
+> Photorealistic photograph of masons repointing the brick and limestone facade of an early-twentieth-century church in an Illinois suburb, with staging erected against the bell tower. Freshly repointed joints visible beside original weathered mortar, limestone hood mould and sill detail in frame. Workers in hard hats, safety glasses, gloves and harnesses. Overhead protection over the entrance below. Bright overcast midwestern daylight. No text, no logos, no congregation signage, no CGI.
+
+## CMU Block Repair in Tinley Park, IL
+**Intended path:** `public/images/seo/cmu-block-repair-tinley-park-il.jpg`
+**Alt text:** Repaired CMU concrete block wall with restored control joints on a commercial building in Tinley Park, Illinois
+
+**Prompt:**
+> Photorealistic photograph of a long split-face concrete block warehouse elevation being repaired — a mason cutting out and resealing a full-height control joint with backer rod visible in the prepared section, replaced block units nearby, loading docks further along the wall. Worker in hard hat, high-visibility vest, safety glasses and gloves. Overcast industrial daylight, building clearly still operating. No text, no logos, no company signage, no CGI.
+
+## Parapet Wall Repair in Downers Grove, IL
+**Intended path:** `public/images/seo/parapet-wall-repair-downers-grove-il.jpg`
+**Alt text:** Rebuilt parapet wall with reset coping and new through-wall flashing on a commercial building in Downers Grove, Illinois
+
+**Prompt:**
+> Photorealistic photograph taken from the roof of a flat-roofed commercial masonry building, showing a parapet mid-rebuild — new brick coursing, through-wall flashing with a formed end dam visible, coping stones staged for setting, and roof membrane protected with boards beneath the work zone. Masons in hard hats, high-visibility vests, safety glasses and harnesses. Suburban downtown rooftops behind. Bright overcast light. No text, no logos, no CGI.
+
+## Lintel Replacement in Mokena, IL
+**Intended path:** `public/images/seo/lintel-replacement-mokena-il.jpg`
+**Alt text:** Replaced steel lintel with rebuilt brick coursing above a storefront opening in Mokena, Illinois
+
+**Prompt:**
+> Photorealistic photograph of a crew replacing a corroded steel lintel above a wide commercial storefront opening. Temporary shoring supports the masonry above, heavily rust-delaminated angle iron partly withdrawn, new protected steel and formed flashing staged nearby, salvaged brick stacked neatly. Workers in hard hats, safety glasses, gloves. Overhead protection at the entry, business still open. Natural daylight. No text, no logos, no storefront branding, no CGI.
+
+## Residential Masonry Restoration in Burbank, IL
+**Intended path:** `public/images/seo/residential-masonry-restoration-burbank-il.jpg`
+**Alt text:** Restored brick elevation with repointed joints and repaired sills on a Burbank, Illinois home
+
+**Prompt:**
+> Photorealistic photograph of a mid-century brick suburban home on a narrow Chicago-area lot with completed masonry restoration — freshly repointed joints blending into the original wall, repaired stone sills beneath a wide picture window, replaced brick around a repaired lintel. Late-afternoon raking light showing joint texture. Tidy site, no scaffolding remaining. No text, no logos, no people, no house numbers legible. Photorealistic only.
+
+## Blog — Mock-Ups and Test Panels
+**Intended path:** `public/images/blog/mock-ups-test-panels-masonry-contract.jpg`
+**Alt text:** Approved masonry mock-up panel showing matched mortar colour and joint profile on a Chicagoland building
+
+**Prompt:**
+> Photorealistic close-range photograph of a small masonry mock-up panel on an older brick wall — roughly a few square feet of freshly repointed joints with a crisp concave profile, one replacement brick set within it, and the surrounding original weathered mortar visible for comparison. A cleaned test area beside it. Raking side light emphasising joint tooling and colour difference. No text, no markings, no logos, no people. Documentary detail photography.
+
+## Blog — Unit Price vs. Lump Sum
+**Intended path:** `public/images/blog/unit-price-vs-lump-sum-masonry-contract.jpg`
+**Alt text:** Commercial masonry repointing project underway on a Chicagoland building with scaffolding in place
+
+**Prompt:**
+> Photorealistic photograph of a multi-storey commercial brick building with scaffolding erected across one elevation, masons repointing at two levels, and clearly demarcated completed and in-progress sections of joint work visible on the same wall. Workers in hard hats, high-visibility vests, safety glasses and harnesses. Sidewalk protection at street level. Bright overcast Chicago daylight. No text, no logos, no CGI.
+
+## Blog — Balcony, Walkway, and Guardrail Masonry
+**Intended path:** `public/images/blog/balcony-walkway-masonry-condo-multifamily-chicago.jpg`
+**Alt text:** Repaired concrete balcony slab edge and brick guardrail anchorage on a Chicagoland condominium building
+
+**Prompt:**
+> Photorealistic photograph of a mid-rise condominium balcony under repair — the slab edge saw-cut back to sound concrete with exposed reinforcement cleaned and treated, formwork set to restore the edge profile, and a guardrail post base opened up at its masonry pocket. Worker in hard hat, safety glasses, gloves and harness. Overhead protection visible on the walkway below. Overcast daylight, occupied building. No text, no logos, no unit numbers, no CGI.
