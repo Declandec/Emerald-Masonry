@@ -4,7 +4,7 @@ date: "2026-06-06"
 excerpt: "On most buildings put up in the last several decades, the brick you see is a thin outer shell held in place by steel you can't see. When that hidden steel corrodes or fails, the wall bulges, cracks, and in the worst cases sheds brick. Here's what veneer ties and shelf angles do, and how to tell when they're failing."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 keywords:
   - brick veneer ties
   - shelf angle masonry
@@ -67,4 +67,4 @@ This is diagnostic work first. The visible cracking is a symptom, and a contract
 
 The brick on a modern building is a skin, and that skin depends on steel you'll never see — until it tells you it's failing through a horizontal crack, a bulge, or a rust stain. Those signs are not cosmetic. They mean the connection between the veneer and the building, or the steel carrying the brick's weight, is breaking down, and that's a problem that only gets worse and more expensive with time.
 
-If your building is showing bulging brick, cracking along a floor line, or rust weeping from the joints, get it assessed before it progresses. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights, with more than 40 years of experience diagnosing and repairing veneer, tie, and shelf-angle failures on Chicago-area buildings. **[Contact us](/#contact)** for a free on-site evaluation, or call **(708) 288-1696**.
+If your building is showing bulging brick, cracking along a floor line, or rust weeping from the joints, get it assessed before it progresses. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights, led by career masons with decades of hands-on experience diagnosing and repairing veneer, tie, and shelf-angle failures on Chicago-area buildings. **[Contact us](/#contact)** for a free on-site evaluation, or call **(708) 288-1696**.

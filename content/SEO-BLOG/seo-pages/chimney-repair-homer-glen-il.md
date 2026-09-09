@@ -18,7 +18,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Homer Glen, IL | Emerald Masonry LLC"
 metaDescription: "Professional chimney repair in Homer Glen, IL. Crown repair, tuckpointing, cap installation, and full rebuilds. Emerald Masonry LLC serves Will County and the southwest suburbs."
 excerpt: "A chimney is the most exposed masonry on any building — and in Homer Glen's climate, it shows damage first. Emerald Masonry LLC handles chimney tuckpointing, crown repair, cap installation, and full rebuilds for properties throughout Will County and the southwest suburbs."
-image: "/images/work-chimney-rebuild.jpg"
+image: "/images/work-chimney-rebuild.webp"
 imageAlt: "Chimney repair and tuckpointing on brick chimney in Homer Glen Illinois"
 ---
 

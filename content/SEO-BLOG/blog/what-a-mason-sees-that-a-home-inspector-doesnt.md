@@ -5,7 +5,7 @@ excerpt: "A home inspector covers an entire house in a few hours and is genuinel
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Mason examining mortar joints and brick condition on a Chicagoland wall during a masonry assessment"
 keywords:
   - home inspection masonry limitations
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
   - brick repair Chicago
-aiSummary: "A home inspector documents visible masonry conditions across an entire house in a few hours, while a mason diagnoses four things an inspection cannot: how hard the existing mortar is relative to the brick, how deep the joint failure actually goes, whether a prior repair caused the damage, and where water is entering the wall. Emerald Masonry LLC provides free masonry assessments across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A home inspector documents visible masonry conditions across an entire house in a few hours, while a mason diagnoses four things an inspection cannot: how hard the existing mortar is relative to the brick, how deep the joint failure actually goes, whether a prior repair caused the damage, and where water is entering the wall. Emerald Masonry LLC provides free masonry assessments across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "Is a home inspection enough for masonry?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Four Things an Inspection Report Cannot Tell You
 
-**A home inspector documents visible masonry conditions across an entire house in a few hours. A mason diagnoses four things that inspection cannot reach: how hard the existing mortar is relative to the brick, how deep the joint failure actually goes, whether a prior repair caused the damage, and where the water is physically entering.** Those four determine what your repair costs. Emerald Masonry LLC provides free masonry assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience. Call **(708) 288-1696**.
+**A home inspector documents visible masonry conditions across an entire house in a few hours. A mason diagnoses four things that inspection cannot reach: how hard the existing mortar is relative to the brick, how deep the joint failure actually goes, whether a prior repair caused the damage, and where the water is physically entering.** Those four determine what your repair costs. Emerald Masonry LLC provides free masonry assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience. Call **(708) 288-1696**.
 
 This is not a criticism of home inspectors. **The job they do is genuinely hard** — roof, electrical, plumbing, HVAC, structure, appliances, grading, all in a few hours, for a client who needs it before a contingency expires.
 
@@ -213,6 +213,6 @@ Get the home inspection. It is the right tool for surveying a whole house, and a
 
 Then, if it does, **get somebody to touch the mortar.** Ten seconds with a screwdriver tells you more about what your repair will cost than any amount of photographs from the sidewalk — and it is the one thing a whole-house inspection was never structured to do.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Our assessments are free, written, and include telling you when your masonry is fine.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Our assessments are free, written, and include telling you when your masonry is fine.
 
 **Call (708) 288-1696 or [request an estimate](/#contact).**

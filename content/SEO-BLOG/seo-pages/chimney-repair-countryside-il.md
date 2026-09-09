@@ -19,10 +19,10 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Countryside, IL | Emerald Masonry LLC"
-metaDescription: "Chimney repair in Countryside, IL by Emerald Masonry LLC. Crowns, caps, flashing, tuckpointing, rebuilds. Family-owned, 40+ years. Free est: (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and rebuilds brick chimneys throughout Countryside, IL — crumbling crowns, spalling stacks, failed flashing, and leaning chimneys on the city's postwar ranches and split-levels. Family-owned, licensed and insured, 40+ years. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Countryside, IL — rebuilding chimneys above the roofline, repairing crowns, installing caps, resealing flashing, and tuckpointing spalling brick stacks. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+metaDescription: "Chimney repair in Countryside, IL by Emerald Masonry LLC. Crowns, caps, flashing, tuckpointing, rebuilds. Family-owned, career masons. Free est: (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs and rebuilds brick chimneys throughout Countryside, IL — crumbling crowns, spalling stacks, failed flashing, and leaning chimneys on the city's postwar ranches and split-levels. Family-owned, licensed and insured, career masons. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides chimney repair in Countryside, IL — rebuilding chimneys above the roofline, repairing crowns, installing caps, resealing flashing, and tuckpointing spalling brick stacks. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Rebuilt brick chimney with new crown and cap on a Countryside, IL ranch home after Emerald Masonry chimney repair"
 faqs:
   - q: "How much does chimney repair cost in Countryside, IL?"
@@ -34,13 +34,13 @@ faqs:
   - q: "There is a water stain on my ceiling near the chimney — is that the chimney?"
     a: "Very often, yes. Water stains on the ceiling or wall beside a chimney usually mean failed flashing at the roofline or a cracked crown letting water down the inside of the stack. It is not always the roof, and it is worth having the masonry checked before you replace shingles."
   - q: "Are you licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience, serving Countryside and the surrounding west and southwest suburbs. Estimates are always free."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, serving Countryside and the surrounding west and southwest suburbs. Estimates are always free."
 competitorInformed: false
 ---
 
 # Chimney Repair in Countryside, IL
 
-**Emerald Masonry LLC provides chimney repair in Countryside, IL — rebuilding deteriorated chimneys above the roofline, repairing and re-pouring cracked crowns, installing caps, resealing rusted flashing, and tuckpointing spalling brick stacks. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and every on-site estimate is free. Call (708) 288-1696.**
+**Emerald Masonry LLC provides chimney repair in Countryside, IL — rebuilding deteriorated chimneys above the roofline, repairing and re-pouring cracked crowns, installing caps, resealing rusted flashing, and tuckpointing spalling brick stacks. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and every on-site estimate is free. Call (708) 288-1696.**
 
 If you can see crumbling mortar from the driveway, if bricks are flaking off the stack onto your roof, or if there is a stain spreading across the ceiling beside the fireplace, the chimney is telling you something. We will come out, get eyes on it, and tell you honestly whether you need a repair or a rebuild.
 
@@ -123,7 +123,7 @@ We work throughout the surrounding west suburbs too — see our [tuckpointing in
 
 ## Why Countryside Homeowners Call Emerald
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, with 40+ years of experience in [chimney repair](/services/chimney-repair), [tuckpointing and repointing](/services/tuckpointing), [brick repair and replacement](/services/brick-repair), lintel and parapet repair, foundation and limestone/sill repair, caulking, [masonry sealing](/services/masonry-sealing), and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, churches, and insurance companies. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, led by career masons with decades of hands-on experience in [chimney repair](/services/chimney-repair), [tuckpointing and repointing](/services/tuckpointing), [brick repair and replacement](/services/brick-repair), lintel and parapet repair, foundation and limestone/sill repair, caulking, [masonry sealing](/services/masonry-sealing), and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, churches, and insurance companies. Free on-site estimates — call (708) 288-1696.
 
 No high-pressure sales, no scare tactics, and no quoting a chimney from a photo. We look at it, we tell you what it needs, and we do the work right the first time.
 

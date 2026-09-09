@@ -20,10 +20,10 @@ service: "Limestone / Sill Repair"
 serviceSlug: "limestone-sill-repair"
 pageType: "location"
 metaTitle: "Limestone Sill Repair in La Grange Park, IL | Emerald"
-metaDescription: "Limestone sill repair in La Grange Park, IL by Emerald Masonry LLC. Spalled, cracked, failing stone sills restored. 40+ years. Free est: (708) 288-1696."
+metaDescription: "Limestone sill repair in La Grange Park, IL by Emerald Masonry LLC. Spalled, cracked, failing stone sills restored. career masons. Free est: (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs and replaces failing Indiana limestone sills, headers, water tables, and porch caps on La Grange Park's 1920s–1950s brick homes. We save original stone where we can with Dutchman repairs, and replace it when we can't. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides limestone sill repair in La Grange Park, IL — restoring spalled, cracked, and delaminating Indiana limestone sills, headers, water tables, and porch caps on the village's brick Georgians, colonials, Tudors, and bungalows. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone sill repair in La Grange Park, IL — restoring spalled, cracked, and delaminating Indiana limestone sills, headers, water tables, and porch caps on the village's brick Georgians, colonials, Tudors, and bungalows. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored Indiana limestone window sill on a brick home in La Grange Park, IL after Emerald Masonry stone sill repair"
 faqs:
   - q: "How much does limestone sill repair cost in La Grange Park, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 # Limestone Sill Repair in La Grange Park, IL
 
-**Emerald Masonry LLC provides limestone sill repair in La Grange Park, IL** — restoring the spalled, cracked, and delaminating Indiana limestone sills, headers, water tables, and porch caps found on nearly every brick home in the village. We save original stone wherever it can be saved, replace it honestly when it can't, and stop the water intrusion the failing sill has been feeding. Family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience. Free on-site estimates — call **(708) 288-1696**.
+**Emerald Masonry LLC provides limestone sill repair in La Grange Park, IL** — restoring the spalled, cracked, and delaminating Indiana limestone sills, headers, water tables, and porch caps found on nearly every brick home in the village. We save original stone wherever it can be saved, replace it honestly when it can't, and stop the water intrusion the failing sill has been feeding. Family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call **(708) 288-1696**.
 
 ## The Stone That Fails First on a La Grange Park Home
 
@@ -116,7 +116,7 @@ You get an itemized, exact number after we've actually looked at it. **The on-si
 
 La Grange Park sits in a pocket of the west suburbs — bordered by La Grange, Brookfield, Western Springs, and Riverside — where the housing stock is old enough to have real stone detailing and well-kept enough that homeowners want it preserved rather than stripped off. That's our favorite kind of work. We do the same across the village line in [La Grange](/locations/tuckpointing-lagrange-il), [Western Springs](/locations/tuckpointing-western-springs-il), and [Brookfield](/locations/tuckpointing-brookfield-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving La Grange Park, Chicago, and the Chicagoland suburbs with 40+ years of experience in [limestone and sill repair](/services/limestone-sill-repair), [tuckpointing and repointing](/services/tuckpointing), chimney repair, brick repair and replacement, lintel and parapet repair, foundation repair, caulking, sealing, and [historic masonry restoration](/services/historic-masonry-restoration). We work for homeowners, property managers, HOAs, churches, and insurance companies. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving La Grange Park, Chicago, and the Chicagoland suburbs led by career masons with decades of hands-on experience in [limestone and sill repair](/services/limestone-sill-repair), [tuckpointing and repointing](/services/tuckpointing), chimney repair, brick repair and replacement, lintel and parapet repair, foundation repair, caulking, sealing, and [historic masonry restoration](/services/historic-masonry-restoration). We work for homeowners, property managers, HOAs, churches, and insurance companies. Free on-site estimates — call **(708) 288-1696**.
 
 ## Get Your La Grange Park Limestone Sills Looked At
 

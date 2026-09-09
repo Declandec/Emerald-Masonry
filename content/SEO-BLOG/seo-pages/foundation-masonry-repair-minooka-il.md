@@ -16,10 +16,10 @@ service: "Foundation Masonry Repair"
 serviceSlug: "foundation-masonry-repair"
 pageType: "location"
 metaTitle: "Foundation Masonry Repair in Minooka, IL | Emerald Masonry"
-metaDescription: "Foundation masonry repair in Minooka, IL — brick & block foundation wall repair, crack repair & repointing. Emerald Masonry, 40+ yrs, licensed & insured. Free estimate (708) 288-1696."
+metaDescription: "Foundation masonry repair in Minooka, IL — brick & block foundation wall repair, crack repair & repointing. Emerald Masonry, career masons, licensed & insured. Free estimate (708) 288-1696."
 excerpt: "Cracked or bowing block, crumbling parging, or stair-step cracks in your Minooka foundation? Emerald Masonry LLC repairs brick and block foundation walls the right way. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Minooka, IL — repairing cracked, spalling, and deteriorating brick and concrete-block foundation walls on the area's newer subdivisions and older downtown homes. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Minooka, IL — repairing cracked, spalling, and deteriorating brick and concrete-block foundation walls on the area's newer subdivisions and older downtown homes. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repaired concrete block foundation wall with repointed joints on a Minooka, IL home"
 faqs:
   - q: "How much does foundation masonry repair cost in Minooka, IL?"
@@ -29,13 +29,13 @@ faqs:
   - q: "Do you repair both brick and concrete-block foundations?"
     a: "Yes. We repair masonry foundation walls of both types — repointing failed joints, rebuilding spalled or damaged sections, parging, and addressing the water or grading source feeding the damage. Structural underpinning or piering is a separate specialty; when a wall needs that, we will tell you so rather than paper over it."
   - q: "Are you licensed and insured to work in Minooka?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Minooka and the Will, Grundy, and Kendall County area. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Minooka and the Will, Grundy, and Kendall County area. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides **foundation masonry repair in Minooka, IL** — repairing cracked, spalling, and deteriorating brick and concrete-block foundation walls, repointing failed joints, rebuilding damaged sections, and addressing the water that drives the damage. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides **foundation masonry repair in Minooka, IL** — repairing cracked, spalling, and deteriorating brick and concrete-block foundation walls, repointing failed joints, rebuilding damaged sections, and addressing the water that drives the damage. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
 
 A foundation crack is rarely just a crack — it is a wall telling you something is moving or something is wet. The repair that lasts is the one that deals with the cause, not just the gap.
 
@@ -90,7 +90,7 @@ Foundation masonry damage is progressive and it compounds. Open joints and faile
 
 Minooka has grown quickly — a small historic downtown surrounded by subdivisions that went up through the building booms of the past few decades, all sitting on the clay soils of the upper Illinois River valley near the I-80 distribution corridor. That combination — newer block foundations on expansive clay, plus older brick foundations downtown that have weathered for generations — is exactly what produces the stair-step cracking, spalling, and worn joints we repair. As a Chicagoland masonry company, we know how these walls move and how to repair them so the fix holds.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 For related work, see our [foundation masonry repair](/services/foundation-masonry-repair), [brick repair](/services/brick-repair), [tuckpointing and repointing](/services/tuckpointing), [masonry sealing and waterproofing](/services/masonry-sealing), and [caulking and joint sealant](/services/caulking).
 
@@ -110,7 +110,7 @@ Yes. We repair masonry foundation walls of both types — repointing failed join
 
 **Are you licensed and insured to work in Minooka?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Minooka and the Will, Grundy, and Kendall County area. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Minooka and the Will, Grundy, and Kendall County area. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Foundation Masonry Repair Estimate in Minooka
 

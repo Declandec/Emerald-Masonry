@@ -16,7 +16,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "Commercial & Industrial Masonry in Channahon, IL | Emerald Masonry LLC"
 metaDescription: "Commercial and industrial masonry in Channahon, IL — CMU block, brick, and facade repair for warehouses, distribution centers, and industrial buildings. Free estimates."
 excerpt: "Channahon sits on the I-55 logistics corridor, where the building stock skews heavily toward warehouses, distribution centers, and industrial facilities built from concrete block, brick veneer, and tilt-up panels. Emerald Masonry LLC handles the block repair, joint work, and facade maintenance these working buildings need to stay weather-tight and safe."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Commercial and industrial masonry repair on a warehouse facade in Channahon Illinois Will County"
 competitorInformed: false
 ---
@@ -97,6 +97,6 @@ We carry a $5,000 project minimum, which fits the scale of most commercial and i
 
 ## Serving Channahon and the I-55 Corridor
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We serve commercial and industrial property owners, managers, and general contractors throughout Will County and the I-55 logistics corridor — Channahon, Shorewood, Minooka, Joliet, Crest Hill, and the surrounding industrial communities. We work with property managers, HOAs, churches, and insurance companies, and we're licensed, bonded, and insured.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We serve commercial and industrial property owners, managers, and general contractors throughout Will County and the I-55 logistics corridor — Channahon, Shorewood, Minooka, Joliet, Crest Hill, and the surrounding industrial communities. We work with property managers, HOAs, churches, and insurance companies, and we're licensed, bonded, and insured.
 
 If you manage a Channahon warehouse, distribution center, or industrial building with cracked block, a failing parapet, water entry, or facade damage, get it assessed before the next freeze-thaw cycle makes it worse. **[Contact Emerald Masonry](/#contact)** for a free on-site evaluation and itemized estimate. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

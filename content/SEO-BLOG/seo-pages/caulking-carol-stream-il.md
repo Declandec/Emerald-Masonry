@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Masonry Caulking & Joint Sealant in Carol Stream, IL | Emerald"
 metaDescription: "Masonry caulking & joint sealant in Carol Stream, IL — expansion joints, control joints, window perimeters. Emerald Masonry, licensed & insured. (708) 288-1696."
 excerpt: "Failed masonry caulking lets water into your walls long before mortar does. Emerald Masonry LLC reseals expansion joints, control joints, and window perimeters across Carol Stream, IL with the correct flexible sealant for each joint."
-aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant in Carol Stream, IL — resealing expansion joints, control joints, window and door perimeters, and dissimilar-material transitions with the correct flexible sealant. Family-owned with 40+ years of experience, licensed and insured, offering free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant in Carol Stream, IL — resealing expansion joints, control joints, window and door perimeters, and dissimilar-material transitions with the correct flexible sealant. Family-owned, led by career masons with decades of hands-on experience, licensed and insured, offering free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Freshly sealed masonry expansion joint on a commercial brick building in Carol Stream, IL"
 faqs:
   - q: "How much does masonry caulking cost in Carol Stream, IL?"
@@ -109,7 +109,7 @@ Carol Stream's mix of commercial and retail buildings, condo associations, HOAs,
 
 We work throughout Carol Stream and the surrounding DuPage County suburbs, for property managers maintaining commercial portfolios, HOA boards keeping façades watertight, and homeowners who've spotted gaps at their windows. While we're on site we'll also flag related issues — like [masonry sealing](/services/masonry-sealing) on a porous wall or [parapet wall repair](/services/parapet-wall-repair) on a commercial roofline — so you get one clear picture of the building's envelope.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 

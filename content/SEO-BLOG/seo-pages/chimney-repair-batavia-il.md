@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Batavia, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Batavia, IL — crowns, caps, flashing, repointing and rebuilds on Fox Valley homes. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Batavia's chimneys sit above the Fox River valley on housing that spans 170 years — 1850s limestone-era homes, Victorians, post-war brick and modern veneer. The right repair depends entirely on which of those your stack belongs to."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Batavia, IL — crown rebuilding, chimney caps, flashing replacement, lime-mortar repointing, brick replacement and rebuilds above the roofline on Fox Valley homes from the 19th century through modern construction. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Batavia, IL — crown rebuilding, chimney caps, flashing replacement, lime-mortar repointing, brick replacement and rebuilds above the roofline on Fox Valley homes from the 19th century through modern construction. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and cap on a home in Batavia Illinois"
 faqs:
   - q: "How much does chimney repair cost in Batavia, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Chimney Repair in Batavia, IL
 
-Chimney repair in Batavia, IL covers the full range — installing a cap, rebuilding a cracked crown, replacing failed flashing, repointing the stack, swapping spalled brick, and rebuilding above the roofline when a chimney is past saving. Emerald Masonry LLC does all of it across the Fox Valley. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Batavia, IL covers the full range — installing a cap, rebuilding a cracked crown, replacing failed flashing, repointing the stack, swapping spalled brick, and rebuilding above the roofline when a chimney is past saving. Emerald Masonry LLC does all of it across the Fox Valley. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Batavia is a genuinely old town by Illinois standards — settled in the 1830s, built up around the Fox River and its limestone quarries, and layered with construction from every decade since. The practical consequence for chimney work is that **the right repair depends almost entirely on which era your stack belongs to.**
 
@@ -122,7 +122,7 @@ Batavia sits on the Fox River in a stretch of Kane County with aggressive freeze
 
 We work throughout 60510 — the historic district and the 19th-century limestone-era homes near the river, the Victorians and Foursquares on both banks, the post-war neighborhoods, the newer subdivisions toward Randall Road, and the churches and commercial buildings downtown. We also serve neighboring [Geneva](/locations/limestone-sill-repair-geneva-il), [St. Charles](/locations/brick-repair-st-charles-il), [North Aurora](/locations/foundation-masonry-repair-north-aurora-il) and [Aurora](/locations/parapet-wall-repair-aurora-il). Batavia owners frequently pair chimney work with [masonry sealing](/locations/masonry-sealing-batavia-il) or [lintel repair](/locations/lintel-repair-batavia-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

@@ -4,7 +4,7 @@ date: "2026-04-24"
 excerpt: "A masonry assessment report sits on a property manager's desk and looks authoritative. But the value of that report depends entirely on whether the reader knows what to look for — which findings indicate urgent action, which are monitoring items, and which are contractor recommendations that don't necessarily need to happen this year. This guide breaks down the key elements of a masonry assessment and how to evaluate them."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 keywords:
   - masonry assessment report commercial building
   - how to read masonry inspection report Illinois

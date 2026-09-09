@@ -16,7 +16,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Montgomery, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Montgomery, IL — crown repair, repointing, flashing, and full rebuilds for brick chimneys across Kane and Kendall County. Free estimates."
 excerpt: "A masonry chimney is the most exposed brickwork on any house — open to weather on all four sides, top to bottom. In Montgomery's Fox Valley climate, that exposure makes the chimney the first masonry to fail. Emerald Masonry LLC repairs crowns, repoints joints, reflashes, and rebuilds brick chimneys before water damage spreads into the home."
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Masonry chimney repair and repointing on a brick home in Montgomery Illinois Kane County"
 competitorInformed: false
 ---
@@ -96,6 +96,6 @@ We schedule chimney masonry for conditions where the mortar and crown materials 
 
 ## Serving Montgomery and the Fox Valley
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across the Fox Valley and the far west suburbs — Montgomery, Oswego, Aurora, Yorkville, Sugar Grove, and the surrounding Kane and Kendall County communities. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across the Fox Valley and the far west suburbs — Montgomery, Oswego, Aurora, Yorkville, Sugar Grove, and the surrounding Kane and Kendall County communities. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If your Montgomery chimney is shedding crown debris, showing white staining, or has a crack you can see from the ground, get it looked at before the next freeze. **[Contact Emerald Masonry](/#contact)** for a free on-site chimney assessment — we'll tell you honestly whether it's a crown repair, a repoint, or a rebuild. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

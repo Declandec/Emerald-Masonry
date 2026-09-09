@@ -4,7 +4,7 @@ date: "2026-05-20"
 excerpt: "Illinois winters are hard on brick buildings, but most masonry damage is preventable with the right maintenance at the right time of year. This month-by-month framework helps property managers plan inspections, schedule work, and avoid the mistakes that turn routine maintenance into expensive restoration."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 keywords:
   - masonry maintenance schedule Illinois
   - seasonal brick maintenance Chicago

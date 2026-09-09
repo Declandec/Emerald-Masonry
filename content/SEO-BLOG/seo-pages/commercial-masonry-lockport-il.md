@@ -18,7 +18,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "Commercial Masonry Contractor in Lockport, IL | Emerald Masonry LLC"
 metaDescription: "Commercial masonry contractor in Lockport, IL. Industrial brick repair, tuckpointing & CMU block work for commercial and municipal properties. Free estimates."
 excerpt: "Lockport's industrial corridor and its historically significant downtown represent two distinct ends of the commercial masonry spectrum — modern CMU block industrial facilities and century-old brick buildings that require careful, compatible repair methods. Emerald Masonry LLC handles both."
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 imageAlt: "Commercial masonry repair on industrial brick building in Lockport, IL"
 competitorInformed: false
 ---

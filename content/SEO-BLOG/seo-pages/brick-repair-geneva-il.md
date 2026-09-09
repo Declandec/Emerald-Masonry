@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Geneva, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Geneva, IL by Emerald Masonry LLC — spalled brick, cracks & color-matched replacement for Fox Valley homes. Free estimates: (708) 288-1696."
 excerpt: "Emerald Masonry repairs spalled, cracked, and deteriorated brick on Geneva's historic Fox Valley homes and newer subdivisions — with careful brick matching that makes repairs disappear. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides expert brick repair in Geneva, IL, fixing spalled, cracked, and loose brick on Fox Valley homes and replacing damaged units with carefully matched brick so repairs blend in. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates: (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides expert brick repair in Geneva, IL, fixing spalled, cracked, and loose brick on Fox Valley homes and replacing damaged units with carefully matched brick so repairs blend in. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates: (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Color-matched brick repair completed on a Geneva, IL home by Emerald Masonry"
 faqs:
   - q: "How do you match new brick to my existing Geneva home?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Quick Answer
 
-Emerald Masonry LLC provides expert **brick repair in Geneva, IL**, fixing spalled, cracked, and loose brick on Fox Valley homes and replacing damaged units with carefully matched brick so repairs blend into the original wall. We are family-owned, licensed and insured, with 40+ years of Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
+Emerald Masonry LLC provides expert **brick repair in Geneva, IL**, fixing spalled, cracked, and loose brick on Fox Valley homes and replacing damaged units with carefully matched brick so repairs blend into the original wall. We are family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
 
 ## What Brick Repair Actually Involves
 
@@ -78,11 +78,11 @@ We never quote an exact price sight-unseen, but the main factors are: the **numb
 
 Geneva's housing stock is unusually varied. Near downtown and the Fox River you'll find 19th- and early-20th-century brick and stone homes built with materials that simply aren't manufactured anymore — which makes brick matching the single most important part of a quality repair. Out in the newer subdivisions, brick-veneer homes face their own issues: spalling on weather-exposed elevations, cracking over openings, and moisture damage near grade. The Fox River valley adds extra humidity and ground moisture, and decades of Kane County freeze-thaw cycles wear hardest on north- and west-facing walls. We tailor every repair to the specific home, whether it's a historic masonry house off Third Street or a 1990s veneer home in a Randall Road subdivision.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Geneva and the Chicagoland suburbs with 40+ years of experience in brick repair and replacement, tuckpointing, chimney repair, lintel and parapet repair, foundation and limestone/sill repair, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Geneva and the Chicagoland suburbs led by career masons with decades of hands-on experience in brick repair and replacement, tuckpointing, chimney repair, lintel and parapet repair, foundation and limestone/sill repair, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Why Geneva Homeowners Choose Emerald Masonry
 
-- **40+ years** of Chicagoland masonry experience across historic and modern brick.
+- **career masons** of Chicagoland masonry experience across historic and modern brick.
 - **Family-owned**, licensed, bonded, and insured.
 - **Brick matching done right** — repairs that disappear into the wall.
 - **Honest scopes** — we recommend the smallest fix that solves the real problem.

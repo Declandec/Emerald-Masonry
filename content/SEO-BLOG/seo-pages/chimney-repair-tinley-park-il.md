@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Tinley Park, IL — crown repair, flashing, repointing, rebuilds and caps. Family-owned, licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "A chimney is the most weather-exposed masonry on any Tinley Park home — hit on four sides, above the roofline, with no protection from wind-driven rain or freeze-thaw. Emerald Masonry LLC repairs and rebuilds them, from crown and flashing work up to full rebuilds above the roofline."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Tinley Park, IL — crown repair, chimney caps, flashing, repointing, brick replacement and full rebuilds above the roofline. Family-owned, licensed and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Tinley Park, IL — crown repair, chimney caps, flashing, repointing, brick replacement and full rebuilds above the roofline. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and flashing on a home in Tinley Park Illinois"
 faqs:
   - q: "How much does chimney repair cost in Tinley Park, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Chimney Repair in Tinley Park, IL
 
-Chimney repair in Tinley Park, IL covers everything from resealing a cracked crown to rebuilding the entire stack above the roofline — and Emerald Masonry LLC does all of it. We repair crowns, install caps, replace flashing, repoint failed mortar joints, swap spalled brick, and rebuild chimneys that are past saving. Family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Tinley Park, IL covers everything from resealing a cracked crown to rebuilding the entire stack above the roofline — and Emerald Masonry LLC does all of it. We repair crowns, install caps, replace flashing, repoint failed mortar joints, swap spalled brick, and rebuild chimneys that are past saving. Family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
 
 Your chimney is the hardest-working masonry on the house. Every other brick wall has a roof over it and a heated interior behind it. A chimney has neither. It is exposed on four sides, it sits above the roofline in the wind, and it takes rain, snow, ice and roughly a hundred freeze-thaw cycles a Chicagoland winter with nothing protecting it. That is why chimneys almost always fail first — often decades before the walls below them.
 
@@ -112,7 +112,7 @@ We work throughout 60477 and 60487 — the older neighborhoods near Oak Park Ave
 
 Chimney work often reveals related masonry needs, and we handle those in the same visit: [tuckpointing](/services/tuckpointing), [brick repair](/services/brick-repair), [lintel repair](/services/lintel-repair) and [masonry sealing](/services/masonry-sealing).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a Free Chimney Inspection in Tinley Park
 

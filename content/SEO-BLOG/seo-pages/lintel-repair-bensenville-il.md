@@ -18,10 +18,10 @@ service: "Lintel Repair"
 serviceSlug: "lintel-repair"
 pageType: "location"
 metaTitle: "Lintel Repair in Bensenville, IL | Emerald Masonry"
-metaDescription: "Lintel repair in Bensenville, IL — rusted steel lintel repair & replacement that stops brick cracking above windows and doors. Emerald Masonry, 40+ yrs. Free estimate (708) 288-1696."
+metaDescription: "Lintel repair in Bensenville, IL — rusted steel lintel repair & replacement that stops brick cracking above windows and doors. Emerald Masonry, career masons. Free estimate (708) 288-1696."
 excerpt: "Cracked brick, rust stains, or sagging above a Bensenville window or door? That's usually a rusting steel lintel. Emerald Masonry LLC repairs and replaces lintels before the brick fails. Free estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC repairs and replaces rusting steel lintels in Bensenville, IL — the hidden steel angles over windows, doors, and openings that, as they corrode and expand, crack and lift the brick above them. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC repairs and replaces rusting steel lintels in Bensenville, IL — the hidden steel angles over windows, doors, and openings that, as they corrode and expand, crack and lift the brick above them. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Repaired steel lintel and rebuilt brick course above a window opening on a Bensenville, IL building"
 faqs:
   - q: "How much does lintel repair cost in Bensenville, IL?"
@@ -31,13 +31,13 @@ faqs:
   - q: "Can a lintel be repaired, or does it always need replacing?"
     a: "It depends on how far the corrosion has gone. Surface rust caught early can sometimes be cleaned, treated, and the brick repointed. Heavily corroded or structurally compromised steel needs to be replaced, which means temporarily supporting the brick above, removing the old lintel, and setting a new one. We tell you honestly which your building needs."
   - q: "Do you handle both residential and commercial lintels in Bensenville?"
-    a: "Yes. Emerald Masonry LLC repairs lintels on homes, multi-unit buildings, and the commercial and industrial properties Bensenville is full of. We are family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC repairs lintels on homes, multi-unit buildings, and the commercial and industrial properties Bensenville is full of. We are family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** repairs and replaces rusting steel **lintels in Bensenville, IL** — the steel angles hidden over your windows, doors, and openings that crack and lift the brick above them as they corrode. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, serving DuPage County. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** repairs and replaces rusting steel **lintels in Bensenville, IL** — the steel angles hidden over your windows, doors, and openings that crack and lift the brick above them as they corrode. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, serving DuPage County. For a **free on-site estimate, call (708) 288-1696.**
 
 Lintel failure is one of the most misdiagnosed masonry problems. People see cracked brick over a window and assume they need "brick repair" — but if you replace the brick without addressing the rusting steel underneath, the new brick cracks right back out.
 
@@ -89,7 +89,7 @@ The honest cost drivers for lintel work are:
 
 Bensenville sits in the heart of DuPage County's industrial and logistics belt near O'Hare, so it carries an unusual mix of building types — older brick homes and two-flats, mid-century commercial blocks, and a large stock of warehouses and flex buildings with long steel-lintel openings over docks and storefronts. All of that steel is decades into its life, and our DuPage freeze-thaw winters keep feeding the rust-jacking cycle. As a Chicagoland masonry company that works on both homes and commercial buildings, we see lintel failure across all of it and repair it so it stays fixed.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Lintel work often goes hand in hand with related repairs — see our [lintel repair](/services/lintel-repair), [brick repair](/services/brick-repair), [tuckpointing and repointing](/services/tuckpointing), [parapet wall repair](/services/parapet-wall-repair), and [commercial masonry restoration](/services/commercial-masonry-restoration).
 
@@ -109,7 +109,7 @@ It depends on how far the corrosion has gone. Surface rust caught early can some
 
 **Do you handle both residential and commercial lintels in Bensenville?**
 
-Yes. Emerald Masonry LLC repairs lintels on homes, multi-unit buildings, and the commercial and industrial properties Bensenville is full of. We are family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC repairs lintels on homes, multi-unit buildings, and the commercial and industrial properties Bensenville is full of. We are family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Lintel Repair Estimate in Bensenville
 

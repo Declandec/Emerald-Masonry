@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Masonry Restoration in Mount Greenwood, Chicago | Emerald"
 metaDescription: "Residential masonry restoration in Mount Greenwood, Chicago — bungalow and Georgian brick, limestone trim and chimneys restored. Call (708) 288-1696 today."
 excerpt: "A Chicago bungalow does not fail in random places. It fails top-down, in the same order on nearly every house — which is why restoring one should start at the chimney and work toward the ground."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Mount Greenwood, Chicago, IL — restoring brick bungalows, Georgians and ranches with matched brick, limestone trim repair, chimney rebuilds and repointing in compatible soft mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Mount Greenwood, Chicago, IL — restoring brick bungalows, Georgians and ranches with matched brick, limestone trim repair, chimney rebuilds and repointing in compatible soft mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored brick bungalow facade with repointed joints and limestone trim in Mount Greenwood, Chicago"
 faqs:
   - q: "How much does masonry restoration cost in Mount Greenwood, Chicago?"
@@ -49,7 +49,7 @@ competitorInformed: false
 
 ## Residential Masonry Restoration in Mount Greenwood, Chicago
 
-Residential masonry restoration in Mount Greenwood, Chicago is unusually predictable, and that is good news. The neighbourhood is built almost entirely from a few repeated house types, and those houses fail **top-down, in the same order, on street after street.** Emerald Masonry LLC restores bungalows, Georgians and ranches throughout Mount Greenwood and Chicago's southwest side. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Mount Greenwood, Chicago is unusually predictable, and that is good news. The neighbourhood is built almost entirely from a few repeated house types, and those houses fail **top-down, in the same order, on street after street.** Emerald Masonry LLC restores bungalows, Georgians and ranches throughout Mount Greenwood and Chicago's southwest side. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 So we survey a house the way water moves through it: from the chimney down to the grade. Almost every scope writes itself once you do that.
 
@@ -114,7 +114,7 @@ What they share is the climate: dozens of freeze-thaw cycles every Cook County w
 
 Phase-one scope versus the full plan · wall area and number of elevations · the real percentage of failed joints and units · chimney work and roof access · staging, including tight gangway access · limestone repair extent · match difficulty for brick and mortar, front versus sides · water-management corrections · season and curing conditions. We do not quote older homes over the phone; the assessment is free and written.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Mount Greenwood and Chicago's Southwest Side
 
@@ -122,6 +122,6 @@ We restore residential masonry throughout Mount Greenwood's 60655 and the surrou
 
 ## Why Mount Greenwood Homeowners Call Emerald
 
-We survey the whole house before we price any of it, we specify mortar separately for face brick and common brick because they are not the same wall, and we rank the work honestly — including telling you what can wait. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We survey the whole house before we price any of it, we specify mortar separately for face brick and common brick because they are not the same wall, and we rank the work honestly — including telling you what can wait. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 Want a straight, written assessment of your Mount Greenwood home's brick, stone and chimney? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

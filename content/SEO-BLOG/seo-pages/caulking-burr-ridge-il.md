@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Caulking & Joint Sealant in Burr Ridge, IL | Emerald Masonry"
 metaDescription: "Caulking and joint sealant in Burr Ridge, IL — expansion joints, panel joints and window perimeters. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Burr Ridge's office and corporate buildings sit along the I-55 and County Line corridors in precast, EIFS and veneer construction — assemblies where the sealed joints, not the walls, are the weather barrier. Emerald Masonry LLC replaces failed sealant before the water reaches the steel."
-aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Burr Ridge, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Burr Ridge, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "New joint sealant installed at precast panel joints on a corporate building in Burr Ridge Illinois"
 faqs:
   - q: "How often does commercial caulking need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Caulking and Joint Sealant in Burr Ridge, IL
 
-Caulking and joint sealant work in Burr Ridge, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. On Burr Ridge's commercial stock, **those joints are the weather barrier**. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs sealant that will move with the building. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Caulking and joint sealant work in Burr Ridge, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. On Burr Ridge's commercial stock, **those joints are the weather barrier**. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs sealant that will move with the building. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Burr Ridge is a small village with an outsized commercial envelope. The **corporate office parks along County Line Road, Frontage Road and the I-55 corridor**, the medical and professional buildings, the retail at Burr Ridge Village Center, and the hotels and institutional properties represent a concentration of **precast concrete panel, EIFS, curtain wall and brick veneer** construction from the 1980s through the 2000s.
 
@@ -130,7 +130,7 @@ Burr Ridge takes the full DuPage climate load: no lake moderation, dozens of fre
 
 We work throughout 60527 — the office and corporate parks along County Line and the I-55 corridor, the medical and professional buildings, the retail and hospitality properties, HOA and condominium buildings, and the village's residential neighborhoods. We also serve neighboring [Hinsdale](/locations/limestone-sill-repair-hinsdale-il), [Willowbrook](/locations/tuckpointing-willowbrook-il), [Darien](/locations/lintel-replacement-darien-il) and [Oak Brook](/locations/caulking-oak-brook-il). Burr Ridge owners frequently pair sealant work with [chimney repair](/locations/chimney-repair-burr-ridge-il) or [waterproofing](/locations/efflorescence-waterproofing-burr-ridge-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferred Sealant Gets Expensive
 

@@ -17,7 +17,7 @@ service: "Efflorescence & Waterproofing"
 metaTitle: "Efflorescence & Masonry Waterproofing in Burr Ridge, IL | Emerald Masonry LLC"
 metaDescription: "Efflorescence removal and masonry waterproofing for commercial buildings in Burr Ridge IL. Licensed contractor. Free estimates. Call (708) 288-1696."
 excerpt: "White staining on brick and mortar is a symptom, not the problem — it means water is moving through your masonry. Emerald Masonry LLC provides efflorescence treatment and penetrating waterproofing for commercial and institutional properties in Burr Ridge and throughout DuPage County."
-image: "/images/work-efflorescence.jpg"
+image: "/images/work-efflorescence.webp"
 imageAlt: "Efflorescence white staining on brick commercial building in Burr Ridge Illinois DuPage County"
 competitorInformed: false
 ---
@@ -95,7 +95,7 @@ Penetrating sealers dramatically reduce water absorption and will eliminate or g
 
 ## Serving Burr Ridge and DuPage County
 
-Emerald Masonry LLC is based in Palos Heights, IL, and serves commercial and institutional properties throughout Burr Ridge, Willowbrook, Darien, Westmont, Hinsdale, and the broader DuPage County area. We bring 40+ years of Chicagoland masonry experience to every project.
+Emerald Masonry LLC is based in Palos Heights, IL, and serves commercial and institutional properties throughout Burr Ridge, Willowbrook, Darien, Westmont, Hinsdale, and the broader DuPage County area. We bring career masons of Chicagoland masonry experience to every project.
 
 Contact us at **(708) 288-1696** or [request a free estimate](/#contact) for your Burr Ridge property.
 

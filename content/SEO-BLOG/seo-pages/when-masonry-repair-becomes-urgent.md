@@ -21,7 +21,7 @@ metaTitle: "When Masonry Repair Is Urgent | Emerald Masonry LLC"
 metaDescription: "Active water, leaning walls, falling brick, and rust-jacked lintels can't wait. Learn what's urgent vs schedulable. Free estimate: (708) 288-1696."
 excerpt: "Some masonry problems are safety and structural emergencies — falling brick, a leaning parapet or chimney, rust-jacked lintels, active water intrusion, and structural cracks. Others can be safely scheduled. Here's how to tell which is which, and why fall is the deadline before winter."
 aiSummary: "Treat it as urgent if there's active water intrusion, a leaning parapet or chimney, falling masonry, a rust-jacked lintel, or a structural crack — these threaten safety or worsen fast. Cosmetic wear can be scheduled. Get failing masonry sealed before winter. Emerald Masonry inspects free — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Restored masonry facade after urgent structural repair on a Chicagoland building"
 faqs:
   - q: "Is a small crack in my brick wall an emergency?"

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "CMU Block Repair in Bedford Park, IL | Emerald Masonry"
 metaDescription: "CMU and concrete block repair in Bedford Park, IL — warehouse, dock and industrial block walls. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Brick is a fired ceramic with a hard, relatively sealed skin. Concrete block is porous straight through its face. That one difference changes how block fails, where it fails, and why the coating decision on a block wall is the one most likely to be made wrong."
-aiSummary: "Emerald Masonry LLC provides CMU and concrete block repair in Bedford Park, IL — crack and unit repair, repointing, control joint work, dock and impact damage, and coating decisions on warehouse and industrial block walls. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides CMU and concrete block repair in Bedford Park, IL — crack and unit repair, repointing, control joint work, dock and impact damage, and coating decisions on warehouse and industrial block walls. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired concrete block wall at a loading dock on an industrial building in Bedford Park Illinois"
 faqs:
   - q: "Why does concrete block fail differently than brick?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## CMU Block Repair in Bedford Park, IL
 
-CMU block repair in Bedford Park, IL covers cracked and spalled concrete block, impact damage at dock and drive-aisle height, joint and control-joint repair, unit replacement, and the coating decisions that determine whether a block wall dries or stays wet. Emerald Masonry LLC serves industrial and commercial property throughout Cook County — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
+CMU block repair in Bedford Park, IL covers cracked and spalled concrete block, impact damage at dock and drive-aisle height, joint and control-joint repair, unit replacement, and the coating decisions that determine whether a block wall dries or stays wet. Emerald Masonry LLC serves industrial and commercial property throughout Cook County — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
 
 Most masonry advice on the internet is written about brick. **Concrete block is a genuinely different material**, and the difference is not cosmetic.
 
@@ -129,7 +129,7 @@ Freeze-thaw exposure here is the standard hard Chicagoland pattern, and it lands
 
 We serve 60638 and the surrounding industrial southwest communities, including [Summit](/locations/parapet-wall-repair-summit-il), [Justice](/locations/tuckpointing-justice-il), [Bridgeview](/locations/lintel-repair-bridgeview-il) and [Burbank](/locations/tuckpointing-burbank-il). Facility managers here commonly combine block repair with [parapet wall repair](/services/parapet-wall-repair) and control-joint sealant renewal in one mobilization.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, facility managers and insurance companies. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, facility managers and insurance companies. Free on-site estimates — call (708) 288-1696.
 
 ## Request a Free CMU Block Assessment in Bedford Park
 

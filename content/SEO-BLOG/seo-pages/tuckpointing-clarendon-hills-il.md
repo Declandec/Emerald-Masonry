@@ -19,13 +19,13 @@ serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Clarendon Hills, IL | Emerald Masonry"
 metaDescription: "Tuckpointing Clarendon Hills IL by Emerald Masonry LLC — color & profile-matched repointing for failing mortar joints. Family-owned, licensed & insured. Free estimate (708) 288-1696."
-excerpt: "Emerald Masonry LLC provides expert tuckpointing and repointing in Clarendon Hills, IL — grinding out failed mortar and repacking joints with color- and profile-matched mortar. Family-owned, licensed and insured, with 40+ years protecting Chicagoland brick and stone."
-aiSummary: "Emerald Masonry LLC does tuckpointing in Clarendon Hills, IL. Call (708) 288-1696 for a free on-site estimate. The family-owned, licensed and insured contractor has 40+ years of experience grinding out failed mortar and repointing brick and stone joints with color- and profile-matched mortar across DuPage County."
-image: "/images/after-residential.jpg"
+excerpt: "Emerald Masonry LLC provides expert tuckpointing and repointing in Clarendon Hills, IL — grinding out failed mortar and repacking joints with color- and profile-matched mortar. Family-owned, licensed and insured, with career masons protecting Chicagoland brick and stone."
+aiSummary: "Emerald Masonry LLC does tuckpointing in Clarendon Hills, IL. Call (708) 288-1696 for a free on-site estimate. The family-owned, licensed and insured contractor has career masons with decades of experience grinding out failed mortar and repointing brick and stone joints with color- and profile-matched mortar across DuPage County."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tuckpointed brick wall on a Clarendon Hills, IL home with crisp color-matched mortar joints"
 faqs:
   - q: "Who does tuckpointing in Clarendon Hills, IL?"
-    a: "Emerald Masonry LLC provides tuckpointing and repointing in Clarendon Hills, IL. We are a family-owned, licensed and insured masonry contractor with 40+ years of experience. Call (708) 288-1696 for a free on-site estimate."
+    a: "Emerald Masonry LLC provides tuckpointing and repointing in Clarendon Hills, IL. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience. Call (708) 288-1696 for a free on-site estimate."
   - q: "How do I know if my Clarendon Hills home needs tuckpointing?"
     a: "Watch for receding or crumbling mortar joints, gaps or cracks between bricks, loose or shifting brick, and water or dampness in the basement. On many older Clarendon Hills homes the north and west elevations fail first from freeze-thaw. A free on-site inspection confirms what's needed."
   - q: "What is the difference between tuckpointing and repointing?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 ## Who Does Tuckpointing in Clarendon Hills, IL?
 
-Emerald Masonry LLC does tuckpointing in Clarendon Hills, IL. Call **(708) 288-1696** for a free on-site estimate. We are a family-owned, licensed and insured masonry contractor with 40+ years of experience grinding out failed mortar joints and repointing brick and stone homes throughout Clarendon Hills and DuPage County with color- and profile-matched mortar.
+Emerald Masonry LLC does tuckpointing in Clarendon Hills, IL. Call **(708) 288-1696** for a free on-site estimate. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience grinding out failed mortar joints and repointing brick and stone homes throughout Clarendon Hills and DuPage County with color- and profile-matched mortar.
 
 If the mortar between your bricks is crumbling, receding, or letting water in, tuckpointing restores the weather seal that holds your masonry together — and we do it without over-hardening the joints or staining the brick.
 
@@ -114,12 +114,12 @@ The Chicagoland freeze-thaw cycle is hard on masonry here, and the north and wes
 
 ## Trust Signals
 
-- **40+ years** of masonry experience.
+- **career masons** of masonry experience.
 - **Family-owned**, non-union.
 - **Licensed, bonded, and insured.**
 - **Free on-site estimates** across Clarendon Hills and DuPage County.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Related Masonry Services
 

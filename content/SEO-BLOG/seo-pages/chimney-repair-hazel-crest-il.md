@@ -19,14 +19,14 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Hazel Crest, IL | Emerald Masonry"
-metaDescription: "Chimney repair in Hazel Crest, IL by Emerald Masonry LLC — rebuilds, tuckpointing, crown & flashing repair. Family-owned, 40+ years. Free estimate (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and rebuilds chimneys throughout Hazel Crest, IL — from tuckpointing and crown repair to full above-roofline rebuilds. Family-owned, licensed and insured, with 40+ years of masonry experience and free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Hazel Crest, IL — tuckpointing, above-roofline rebuilds, crown and flashing repair, and spalled brick replacement. Family-owned, licensed and insured, with 40+ years of experience serving south Cook County. Free on-site estimates: call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+metaDescription: "Chimney repair in Hazel Crest, IL by Emerald Masonry LLC — rebuilds, tuckpointing, crown & flashing repair. Family-owned, career masons. Free estimate (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs and rebuilds chimneys throughout Hazel Crest, IL — from tuckpointing and crown repair to full above-roofline rebuilds. Family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience and free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides chimney repair in Hazel Crest, IL — tuckpointing, above-roofline rebuilds, crown and flashing repair, and spalled brick replacement. Family-owned, licensed and insured, led by career masons with decades of hands-on experience serving south Cook County. Free on-site estimates: call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Repaired brick chimney on a Hazel Crest, IL home after Emerald Masonry chimney repair"
 faqs:
   - q: "Who repairs chimneys in Hazel Crest, IL?"
-    a: "Emerald Masonry LLC repairs and rebuilds chimneys throughout Hazel Crest and the surrounding south suburbs. We are a family-owned, licensed and insured masonry contractor with 40+ years of experience. Call (708) 288-1696 for a free on-site estimate."
+    a: "Emerald Masonry LLC repairs and rebuilds chimneys throughout Hazel Crest and the surrounding south suburbs. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience. Call (708) 288-1696 for a free on-site estimate."
   - q: "How do I know if my Hazel Crest chimney needs repair or a full rebuild?"
     a: "Surface issues like crumbling mortar joints, minor spalling, or a cracked crown can usually be tuckpointed or patched. If the brick above the roofline is loose, leaning, or the mortar has washed out over large areas, a partial or full above-roofline rebuild is safer and lasts far longer. Our on-site inspection tells you exactly which one you need."
   - q: "What does white staining on my chimney brick mean?"
@@ -40,7 +40,7 @@ competitorInformed: false
 
 ## Who repairs chimneys in Hazel Crest, IL?
 
-Emerald Masonry LLC repairs chimneys in Hazel Crest, IL — including tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled brick replacement. We are a family-owned, licensed and insured masonry contractor with 40+ years of experience serving south Cook County. To get a free on-site estimate, call **(708) 288-1696**.
+Emerald Masonry LLC repairs chimneys in Hazel Crest, IL — including tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled brick replacement. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience serving south Cook County. To get a free on-site estimate, call **(708) 288-1696**.
 
 If your chimney is dropping brick into the yard, staining white, or leaking during rain, you don't need a guess over the phone — you need someone on the roof looking at the mortar, the crown, and the flashing. That is where we start every Hazel Crest chimney job.
 
@@ -120,13 +120,13 @@ Because we've worked these south-suburb homes for decades, we know how the local
 
 ## Why Hazel Crest homeowners call Emerald Masonry
 
-- **40+ years** of hands-on masonry experience.
+- **career masons** of hands-on masonry experience.
 - **Family-owned and non-union** — you deal with the people doing the work.
 - **Licensed, bonded & insured.**
 - **Free on-site estimates** with an honest repair-vs-rebuild recommendation.
 - **Color-matched work** that blends into your home's original brick.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Get your free Hazel Crest chimney estimate
 

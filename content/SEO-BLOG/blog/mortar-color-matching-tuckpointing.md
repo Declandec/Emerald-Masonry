@@ -4,7 +4,7 @@ date: "2026-06-03"
 excerpt: "Few things make a tuckpointing job look worse than mortar that doesn't match — a bright gray patch on a warm old brick wall reads as a scar, not a repair. Mortar color matching is a real craft, and here's what actually goes into getting it right."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 keywords:
   - mortar color matching tuckpointing
   - why does my tuckpointing look bad

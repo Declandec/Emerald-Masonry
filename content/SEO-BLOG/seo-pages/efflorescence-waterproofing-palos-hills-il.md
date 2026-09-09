@@ -18,7 +18,7 @@ service: "Efflorescence & Waterproofing"
 metaTitle: "Efflorescence & Waterproofing in Palos Hills, IL | Emerald Masonry LLC"
 metaDescription: "Efflorescence and masonry waterproofing in Palos Hills, IL. Emerald Masonry identifies water entry causes and stops infiltration at the source. Free estimates."
 excerpt: "Efflorescence — the white mineral deposits that appear on brick facades — is a symptom of water moving through masonry walls. In Palos Hills, where brick construction spans from postwar residential to current commercial and institutional, efflorescence and water infiltration are consistent issues that go beyond cosmetic. Emerald Masonry LLC diagnoses the water entry source, repairs it, and applies appropriate waterproofing to prevent recurrence."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick efflorescence treatment and masonry waterproofing completed in Palos Hills, IL"
 competitorInformed: false
 ---

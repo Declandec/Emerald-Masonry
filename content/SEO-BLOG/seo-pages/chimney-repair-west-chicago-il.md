@@ -16,10 +16,10 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in West Chicago, IL | Emerald Masonry"
-metaDescription: "Chimney repair in West Chicago, IL — crown repair, repointing, flashing & full rebuilds. Emerald Masonry, 40+ yrs, licensed & insured. Free estimate (708) 288-1696."
+metaDescription: "Chimney repair in West Chicago, IL — crown repair, repointing, flashing & full rebuilds. Emerald Masonry, career masons, licensed & insured. Free estimate (708) 288-1696."
 excerpt: "Cracked crown, crumbling joints, or a leaning chimney on your West Chicago home? Emerald Masonry LLC handles everything from repointing to full chimney rebuilds. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides professional chimney repair in West Chicago, IL — crown repair, repointing, flashing, and full rebuilds for the city's railroad-era homes near downtown and its newer Fox Valley subdivisions. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+aiSummary: "Emerald Masonry LLC provides professional chimney repair in West Chicago, IL — crown repair, repointing, flashing, and full rebuilds for the city's railroad-era homes near downtown and its newer Fox Valley subdivisions. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Repaired brick chimney with a new crown and repointed joints on a West Chicago, IL home"
 faqs:
   - q: "How much does chimney repair cost in West Chicago, IL?"
@@ -29,13 +29,13 @@ faqs:
   - q: "Why is my chimney always the first thing to fail?"
     a: "A chimney is the most exposed masonry on the house — it takes weather on all four sides and from the top, with no roof overhang to protect it. In West Chicago's freeze-thaw climate, water in the crown and joints freezes and breaks the masonry apart faster than the walls below. That is why chimneys usually need attention years before the rest of the house."
   - q: "Are you licensed and insured to work in West Chicago?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving West Chicago and DuPage County. We handle chimney repointing, crown and flashing repair, and full rebuilds. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving West Chicago and DuPage County. We handle chimney repointing, crown and flashing repair, and full rebuilds. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides professional **chimney repair in West Chicago, IL** — crown repair, repointing, flashing repair, and full rebuilds for both older homes and newer Fox Valley subdivisions. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides professional **chimney repair in West Chicago, IL** — crown repair, repointing, flashing repair, and full rebuilds for both older homes and newer Fox Valley subdivisions. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
 
 A chimney problem caught early is a few hundred dollars of crown and joint work. Ignored, it becomes a rebuild — and sometimes interior water damage. Here is how to tell where yours stands.
 
@@ -94,7 +94,7 @@ A chimney repair is only as good as its details: a crown poured with the right s
 
 West Chicago grew up around the railroad — the old Turner Junction downtown and surrounding neighborhoods hold plenty of late-1800s and early-1900s brick homes with original chimneys that have weathered a century of Fox Valley winters. Around them sit newer subdivisions from the building booms of the past few decades, whose chimneys are now old enough to show crown cracks and worn joints. Both kinds of chimney fail the same way — from the top down, driven by water and freeze-thaw — and both are exactly what we are called out to fix.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 For related work, see our [chimney repair](/services/chimney-repair), [tuckpointing and repointing](/services/tuckpointing), [brick repair](/services/brick-repair), [masonry sealing and waterproofing](/services/masonry-sealing), and [historic masonry restoration](/services/historic-masonry-restoration).
 
@@ -114,7 +114,7 @@ A chimney is the most exposed masonry on the house — it takes weather on all f
 
 **Are you licensed and insured to work in West Chicago?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving West Chicago and DuPage County. We handle chimney repointing, crown and flashing repair, and full rebuilds. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving West Chicago and DuPage County. We handle chimney repointing, crown and flashing repair, and full rebuilds. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Chimney Repair Estimate in West Chicago
 

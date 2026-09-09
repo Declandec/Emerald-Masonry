@@ -5,7 +5,7 @@ excerpt: "Homeowners plan exterior projects by budget year and availability, the
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Exterior renovation in progress on a Chicagoland brick home with masonry and roofing work coordinated"
 keywords:
   - masonry before or after roof
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
   - change order coordination trades
-aiSummary: "The general sequence for exterior work is water management first (gutters, grade), then masonry, then roof, then windows and siding, then final sealant and paint — because masonry is dusty, needs access, and shares details like chimney flashing and parapet coping with roofing. Doing windows or a roof before masonry usually means reopening finished work. Emerald Masonry LLC coordinates sequencing across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "The general sequence for exterior work is water management first (gutters, grade), then masonry, then roof, then windows and siding, then final sealant and paint — because masonry is dusty, needs access, and shares details like chimney flashing and parapet coping with roofing. Doing windows or a roof before masonry usually means reopening finished work. Emerald Masonry LLC coordinates sequencing across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Should I do the roof or the masonry first?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Which Trade Goes First?
 
-**The general sequence is: water management, then masonry, then roof, then windows and siding, then final sealant and paint.** Masonry is dusty, needs wall access, and shares physical details — chimney flashing, parapet coping, window perimeters — with the trades that come after it. Doing those trades first usually means reopening finished work. Emerald Masonry LLC coordinates sequencing with roofers and other trades across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**The general sequence is: water management, then masonry, then roof, then windows and siding, then final sealant and paint.** Masonry is dusty, needs wall access, and shares physical details — chimney flashing, parapet coping, window perimeters — with the trades that come after it. Doing those trades first usually means reopening finished work. Emerald Masonry LLC coordinates sequencing with roofers and other trades across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners rarely plan exterior work as a sequence. They plan it by **budget year and whoever answered the phone** — windows this spring because there was a sale, roof next year because it is due, masonry after that because nobody warned them.
 
@@ -218,6 +218,6 @@ Water first, masonry early, finished surfaces last.
 
 And whatever else you do, **name who owns the chimney flashing and the parapet coping before anybody starts.** Those two details cause more repeat leaks and more finger-pointing than every other coordination issue on an exterior project combined — not because either trade is careless, but because the detail sits exactly on the line between them.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We coordinate with your other trades rather than working around them.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We coordinate with your other trades rather than working around them.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

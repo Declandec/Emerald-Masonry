@@ -5,7 +5,7 @@ excerpt: "New windows are the most common exterior project on a Chicagoland bric
 service: "Lintel Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Masonry repair at a window opening on a Chicagoland brick home before new window installation"
 keywords:
   - replacing windows in a brick house
@@ -40,7 +40,7 @@ keywords:
   - free masonry estimate Chicago
   - sequencing masonry and window trades
   - window replacement leak brick wall
-aiSummary: "Before new windows go into a brick house, four masonry conditions should be checked and corrected: the steel lintel above each opening, the sill below it, the mortar joints around the opening, and the perimeter sealant joint. Window installers do not repair masonry, and a new window set into a rusting lintel or a cracked sill will leak. Emerald Masonry LLC inspects and repairs window openings across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Before new windows go into a brick house, four masonry conditions should be checked and corrected: the steel lintel above each opening, the sill below it, the mortar joints around the opening, and the perimeter sealant joint. Window installers do not repair masonry, and a new window set into a rusting lintel or a cracked sill will leak. Emerald Masonry LLC inspects and repairs window openings across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Should masonry repair happen before or after new windows go in?"
@@ -69,7 +69,7 @@ faqs:
 
 **Before new windows go into a brick house, four things should be checked and corrected: the steel lintel above the opening, the sill below it, the mortar joints around it, and the perimeter sealant joint.** Window installers install windows — they do not repair masonry, and they are not looking at your lintel. A new window set into an opening with corroding steel above it or a cracked, back-sloped sill beneath it will leak, and the fix afterward costs more because it means working around brand-new units.
 
-Emerald Masonry LLC inspects and repairs window openings across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience. Free on-site estimates: **(708) 288-1696**.
+Emerald Masonry LLC inspects and repairs window openings across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience. Free on-site estimates: **(708) 288-1696**.
 
 ## Why This Goes Wrong So Often
 
@@ -214,6 +214,6 @@ New windows are a good investment in a Chicagoland brick home. They are also the
 
 **Spend an hour on a masonry assessment before you spend the window budget.** If the lintels and sills are sound, you will know it, and you can proceed with confidence. If they are not, you will have found out at the one moment when fixing them is straightforward — instead of two winters later, looking at stains on the wall beneath windows you just paid for.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates — call (708) 288-1696 or [request an estimate](/#contact).**

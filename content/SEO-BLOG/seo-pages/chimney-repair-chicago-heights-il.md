@@ -1,5 +1,5 @@
 ---
-title: "Chimney Repair in Chicago Heights, IL — Family-Owned Masonry With 40+ Years on South-Suburb Chimneys"
+title: "Chimney Repair in Chicago Heights, IL — Family-Owned Masonry by Career Masons on South-Suburb Chimneys"
 date: "2026-06-29"
 primaryKeyword: "chimney repair Chicago Heights IL"
 secondaryKeywords:
@@ -18,14 +18,14 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Chicago Heights, IL | Emerald Masonry"
-metaDescription: "Chimney repair in Chicago Heights, IL by Emerald Masonry — family-owned, licensed & insured, 40+ years. Tuckpointing, rebuilds, crowns. Free estimate (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs crumbling, leaning, and leaking chimneys across Chicago Heights and south Cook County. Family-owned with 40+ years of Chicagoland experience, licensed and insured, with free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Chicago Heights, IL — tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled-brick fixes. Family-owned, licensed and insured, with 40+ years of Chicagoland masonry experience. Free on-site estimates: (708) 288-1696."
-image: "/images/after-chimney.jpg"
+metaDescription: "Chimney repair in Chicago Heights, IL by Emerald Masonry — family-owned, licensed & insured, career masons. Tuckpointing, rebuilds, crowns. Free estimate (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs crumbling, leaning, and leaking chimneys across Chicago Heights and south Cook County. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed and insured, with free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides chimney repair in Chicago Heights, IL — tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled-brick fixes. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates: (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and tuckpointing in Chicago Heights, IL by Emerald Masonry"
 faqs:
   - q: "Who repairs chimneys in Chicago Heights, IL?"
-    a: "Emerald Masonry LLC repairs chimneys throughout Chicago Heights and south Cook County. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and we offer free on-site estimates at (708) 288-1696."
+    a: "Emerald Masonry LLC repairs chimneys throughout Chicago Heights and south Cook County. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we offer free on-site estimates at (708) 288-1696."
   - q: "How do I know if my Chicago Heights chimney needs repair?"
     a: "Watch for crumbling or missing mortar, white staining (efflorescence) on the brick, flaking or spalled brick faces, a cracked crown, and water stains on interior ceilings near the chimney. A leaning chimney or loose bricks at the roofline mean you should call right away."
   - q: "How much does chimney repair cost in Chicago Heights?"
@@ -33,13 +33,13 @@ faqs:
   - q: "Can you rebuild just the top of a chimney instead of the whole thing?"
     a: "Yes. Most south-suburb chimney damage is concentrated above the roofline where freeze-thaw exposure is worst, so an above-roofline rebuild is often all that's needed. We rebuild from the last sound course of brick up and finish with a new crown and cap."
   - q: "Is Emerald Masonry licensed and insured to do chimney work in Cook County?"
-    a: "Yes. Emerald Masonry LLC is fully licensed, bonded, and insured, and we've served Chicago and the south suburbs for 40+ years. We're a family-owned, non-union contractor, and every chimney repair starts with a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is fully licensed, bonded, and insured, and we've served Chicago and the south suburbs for career masons. We're a family-owned, non-union contractor, and every chimney repair starts with a free on-site estimate."
 competitorInformed: true
 ---
 
 ## Who repairs chimneys in Chicago Heights, IL?
 
-Emerald Masonry LLC repairs chimneys in Chicago Heights, IL — from tuckpointing a worn flue stack to rebuilding the brick above the roofline, repairing a cracked crown, and sealing leaking flashing. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and every chimney repair starts with a free on-site estimate. Call **(708) 288-1696** to have your chimney looked at.
+Emerald Masonry LLC repairs chimneys in Chicago Heights, IL — from tuckpointing a worn flue stack to rebuilding the brick above the roofline, repairing a cracked crown, and sealing leaking flashing. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and every chimney repair starts with a free on-site estimate. Call **(708) 288-1696** to have your chimney looked at.
 
 Unlike the templated franchise pages that show up for "chimney repair Chicago Heights," we're a local crew that actually understands how south Cook County weather chews up older brick chimneys — and we'll tell you straight whether yours needs a quick repoint or a partial rebuild.
 
@@ -104,12 +104,12 @@ Chicago Heights sits in south Cook County, where the housing stock skews older �
 
 South-suburb chimneys take a beating from freeze-thaw cycling. The brick above the roofline is fully exposed on all sides, soaks up moisture, then freezes — and over the years that's what cracks crowns, blows out mortar joints, and spalls the brick faces. It's also why so many repairs here are concentrated at the top of the chimney rather than the whole structure. We know what these homes were built with and how to repair them so they look right and hold up.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently asked questions
 
 **Who repairs chimneys in Chicago Heights, IL?**
-Emerald Masonry LLC repairs chimneys throughout Chicago Heights and south Cook County. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and we offer free on-site estimates.
+Emerald Masonry LLC repairs chimneys throughout Chicago Heights and south Cook County. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we offer free on-site estimates.
 
 **How do I know if my chimney needs repair?**
 Look for crumbling or missing mortar, white staining (efflorescence), flaking or spalled brick, a cracked crown, and water stains on interior ceilings near the chimney. A leaning chimney or loose bricks at the roofline mean you should call right away.
@@ -118,7 +118,7 @@ Look for crumbling or missing mortar, white staining (efflorescence), flaking or
 Yes. Most south-suburb chimney damage is concentrated above the roofline, so an above-roofline rebuild is often all that's needed. We rebuild from the last sound course of brick up and finish with a new crown and cap.
 
 **Is Emerald Masonry licensed and insured?**
-Yes — fully licensed, bonded, and insured, family-owned, and serving the south suburbs for 40+ years. Every chimney repair starts with a free on-site estimate.
+Yes — fully licensed, bonded, and insured, family-owned, and serving the south suburbs for career masons. Every chimney repair starts with a free on-site estimate.
 
 ## Get a free chimney inspection in Chicago Heights
 

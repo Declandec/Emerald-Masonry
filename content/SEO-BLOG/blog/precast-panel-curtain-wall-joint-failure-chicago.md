@@ -5,7 +5,7 @@ excerpt: "A brick wall sheds water through mass and drainage. A precast panel or
 service: "Commercial Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Precast concrete panel joints and sealant on a suburban Chicagoland office building facade"
 keywords:
   - precast panel joint failure
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured masonry contractor Chicagoland
   - free commercial masonry estimate
   - DuPage County commercial masonry contractor
-aiSummary: "On precast concrete panel, curtain wall and veneer commercial buildings, the joints between units are the primary weather barrier — not the units themselves — so when sealant loses adhesion or splits, water enters the wall assembly and appears on interior floors far from the entry point, often with a sound roof. Repair means joint replacement, substrate repair and addressing embedded steel. Emerald Masonry LLC restores commercial envelopes across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "On precast concrete panel, curtain wall and veneer commercial buildings, the joints between units are the primary weather barrier — not the units themselves — so when sealant loses adhesion or splits, water enters the wall assembly and appears on interior floors far from the entry point, often with a sound roof. Repair means joint replacement, substrate repair and addressing embedded steel. Emerald Masonry LLC restores commercial envelopes across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "My building is leaking but the roof was just replaced — where is the water coming from?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Precast Panel and Curtain Wall Joints: Why the Building Leaks and the Roof Is Fine
 
-**On a precast concrete panel, curtain wall or veneer commercial building, the joints between the units are the primary weather barrier — not the units themselves.** So when the sealant in those joints loses adhesion, splits or hardens, water enters the wall assembly, travels inside it, and appears on an interior floor well away from where it got in. That is why a suburban office building can leak persistently while its roof is in excellent condition. Emerald Masonry LLC assesses and restores commercial building envelopes across Chicago and the Chicagoland suburbs — family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+**On a precast concrete panel, curtain wall or veneer commercial building, the joints between the units are the primary weather barrier — not the units themselves.** So when the sealant in those joints loses adhesion, splits or hardens, water enters the wall assembly, travels inside it, and appears on an interior floor well away from where it got in. That is why a suburban office building can leak persistently while its roof is in excellent condition. Emerald Masonry LLC assesses and restores commercial building envelopes across Chicago and the Chicagoland suburbs — family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 This is the single most misdiagnosed problem we get called about on commercial property. A tenant reports water. The roof gets inspected, patched, sometimes replaced outright. The leak continues. Everyone is frustrated, and a substantial amount of money has been spent on the wrong building component.
 
@@ -216,6 +216,6 @@ If your commercial building is taking water and the roof checks out, look at the
 
 Caught while the problem is still sealant, this is straightforward maintenance work. Caught after the water has reached the reinforcing steel and the anchors, it is a different project entirely.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, building owners, HOAs and condominium boards, churches and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, building owners, HOAs and condominium boards, churches and insurance companies.
 
 **Free on-site assessments. Call (708) 288-1696 or [request an estimate](/#contact).**

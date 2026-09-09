@@ -5,7 +5,7 @@ excerpt: "Animals don't attack masonry — they move into it. Every one of them 
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 intent: "informational"
 aiSummary: "Birds, bees and small mammals rarely damage sound masonry — they exploit joints and openings that have already deteriorated. Mason bees bore into soft, failing mortar; pigeons cause damage through acidic droppings and blocked drainage; squirrels and birds enter through uncapped chimneys and gaps at soffits and vents. The lasting fix is repointing, capping and sealing the openings after humane exclusion. Emerald Masonry LLC restores Chicagoland masonry — (708) 288-1696."
 keywords:
@@ -64,7 +64,7 @@ Nothing living chews through a brick wall. Squirrels do not gnaw masonry, birds 
 
 What animals do is far more useful to know: **they find the part of your building that has already failed, and they move in.** Which means an infestation is rarely just a pest problem. It is a survey result — free, unsolicited, and generally accurate.
 
-Emerald Masonry LLC repairs the masonry that wildlife exploits — repointing, chimney caps and crowns, vent and opening details — on homes, multi-family buildings, churches and commercial properties across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs the masonry that wildlife exploits — repointing, chimney caps and crowns, vent and opening details — on homes, multi-family buildings, churches and commercial properties across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 ## The Principle: They Find the Weakness
 
@@ -208,6 +208,6 @@ Wildlife does not defeat masonry. It finds masonry that has already lost. Bees i
 
 Get the animals out humanely and lawfully first. Then fix the masonry — because that is what turns a seasonal problem into a solved one.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Found holes in your mortar joints, or something living in your chimney? We will assess the masonry and tell you what actually let them in. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

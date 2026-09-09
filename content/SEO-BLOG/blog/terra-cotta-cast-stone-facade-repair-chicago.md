@@ -5,7 +5,7 @@ excerpt: "Chicago is a terra cotta city — the glazed ornamental cladding on th
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Restored ornamental terra cotta and cast stone facade detail on a Chicago commercial building"
 keywords:
   - terra cotta facade repair Chicago
@@ -38,7 +38,7 @@ keywords:
   - Chicago greystone limestone facade
   - licensed and insured masonry contractor Chicago
   - free masonry estimate Chicagoland
-aiSummary: "Architectural terra cotta is hollow, glazed, kiln-fired clay cladding anchored to a building's structure with steel, and cast stone is a manufactured concrete masonry unit imitating carved stone — both fail from water entering behind the units and corroding the anchors, which cracks and dislodges the pieces. Repair means anchor replacement, patching, dutchman units or replication, not simple patching. Emerald Masonry LLC restores ornamental facades across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Architectural terra cotta is hollow, glazed, kiln-fired clay cladding anchored to a building's structure with steel, and cast stone is a manufactured concrete masonry unit imitating carved stone — both fail from water entering behind the units and corroding the anchors, which cracks and dislodges the pieces. Repair means anchor replacement, patching, dutchman units or replication, not simple patching. Emerald Masonry LLC restores ornamental facades across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "What is architectural terra cotta?"
@@ -58,12 +58,12 @@ faqs:
   - q: "Can facade repair be done while the building stays occupied?"
     a: "Yes, and it usually is. Ornamental facade work on commercial, church and multi-family buildings is routinely staged with protected walkways, netting or sidewalk canopies, and phasing scheduled around business and worship hours. Protecting the public below is part of the scope, not an afterthought."
   - q: "Who should I call for ornamental facade work — a mason or a restoration specialist?"
-    a: "A masonry contractor experienced with historic and ornamental assemblies, because the work involves anchors, flashing, mortar matching and unit replication rather than simple brick laying. Ask specifically about anchor replacement and unit replication experience. Emerald Masonry LLC has 40+ years of Chicagoland masonry experience across historic and commercial facades; call (708) 288-1696."
+    a: "A masonry contractor experienced with historic and ornamental assemblies, because the work involves anchors, flashing, mortar matching and unit replication rather than simple brick laying. Ask specifically about anchor replacement and unit replication experience. Emerald Masonry LLC has career masons of Chicagoland masonry experience across historic and commercial facades; call (708) 288-1696."
 ---
 
 ## Terra Cotta and Cast Stone Facade Repair in Chicago
 
-**Architectural terra cotta is hollow, glazed, kiln-fired clay cladding anchored to a building's structure with steel — not solid stone.** **Cast stone is a manufactured concrete unit cast to imitate carved stone.** Both fail the same fundamental way: water gets in behind the units, corrodes the steel anchors and shelf angles holding them, and the expanding rust cracks the pieces and eventually pushes them off the building. Repair means addressing the anchors and the water, not just patching the visible crack. Emerald Masonry LLC restores ornamental facades on commercial, church, institutional and multi-family buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+**Architectural terra cotta is hollow, glazed, kiln-fired clay cladding anchored to a building's structure with steel — not solid stone.** **Cast stone is a manufactured concrete unit cast to imitate carved stone.** Both fail the same fundamental way: water gets in behind the units, corrodes the steel anchors and shelf angles holding them, and the expanding rust cracks the pieces and eventually pushes them off the building. Repair means addressing the anchors and the water, not just patching the visible crack. Emerald Masonry LLC restores ornamental facades on commercial, church, institutional and multi-family buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 Chicago is, to an unusual degree, a terra cotta city. Between roughly 1880 and 1940 the material was everywhere: it was fireproof, lighter than stone, could be molded into any ornament a draftsman could draw, and could be produced locally. It clads storefronts, apartment buildings, theaters, churches, schools, banks and civic landmarks across the city and the older suburbs.
 
@@ -184,6 +184,6 @@ Terra cotta and cast stone do not fail like brick, because they are not built li
 
 That is also the good news: caught early — while the issue is crazing, open joints and staining rather than displaced units — this is a maintenance problem. Caught late, it is a sidewalk closure.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, HOAs, churches, building owners and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, HOAs, churches, building owners and insurance companies.
 
 **Free on-site assessments. Call (708) 288-1696 or [request an estimate](/#contact).**

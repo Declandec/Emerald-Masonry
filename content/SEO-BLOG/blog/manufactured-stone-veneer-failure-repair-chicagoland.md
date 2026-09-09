@@ -5,7 +5,7 @@ excerpt: "The stone wainscot on the front of your 1990s or 2000s house probably 
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Manufactured stone veneer wainscot being removed from a Chicagoland building to expose the wall behind it"
 keywords:
   - manufactured stone veneer failure
@@ -40,7 +40,7 @@ keywords:
   - HOA stone veneer repair
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Manufactured stone veneer — the thin cement castings used on wainscots, columns and chimney chases on Chicagoland homes built from the 1990s onward — is not masonry. It is a cladding adhered to lath and a scratch coat, and it depends entirely on a drainage plane, a weep screed and correct clearances behind it. When those are missing, water gets trapped and rots the sheathing and framing long before the stone shows a problem. Emerald Masonry LLC diagnoses and repairs stone veneer failures across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Manufactured stone veneer — the thin cement castings used on wainscots, columns and chimney chases on Chicagoland homes built from the 1990s onward — is not masonry. It is a cladding adhered to lath and a scratch coat, and it depends entirely on a drainage plane, a weep screed and correct clearances behind it. When those are missing, water gets trapped and rots the sheathing and framing long before the stone shows a problem. Emerald Masonry LLC diagnoses and repairs stone veneer failures across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "How do I know if my stone is real or manufactured?"
@@ -73,7 +73,7 @@ It is not masonry in any structural sense. It is a **thin cement casting, typica
 
 And that is a perfectly legitimate product — when it is installed as a system. The problem is that across an enormous amount of Chicagoland housing stock, it was not.
 
-Emerald Masonry LLC diagnoses and repairs stone veneer failures on homes, associations and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC diagnoses and repairs stone veneer failures on homes, associations and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## How the Assembly Is Supposed to Work
 
@@ -217,4 +217,4 @@ Manufactured stone veneer is a cladding pretending to be masonry, and it survive
 
 If your stone runs into the dirt, if you cannot find a weep screed, or if the wall sounds hollow when you tap it, the question is not whether the stone needs attention. It is what is behind it — and that is a question worth answering before it answers itself.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

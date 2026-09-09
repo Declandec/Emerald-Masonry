@@ -5,7 +5,7 @@ excerpt: "Not all brick is rated for a Chicago winter. Brick is graded by how mu
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Close view of spalled brick faces beside sound matched replacement brick on a Chicagoland wall"
 keywords:
   - brick grades SW MW NW
@@ -38,7 +38,7 @@ keywords:
   - water absorption brick test
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Brick is graded for freeze-thaw exposure — SW (severe weathering) is the grade required for exterior Chicagoland walls, MW (moderate weathering) suits sheltered or milder exposure, and NW (negligible weathering) is interior-only. Spalling happens when brick with too high an absorption rate for its exposure freezes while saturated, and repairs fail when replacement units do not match the original's absorption. Emerald Masonry LLC matches brick and mortar across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick is graded for freeze-thaw exposure — SW (severe weathering) is the grade required for exterior Chicagoland walls, MW (moderate weathering) suits sheltered or milder exposure, and NW (negligible weathering) is interior-only. Spalling happens when brick with too high an absorption rate for its exposure freezes while saturated, and repairs fail when replacement units do not match the original's absorption. Emerald Masonry LLC matches brick and mortar across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What do SW, MW and NW mean on brick?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Brick Grades: The Short Version
 
-**Brick is graded for freeze-thaw exposure. SW — severe weathering — is the grade that belongs on an exterior wall in Chicagoland. MW is moderate weathering, for milder or sheltered exposure. NW is negligible weathering, essentially interior use.** Spalling happens when a brick with too much absorption for its exposure freezes while saturated, and repairs fail when replacement units do not match the original's absorption and hardness. Emerald Masonry LLC matches brick and mortar to the wall on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Brick is graded for freeze-thaw exposure. SW — severe weathering — is the grade that belongs on an exterior wall in Chicagoland. MW is moderate weathering, for milder or sheltered exposure. NW is negligible weathering, essentially interior use.** Spalling happens when a brick with too much absorption for its exposure freezes while saturated, and repairs fail when replacement units do not match the original's absorption and hardness. Emerald Masonry LLC matches brick and mortar to the wall on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Most homeowners have never heard of brick grades, which is reasonable — until a mason replaces twenty spalled bricks with units that look right and the repair starts failing in year four.
 
@@ -207,6 +207,6 @@ Brick grade is a statement about how much wet freezing a unit can survive. In Ch
 
 You cannot re-fire the brick you have. What you can control is how wet it gets, whether its fired face stays intact, and whether the units and mortar going into a repair actually match what is already in the wall. Those three things decide whether a brick repair lasts thirty years or three.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

@@ -5,7 +5,7 @@ excerpt: "The cream-colored stone in Chicago's Water Tower, in Lemont's downtown
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Weathered Athens Marble dolomitic limestone wall showing delamination beside restored repointed stone"
 keywords:
   - Athens Marble limestone
@@ -38,7 +38,7 @@ keywords:
   - repointing historic foundation
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Athens Marble is the dolomitic limestone quarried around Lemont and Joliet from the 1830s during I&M Canal construction — not true marble, but a cream-to-buff dolomite that built Chicago's Water Tower and thousands of regional foundations and facades. It fails by delaminating along its bedding planes when water freezes inside it, and hard Portland mortar accelerates that failure. Emerald Masonry LLC restores it with lime-based mortar. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Athens Marble is the dolomitic limestone quarried around Lemont and Joliet from the 1830s during I&M Canal construction — not true marble, but a cream-to-buff dolomite that built Chicago's Water Tower and thousands of regional foundations and facades. It fails by delaminating along its bedding planes when water freezes inside it, and hard Portland mortar accelerates that failure. Emerald Masonry LLC restores it with lime-based mortar. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is Athens Marble?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Athens Marble: What It Is and Why It Matters
 
-**Athens Marble is the dolomitic limestone quarried in the Des Plaines valley around Lemont and Joliet beginning in the 1830s, when digging the Illinois and Michigan Canal cut straight into the bed.** It is not marble — it is a hard, cream-to-buff, magnesium-rich limestone that built Chicago's **Water Tower and Pumping Station**, which survived the 1871 fire, along with much of Lemont, Lockport and Joliet and thousands of foundations across the region. **The quarries closed generations ago**, which makes repairing original material a materials reality rather than a preference. Emerald Masonry LLC restores this stone across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Athens Marble is the dolomitic limestone quarried in the Des Plaines valley around Lemont and Joliet beginning in the 1830s, when digging the Illinois and Michigan Canal cut straight into the bed.** It is not marble — it is a hard, cream-to-buff, magnesium-rich limestone that built Chicago's **Water Tower and Pumping Station**, which survived the 1871 fire, along with much of Lemont, Lockport and Joliet and thousands of foundations across the region. **The quarries closed generations ago**, which makes repairing original material a materials reality rather than a preference. Emerald Masonry LLC restores this stone across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 If you own a pre-1900 building anywhere along the canal corridor, or an older Chicago house with a stone foundation, there is a good chance you own some.
 
@@ -211,6 +211,6 @@ The stone in your foundation or your facade came out of a canal cut in the 1840s
 
 Get either wrong and it delaminates, and there is no quarry left to call.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

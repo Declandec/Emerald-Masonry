@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Masonry Sealing & Waterproofing in Homewood, IL | Emerald"
 metaDescription: "Masonry sealing & waterproofing in Homewood, IL — breathable water repellents that protect brick without trapping moisture. Emerald Masonry, licensed & insured. (708) 288-1696."
 excerpt: "Emerald Masonry LLC provides breathable masonry sealing and waterproofing for brick homes and buildings in Homewood, IL. We repair failed joints first, then apply vapor-permeable repellents that shed water without trapping moisture inside the wall."
-aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Homewood, IL — applying breathable, vapor-permeable water repellents that protect brick from water damage after failed mortar joints are repaired. We are family-owned with 40+ years of experience, licensed and insured, and offer free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Homewood, IL — applying breathable, vapor-permeable water repellents that protect brick from water damage after failed mortar joints are repaired. We are family-owned, led by career masons with decades of hands-on experience, licensed and insured, and offer free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick wall treated with breathable masonry waterproofing sealer on a Homewood, IL home"
 faqs:
   - q: "How much does masonry waterproofing cost in Homewood, IL?"
@@ -109,7 +109,7 @@ Homewood sits in south Cook County, where the housing stock includes a lot of ol
 
 We serve Homewood and the surrounding south-suburban communities, and we understand how local conditions affect masonry here. Whether it's a single chimney, a porch, a foundation course, or a whole house, we'll inspect it and tell you honestly what it needs — including when it needs repair before sealing, and when it doesn't.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 

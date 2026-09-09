@@ -19,9 +19,9 @@ serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair Palos Heights IL | Emerald Masonry"
 metaDescription: "Chimney repair in Palos Heights, IL by Emerald Masonry LLC — your local family-owned masonry contractor. Crowns, caps, flashing, rebuilds. Call (708) 288-1696."
-excerpt: "Emerald Masonry LLC is the family-owned masonry contractor based right here in Palos Heights, IL, repairing and rebuilding brick chimneys — crowns, caps, flashing, spalling stacks, and leaning chimneys. Licensed, bonded, and insured with 40+ years of Chicagoland experience. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Palos Heights, IL — repairing crowns, caps, flashing, deteriorated mortar joints, spalling brick, and rebuilding chimneys above the roofline. We're the family-owned masonry contractor based right here in Palos Heights, licensed and insured with 40+ years of experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+excerpt: "Emerald Masonry LLC is the family-owned masonry contractor based right here in Palos Heights, IL, repairing and rebuilding brick chimneys — crowns, caps, flashing, spalling stacks, and leaning chimneys. Licensed, bonded, and insured led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides chimney repair in Palos Heights, IL — repairing crowns, caps, flashing, deteriorated mortar joints, spalling brick, and rebuilding chimneys above the roofline. We're the family-owned masonry contractor based right here in Palos Heights, licensed and insured led by career masons with decades of hands-on experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Repaired brick chimney with new crown and flashing on a Palos Heights, IL home after Emerald Masonry chimney repair"
 faqs:
   - q: "How much does chimney repair cost in Palos Heights, IL?"
@@ -29,7 +29,7 @@ faqs:
   - q: "Do I need a chimney repair or a full rebuild?"
     a: "If the brick below the roofline is sound and the damage is limited to the crown, cap, flashing, or a few top courses, we repair it. If the mortar has failed throughout the exposed stack or the brick is badly spalling and loose, the section above the roofline needs to be rebuilt. We tell you honestly which one you're looking at during the free estimate."
   - q: "Is Emerald Masonry actually based in Palos Heights?"
-    a: "Yes. Emerald Masonry LLC is headquartered in Palos Heights, IL, so chimney repairs here are a local job for us, not a long drive from another county. We're a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience."
+    a: "Yes. Emerald Masonry LLC is headquartered in Palos Heights, IL, so chimney repairs here are a local job for us, not a long drive from another county. We're a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience."
   - q: "What are the signs my Palos Heights chimney needs repair?"
     a: "Watch for crumbling mortar joints, spalling or flaking brick on the stack, a cracked crown, a rusted or missing cap, white efflorescence staining, a leaning chimney, or water stains on the ceiling near the chimney. Any of these means water is getting into the masonry and the chimney should be looked at."
   - q: "Why do chimneys fail before the rest of the house?"
@@ -39,7 +39,7 @@ competitorInformed: true
 
 # Chimney Repair in Palos Heights, IL
 
-If you need **chimney repair in Palos Heights, IL**, Emerald Masonry LLC is the family-owned masonry contractor based right here in town — call **(708) 288-1696**. We repair cracked crowns, rusted and missing caps, failed flashing, deteriorated mortar joints, and spalling brick, and we rebuild chimney stacks above the roofline when the damage has gone too far to patch. Emerald is licensed, bonded, and insured with 40+ years of experience on Chicagoland brick, and our shop is in Palos Heights, so a chimney call here is a local job for us — not a long haul from another county.
+If you need **chimney repair in Palos Heights, IL**, Emerald Masonry LLC is the family-owned masonry contractor based right here in town — call **(708) 288-1696**. We repair cracked crowns, rusted and missing caps, failed flashing, deteriorated mortar joints, and spalling brick, and we rebuild chimney stacks above the roofline when the damage has gone too far to patch. Emerald is licensed, bonded, and insured led by career masons with decades of hands-on experience on Chicagoland brick, and our shop is in Palos Heights, so a chimney call here is a local job for us — not a long haul from another county.
 
 Most homeowners searching for chimney repair in Palos Heights find the same thing: big regional franchise pages that were copied across sixty other towns, with no real local detail and a teaser price that never matches the actual job. We do it differently. This page tells you what actually fails on Palos-area chimneys, how we fix it, and what drives the cost — then we come out and give you a real number.
 
@@ -86,7 +86,7 @@ Waiting turns a small job into a big one. A cracked crown that could have been s
 
 We match your existing brick and mortar so the repair blends in — color, texture, and joint profile. We use appropriate mortar for the job, cast proper crowns with an overhang and drip edge (not a thin mortar wash that cracks in a year), install stainless-steel caps, and use breathable sealers that let the masonry dry rather than film-forming coatings that trap moisture and cause spalling.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Palos Heights and the Chicagoland suburbs with 40+ years of experience in chimney repair, tuckpointing, brick repair and replacement, lintel and parapet work, foundation and limestone repair, caulking, sealing, and full masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Palos Heights and the Chicagoland suburbs led by career masons with decades of hands-on experience in chimney repair, tuckpointing, brick repair and replacement, lintel and parapet work, foundation and limestone repair, caulking, sealing, and full masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## What Drives the Cost of Chimney Repair in Palos Heights
 

@@ -14,9 +14,9 @@ secondaryKeywords:
 city: "Lockport, IL"
 service: "Efflorescence & Waterproofing"
 metaTitle: "Efflorescence & Masonry Waterproofing in Lockport, IL | Emerald Masonry"
-metaDescription: "Efflorescence treatment and masonry waterproofing in Lockport, IL. Stop white staining and water intrusion in brick and stone. 40+ years. Free estimate: (708) 288-1696."
+metaDescription: "Efflorescence treatment and masonry waterproofing in Lockport, IL. Stop white staining and water intrusion in brick and stone. career masons. Free estimate: (708) 288-1696."
 excerpt: "That white, chalky bloom on your brick is not just ugly — it's proof water is moving through the wall. Here's what efflorescence really tells you, why surface cleaning never fixes it, and how proper waterproofing in Lockport's climate actually works."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick wall in Lockport, IL cleaned of efflorescence and waterproofed against moisture intrusion"
 competitorInformed: false
 ---
@@ -81,7 +81,7 @@ Done in that order — fix, clean, protect — [waterproofing](/services/waterpr
 - **They do the masonry repair too.** Waterproofing and repointing go together; a contractor who only sprays sealer is half the solution.
 - **They are licensed, bonded, and insured.**
 
-Emerald Masonry has solved Chicagoland moisture problems for more than 40 years. We are family-owned, non-union, and licensed, bonded, and insured. We provide free on-site estimates and carry a ,000 project minimum.
+Emerald Masonry has solved Chicagoland moisture problems for more than decades. We are family-owned, non-union, and licensed, bonded, and insured. We provide free on-site estimates and carry a ,000 project minimum.
 
 ## Frequently Asked Questions
 

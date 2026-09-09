@@ -5,7 +5,7 @@ excerpt: "Weather damages masonry slowly and predictably. A truck damages it in 
 service: "Commercial Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial Masonry"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 intent: "commercial"
 aiSummary: "Vehicle impact damage to masonry differs from weather damage because the force is instantaneous and will recur, so a repair that only replaces broken units fails again. Correct repair means assessing displacement beyond the visible break, rebuilding to sound bonded masonry, and adding protection — bollards, corner guards, dock bumpers — so the same strike does not repeat. Emerald Masonry LLC repairs struck masonry across Chicagoland — (708) 288-1696."
 keywords:
@@ -63,7 +63,7 @@ Most masonry damage arrives slowly. Water gets into a joint, freezes, expands ab
 
 Vehicle impact does not work that way. It delivers everything at once, into one spot, in a direction masonry was never designed to resist. And it has a property that weather damage does not: **it is going to happen again, in the same place, for the same reason.**
 
-Emerald Masonry LLC repairs struck and impact-damaged masonry on commercial, industrial and multi-tenant properties across Chicago and the Chicagoland suburbs, for owners, property managers and insurance carriers. Family-owned, licensed, bonded and insured, 40+ years of experience, free written on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs struck and impact-damaged masonry on commercial, industrial and multi-tenant properties across Chicago and the Chicagoland suburbs, for owners, property managers and insurance carriers. Family-owned, licensed, bonded and insured, career masons with decades of experience, free written on-site assessments. Call **(708) 288-1696**.
 
 ## Why Impact Damage Behaves Differently
 
@@ -216,6 +216,6 @@ Struck masonry is not weather damage that happened quickly. The force spreads fu
 
 Sound the wall to find the real boundary. Rebuild to bonded masonry, not to the edge of what looked broken. Check the steel and the openings. Then put something in front of it.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Dealing with a struck wall, a damaged dock, or a jamb that keeps getting hit? We will assess it, document it in writing, and tell you what it takes to stop it recurring. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

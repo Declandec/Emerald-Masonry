@@ -18,16 +18,11 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Lansing, IL | Emerald Masonry LLC"
 metaDescription: "Full-scope masonry restoration in Lansing, IL — tuckpointing, brick repair, lintel work, and parapet repair for south Cook County buildings. Free estimates."
 excerpt: "Lansing's older brick housing and commercial stock — much of it built between 1945 and 1975 — has reached the point where surface maintenance isn't enough. Emerald Masonry LLC provides full-scope masonry restoration for residential, commercial, and institutional properties throughout south Cook County."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Masonry restoration in progress on a commercial brick building in Lansing Illinois south Cook County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: masonry restoration south suburbs Chicago south Cook County tuckpointing contractor
-Why this page is better: Most major masonry contractors serving the Chicagoland market focus on north shore and northwest suburbs — they list no south Cook County coverage and have no suburb-specific content for communities like Lansing. Our page addresses Lansing's specific building stock, industrial history, and proximity directly. Competitor page had no FAQ section, no restoration vs. maintenance distinction, generic copy about "trusted service," and no south suburban context whatsoever.
-Gaps filled: No south Cook County-specific content on competitor pages; added local neighborhood context (Torrence Avenue corridor, Lansing's postwar residential stock, south Cook County commercial property types); added full restoration scope breakdown with phase sequence; added 4-question FAQ with detailed, specific answers; added lintel context for older building types; stronger and more specific CTA
--->
 
 ## Masonry Restoration vs. Maintenance: A Distinction That Matters Here
 

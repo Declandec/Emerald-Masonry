@@ -18,10 +18,10 @@ service: "Parapet Wall Repair"
 serviceSlug: "parapet-wall-repair"
 pageType: "location"
 metaTitle: "Parapet Wall Repair in Wood Dale, IL | Emerald Masonry"
-metaDescription: "Parapet wall repair in Wood Dale, IL by Emerald Masonry LLC — rebuilds, tuckpointing, coping & flashing. Family-owned, 40+ years. Free estimate: (708) 288-1696."
+metaDescription: "Parapet wall repair in Wood Dale, IL by Emerald Masonry LLC — rebuilds, tuckpointing, coping & flashing. Family-owned, career masons. Free estimate: (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs and rebuilds parapet walls for commercial and industrial buildings across Wood Dale, IL and DuPage County. We fix leaning walls, failed coping, open joints, and roof leaks that start above the roofline. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Wood Dale, IL — rebuilding walls above the roofline, tuckpointing, coping stone resetting, and flashing coordination. Family-owned, licensed and insured with 40+ years of experience. Call (708) 288-1696 for a free on-site estimate in DuPage County."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Wood Dale, IL — rebuilding walls above the roofline, tuckpointing, coping stone resetting, and flashing coordination. Family-owned, licensed and insured led by career masons with decades of hands-on experience. Call (708) 288-1696 for a free on-site estimate in DuPage County."
+image: "/images/after-commercial.webp"
 imageAlt: "Restored brick parapet wall on a Wood Dale, IL commercial building after Emerald Masonry parapet wall repair"
 faqs:
   - q: "Who repairs parapet walls in Wood Dale, IL?"
@@ -125,7 +125,7 @@ Wood Dale sits in the heart of DuPage County's commercial and industrial corrido
 
 Chicagoland's freeze-thaw cycles are hard on any exposed masonry, and parapets get it worst because they weather from both sides. Water that soaks into an open joint in fall freezes and expands through winter, prying joints and coping apart a little more each season. That's why so many Wood Dale parapets that looked fine a few years ago are now showing open joints and shifting coping. Regular attention to the parapet is one of the highest-value maintenance items a local commercial owner can invest in.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Get a free parapet wall inspection in Wood Dale
 

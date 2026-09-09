@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in New Lenox, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in New Lenox, IL — spalled brick replacement, rust stains and veneer failures fixed. Licensed and insured. Free estimates: (708) 288-1696."
 excerpt: "New Lenox grew fast from the 1990s onward, and its brick veneer homes fail at points rather than across the wall — chimneys, lintels over wide openings, sills and wherever flashing was rushed during construction. Emerald Masonry LLC repairs those points and the water path behind them."
-aiSummary: "Emerald Masonry LLC provides brick repair in New Lenox, IL — replacing spalled and cracked brick, correcting rust-stained lintel heads, repairing veneer failure points, and matching replacement units and mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in New Lenox, IL — replacing spalled and cracked brick, correcting rust-stained lintel heads, repairing veneer failure points, and matching replacement units and mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick blended into a repaired veneer wall on a New Lenox Illinois home"
 faqs:
   - q: "How much does brick repair cost in New Lenox, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in New Lenox, IL
 
-Brick repair in New Lenox, IL means cutting out spalled and cracked units, replacing them with matched brick, correcting the rust-stained lintel or failed sill that caused the damage, and repairing the joints around it. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or stained, call **(708) 288-1696**.
+Brick repair in New Lenox, IL means cutting out spalled and cracked units, replacing them with matched brick, correcting the rust-stained lintel or failed sill that caused the damage, and repairing the joints around it. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or stained, call **(708) 288-1696**.
 
 New Lenox is a young masonry environment, and that changes what fails.
 
@@ -122,7 +122,7 @@ New Lenox sits in Will County with no lake buffer, taking the full regional free
 
 We also serve neighboring [Mokena](/locations/masonry-restoration-mokena-il), [Frankfort](/locations/brick-repair-frankfort-il), [Homer Glen](/locations/tuckpointing-homer-glen-il) and [Manhattan](/locations/tuckpointing-manhattan-il). New Lenox owners frequently pair brick work with [chimney repair](/locations/chimney-repair-new-lenox-il) or [masonry restoration](/locations/masonry-restoration-new-lenox-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

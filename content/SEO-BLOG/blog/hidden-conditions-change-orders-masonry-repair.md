@@ -5,7 +5,7 @@ excerpt: "Masonry is the only trade where you cannot see the work until you have
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 intent: "informational"
 aiSummary: "Masonry change orders happen because the extent of deterioration cannot be fully seen until the wall is opened, so a mason estimates from surface evidence and probes. A legitimate change order names a specific condition, explains why it was not visible, shows photographs, and prices only the added scope. A bait-and-switch appears after a suspiciously low bid, is vague about what was found, and grows repeatedly. Emerald Masonry LLC writes assumption-based scopes across Chicagoland — (708) 288-1696."
 keywords:
@@ -63,7 +63,7 @@ Here is the uncomfortable truth about masonry repair, and almost nobody says it 
 
 A roofer can pull a corner of shingle. A plumber can open an access panel. A mason is looking at a wall whose interior is genuinely opaque — and the thing being estimated is the *extent of deterioration inside it*. That reality produces legitimate change orders. It also produces a very effective place for dishonest contractors to hide.
 
-Emerald Masonry LLC writes assumption-based scopes for homeowners, property managers, HOAs and churches across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free written on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC writes assumption-based scopes for homeowners, property managers, HOAs and churches across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free written on-site estimates. Call **(708) 288-1696**.
 
 ## Why Masonry Is Different From Other Trades
 
@@ -206,6 +206,6 @@ Masonry change orders are not automatically a red flag. The trade is genuinely o
 
 What separates honest from dishonest is **documentation before the fact.** A scope that states its assumptions, sets unit prices for the uncertain quantities, and defines how discoveries get approved turns hidden conditions into arithmetic. A scope that says none of that leaves the whole question to be settled later — while your wall is open and your leverage is gone.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Holding a masonry bid you are not sure how to read, or a change order you did not expect? We will give you a written scope that says what it assumes. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

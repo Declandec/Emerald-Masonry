@@ -4,7 +4,7 @@ date: "2026-06-21"
 excerpt: "Brick front steps take more abuse than any other masonry on the house — weather, salt, and constant foot traffic. Here's how to tell whether your steps or stoop can be repaired or need a full rebuild, and what drives the decision in Chicago's climate."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-mailbox.jpg"
+image: "/images/after-mailbox.webp"
 keywords:
   - brick steps repair
   - brick stoop rebuild
@@ -84,7 +84,7 @@ However you fix them, you can dramatically slow the next round of damage:
 
 Brick steps and stoops fail faster than any other masonry on the house because of the brutal combination of standing water, winter salt, freeze-thaw, and foot traffic they endure. Whether yours can be repaired or need a rebuild comes down to one thing: is the underlying structure sound? Surface damage on a solid base means repair; settling, separation, structural cracks, or a failed footing mean a rebuild that actually lasts. The only reliable way to know is to have the structure — not just the surface — looked at.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If your brick steps are crumbling, loose, or pulling away, [contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If your brick steps are crumbling, loose, or pulling away, [contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

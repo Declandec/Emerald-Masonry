@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Elgin, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Elgin, IL — crowns, caps, flashing, repointing and rebuilds on Victorian and historic-district stacks. Free estimates: (708) 288-1696."
 excerpt: "Elgin has one of the largest historic districts in Illinois, and its Victorians carry tall, ornate, multi-flue chimneys that were never simple stacks. Emerald Masonry LLC rebuilds corbelled tops to the original profile with lime mortar matched to the brick."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Elgin, IL — crown rebuilding, chimney caps, flashing, lime-mortar repointing, corbel reconstruction and rebuilds above the roofline on Victorian and historic-district stacks. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Elgin, IL — crown rebuilding, chimney caps, flashing, lime-mortar repointing, corbel reconstruction and rebuilds above the roofline on Victorian and historic-district stacks. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Restored corbelled Victorian brick chimney above the roofline of a historic home in Elgin Illinois"
 faqs:
   - q: "How much does chimney repair cost in Elgin, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Chimney Repair in Elgin, IL
 
-Chimney repair in Elgin, IL covers everything from adding a cap and rebuilding a cracked crown to reconstructing a corbelled Victorian top and rebuilding the stack above the roofline. Emerald Masonry LLC does this work across Kane County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Elgin, IL covers everything from adding a cap and rebuilding a cracked crown to reconstructing a corbelled Victorian top and rebuilding the stack above the roofline. Emerald Masonry LLC does this work across Kane County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
 
 Elgin is not a typical chimney market. The city has one of the **largest concentrations of designated historic housing in Illinois**, with extensive historic districts full of Victorians, Queen Annes, Italianates and Foursquares built during the watch-factory boom of the late 1800s.
 
@@ -128,7 +128,7 @@ Elgin sits on the Fox River in a stretch of Kane County with aggressive freeze-t
 
 We work throughout 60120, 60123 and 60124 — the historic districts on both sides of the river, the Victorians near the downtown core and the watch-factory neighborhoods, the post-war housing, the newer subdivisions west toward Randall Road, and the churches and institutional buildings citywide. We also serve neighboring [St. Charles](/locations/brick-repair-st-charles-il), [Batavia](/locations/chimney-repair-batavia-il), [Carpentersville](/locations/brick-repair-carpentersville-il) and [Bartlett](/locations/chimney-repair-bartlett-il). Elgin owners frequently pair chimney work with [tuckpointing](/locations/tuckpointing-elgin-il), [brick replacement](/locations/brick-replacement-elgin-il) or [parapet repair](/locations/parapet-wall-repair-elgin-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs on a Historic Chimney
 

@@ -4,7 +4,7 @@ date: "2026-04-13"
 excerpt: "Concrete masonry units and fired brick look like they should behave the same — both are masonry, both need mortar, both fail over time. But the repair approaches differ in important ways, and mixing up the methods or specifications leads to premature failure and wasted money."
 service: "Commercial & Industrial Masonry"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - CMU block repair vs brick repair
   - concrete masonry unit repair Illinois

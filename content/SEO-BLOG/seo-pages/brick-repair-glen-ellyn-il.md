@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Glen Ellyn, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Glen Ellyn, IL — spalled brick replacement, step cracks and matched masonry repair. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Spalling almost never starts where you notice it. Glen Ellyn's damage clusters under leaking gutters, below failed sills and along the shaded elevations that never dry — so the repair starts by reading where the water goes, not where the brick looks worst."
-aiSummary: "Emerald Masonry LLC provides brick repair in Glen Ellyn, IL — replacing spalled and cracked brick, repairing step cracks, correcting the water source causing the damage, and matching replacement units and mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in Glen Ellyn, IL — replacing spalled and cracked brick, repairing step cracks, correcting the water source causing the damage, and matching replacement units and mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick blended into a repaired wall on a Glen Ellyn Illinois home"
 faqs:
   - q: "How much does brick repair cost in Glen Ellyn, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in Glen Ellyn, IL
 
-Brick repair in Glen Ellyn, IL means cutting out spalled and cracked units, replacing them with brick matched to the era of your wall, repairing the joints around them, and — first — fixing whatever was letting water in. Emerald Masonry LLC does this work across DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Glen Ellyn, IL means cutting out spalled and cracked units, replacing them with brick matched to the era of your wall, repairing the joints around them, and — first — fixing whatever was letting water in. Emerald Masonry LLC does this work across DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 **Spalling almost never starts where you happen to notice it.** It starts where the water goes.
 
@@ -133,7 +133,7 @@ DuPage has no lake moderation, so freeze-thaw cycling is aggressive — dozens o
 
 We work throughout 60137 — the historic streets around the downtown district and the Metra station, the blocks near Lake Ellyn and Glenbard West, the post-war neighborhoods, the College of DuPage area, and the churches and commercial buildings downtown. We also serve neighboring [Wheaton](/locations/commercial-masonry-restoration-wheaton-il), [Lombard](/locations/chimney-repair-lombard-il), [Downers Grove](/locations/brick-repair-downers-grove-il) and [Villa Park](/locations/chimney-repair-villa-park-il). Glen Ellyn owners frequently pair brick work with [tuckpointing](/locations/tuckpointing-glen-ellyn-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

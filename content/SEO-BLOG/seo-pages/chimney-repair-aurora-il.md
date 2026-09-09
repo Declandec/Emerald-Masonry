@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Aurora, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Aurora, IL — crowns, flashing, repointing and rebuilds on historic and modern chimneys alike. Free estimates: call (708) 288-1696 today."
 excerpt: "Aurora spans three distinct masonry eras in one city, and a chimney from each fails differently and needs a different mortar. Getting that wrong is how a repair destroys a hundred-year-old stack — or wastes money on a thirty-year-old one that only needed a crown."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Aurora, IL — rebuilding deteriorated stacks, repairing crowns and flashing, repointing and installing caps on historic, mid-century and modern chimneys across Kane County. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Aurora, IL — rebuilding deteriorated stacks, repairing crowns and flashing, repointing and installing caps on historic, mid-century and modern chimneys across Kane County. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Rebuilt chimney top courses and new crown on a home in Aurora, Illinois"
 faqs:
   - q: "How much does chimney repair cost in Aurora, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Chimney Repair in Aurora, IL
 
-Chimney repair in Aurora, IL has a wrinkle that most Chicagoland towns do not have: **Aurora contains three separate masonry eras, and a chimney from each one needs a different repair.** Emerald Masonry LLC repairs and rebuilds chimneys throughout Kane County and the Fox Valley. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Aurora, IL has a wrinkle that most Chicagoland towns do not have: **Aurora contains three separate masonry eras, and a chimney from each one needs a different repair.** Emerald Masonry LLC repairs and rebuilds chimneys throughout Kane County and the Fox Valley. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Illinois' second-largest city grew in distinct waves, and its chimneys record them.
 
@@ -138,7 +138,7 @@ Nobody can price this honestly over the phone. Expect a free on-site inspection,
 
 ## Serving Aurora and the Fox Valley
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Aurora and neighbouring [North Aurora](/locations/foundation-masonry-repair-north-aurora-il), [Montgomery](/locations/chimney-repair-montgomery-il), [Batavia](/locations/chimney-repair-batavia-il) and [Oswego](/locations/parapet-wall-repair-oswego-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

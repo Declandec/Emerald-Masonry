@@ -19,16 +19,11 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Bridgeview, IL | Emerald Masonry LLC"
 metaDescription: "Expert tuckpointing in Bridgeview, IL for commercial and residential brick buildings. Licensed masonry contractor serving south Cook County. Free estimates."
 excerpt: "Bridgeview's commercial corridors and residential neighborhoods hold a dense inventory of brick buildings from the 1950s through 1980s — all prime candidates for professional tuckpointing. Emerald Masonry LLC delivers detailed mortar joint repair for property owners and managers throughout south Cook County."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Commercial brick building after professional tuckpointing in Bridgeview Illinois south Cook County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing south suburbs Chicago IL contractor
-Why this page is better: More locally specific to Bridgeview's building stock and property types; includes an embedded FAQ with detailed answers; provides a step-by-step process walkthrough with mortar specification detail; uses specific local context (79th Street corridor, I-294 industrial properties, Cook County institutional buildings) that generic south suburban pages lack; layered CTA strategy with phone, email, and contact form.
-Gaps filled: No embedded FAQ on competitor page, vague service area with no hyperlocal detail, generic copy without specifics, no process walkthrough, no mortar type explanation, no distinction between commercial and residential work
--->
 
 ## Why Bridgeview Brick Needs Attention Now
 
@@ -101,7 +96,7 @@ Before hiring anyone, ask:
 - How do you approach color matching — on-site samples, or do you eyeball it?
 - Are you licensed, bonded, and insured in Illinois?
 
-We answer yes to all of those. We're a non-union, family-owned masonry contractor with 40+ years of Chicagoland experience, licensed and insured, with free written estimates on every project.
+We answer yes to all of those. We're a non-union, family-owned masonry contractor led by career masons with decades of hands-on Chicagoland experience, licensed and insured, with free written estimates on every project.
 
 ## Frequently Asked Questions
 

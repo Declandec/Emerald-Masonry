@@ -18,10 +18,10 @@ service: "Brick Repair"
 serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Orland Park, IL | Emerald Masonry LLC"
-metaDescription: "Brick repair in Orland Park, IL from Emerald Masonry LLC — 40+ years, color-matched brick, licensed & insured. Free on-site estimate: call (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs spalled, cracked, and loose brick in Orland Park, IL with color- and texture-matched brick and matched mortar. Family-owned, 40+ years, licensed and insured. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides brick repair in Orland Park, IL — fixing spalled, cracked, loose, and displaced brick with color- and texture-matched replacements and matched mortar. Family-owned with 40+ years of experience, licensed and insured, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+metaDescription: "Brick repair in Orland Park, IL from Emerald Masonry LLC — career masons, color-matched brick, licensed & insured. Free on-site estimate: call (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs spalled, cracked, and loose brick in Orland Park, IL with color- and texture-matched brick and matched mortar. Family-owned, career masons, licensed and insured. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides brick repair in Orland Park, IL — fixing spalled, cracked, loose, and displaced brick with color- and texture-matched replacements and matched mortar. Family-owned, led by career masons with decades of hands-on experience, licensed and insured, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Color-matched brick repair on an Orland Park, IL home by Emerald Masonry LLC"
 faqs:
   - q: "How much does brick repair cost in Orland Park, IL?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 # Brick Repair in Orland Park, IL
 
-If you need **brick repair in Orland Park, IL**, Emerald Masonry LLC fixes spalled, cracked, loose, and displaced brick with color- and texture-matched replacements and matched mortar — call **(708) 288-1696** for a free on-site estimate. We're a family-owned masonry contractor with 40+ years of experience, licensed and insured, serving Orland Park and the rest of Southwest Cook County. Whether it's a few popping face bricks or a section of wall that's shifted, we assess the real cause, match the brick, and stop the water that started the problem.
+If you need **brick repair in Orland Park, IL**, Emerald Masonry LLC fixes spalled, cracked, loose, and displaced brick with color- and texture-matched replacements and matched mortar — call **(708) 288-1696** for a free on-site estimate. We're a family-owned masonry contractor led by career masons with decades of hands-on experience, licensed and insured, serving Orland Park and the rest of Southwest Cook County. Whether it's a few popping face bricks or a section of wall that's shifted, we assess the real cause, match the brick, and stop the water that started the problem.
 
 Brick repair done right is more than swapping units. It's diagnosing why the brick failed, matching what's already on your home, and closing the water path so the same spot doesn't come apart again next winter.
 
@@ -109,9 +109,9 @@ Brick repair often pairs with [tuckpointing](/services/tuckpointing) when the su
 
 ## Why Orland Park Homeowners Call Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
-- **40+ years** of Chicagoland masonry experience
+- **career masons** of Chicagoland masonry experience
 - **Family-owned**, licensed, bonded, and insured
 - **Color- and texture-matched** brick and mortar
 - **Free written estimates** with a firm price
@@ -121,4 +121,4 @@ Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor s
 
 If your brick is flaking, cracking, or coming loose, don't wait for the next freeze to make it worse. Emerald Masonry LLC will inspect the wall, tell you honestly what needs [brick repair](/services/brick-repair) versus replacement, and give you a free written estimate.
 
-Call **(708) 288-1696**, email **emeraldmasonryil@gmail.com**, or [request an estimate online](/#contact). Family-owned, 40+ years, licensed and insured — serving Orland Park and all of Southwest Cook County.
+Call **(708) 288-1696**, email **emeraldmasonryil@gmail.com**, or [request an estimate online](/#contact). Family-owned, career masons, licensed and insured — serving Orland Park and all of Southwest Cook County.

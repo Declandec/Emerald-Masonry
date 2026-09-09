@@ -16,7 +16,7 @@ service: "CMU Block Repair"
 metaTitle: "CMU Block Repair in Crest Hill, IL | Emerald Masonry LLC"
 metaDescription: "CMU concrete block repair in Crest Hill, IL — joint repointing, block replacement, and parapet work for Will County commercial and industrial buildings. Free estimates."
 excerpt: "Crest Hill's commercial and industrial corridor along Interstate 55 includes significant CMU block construction — warehouses, manufacturing facilities, and retail properties that need periodic masonry attention. Emerald Masonry LLC provides CMU block repair and repointing for Will County commercial properties."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "CMU concrete block wall repair and repointing on an industrial building in Crest Hill Illinois Will County"
 competitorInformed: false
 ---

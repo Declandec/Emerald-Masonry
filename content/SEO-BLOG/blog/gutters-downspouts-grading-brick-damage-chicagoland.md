@@ -5,7 +5,7 @@ excerpt: "Most brick damage in Chicagoland is not caused by weather. It is cause
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Downspout discharging beside a brick wall on a Chicagoland building, with water-damaged masonry at the base"
 keywords:
   - downspout damaging brick wall
@@ -41,7 +41,7 @@ keywords:
   - HOA masonry water damage
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Most brick and mortar damage in Chicagoland is caused by badly managed water rather than by weather itself — clogged gutters, downspouts discharging at the wall, grade sloping toward the house, and mulch burying the weep holes. Correcting the water source is the least expensive masonry repair available, and repointing a wall without correcting it simply resets the clock. Emerald Masonry LLC diagnoses the water source before quoting masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Most brick and mortar damage in Chicagoland is caused by badly managed water rather than by weather itself — clogged gutters, downspouts discharging at the wall, grade sloping toward the house, and mulch burying the weep holes. Correcting the water source is the least expensive masonry repair available, and repointing a wall without correcting it simply resets the clock. Emerald Masonry LLC diagnoses the water source before quoting masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Can a downspout really damage a brick wall?"
@@ -76,7 +76,7 @@ That single difference explains most of what we see in the field: why one house 
 
 **Water management is masonry maintenance.** It is also the cheapest masonry work you will ever do, because most of it costs nothing but attention.
 
-Emerald Masonry LLC repairs water-damaged masonry across Chicago and the Chicagoland suburbs — and diagnoses the water source before quoting the repair. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs water-damaged masonry across Chicago and the Chicagoland suburbs — and diagnoses the water source before quoting the repair. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## How Water Actually Destroys Masonry
 
@@ -224,4 +224,4 @@ Brick does not fail because it is old. It fails because it is wet more often tha
 
 Before you get masonry quotes, walk your building in the rain. Watch where the water actually goes. Then fix that — and the masonry repair you do afterward will be the last one you need for a very long time.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

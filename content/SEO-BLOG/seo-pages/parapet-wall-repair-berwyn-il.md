@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Parapet Wall Repair in Berwyn, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair and rebuilds in Berwyn, IL — coping, through-wall flashing, repointing and reconstruction. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Every other wall on your Berwyn building has a heated interior on one side. The parapet doesn't. It is masonry with weather on both faces and a horizontal top edge collecting water — which is why it is almost always the first wall to fail, and why the failure starts at the coping."
-aiSummary: "Emerald Masonry LLC repairs and rebuilds parapet walls in Berwyn, IL — resetting coping, installing through-wall flashing, repointing and reconstructing failed sections on storefronts, mixed-use buildings, apartment blocks and flat-roofed homes. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free estimates: (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC repairs and rebuilds parapet walls in Berwyn, IL — resetting coping, installing through-wall flashing, repointing and reconstructing failed sections on storefronts, mixed-use buildings, apartment blocks and flat-roofed homes. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free estimates: (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Rebuilt brick parapet wall with new coping on a Berwyn, Illinois commercial building"
 faqs:
   - q: "What is a parapet wall and do I have one?"
@@ -43,7 +43,7 @@ competitorInformed: false
 
 ## Parapet Wall Repair in Berwyn, IL
 
-Parapet wall repair in Berwyn, IL means correcting the section of masonry that rises above the roof — resetting coping, installing through-wall flashing, repointing the faces, and rebuilding what has moved. Emerald Masonry LLC does this work across Cook County: family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Parapet wall repair in Berwyn, IL means correcting the section of masonry that rises above the roof — resetting coping, installing through-wall flashing, repointing the faces, and rebuilding what has moved. Emerald Masonry LLC does this work across Cook County: family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the physics that explains almost every parapet failure in Berwyn:
 
@@ -139,7 +139,7 @@ A parapet is the one masonry element on a Berwyn building that can genuinely bec
 
 There is also a leak-chasing trap worth naming. Owners commonly replace a roof, keep leaking, replace it again, and only then discover the water was entering through open coping joints the whole time. **The roof was never the problem.** Two roofs later, the parapet still needs the same repair — and the masonry has had two more years of saturation.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Berwyn and the Near West Suburbs
 

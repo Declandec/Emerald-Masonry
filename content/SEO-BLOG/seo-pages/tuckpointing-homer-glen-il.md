@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Homer Glen, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Homer Glen, IL — mortar joint repair and brick repointing on large-lot veneer homes. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Homer Glen's homes are mostly brick veneer on big wooded lots, and veneer fails differently from solid masonry — the joints, ties, flashing and weep holes all matter. Emerald Masonry LLC repoints them correctly and checks the drainage path behind the brick."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Homer Glen, IL — grinding out failed mortar joints and repointing brick veneer homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Homer Glen, IL — grinding out failed mortar joints and repointing brick veneer homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a brick veneer home in Homer Glen Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Homer Glen, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Tuckpointing in Homer Glen, IL
 
-Tuckpointing in Homer Glen, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your mortar is sandy, receded or cracking, call **(708) 288-1696**.
+Tuckpointing in Homer Glen, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your mortar is sandy, receded or cracking, call **(708) 288-1696**.
 
 Homer Glen is a different masonry environment from the older suburbs we work in, and the difference changes the job.
 
@@ -127,7 +127,7 @@ We work throughout 60491 — the subdivisions off 143rd and 151st, the large-lot
 
 We also serve neighboring [Lockport](/locations/foundation-masonry-repair-lockport-il), [Orland Park](/locations/tuckpointing-orland-park-il), [Mokena](/locations/masonry-restoration-mokena-il) and [New Lenox](/locations/chimney-repair-new-lenox-il). Homer Glen owners frequently pair repointing with [chimney repair](/locations/chimney-repair-homer-glen-il), [lintel repair](/locations/lintel-repair-homer-glen-il) or [foundation masonry repair](/locations/foundation-masonry-repair-homer-glen-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

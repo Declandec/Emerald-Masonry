@@ -18,7 +18,7 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Berwyn, IL | Emerald Masonry LLC"
 metaDescription: "Full-scope masonry restoration for Berwyn IL brick buildings. Tuckpointing, brick repair, and facade work for bungalows, two-flats, and commercial properties in Cook County. Free estimates."
 excerpt: "Berwyn's remarkably intact inventory of 1910s–1940s brick construction — bungalows, two-flats, and commercial storefronts — requires masonry restoration that respects both the building's age and its original materials. Emerald Masonry LLC provides full-scope brick and mortar repair for residential and commercial properties throughout Berwyn and the Cook County inner-ring suburbs."
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Restored brick facade on a two-flat residential building in Berwyn Illinois after professional masonry repair"
 competitorInformed: false
 ---

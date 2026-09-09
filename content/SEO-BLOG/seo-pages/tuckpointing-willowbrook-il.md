@@ -16,7 +16,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Willowbrook, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing in Willowbrook, IL — mortar joint repair for brick homes, commercial buildings, and condos along the Route 83 corridor. Free estimates."
 excerpt: "Willowbrook's brick buildings — developed largely between the 1960s and 1990s along Route 83 and Plainfield Road — need periodic mortar joint maintenance to hold up against DuPage County's freeze-thaw cycles. Emerald Masonry LLC provides expert tuckpointing for residential, commercial, and multi-unit properties throughout the area."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing mortar joint repair on a commercial brick building in Willowbrook Illinois DuPage County"
 competitorInformed: false
 ---

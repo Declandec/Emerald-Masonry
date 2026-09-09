@@ -15,10 +15,10 @@ service: "Lintel Repair"
 serviceSlug: "lintel-repair"
 pageType: "location"
 metaTitle: "Lintel Repair Batavia IL | Emerald Masonry LLC"
-metaDescription: "Rusted or sagging lintel in Batavia, IL? Emerald Masonry LLC repairs and replaces steel lintels above windows, doors and garages. 40+ years, free estimate."
+metaDescription: "Rusted or sagging lintel in Batavia, IL? Emerald Masonry LLC repairs and replaces steel lintels above windows, doors and garages. career masons, free estimate."
 excerpt: "Steel lintel repair and replacement in Batavia, IL — stop rust jacking, cracked brick and sagging courses above your windows and doors. Free on-site estimate."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Batavia, IL, replacing rusted, sagging or corroded steel lintels above windows, doors and garage openings. Signs include orange rust stains, stair-step cracks and lifting brick from rust jacking. Family-owned, 40+ years, licensed and insured. Free on-site estimate — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Batavia, IL, replacing rusted, sagging or corroded steel lintels above windows, doors and garage openings. Signs include orange rust stains, stair-step cracks and lifting brick from rust jacking. Family-owned, career masons, licensed and insured. Free on-site estimate — call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Repaired steel lintel and rebuilt brick above a window on a Batavia, IL home"
 faqs:
   - q: "How do I know if my lintel needs repair in Batavia?"
@@ -90,7 +90,7 @@ Batavia sits right along the **Fox River in Kane County**, and that setting shap
 
 ## Why homeowners trust Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Four decades in the trade means we have seen every stage of lintel failure, and we fix it right the first time — proper shoring, correctly sized steel and a brick rebuild that matches your wall.
 

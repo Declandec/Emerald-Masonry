@@ -5,7 +5,7 @@ excerpt: "You are not restoring the building. You are trying to keep masonry fro
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney and facade on a Chicagoland home being prepared for sale"
 keywords:
   - masonry repairs before selling house
@@ -38,7 +38,7 @@ keywords:
   - family owned masonry contractor Chicago
   - written masonry scope estimate
   - masonry second opinion Chicago
-aiSummary: "When selling a brick home, prioritize masonry that will appear in an inspection report and trigger a contingency: chimney crown and flashing, rust-stained lintels, loose or spalled brick, and anything actively admitting water. Cosmetic mortar color and efflorescence rarely move a deal. Emerald Masonry LLC provides pre-listing masonry assessments across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "When selling a brick home, prioritize masonry that will appear in an inspection report and trigger a contingency: chimney crown and flashing, rust-stained lintels, loose or spalled brick, and anything actively admitting water. Cosmetic mortar color and efflorescence rarely move a deal. Emerald Masonry LLC provides pre-listing masonry assessments across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "Should I tuckpoint before selling my house?"
@@ -65,7 +65,7 @@ faqs:
 
 If you are selling, you are not restoring the building. **You are trying to keep masonry from becoming a negotiating item.**
 
-That is a narrower job with a smaller budget, and the repairs that serve it are not always the ones that look worst from the curb. Emerald Masonry LLC provides pre-listing masonry assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site. Call **(708) 288-1696**.
+That is a narrower job with a smaller budget, and the repairs that serve it are not always the ones that look worst from the curb. Emerald Masonry LLC provides pre-listing masonry assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site. Call **(708) 288-1696**.
 
 The organizing question is simple: **what will end up in the inspection report, and what will a buyer's agent do with it?**
 
@@ -225,6 +225,6 @@ Pre-sale masonry work most often involves [chimney repair](/services/chimney-rep
 
 An honest assessment often ends with a shorter list than the seller expected. That is a good outcome, and it is worth an hour of somebody's time to find out.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest pre-listing assessments, including telling you what does not need doing.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest pre-listing assessments, including telling you what does not need doing.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

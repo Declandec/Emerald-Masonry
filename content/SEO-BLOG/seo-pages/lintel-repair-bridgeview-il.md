@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Lintel Repair in Bridgeview, IL | Emerald Masonry LLC"
 metaDescription: "Lintel repair in Bridgeview, IL — rusted steel lintel replacement above windows and garage doors. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Rust running down the brick from a window corner is not a stain problem. It is steel corroding inside your wall and expanding — and expansion inside rigid masonry has only one place to go. Emerald Masonry LLC replaces failing lintels across Bridgeview."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Bridgeview, IL — replacing corroded steel lintels above windows, doors and garage openings, rebuilding the cracked brick above them, and stopping the rust jacking that lifts masonry. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Bridgeview, IL — replacing corroded steel lintels above windows, doors and garage openings, rebuilding the cracked brick above them, and stopping the rust jacking that lifts masonry. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "New steel lintel installed above a window with rebuilt brick on a Bridgeview Illinois home"
 faqs:
   - q: "How much does lintel repair cost in Bridgeview, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Lintel Repair in Bridgeview, IL
 
-Lintel repair in Bridgeview, IL means replacing the corroded steel beam spanning a window, door or garage opening and rebuilding the brick it has lifted. Emerald Masonry LLC does this work throughout the southwest suburbs — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If you see rust running down your brick, call **(708) 288-1696**.
+Lintel repair in Bridgeview, IL means replacing the corroded steel beam spanning a window, door or garage opening and rebuilding the brick it has lifted. Emerald Masonry LLC does this work throughout the southwest suburbs — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If you see rust running down your brick, call **(708) 288-1696**.
 
 Most homeowners register rust staining as a cosmetic problem. **It is the visible stage of a structural process**, and understanding that changes how urgent it feels.
 
@@ -122,7 +122,7 @@ Bridgeview sits in southwest Cook County with no lake buffer, taking the full re
 
 We work throughout 60455 — the residential grid off Harlem and 79th, the neighborhoods near the industrial corridor and Toyota Park, and the commercial properties along the main routes. We also serve neighboring [Justice](/locations/tuckpointing-justice-il), [Burbank](/locations/tuckpointing-burbank-il), [Hickory Hills](/locations/tuckpointing-hickory-hills-il) and [Palos Hills](/locations/efflorescence-waterproofing-palos-hills-il). Bridgeview owners frequently pair lintel work with [tuckpointing](/locations/tuckpointing-bridgeview-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Waiting
 

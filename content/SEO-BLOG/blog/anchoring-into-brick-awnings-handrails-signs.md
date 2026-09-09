@@ -5,7 +5,7 @@ excerpt: "Every bracket bolted to a brick wall is a hole through your weather ba
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Sign and awning bracket anchors in a brick wall on a Chicagoland commercial building"
 keywords:
   - anchoring into brick
@@ -40,7 +40,7 @@ keywords:
   - freeze-thaw brick damage Illinois
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Light fixtures on brick should generally be anchored into mortar joints, which are repairable, rather than into brick faces, which are not. Structural loads — deck ledgers, heavy awnings, large signs — must never hang from brick veneer; they have to reach the framing or structure behind it. Every anchor hole is a penetration through the weather barrier and needs stainless or coated hardware and correct sealing. Emerald Masonry LLC repairs anchor damage across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Light fixtures on brick should generally be anchored into mortar joints, which are repairable, rather than into brick faces, which are not. Structural loads — deck ledgers, heavy awnings, large signs — must never hang from brick veneer; they have to reach the framing or structure behind it. Every anchor hole is a penetration through the weather barrier and needs stainless or coated hardware and correct sealing. Emerald Masonry LLC repairs anchor damage across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Should I drill into the brick or into the mortar joint?"
@@ -69,7 +69,7 @@ faqs:
 
 **Light fixtures on a brick wall should generally be anchored into the mortar joints, not the brick faces — joints are repairable, brick faces are not.** Anything carrying real structural load — a deck ledger, a large awning, a substantial sign — must not hang from **brick veneer** at all; it has to reach the framing or structural wall behind. And every anchor, of every size, is a hole through your wall's weather barrier, so hardware should be stainless or properly coated and the penetration should be sealed.
 
-Emerald Masonry LLC repairs anchor damage and masonry penetrations across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience. Free on-site estimates: **(708) 288-1696**.
+Emerald Masonry LLC repairs anchor damage and masonry penetrations across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience. Free on-site estimates: **(708) 288-1696**.
 
 ## The Thing Most People Don't Know About Their Wall
 
@@ -240,6 +240,6 @@ A brick wall looks like the most solid thing on your property, and it invites yo
 
 Get those three right and a bracket lasts decades without touching the wall's condition. Get them wrong and you have installed a small, permanent water entry point with a steel wedge inside it — and Chicagoland winters will do the rest.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates — call (708) 288-1696 or [request an estimate](/#contact).**

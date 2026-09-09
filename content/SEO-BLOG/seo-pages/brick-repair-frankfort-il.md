@@ -16,16 +16,16 @@ secondaryKeywords:
 city: "Frankfort, IL"
 service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Frankfort, IL | Emerald Masonry LLC"
-metaDescription: "Expert brick repair & replacement in Frankfort, IL. Historic downtown and residential specialists. Licensed, 40+ yrs experience. Call (708) 288-1696."
-excerpt: "Frankfort's historic downtown and well-established residential neighborhoods contain significant older brick construction — from early 20th century commercial facades on Kansas Street to mid-century brick homes in surrounding subdivisions. Brick repair done right protects building value, maintains historic character, and stops water intrusion before it causes structural damage. Emerald Masonry LLC serves Frankfort and Will County with 40+ years of Chicagoland masonry experience."
-image: "/images/after-brick-repair.jpg"
+metaDescription: "Expert brick repair & replacement in Frankfort, IL. Historic downtown and residential specialists. Licensed, career masons. Call (708) 288-1696."
+excerpt: "Frankfort's historic downtown and well-established residential neighborhoods contain significant older brick construction — from early 20th century commercial facades on Kansas Street to mid-century brick homes in surrounding subdivisions. Brick repair done right protects building value, maintains historic character, and stops water intrusion before it causes structural damage. Emerald Masonry LLC serves Frankfort and Will County led by career masons with decades of hands-on Chicagoland experience."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired brick wall on a commercial building in Frankfort Illinois Will County"
 competitorInformed: false
 ---
 
 Frankfort has an unusual split identity as a Will County suburb — it carries a genuine historic downtown along Old Frankfort Pike and Kansas Street, with 19th and early 20th century commercial masonry, while also containing newer residential developments built throughout the 1980s and 1990s. Both building types present distinct brick repair challenges, and contractors who do good work on one aren't always equipped to handle the other.
 
-Emerald Masonry LLC has worked on both ends of this spectrum across Chicagoland for over 40 years. We know how to source replacement brick that matches historic coursework, and we understand the different failure patterns in modern cavity wall construction versus older solid-brick buildings.
+Emerald Masonry LLC has worked on both ends of this spectrum across Chicagoland for decades. We know how to source replacement brick that matches historic coursework, and we understand the different failure patterns in modern cavity wall construction versus older solid-brick buildings.
 
 ## What Counts as Brick Repair
 

@@ -18,7 +18,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "Commercial Masonry Contractor in Woodridge, IL | Emerald Masonry LLC"
 metaDescription: "Commercial masonry contractor serving Woodridge IL. Tuckpointing, brick repair, and facade restoration for office buildings, strip centers, and industrial properties in DuPage County. Free estimates."
 excerpt: "Woodridge's commercial corridors and industrial parks include a large inventory of brick-clad buildings from the 1960s through 1990s that are entering the maintenance-intensive phase of their lifecycle. Emerald Masonry LLC provides full-scope commercial masonry repair for property owners, managers, and HOAs throughout Woodridge and DuPage County."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Commercial brick building in Woodridge Illinois after professional masonry repair and tuckpointing restoration"
 competitorInformed: false
 ---

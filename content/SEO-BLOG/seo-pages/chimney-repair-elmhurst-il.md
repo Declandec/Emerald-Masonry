@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Elmhurst, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Elmhurst, IL — crown, flashing, tuckpointing, and full brick chimney rebuilds. Family-owned, licensed and insured, free estimates. Call (708) 288-1696."
 excerpt: "A brick chimney is the most weather-exposed masonry on an Elmhurst home, and it fails from the top down. Emerald Masonry LLC repairs crowns, flashing, mortar joints, and spalled brick — and rebuilds chimneys that are past patching — with a free on-site diagnosis first."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Elmhurst, IL — crown repair, flashing, chimney tuckpointing, spalled-brick replacement, and full brick chimney rebuilds. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured, with free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Elmhurst, IL — crown repair, flashing, chimney tuckpointing, spalled-brick replacement, and full brick chimney rebuilds. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, with free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and flashing on an Elmhurst Illinois home in DuPage County"
 faqs:
   - q: "How much does chimney repair cost in Elmhurst, IL?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Chimney Repair in Elmhurst, IL Starts at the Top
 
-Emerald Masonry LLC provides professional chimney repair in Elmhurst, IL — crown repair, flashing, chimney tuckpointing, spalled-brick replacement, and full brick chimney rebuilds for homes across DuPage County. We're a family-owned masonry contractor with 40+ years of Chicagoland experience, licensed, bonded, and insured, and every job starts with a free on-site inspection so you know exactly what your chimney needs. Call **(708) 288-1696** to get on the schedule.
+Emerald Masonry LLC provides professional chimney repair in Elmhurst, IL — crown repair, flashing, chimney tuckpointing, spalled-brick replacement, and full brick chimney rebuilds for homes across DuPage County. We're a family-owned masonry contractor led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, and every job starts with a free on-site inspection so you know exactly what your chimney needs. Call **(708) 288-1696** to get on the schedule.
 
 A chimney is the hardest-working masonry on your house. It stands above the roofline with no shelter, takes wind and rain from every side, and holds water on its crown and in its joints while the temperature swings above and below freezing dozens of times each winter. That's why chimneys almost always show damage before the walls do — and why chimney repair in Elmhurst, IL is one of the most common calls we get from the older brick neighborhoods near the historic district and the mature streets around Wilder Park and Spring Road.
 
@@ -100,8 +100,8 @@ You get a clear, itemized **free on-site estimate** before any work starts.
 
 Elmhurst has a deep stock of solid brick homes — Georgians and colonials near the historic district and Wilder Park, mature mid-century brick houses, and plenty of chimneys built decades ago that are now well past the age where their original crown and mortar hold up. DuPage County winters put those chimneys through the full freeze-thaw wringer, and the ones that were never sealed or repointed are the ones we're rebuilding today. We repair chimneys throughout Elmhurst and the neighboring suburbs, including **Villa Park**, **Lombard**, and **Oak Brook**.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a Free Chimney Inspection in Elmhurst
 
-If your chimney is shedding brick, staining white, or letting water into the house, don't wait for another winter to make it worse. Emerald Masonry LLC is family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call **(708) 288-1696** or reach us through our [contact page](/#contact) to schedule your Elmhurst chimney inspection. Water is patient — we help you get ahead of it while sealing where appropriate with [masonry sealing and waterproofing](/services/masonry-sealing).
+If your chimney is shedding brick, staining white, or letting water into the house, don't wait for another winter to make it worse. Emerald Masonry LLC is family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call **(708) 288-1696** or reach us through our [contact page](/#contact) to schedule your Elmhurst chimney inspection. Water is patient — we help you get ahead of it while sealing where appropriate with [masonry sealing and waterproofing](/services/masonry-sealing).

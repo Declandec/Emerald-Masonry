@@ -4,7 +4,7 @@ date: "2026-04-13"
 excerpt: "Weep holes are small openings at the base of brick wall assemblies that allow trapped water to drain out. They're easy to overlook during construction and maintenance — and their absence causes some of the most expensive water damage seen in commercial brick buildings."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - weep holes masonry walls
   - weep holes brick veneer

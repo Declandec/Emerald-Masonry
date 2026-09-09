@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Parapet Wall Repair in Aurora, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair in Aurora, IL — coping, flashing, repointing and rebuilds on commercial and historic roof edges. Insured. Free estimates: (708) 288-1696."
 excerpt: "Downtown Aurora's 19th-century brick and limestone blocks are full of tall parapets that have been shedding the roof's water for over a century. Emerald Masonry LLC repoints, recopes and rebuilds them — and fixes the through-wall flashing everyone skips."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Aurora, IL — repointing, coping stone replacement, through-wall flashing and rebuilding deteriorated roof-edge masonry on commercial, historic downtown and institutional buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Aurora, IL — repointing, coping stone replacement, through-wall flashing and rebuilding deteriorated roof-edge masonry on commercial, historic downtown and institutional buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Rebuilt brick and limestone parapet with new coping on a historic commercial building in Aurora Illinois"
 faqs:
   - q: "What is a parapet wall and why does it fail before the rest of the building?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Parapet Wall Repair in Aurora, IL
 
-Parapet wall repair in Aurora, IL is the restoration of the masonry that extends above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost integrity. Emerald Masonry LLC does this work on commercial, historic and institutional buildings across Kane County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Parapet wall repair in Aurora, IL is the restoration of the masonry that extends above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost integrity. Emerald Masonry LLC does this work on commercial, historic and institutional buildings across Kane County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Aurora has an unusually large stock of exactly the buildings that develop parapet problems. The downtown core along Stolp Island, Broadway, Galena and River Street is dense with **19th-century brick and locally quarried limestone commercial blocks** — two- and three-storey buildings with flat roofs, tall street-facing parapets, and heavy stone coping, much of it original. Surrounding that are the churches, school buildings, mills and industrial masonry the city grew on, plus decades of newer commercial development.
 
@@ -135,7 +135,7 @@ Aurora sits on the Fox River in a stretch of Kane County with hard freeze-thaw e
 
 We work with building owners, property managers, HOAs, churches and insurance companies throughout Aurora — the downtown historic blocks, the Near East and Near West Side commercial corridors, institutional and church properties, and the newer development toward Randall Road and the east side. We also serve neighboring [North Aurora](/locations/foundation-masonry-repair-north-aurora-il), [Batavia](/locations/masonry-sealing-batavia-il), [Geneva](/locations/limestone-sill-repair-geneva-il) and [Oswego](/locations/parapet-wall-repair-oswego-il). Aurora owners frequently pair parapet work with [limestone and sill repair](/locations/limestone-sill-repair-aurora-il) or [brick repair](/locations/brick-repair-aurora-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Deferring
 

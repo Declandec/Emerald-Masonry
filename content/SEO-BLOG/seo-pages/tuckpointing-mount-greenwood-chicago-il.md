@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Mount Greenwood, Chicago | Emerald Masonry"
 metaDescription: "Tuckpointing and brick repointing in Mount Greenwood, Chicago, IL. Emerald Masonry color-matches mortar on bungalows and greystones. Free estimate — (708) 288-1696."
 excerpt: "Mount Greenwood's brick bungalows and Cape Cods are reaching the age where the original mortar is failing. Emerald Masonry LLC tuckpoints and repoints south-side brick, matching mortar color and hardness so the repair protects the wall and disappears into it."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Mount Greenwood, Chicago, IL — grinding out failed mortar joints on brick bungalows, Cape Cods, and greystones and repointing with color- and hardness-matched mortar. Family-owned, 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Mount Greenwood, Chicago, IL — grinding out failed mortar joints on brick bungalows, Cape Cods, and greystones and repointing with color- and hardness-matched mortar. Family-owned, career masons with decades of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tuckpointed brick bungalow with color-matched mortar joints in Mount Greenwood, Chicago, IL"
 faqs:
   - q: "How much does tuckpointing cost in Mount Greenwood, Chicago?"
@@ -74,7 +74,7 @@ This is where most south-side tuckpointing jobs go wrong, and it's worth dwellin
 
 Mount Greenwood (ZIP 60655) is one of Chicago's most stable, owner-occupied neighborhoods, full of homeowners who maintain their properties and care how the work looks. The dominant housing types — Chicago brick bungalows, brick Cape Cods, and Georgians — share thick masonry walls and exposed brick chimneys that take the full force of Lake Michigan-driven freeze-thaw cycling. North- and west-facing elevations and the chimney almost always deteriorate first. We see the same patterns across the bordering communities of Beverly, Morgan Park, and nearby Evergreen Park and Oak Lawn, where the brick stock and the climate exposure are nearly identical. Matching new mortar to century-old joints on these homes is detail work, and it's exactly the kind of work we do.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -92,4 +92,4 @@ Yes. Chimneys are usually the most exposed masonry on a Mount Greenwood home and
 
 ## Get a Free Tuckpointing Estimate in Mount Greenwood
 
-If your joints are crumbling, your brick is staining, or a past repair left mortar that doesn't match, have it looked at before water turns a repointing job into a brick-replacement job. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Mount Greenwood, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we'll match your mortar right the first time. Related work: [tuckpointing & repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), and [brick repair](/services/brick-repair).
+If your joints are crumbling, your brick is staining, or a past repair left mortar that doesn't match, have it looked at before water turns a repointing job into a brick-replacement job. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Mount Greenwood, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we'll match your mortar right the first time. Related work: [tuckpointing & repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), and [brick repair](/services/brick-repair).

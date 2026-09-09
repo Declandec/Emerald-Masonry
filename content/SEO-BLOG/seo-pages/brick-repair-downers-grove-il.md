@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Downers Grove, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Downers Grove, IL — spalled brick replacement, step cracks and matched masonry repair. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Downers Grove spans a century and a half of building — Victorians and Sears kit homes near the tracks, post-war brick to the south, modern veneer to the west. Each era needs a different brick and a different mortar, and matching wrong is what makes a repair permanently visible."
-aiSummary: "Emerald Masonry LLC provides brick repair in Downers Grove, IL — replacing spalled and cracked brick, repairing step cracks, and matching replacement units and mortar to the era of the wall. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in Downers Grove, IL — replacing spalled and cracked brick, repairing step cracks, and matching replacement units and mortar to the era of the wall. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick blended into a repaired wall on a Downers Grove Illinois home"
 faqs:
   - q: "How much does brick repair cost in Downers Grove, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in Downers Grove, IL
 
-Brick repair in Downers Grove, IL means cutting out spalled and cracked units, replacing them with brick matched to the era of your wall, repairing the joints around them, and fixing whatever was letting water in. Emerald Masonry LLC does this work across DuPage County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or loose, call **(708) 288-1696**.
+Brick repair in Downers Grove, IL means cutting out spalled and cracked units, replacing them with brick matched to the era of your wall, repairing the joints around them, and fixing whatever was letting water in. Emerald Masonry LLC does this work across DuPage County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or loose, call **(708) 288-1696**.
 
 Downers Grove presents a matching problem more than most suburbs, because the village spans an unusually wide range of building eras in a small area.
 
@@ -132,7 +132,7 @@ We work throughout 60515, 60516 and 60517 — the historic streets around the do
 
 We also work in neighboring [Westmont](/locations/historic-masonry-restoration-westmont-il), [Lisle](/locations/chimney-repair-lisle-il), [Woodridge](/locations/commercial-masonry-woodridge-il) and [Hinsdale](/locations/limestone-sill-repair-hinsdale-il). Downers Grove owners frequently pair brick work with [tuckpointing](/locations/tuckpointing-downers-grove-il), [lintel repair](/locations/lintel-repair-downers-grove-il) or [waterproofing](/locations/efflorescence-waterproofing-downers-grove-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

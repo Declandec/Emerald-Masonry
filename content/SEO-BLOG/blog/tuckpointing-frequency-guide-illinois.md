@@ -4,7 +4,7 @@ date: "2026-04-25"
 excerpt: "The question property managers ask most often about masonry maintenance isn't 'what is tuckpointing?' — it's 'how often does my building need it, and how do I know when it's time?' The answer depends on the building's age, the mortar specification used, the elevation's exposure, and Illinois's specific climate load. This guide gives you a framework for calibrating your maintenance schedule to your actual building."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 keywords:
   - how often tuckpointing Illinois
   - tuckpointing frequency Chicago
@@ -99,7 +99,7 @@ For capital planning purposes:
 - Budget for tuckpointing every 25-30 years per building, phased across 2-3 years by elevation priority
 - Budget for chimney assessment every 5-7 years and tuckpointing every 15-20 years
 - Budget for parapet inspection annually and repointing every 15-20 years
-- Set aside a contingency for lintel replacement (common in buildings 40+ years old, often found during tuckpointing assessment)
+- Set aside a contingency for lintel replacement (common in buildings career masons old, often found during tuckpointing assessment)
 
 The cost of scheduled tuckpointing is a fraction of the cost of masonry restoration after years of deferred maintenance — and it's dramatically less than water damage remediation in the building interior.
 

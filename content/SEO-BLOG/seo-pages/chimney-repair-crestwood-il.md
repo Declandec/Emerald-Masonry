@@ -18,10 +18,10 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Crestwood, IL | Emerald Masonry"
-metaDescription: "Chimney repair in Crestwood, IL — crown repair, repointing, flashing & rebuilds by Emerald Masonry. Family-owned, 40+ yrs, licensed & insured. Free estimate (708) 288-1696."
+metaDescription: "Chimney repair in Crestwood, IL — crown repair, repointing, flashing & rebuilds by Emerald Masonry. Family-owned, career masons, licensed & insured. Free estimate (708) 288-1696."
 excerpt: "Cracked crown, crumbling joints, or white staining on your Crestwood chimney? Emerald Masonry LLC repairs and rebuilds brick chimneys across southwest Cook County. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC repairs brick chimneys in Crestwood, IL — crown repair, tuckpointing, flashing, and full rebuilds for the village's post-war brick ranches and split-levels. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC repairs brick chimneys in Crestwood, IL — crown repair, tuckpointing, flashing, and full rebuilds for the village's post-war brick ranches and split-levels. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and repointed joints on a Crestwood, IL home"
 faqs:
   - q: "How much does chimney repair cost in Crestwood, IL?"
@@ -31,13 +31,13 @@ faqs:
   - q: "Why is there white staining on my Crestwood chimney?"
     a: "That chalky white film is efflorescence — mineral salts left behind as water moves through the masonry. It is a sign water is getting into the chimney, usually through a cracked crown or failed joints. Left alone, that same water freezes and thaws each winter and accelerates the damage."
   - q: "Are you local and licensed to work in Crestwood?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company based in nearby Palos Heights with 40+ years of Chicagoland experience, and we are licensed, bonded, and insured. We work throughout southwest Cook County, including Crestwood. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company based in nearby Palos Heights led by career masons with decades of hands-on Chicagoland experience, and we are licensed, bonded, and insured. We work throughout southwest Cook County, including Crestwood. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** repairs and rebuilds brick chimneys in **Crestwood, IL** — from sealing a cracked crown and repointing washed-out joints to replacing rusted flashing and rebuilding a chimney above the roofline. We are a family-owned, licensed and insured masonry contractor based nearby in Palos Heights, with 40+ years of Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** repairs and rebuilds brick chimneys in **Crestwood, IL** — from sealing a cracked crown and repointing washed-out joints to replacing rusted flashing and rebuilding a chimney above the roofline. We are a family-owned, licensed and insured masonry contractor based nearby in Palos Heights, led by career masons with decades of hands-on Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
 
 A chimney is the most exposed masonry on your house — it takes weather from every direction and sits where you rarely look closely. That is exactly why Crestwood chimney problems tend to go unnoticed until water shows up inside.
 
@@ -97,7 +97,7 @@ We won't quote a chimney sight-unseen. The honest cost drivers are:
 
 Crestwood's housing stock leans heavily toward post-war brick ranches, split-levels, and Cape Cods, many with original chimneys now well past their service life. Those decades of southwest-suburban freeze-thaw cycles are exactly what wears a crown and mortar joints out. Because Emerald Masonry is based right up the road in Palos Heights, we know how the brick and chimneys around the Cal-Sag corridor and the Rivercrest area weather — and we can usually get out to look quickly.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 If your chimney inspection turns up related work, we handle it all — see our [chimney repair and rebuilding services](/services/chimney-repair), [tuckpointing and repointing](/services/tuckpointing), [brick repair](/services/brick-repair), and [masonry sealing and waterproofing](/services/masonry-sealing).
 
@@ -117,7 +117,7 @@ That chalky white film is efflorescence — mineral salts left behind as water m
 
 **Are you local and licensed to work in Crestwood?**
 
-Yes. Emerald Masonry LLC is a family-owned company based in nearby Palos Heights with 40+ years of Chicagoland experience, and we are licensed, bonded, and insured. We work throughout southwest Cook County, including Crestwood. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company based in nearby Palos Heights led by career masons with decades of hands-on Chicagoland experience, and we are licensed, bonded, and insured. We work throughout southwest Cook County, including Crestwood. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Chimney Repair Estimate in Crestwood
 

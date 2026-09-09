@@ -5,7 +5,7 @@ excerpt: "Most brick that looks 'dirty' is actually telling you something — gr
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Cleaned and restored brick wall on a Chicagoland home with sound mortar joints"
 keywords:
   - how to clean brick without damaging it
@@ -38,7 +38,7 @@ keywords:
   - free masonry estimate Chicago
   - brick restoration near me
   - chemical masonry cleaner
-aiSummary: "Brick can be cleaned safely with the gentlest effective method — low-pressure water, soft brushing, and masonry-specific chemical cleaners chosen for the stain type — but sandblasting, high-pressure washing and film-forming sealers permanently destroy the fired face of the brick and accelerate spalling. Emerald Masonry LLC cleans and restores masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick can be cleaned safely with the gentlest effective method — low-pressure water, soft brushing, and masonry-specific chemical cleaners chosen for the stain type — but sandblasting, high-pressure washing and film-forming sealers permanently destroy the fired face of the brick and accelerate spalling. Emerald Masonry LLC cleans and restores masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Can you pressure wash brick?"
@@ -65,7 +65,7 @@ faqs:
 
 ## How to Clean Brick Without Damaging It
 
-Brick can be cleaned safely — but only with the gentlest method that actually works: low-pressure water, soft brushing, and masonry-specific chemical cleaners selected for the particular stain. **Sandblasting, high-pressure washing, wire brushing and film-forming coatings permanently destroy the fired face of the brick** and set off years of accelerated deterioration. Emerald Masonry LLC cleans, repairs and restores masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Brick can be cleaned safely — but only with the gentlest method that actually works: low-pressure water, soft brushing, and masonry-specific chemical cleaners selected for the particular stain. **Sandblasting, high-pressure washing, wire brushing and film-forming coatings permanently destroy the fired face of the brick** and set off years of accelerated deterioration. Emerald Masonry LLC cleans, repairs and restores masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 There is a principle behind everything in this guide, and it is worth stating before anything else.
 
@@ -203,6 +203,6 @@ Dirty brick is rarely just dirty. Green means the wall stays wet. White means wa
 
 And when you do remove it, remember the fired face. Gentle methods take longer and look less dramatic on day one, but they leave you with a wall that still has its weather protection intact — which is the entire point.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

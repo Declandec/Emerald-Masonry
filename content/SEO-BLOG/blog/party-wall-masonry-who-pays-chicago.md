@@ -5,7 +5,7 @@ excerpt: "Chicago is full of buildings that share a wall — rowhouses, two-flat
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Shared brick party wall between two attached Chicago buildings showing deteriorated mortar joints"
 keywords:
   - party wall masonry repair Chicago
@@ -37,7 +37,7 @@ keywords:
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "A party wall is masonry shared by two adjoining buildings, typically straddling the property line, and both owners generally share responsibility for maintaining it — though the specifics depend on the deed, any recorded party wall agreement, and how the wall is actually situated. Repairs usually require a neighbor access agreement and a jointly reviewed scope. Emerald Masonry LLC repairs shared and exposed party walls across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A party wall is masonry shared by two adjoining buildings, typically straddling the property line, and both owners generally share responsibility for maintaining it — though the specifics depend on the deed, any recorded party wall agreement, and how the wall is actually situated. Repairs usually require a neighbor access agreement and a jointly reviewed scope. Emerald Masonry LLC repairs shared and exposed party walls across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is a party wall?"
@@ -62,7 +62,7 @@ faqs:
 
 ## Party Walls and Shared Masonry: The Short Answer
 
-**A party wall is masonry shared by two adjoining buildings, usually straddling or sitting on the property line and serving both structures. Responsibility for maintaining it is normally shared by both owners** — but the controlling answer comes from your deed, any recorded party wall agreement, and how the wall is actually situated. Repairs almost always require an access agreement with the neighbor and a jointly reviewed scope of work. Emerald Masonry LLC repairs shared, attached and newly exposed party walls across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+**A party wall is masonry shared by two adjoining buildings, usually straddling or sitting on the property line and serving both structures. Responsibility for maintaining it is normally shared by both owners** — but the controlling answer comes from your deed, any recorded party wall agreement, and how the wall is actually situated. Repairs almost always require an access agreement with the neighbor and a jointly reviewed scope of work. Emerald Masonry LLC repairs shared, attached and newly exposed party walls across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 One thing to say plainly at the outset: **who legally owes what is a legal question, not a masonry question.** We can tell you exactly what the wall needs, document it, and put it in writing for both parties. What we cannot do is interpret your deed — for that, talk to a real estate attorney. This guide covers the building side, and the practical patterns owners run into.
 
@@ -203,6 +203,6 @@ Shared masonry fails for an ordinary reason — water at the top of the wall, jo
 
 The wall does not care. Freeze-thaw runs dozens of cycles every winter regardless of whose name is on which side of the line. The owners who come out of this well are the ones who get a professional assessment early, put it in writing, and start the neighbor conversation holding a document instead of a worry.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, condo boards, churches and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, condo boards, churches and insurance companies.
 
 **Free on-site assessments. Call (708) 288-1696 or [request an estimate](/#contact).**

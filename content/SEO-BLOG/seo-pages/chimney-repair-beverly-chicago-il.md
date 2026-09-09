@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Beverly, Chicago, IL | Emerald Masonry"
 metaDescription: "Chimney repair in Beverly, Chicago, IL — crowns, flashing, repointing and rebuilds on historic 60643 homes. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Beverly's chimneys are not standard suburban stacks — they are tall, corbelled, multi-flue chimneys on century-old homes in the Ridge Historic District, built with soft brick and lime mortar. Emerald Masonry LLC repairs and rebuilds them with materials matched to how they were built."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Beverly, Chicago, IL (60643) — crown rebuilding, caps, flashing, lime-mortar repointing, brick replacement and full rebuilds on the historic multi-flue chimneys of the Ridge Historic District. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Beverly, Chicago, IL (60643) — crown rebuilding, caps, flashing, lime-mortar repointing, brick replacement and full rebuilds on the historic multi-flue chimneys of the Ridge Historic District. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Restored historic multi-flue brick chimney on a century-old home in Beverly Chicago Illinois"
 faqs:
   - q: "How much does chimney repair cost in Beverly, Chicago?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "chimney repair Beverly Chicago IL" / "chimney repair 60643" — local residential chimney repair intent on Chicago's far southwest side.
-Competitor pattern observed: the ranking results split between directory listings (Yelp, Yellow Pages) and long-standing local tuckpointing shops running generic city-wide chimney service pages. The strongest contractor page has real trust signals (since 1988, an Illinois license number, BBB seal, free estimates, bilingual staff) and does open with an answer-first sentence — but it has NO FAQ section, NO step-by-step process, NO cost-driver guidance beyond a blanket discount offer, no depth on crown/cap/flashing materials or technique, no before/after case detail, no schema markup, and zero Beverly or neighborhood specificity (generic "Chicago and suburbs" copy).
-Why this page is better: it is written for Beverly's actual chimneys rather than for "Chicago." It names the Ridge Historic District housing stock, explains why tall corbelled multi-flue stacks on pre-1930 homes fail faster and why they require soft lime mortar rather than hard Portland mix, and gives the repair-vs-rebuild decision criteria the competitor never states.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; a crown/cap/flashing/repoint/rebuild repair ladder; historic lime-mortar matching; salvaged brick and corbelled-top reconstruction; qualitative cost drivers; real 60643 geography (Ridge Historic District, Longwood Drive, Walter Burley Griffin Place, Morgan Park, Mount Greenwood border); and internal links to related services.
--->
 
 ## Chimney Repair in Beverly, Chicago, IL
 
-Chimney repair in Beverly, Chicago, IL means working on some of the tallest and oldest residential chimneys in the city — corbelled, multi-flue stacks on century-old homes, built with soft brick and lime mortar that will not tolerate a modern hard-mortar repair. Emerald Masonry LLC rebuilds crowns, installs caps, replaces flashing, repoints with matched lime-based mortar, and rebuilds stacks above the roofline. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Beverly, Chicago, IL means working on some of the tallest and oldest residential chimneys in the city — corbelled, multi-flue stacks on century-old homes, built with soft brick and lime mortar that will not tolerate a modern hard-mortar repair. Emerald Masonry LLC rebuilds crowns, installs caps, replaces flashing, repoints with matched lime-based mortar, and rebuilds stacks above the roofline. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Beverly is not a typical Chicago neighborhood, and its chimneys are not typical chimneys. The neighborhood sits on the Blue Island Ridge — the highest ground in the city — and much of it falls inside the **Ridge Historic District**, one of the largest urban historic districts in the country. The housing is Victorians, Queen Annes, Prairie School homes, stone mansions along Longwood Drive, and the Walter Burley Griffin houses on 104th Place, mixed with 1920s bungalows and post-war Georgians toward the Mount Greenwood side.
 
@@ -136,7 +130,7 @@ We never quote a chimney sight unseen, and we do not lead with teaser inspection
 
 We work throughout 60643 and the surrounding area — the Ridge Historic District homes along Longwood Drive and Seeley, the Prairie School blocks near Walter Burley Griffin Place, the Victorians and Queen Annes on the ridge itself, the bungalow and Georgian streets running toward [Mount Greenwood](/locations/tuckpointing-mount-greenwood-chicago-il), and Morgan Park to the south. We also serve neighboring [Evergreen Park](/locations/brick-repair-evergreen-park-il), [Oak Lawn](/locations/tuckpointing-oak-lawn-il) and [Burbank](/locations/chimney-repair-burbank-il). Homeowners here often need [residential masonry restoration](/locations/residential-masonry-restoration-beverly-chicago-il) and [tuckpointing](/locations/tuckpointing-beverly-chicago-il) alongside the chimney work.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs on a Historic Chimney
 

@@ -4,7 +4,7 @@ date: "2026-04-13"
 excerpt: "Church masonry projects look like tuckpointing jobs but require decisions that most residential or commercial work doesn't — matching historic mortar profiles, working around services and events, navigating volunteer committee approvals, and preserving architectural character that took a century to develop."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 keywords:
   - church tuckpointing Chicago suburbs
   - institutional masonry repair Illinois
@@ -20,7 +20,7 @@ keywords:
 
 Churches are among the most demanding masonry projects a contractor can take on — not because the work itself is technically exotic, but because the context is different from everything else. You're working on a building that often has genuine historic character, a client structure that involves committees and congregational votes, scheduling constraints tied to services and events seven days a week, and an expectation that the finished result will be invisible — that the masonry will look exactly as it did, just sound.
 
-After 40+ years working on institutional masonry in the Chicago suburbs, we've learned what makes church projects succeed and what causes them to go wrong. Most of the problems aren't technical. They're about preparation, communication, and understanding what the project actually involves before the first cut is made.
+After career masons working on institutional masonry in the Chicago suburbs, we've learned what makes church projects succeed and what causes them to go wrong. Most of the problems aren't technical. They're about preparation, communication, and understanding what the project actually involves before the first cut is made.
 
 ## Why Church Masonry Is Its Own Category
 

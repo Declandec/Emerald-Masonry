@@ -16,7 +16,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Midlothian, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing in Midlothian, IL — mortar joint repair for brick homes, two-flats, and commercial buildings in south Cook County. Free estimates."
 excerpt: "Midlothian's postwar brick housing stock — bungalows and ranch homes built between 1945 and 1970 — has reached the age where mortar joints consistently need attention. Emerald Masonry LLC provides expert tuckpointing for residential and commercial properties throughout south Cook County."
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Tuckpointing mortar joint repair on a postwar brick bungalow in Midlothian Illinois south Cook County"
 competitorInformed: false
 ---
@@ -25,7 +25,7 @@ competitorInformed: false
 
 Midlothian is a compact, primarily residential suburb — roughly 14,000 residents, predominantly single-family and two-family homes on tight lots along the south Cook County grid. Most of the housing was built between 1948 and 1970, the same postwar construction window that produced the bungalows and ranch homes throughout the south suburbs. That puts the brick on most Midlothian homes between 55 and 75 years old.
 
-At that age, the original lime-Portland mortar mix that held those joints for the first 40 years has either been worn down by freeze-thaw cycling, replaced with a previous tuckpointing job that may or may not have been done correctly, or — in the homes that were well maintained — is still holding but approaching the end of its service life.
+At that age, the original lime-Portland mortar mix that held those joints for the first decades has either been worn down by freeze-thaw cycling, replaced with a previous tuckpointing job that may or may not have been done correctly, or — in the homes that were well maintained — is still holding but approaching the end of its service life.
 
 What accelerates deterioration in Midlothian specifically is the combination of postwar brick that wasn't fully vitrified (softer, more porous than modern brick) and decades of Illinois freeze-thaw events. The south Cook County area doesn't have the urban heat island that keeps inner Chicago neighborhoods from the worst cold, and the relatively flat, open landscape means wind exposure to driving rain is substantial.
 

@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "Nothing makes a masonry repair look more like a masonry repair than mismatched replacement brick. Color, size, texture, and surface finish all have to align — and sourcing the right match is one of the most technically demanding parts of brick repair work. Here's how the process actually works."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - brick matching replacement Chicago
   - matching replacement brick Illinois

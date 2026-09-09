@@ -4,7 +4,7 @@ date: "2026-04-26"
 excerpt: "Mortar and caulk are both used in masonry construction, and they're often confused — or worse, used interchangeably by contractors who should know better. The distinction isn't academic. Using caulk where mortar belongs, or mortar where caulk belongs, produces failures that look like normal weathering until the water damage inside the wall reveals the actual cause. Understanding which material goes where is one of the most practically useful things a property owner or manager can know about masonry maintenance."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 keywords:
   - tuckpointing vs caulking masonry
   - mortar vs caulk masonry joints

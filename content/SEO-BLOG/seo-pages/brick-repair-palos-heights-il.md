@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Palos Heights, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Palos Heights, IL — spalled brick replacement, step cracks and mortar repair by your local masonry company. Free estimates: (708) 288-1696."
 excerpt: "Palos Heights is home for Emerald Masonry LLC — our office is on 126th Street, and the brick homes we repair here are in our own neighborhood. We replace spalled brick, repair step cracks, and fix the water problem underneath the damage."
-aiSummary: "Emerald Masonry LLC provides brick repair in Palos Heights, IL — replacing spalled and cracked brick, repairing step cracks, matching brick and mortar, and correcting the water intrusion causing the damage. Family-owned and based in Palos Heights, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in Palos Heights, IL — replacing spalled and cracked brick, repairing step cracks, matching brick and mortar, and correcting the water intrusion causing the damage. Family-owned and based in Palos Heights, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Replaced and repaired brick blended into a wall on a Palos Heights Illinois home"
 faqs:
   - q: "How much does brick repair cost in Palos Heights, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in Palos Heights, IL — From a Company Based Here
 
-Brick repair in Palos Heights, IL means replacing spalled and cracked brick, repairing step cracks, matching the new masonry into the existing wall, and correcting whatever was letting water in to begin with. Emerald Masonry LLC does this work from an office right here in Palos Heights — 7156 W. 126th St. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Palos Heights, IL means replacing spalled and cracked brick, repairing step cracks, matching the new masonry into the existing wall, and correcting whatever was letting water in to begin with. Emerald Masonry LLC does this work from an office right here in Palos Heights — 7156 W. 126th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 This is our home village. The brick homes along the Cal-Sag, around Lake Katherine, and through the residential streets north and south of College Drive are the houses we drive past every day. When we say we can be out to look at your wall quickly, it is because we are already here.
 
@@ -108,7 +108,7 @@ We work throughout 60463 — the neighborhoods around Lake Katherine and the Cal
 
 As the local masonry company we also serve the surrounding villages: [Palos Park](/locations/chimney-repair-palos-park-il), [Palos Hills](/locations/efflorescence-waterproofing-palos-hills-il), [Orland Park](/locations/brick-repair-orland-park-il) and [Worth](/locations/chimney-repair-worth-il). Palos Heights homeowners frequently pair brick repair with [tuckpointing](/locations/tuckpointing-palos-heights-il) or [chimney repair](/locations/chimney-repair-palos-heights-il) on the same visit.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

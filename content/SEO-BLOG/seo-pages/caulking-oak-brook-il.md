@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Caulking & Joint Sealant in Oak Brook, IL | Emerald Masonry"
 metaDescription: "Caulking and joint sealant in Oak Brook, IL — expansion joints, precast panel joints and window perimeters. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Oak Brook's office and corporate buildings are largely precast, panel and curtain wall construction — assemblies that depend entirely on their sealant joints to stay watertight. Emerald Masonry LLC replaces failed caulking and joint sealant before the water gets into the wall."
-aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Oak Brook, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Oak Brook, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "New joint sealant installed at precast panel joints on a commercial building in Oak Brook Illinois"
 faqs:
   - q: "How often does commercial building caulking need to be replaced?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Caulking and Joint Sealant in Oak Brook, IL
 
-Caulking and joint sealant work in Oak Brook, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. On Oak Brook's commercial building stock, those joints *are* the weather barrier. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs high-performance sealant that will move with the building. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Caulking and joint sealant work in Oak Brook, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. On Oak Brook's commercial building stock, those joints *are* the weather barrier. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs high-performance sealant that will move with the building. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Oak Brook is an unusual village for this work. Alongside its residential neighborhoods, it holds one of the densest concentrations of **corporate office, retail and hospitality construction** in DuPage County — the office campuses along 22nd Street and Butterfield, the buildings ringing Oakbrook Center, hotels, medical offices and corporate headquarters. Much of that stock is **precast concrete panel, curtain wall, EIFS and brick veneer** construction from the 1970s through the 2000s.
 
@@ -127,7 +127,7 @@ We work throughout 60523 — the office campuses along 22nd Street, Butterfield 
 
 We also work in neighboring [Hinsdale](/locations/limestone-sill-repair-hinsdale-il), [Downers Grove](/locations/tuckpointing-downers-grove-il), [Westmont](/locations/historic-masonry-restoration-westmont-il) and [Burr Ridge](/locations/chimney-repair-burr-ridge-il). Oak Brook owners frequently pair sealant work with [brick repair](/locations/brick-repair-oak-brook-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferred Sealant Gets Expensive
 

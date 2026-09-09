@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Burbank, IL | Emerald Masonry LLC"
 metaDescription: "Brick chimney repair in Burbank, IL — crown repair, repointing, flashing, and rebuilds. Emerald Masonry stops leaks at the source. Free estimate — (708) 288-1696."
 excerpt: "Burbank's mid-century brick homes are topped by chimneys that take the worst of the weather. Emerald Masonry LLC repairs chimney crowns, repoints failing joints, fixes flashing, and rebuilds deteriorated stacks so water stops finding its way in."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Burbank, IL — repairing cracked crowns, repointing failed mortar, addressing flashing, and rebuilding deteriorated brick chimneys on the area's mid-century homes. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Burbank, IL — repairing cracked crowns, repointing failed mortar, addressing flashing, and rebuilding deteriorated brick chimneys on the area's mid-century homes. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney-2.webp"
 imageAlt: "Repaired brick chimney with new crown and repointed joints on a home in Burbank, IL"
 faqs:
   - q: "How do I know if my Burbank chimney needs repair or a full rebuild?"
@@ -80,7 +80,7 @@ We match repointing mortar to the age and hardness of your existing chimney maso
 
 Burbank grew up almost entirely in the postwar decades, a dense southwest-suburb grid of brick bungalows, ranches, and Cape Cods built largely from the 1950s through the 1970s. Most of those homes have masonry chimneys now fifty to seventy years old — well into the window where original crowns crack and mortar joints give out. Burbank sits in the same exposure zone as neighboring Oak Lawn, Bridgeview, and Chicago's Mount Greenwood and Garfield Ridge: flat, open, and hit hard by the freeze-thaw swings that punish anything standing above a roofline. We see the same chimney failures across all of these communities, and we fix them the same careful way.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -98,4 +98,4 @@ Yes, and it's one of the most cost-effective repairs we do. The crown is the con
 
 ## Get a Free Chimney Inspection in Burbank
 
-If your chimney is shedding mortar, showing a cracked crown, or leaking near the fireplace, the smart move is to have it inspected before water turns a small repair into a full rebuild. [Contact Emerald Masonry](/#contact) for a free on-site chimney inspection in Burbank, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured. Related work: [chimney repair](/services/chimney-repair), [tuckpointing & repointing](/services/tuckpointing), and [brick repair](/services/brick-repair).
+If your chimney is shedding mortar, showing a cracked crown, or leaking near the fireplace, the smart move is to have it inspected before water turns a small repair into a full rebuild. [Contact Emerald Masonry](/#contact) for a free on-site chimney inspection in Burbank, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Related work: [chimney repair](/services/chimney-repair), [tuckpointing & repointing](/services/tuckpointing), and [brick repair](/services/brick-repair).

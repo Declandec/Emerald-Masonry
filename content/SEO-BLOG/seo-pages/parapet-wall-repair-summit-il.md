@@ -20,10 +20,10 @@ service: "Parapet Wall Repair"
 serviceSlug: "parapet-wall-repair"
 pageType: "location"
 metaTitle: "Parapet Wall Repair in Summit, IL | Emerald Masonry LLC"
-metaDescription: "Parapet wall repair in Summit, IL by Emerald Masonry LLC. Leaning parapets rebuilt, coping reset, flashing fixed. 40+ years. Free est: (708) 288-1696."
+metaDescription: "Parapet wall repair in Summit, IL by Emerald Masonry LLC. Leaning parapets rebuilt, coping reset, flashing fixed. career masons. Free est: (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs and rebuilds parapet walls on the warehouses, industrial buildings, and low-rise brick storefronts of Summit, IL. We address the real cause — failed coping and flashing — not just the visible mortar. Free on-site estimates for owners and property managers."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Summit, IL, rebuilding leaning or deteriorated parapets on flat-roof commercial and industrial buildings, resetting coping stones, and repairing through-wall flashing. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Summit, IL, rebuilding leaning or deteriorated parapets on flat-roof commercial and industrial buildings, resetting coping stones, and repairing through-wall flashing. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Rebuilt brick parapet wall with reset coping stones on a flat-roof commercial building in Summit, IL after Emerald Masonry parapet wall repair"
 faqs:
   - q: "How much does parapet wall repair cost in Summit, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 # Parapet Wall Repair in Summit, IL
 
-**Emerald Masonry LLC provides parapet wall repair in Summit, IL** — rebuilding leaning and deteriorated parapets on flat-roof warehouses, industrial buildings, and low-rise brick storefronts, resetting coping stones, and repairing the through-wall flashing that caused the problem in the first place. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and our estimates are free. Call **(708) 288-1696**.
+**Emerald Masonry LLC provides parapet wall repair in Summit, IL** — rebuilding leaning and deteriorated parapets on flat-roof warehouses, industrial buildings, and low-rise brick storefronts, resetting coping stones, and repairing the through-wall flashing that caused the problem in the first place. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and our estimates are free. Call **(708) 288-1696**.
 
 If you own or manage a building in Summit, the parapet is probably the piece of masonry you think about least and should think about most.
 
@@ -123,7 +123,7 @@ Summit-Argo is an industrial village, and its masonry reflects that: warehouses 
 
 We work throughout southwest Cook County and the surrounding communities — Bedford Park, Justice, Willow Springs, Lyons, Bridgeview, and McCook — for building owners, property managers, industrial landlords, and insurance carriers. See our related work on [commercial masonry in Alsip](/locations/commercial-masonry-alsip-il), [tuckpointing in Justice](/locations/tuckpointing-justice-il), and [tuckpointing in Bridgeview](/locations/tuckpointing-bridgeview-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, with 40+ years of experience in [parapet wall repair](/services/parapet-wall-repair), [commercial masonry restoration](/services/commercial-masonry-restoration), [tuckpointing and repointing](/services/tuckpointing), [caulking and joint sealant](/services/caulking), and [masonry sealing and waterproofing](/services/masonry-sealing). Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, led by career masons with decades of hands-on experience in [parapet wall repair](/services/parapet-wall-repair), [commercial masonry restoration](/services/commercial-masonry-restoration), [tuckpointing and repointing](/services/tuckpointing), [caulking and joint sealant](/services/caulking), and [masonry sealing and waterproofing](/services/masonry-sealing). Free on-site estimates — call **(708) 288-1696**.
 
 ## Get a Free Parapet Assessment in Summit
 

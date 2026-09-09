@@ -5,9 +5,9 @@ excerpt: "Step cracks — the stair-stepped cracks that climb the mortar joints 
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Diagnostics"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired stair-step crack in a brick wall on a Chicago-area home, mortar joints repointed to match"
-aiSummary: "Step cracks in brick walls are stair-stepped cracks that follow the mortar joints, usually caused by foundation settlement, clay-soil movement, or water problems. Some are stable and cosmetic; widening, offset, or bulging cracks are structural and need attention. Emerald Masonry LLC diagnoses and repairs step cracks across Chicagoland — family-owned, 40+ years, licensed and insured. Free estimates: (708) 288-1696."
+aiSummary: "Step cracks in brick walls are stair-stepped cracks that follow the mortar joints, usually caused by foundation settlement, clay-soil movement, or water problems. Some are stable and cosmetic; widening, offset, or bulging cracks are structural and need attention. Emerald Masonry LLC diagnoses and repairs step cracks across Chicagoland — family-owned, career masons, licensed and insured. Free estimates: (708) 288-1696."
 intent: "informational"
 keywords:
   - step cracks in brick walls
@@ -55,10 +55,10 @@ faqs:
   - q: "Do step cracks mean I need a whole new foundation?"
     a: "Usually not. Most step cracks are repaired at the wall level — raking the failed joints, replacing damaged brick, and repointing with matched mortar — after the drainage or minor settlement cause is corrected. A full foundation or footing repair is only needed when there's significant ongoing structural movement, which an on-site inspection determines."
   - q: "Who repairs step cracks in brick walls near me in Chicagoland?"
-    a: "Emerald Masonry LLC repairs step cracks throughout Chicago and the suburbs — Cook, DuPage, Will, and the surrounding counties. We're family-owned with 40+ years of experience, licensed, bonded, and insured, and we offer free on-site estimates. Call (708) 288-1696."
+    a: "Emerald Masonry LLC repairs step cracks throughout Chicago and the suburbs — Cook, DuPage, Will, and the surrounding counties. We're family-owned, led by career masons with decades of hands-on experience, licensed, bonded, and insured, and we offer free on-site estimates. Call (708) 288-1696."
 ---
 
-If you've noticed a crack climbing the side of your brick wall in a stair-stepped pattern — jogging up through the mortar joints like a staircase — you're looking at a **step crack**, and it's one of the most common masonry problems on Chicago-area homes. The important question isn't whether you have one; it's what's causing it. Some step cracks are stable and cosmetic. Others are the first visible sign that your foundation is moving, and they only get worse if the cause is ignored. **Emerald Masonry LLC** has diagnosed and repaired **step cracks in brick walls** across Chicagoland for more than 40 years, and this guide walks through exactly how to tell the difference. If you want a professional to look at yours, a free on-site estimate is a phone call away: **(708) 288-1696**.
+If you've noticed a crack climbing the side of your brick wall in a stair-stepped pattern — jogging up through the mortar joints like a staircase — you're looking at a **step crack**, and it's one of the most common masonry problems on Chicago-area homes. The important question isn't whether you have one; it's what's causing it. Some step cracks are stable and cosmetic. Others are the first visible sign that your foundation is moving, and they only get worse if the cause is ignored. **Emerald Masonry LLC** has diagnosed and repaired **step cracks in brick walls** across Chicagoland for more than decades, and this guide walks through exactly how to tell the difference. If you want a professional to look at yours, a free on-site estimate is a phone call away: **(708) 288-1696**.
 
 ## What a Step Crack Actually Is
 
@@ -66,7 +66,7 @@ A step crack is a crack that follows the mortar joints of a brick wall in a diag
 
 That's also why step cracks are usually a *symptom*, not the disease. The crack is the wall telling you that two parts of it are no longer moving together. Reading a step crack correctly means asking **why** the wall is moving, not just noticing that it cracked.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Causes Step Cracks in Brick Walls
 
@@ -172,4 +172,4 @@ Step crack repair often touches several trades at once. Emerald Masonry handles 
 
 A step crack is your brick wall pointing at something. Sometimes it's just tired mortar; sometimes it's a moving foundation. The mistake is treating them all the same — filling the crack and hoping. Read the width, the taper, the offset, and the wall's shape, and get a professional eye on anything that's widening or paired with a bulge or sticking doors.
 
-**Emerald Masonry LLC** is a **family-owned**, **licensed, bonded, and insured** masonry contractor with **40+ years** of experience repairing brick throughout Chicago and the suburbs. We'll tell you honestly whether your step crack is cosmetic or structural, and fix the cause — not just the symptom. Schedule a **free on-site estimate** today: call **(708) 288-1696** or reach us through our [contact page](/#contact).
+**Emerald Masonry LLC** is a **family-owned**, **licensed, bonded, and insured** masonry contractor with **career masons** of experience repairing brick throughout Chicago and the suburbs. We'll tell you honestly whether your step crack is cosmetic or structural, and fix the cause — not just the symptom. Schedule a **free on-site estimate** today: call **(708) 288-1696** or reach us through our [contact page](/#contact).

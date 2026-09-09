@@ -18,10 +18,10 @@ service: "Lintel Repair"
 serviceSlug: "lintel-repair"
 pageType: "location"
 metaTitle: "Lintel Repair in Downers Grove, IL | Emerald Masonry LLC"
-metaDescription: "Lintel repair Downers Grove IL by Emerald Masonry LLC — 40+ years, family-owned, licensed & insured. Rusted, sagging, or cracked lintels fixed. Free estimate: (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and replaces failing steel lintels above windows and doors throughout Downers Grove, IL. With 40+ years of experience, we stop rust, reset displaced brick, and protect your openings before they collapse. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Downers Grove, IL, replacing rusted or failed steel lintels above windows and doors and resetting the brick above. Family-owned, licensed and insured, with 40+ years of experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+metaDescription: "Lintel repair Downers Grove IL by Emerald Masonry LLC — career masons, family-owned, licensed & insured. Rusted, sagging, or cracked lintels fixed. Free estimate: (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs and replaces failing steel lintels above windows and doors throughout Downers Grove, IL. With career masons on every crew, we stop rust, reset displaced brick, and protect your openings before they collapse. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides lintel repair in Downers Grove, IL, replacing rusted or failed steel lintels above windows and doors and resetting the brick above. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired brick and steel lintel above a window on a Downers Grove, IL home after Emerald Masonry lintel repair"
 faqs:
   - q: "How much does lintel repair cost in Downers Grove, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "Will you match the existing brick and mortar?"
     a: "Yes. We reset your original brick wherever possible and source close-matching replacement brick and color-matched mortar for any units that are damaged, so the repaired opening blends with the rest of the wall."
   - q: "Are you licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Downers Grove and the surrounding Chicagoland suburbs for 40+ years."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Downers Grove and the surrounding Chicagoland suburbs for career masons."
 competitorInformed: false
 ---
 
 # Lintel Repair in Downers Grove, IL
 
-If you've noticed orange rust stains or cracked brick above a window or door, **Emerald Masonry LLC** provides expert **lintel repair in Downers Grove, IL** — replacing failed steel lintels, resetting displaced brick, and stopping corrosion before an opening collapses. We're a family-owned, licensed and insured masonry contractor with 40+ years of experience serving Downers Grove and DuPage County. For a free on-site estimate, call **(708) 288-1696**.
+If you've noticed orange rust stains or cracked brick above a window or door, **Emerald Masonry LLC** provides expert **lintel repair in Downers Grove, IL** — replacing failed steel lintels, resetting displaced brick, and stopping corrosion before an opening collapses. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience serving Downers Grove and DuPage County. For a free on-site estimate, call **(708) 288-1696**.
 
 A failing lintel is one of the most common — and most misunderstood — masonry problems on brick homes in Downers Grove. The good news: caught early, **lintel repair in Downers Grove IL** is a straightforward, permanent fix. Ignored, it turns into a much larger and costlier wall rebuild.
 
@@ -112,14 +112,14 @@ Lintel work rarely stands alone. Water that rusts a lintel is often the same wat
 
 ## Why Downers Grove Homeowners Trust Emerald Masonry
 
-- **40+ years** of hands-on masonry experience in the Chicago suburbs.
+- **career masons** of hands-on masonry experience in the Chicago suburbs.
 - **Family-owned**, with the accountability that comes with it.
 - **Licensed, bonded, and insured.**
 - **Honest assessments** — repair when we can, replace when we must.
 - **Brick and mortar matching** so repairs disappear into the wall.
 - **Free on-site estimates** with clear, itemized pricing.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get Your Free Lintel Repair Estimate in Downers Grove
 

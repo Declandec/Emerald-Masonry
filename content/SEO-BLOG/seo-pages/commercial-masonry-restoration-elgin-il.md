@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration in Elgin, IL | Emerald"
 metaDescription: "Commercial masonry restoration in Elgin, IL — facade, parapet and tuckpointing on small and mid-size buildings. Insured. Free estimates: (708) 288-1696."
 excerpt: "The big facade firms are built for landmarks, museums and AIA-contract institutional work. If you own a two-storefront building downtown, sit on a condo board, or run a parish — Emerald Masonry LLC is built for you, and we will say so plainly."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Elgin, IL — facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on small and mid-size commercial, association and church buildings. Family-owned, non-union, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Elgin, IL — facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on small and mid-size commercial, association and church buildings. Family-owned, non-union, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Restored brick and stone facade on a historic downtown commercial building in Elgin Illinois"
 faqs:
   - q: "How much does commercial masonry restoration cost in Elgin, IL?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "commercial masonry restoration Elgin IL" / "facade restoration Elgin" — owner, property manager, condo board or church committee with an older commercial building.
-Competitor pattern observed: this is a genuinely strong field, but strong at one end only. The dominant result is a Milwaukee-based facade firm (414 area code, operating since 1926) whose page emphasizes 10,000+ restoration projects, AIA contracts, terra cotta, steel and concrete restoration, and landmark work including the Elgin Tower Building — targeting government offices, museums, cultural institutions and large institutional clients. Alongside it are directory aggregators (downtobid, Houzz, Procore, Landmarks Illinois) and large union commercial contractors serving GC-managed retail, school and healthcare projects. What NONE of them provide: an FAQ, any cost guidance, a step-by-step process, phasing guidance, or a single line of content addressed to a small property owner, a condo association, or a parish on a real budget. The competitor analysis explicitly flags small owners, associations and budget-conscious property managers as the underserved segment.
-Why this page is better: it does not pretend to compete on institutional scale — it names the segment it actually serves and says so plainly. A two-storefront downtown building, a 24-unit condo association, a parish church and a medical office are not enterprise facade clients, and they are poorly served by firms structured around AIA-contract landmark work. This page gives that buyer what the field withholds: the diagnostic content, the cost drivers, the phasing framework, and an explicit statement of when we are the wrong call.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; an honest right-size/wrong-size statement including when to hire someone else; the parapet-and-through-wall-flashing misdiagnosis; era-matched mortar guidance for downtown blocks; qualitative cost drivers led by access; phasing and reserve-planning framing for boards; occupied-building staging; and internal links. Emerald's non-union, family-owned structure is stated as a factual differentiator for this segment, not as a slight on union contractors.
--->
 
 ## Commercial Masonry Restoration in Elgin, IL
 
-Commercial masonry restoration in Elgin, IL covers facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on **small and mid-size** commercial, association and church buildings. Emerald Masonry LLC works with owners, property managers, condo boards and church committees across Kane County. Family-owned, non-union, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
+Commercial masonry restoration in Elgin, IL covers facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on **small and mid-size** commercial, association and church buildings. Emerald Masonry LLC works with owners, property managers, condo boards and church committees across Kane County. Family-owned, non-union, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
 
 Let us be direct about something the rest of this market is not.
 
@@ -145,7 +139,7 @@ Kane County has no lake moderation, so freeze-thaw cycling is aggressive — doz
 
 We also serve neighboring [Carpentersville](/locations/foundation-masonry-repair-carpentersville-il), [St. Charles](/locations/brick-repair-st-charles-il), [Bartlett](/locations/chimney-repair-bartlett-il) and [Geneva](/locations/parapet-wall-repair-geneva-il). Elgin owners frequently pair restoration with [parapet repair](/locations/parapet-wall-repair-elgin-il), [tuckpointing](/locations/tuckpointing-elgin-il) or [brick replacement](/locations/brick-replacement-elgin-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Budgeting: Treat the Envelope Like the Roof
 

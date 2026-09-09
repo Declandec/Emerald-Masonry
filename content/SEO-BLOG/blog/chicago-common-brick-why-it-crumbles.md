@@ -5,7 +5,7 @@ excerpt: "Behind the pretty face brick on nearly every Chicago bungalow, two-fla
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Deteriorated Chicago common brick wall repaired with matched brick and soft lime mortar"
 keywords:
   - Chicago common brick
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - property manager masonry Chicago
   - free masonry estimate Chicago
-aiSummary: "Chicago common brick is the soft, sandy, locally made brick used for the interior wythes, side walls, rear walls and coach houses of most pre-1940 Chicago buildings. It was never intended for weather exposure, so where it is exposed it absorbs water and spalls rapidly, and it requires soft lime-based mortar and gentle methods to repair. Emerald Masonry LLC restores it across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Chicago common brick is the soft, sandy, locally made brick used for the interior wythes, side walls, rear walls and coach houses of most pre-1940 Chicago buildings. It was never intended for weather exposure, so where it is exposed it absorbs water and spalls rapidly, and it requires soft lime-based mortar and gentle methods to repair. Emerald Masonry LLC restores it across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is Chicago common brick?"
@@ -60,12 +60,12 @@ faqs:
   - q: "How much does Chicago common brick repair cost?"
     a: "It depends on how much of the wall is affected, whether units need replacing or only repointing, the height and access, and how much salvaged brick sourcing is involved. Common brick work on a rear elevation or coach house is a different scope than a full side wall on a three-story two-flat. Emerald Masonry gives free on-site estimates across Chicagoland with a written scope."
   - q: "Who repairs old Chicago brick buildings?"
-    a: "A masonry contractor experienced with soft historic brick and lime-based mortars — not a general contractor or a crew that only works on modern veneer. The specific expertise that matters is mortar matching by hardness, gentle joint preparation, and salvaged brick sourcing. Emerald Masonry LLC has 40+ years of Chicagoland experience with exactly this masonry; call (708) 288-1696."
+    a: "A masonry contractor experienced with soft historic brick and lime-based mortars — not a general contractor or a crew that only works on modern veneer. The specific expertise that matters is mortar matching by hardness, gentle joint preparation, and salvaged brick sourcing. Emerald Masonry LLC has career masons with decades of Chicagoland experience with exactly this masonry; call (708) 288-1696."
 ---
 
 ## Chicago Common Brick: The City's Other Brick
 
-**Chicago common brick is the soft, porous, salmon-and-buff colored brick made from local clay that sits behind and beside the face brick of nearly every pre-1940 Chicago building.** It formed the inner wythes of solid masonry walls, and it faces the side walls, rear elevations, alley walls, coach houses and garages that nobody was expected to look at. It was never designed for weather exposure — and where it is exposed, it deteriorates far faster than the face brick on the front of the same building. Emerald Masonry LLC restores this masonry across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Chicago common brick is the soft, porous, salmon-and-buff colored brick made from local clay that sits behind and beside the face brick of nearly every pre-1940 Chicago building.** It formed the inner wythes of solid masonry walls, and it faces the side walls, rear elevations, alley walls, coach houses and garages that nobody was expected to look at. It was never designed for weather exposure — and where it is exposed, it deteriorates far faster than the face brick on the front of the same building. Emerald Masonry LLC restores this masonry across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 If you own a Chicago **brick bungalow**, **two-flat**, worker cottage, **greystone** or courtyard building, you almost certainly own a large quantity of this brick, whether you knew it or not. And if the side or rear wall of your building is crumbling while the front looks fine, this article explains exactly why.
 
@@ -185,6 +185,6 @@ Chicago common brick is a hundred-year-old material doing a job it was never des
 
 Soft mortar. Gentle preparation. Salvaged matches. Water managed. Do those four things and a crumbling common brick wall goes back to being a sound wall for another few generations. Do the opposite — hard mortar, a pressure washer, a coat of paint — and you can lose in a decade what survived a century.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work on Chicago's oldest masonry the way it needs to be worked on.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work on Chicago's oldest masonry the way it needs to be worked on.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

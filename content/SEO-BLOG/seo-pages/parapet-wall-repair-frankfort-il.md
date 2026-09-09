@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Parapet Wall Repair in Frankfort, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair in Frankfort, IL — coping, flashing, repointing and rebuilds on commercial roof edges. Licensed and insured. Free estimates: (708) 288-1696."
 excerpt: "A parapet is the most punished masonry on any flat-roofed building — weathered on both faces, carrying every gallon that leaves the roof edge. Emerald Masonry LLC repairs and rebuilds parapets on Frankfort's commercial, historic downtown and institutional buildings."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Frankfort, IL — repointing, coping stone replacement, through-wall flashing, and rebuilding deteriorated roof-edge masonry on commercial, historic downtown and institutional buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Frankfort, IL — repointing, coping stone replacement, through-wall flashing, and rebuilding deteriorated roof-edge masonry on commercial, historic downtown and institutional buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Rebuilt brick parapet wall with new coping on a commercial building in Frankfort Illinois"
 faqs:
   - q: "What is a parapet wall and why does it fail first?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Parapet Wall Repair in Frankfort, IL
 
-Parapet wall repair in Frankfort, IL is the restoration of the masonry that extends above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost structural integrity. Emerald Masonry LLC does this work on commercial, historic downtown and institutional buildings across Will County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Parapet wall repair in Frankfort, IL is the restoration of the masonry that extends above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost structural integrity. Emerald Masonry LLC does this work on commercial, historic downtown and institutional buildings across Will County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Frankfort is an unusual mix for a Will County village: a genuinely historic downtown of late-1800s brick commercial buildings along Kansas Street and the old rail corridor, surrounded by decades of newer retail, office and light-industrial development along Route 30 and LaGrange Road. Both ends of that spectrum have flat roofs, and flat roofs mean parapets.
 
@@ -118,7 +118,7 @@ Frankfort's masonry splits into two distinct populations. **Historic downtown**:
 
 We work with building owners, property managers, HOAs, churches and insurance companies across both. We also serve neighboring [Mokena](/locations/masonry-restoration-mokena-il), [New Lenox](/locations/chimney-repair-new-lenox-il), [Tinley Park](/locations/commercial-masonry-tinley-park-il) and [Homer Glen](/locations/lintel-repair-homer-glen-il). Frankfort owners frequently pair parapet work with [brick repair](/locations/brick-repair-frankfort-il), [tuckpointing](/locations/tuckpointing-contractor-frankfort-il) or [masonry sealing](/locations/masonry-sealing-frankfort-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Deferring Parapet Work
 

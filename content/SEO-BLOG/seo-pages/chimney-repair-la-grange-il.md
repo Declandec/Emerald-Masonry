@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in La Grange, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in La Grange, IL — crowns, flashing, lime-mortar repointing and rebuilds on historic-district stacks. Insured. Free estimates: (708) 288-1696."
 excerpt: "The common advice for old chimneys — 'use Type N' — is close but not right for La Grange's softest 1880s brick. Emerald Masonry LLC matches the mortar to the actual hardness of your stack, which on the oldest homes here often means Type O or a custom lime blend."
-aiSummary: "Emerald Masonry LLC provides chimney repair in La Grange, IL (60525) — crown rebuilding, caps, flashing, lime-mortar repointing, corbel reconstruction and rebuilds above the roofline on historic-district and Victorian stacks. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in La Grange, IL (60525) — crown rebuilding, caps, flashing, lime-mortar repointing, corbel reconstruction and rebuilds above the roofline on historic-district and Victorian stacks. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Restored corbelled Victorian brick chimney above the roofline of a historic home in La Grange Illinois"
 faqs:
   - q: "Is Type N mortar the right choice for a historic chimney?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "chimney repair La Grange IL" — homeowner in an affluent, historic-district-heavy Cook County village.
-Competitor pattern observed: this is the strongest competitor set analyzed to date. Alongside the usual chimney-franchise location pages (one operator has THREE near-duplicate La Grange pages, which is thin-content proliferation), the leading result is genuinely good: it segments common problems by housing era, names La Grange architectural styles (Italianate, Queen Anne, Tudor Revival, Craftsman), includes a repair-vs-replace decision section, a five-question FAQ covering historic districts and permits, and — unusually — a real mortar specification citing Type N (ASTM C270) with a warning that Portland-heavy mortar damages historic brick within five to ten years. Its gaps: NO cost guidance or cost-driver framework at all, NO step-by-step process, no answer-first summary, no schema markup, an obviously templated multi-city framework with La Grange details bolted onto generic listings, and — telling on a La Grange page — case references to Park Ridge and Evanston rather than local proof.
-Why this page is better: it beats the competitor on their own strongest point. Prescribing "Type N for historic homes" is closer than most contractors get, but it is still an oversimplification: Type N contains Portland cement and can be harder than genuinely soft 1880s–1890s brick, which often wants Type O or a custom lime blend. This page presents the full mortar gradient (O/N/S/M) and the governing softer-than-the-brick rule, so the homeowner can evaluate any contractor's answer rather than accept a single spec. It also supplies the cost-driver framework and repair process the competitor omits entirely.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; the mortar-hardness gradient with Type O corrective; the three-water-paths diagnostic; a full repair ladder and process; qualitative cost drivers tied to height, corbel complexity and custom mortar; permit and historic-overlay context; corbel reconstruction rather than simplification; and internal links to related services. Distinct in angle from the Beverly (Ridge District multi-flue), Mount Greenwood (gas-conversion orphaned flues), Evergreen Park (flashing on low-pitch roofs), Batavia (four-era table) and Elgin (corbelling + review) chimney pages.
--->
 
 ## Chimney Repair in La Grange, IL
 
-Chimney repair in La Grange, IL means matching the repair — and especially the mortar — to a stack that is often well over a century old. Emerald Masonry LLC rebuilds crowns, replaces flashing, repoints with correctly matched mortar, reconstructs corbelled tops and rebuilds above the roofline. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in La Grange, IL means matching the repair — and especially the mortar — to a stack that is often well over a century old. Emerald Masonry LLC rebuilds crowns, replaces flashing, repoints with correctly matched mortar, reconstructs corbelled tops and rebuilds above the roofline. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 La Grange has an unusual concentration of genuinely old housing for a Cook County suburb — a village incorporated in 1879 with multiple historic district overlays, full of **Italianates, Queen Annes, Stick-style homes, Tudor Revivals, Craftsman bungalows and Prairie-influenced houses** along the streets running off the BNSF line.
 
@@ -158,7 +152,7 @@ La Grange sits in Cook County with no lake buffer, taking the full regional free
 
 We work throughout 60525 — the historic district streets around the village center and the Stone Avenue and La Grange Road stations, the Victorians north and south of Ogden, the bungalow and Tudor blocks, and the churches and institutional buildings downtown. We also serve neighboring [La Grange Park](/locations/limestone-sill-repair-la-grange-park-il), [Western Springs](/locations/limestone-sill-repair-western-springs-il), [Brookfield](/locations/tuckpointing-brookfield-il) and [Countryside](/locations/chimney-repair-countryside-il). La Grange owners frequently pair chimney work with [brick repair](/locations/brick-repair-la-grange-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

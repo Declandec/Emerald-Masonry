@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Residential Masonry Restoration Oak Forest, IL | Emerald"
 metaDescription: "Residential masonry restoration in Oak Forest, IL — phased brick, chimney, lintel and joint repair on post-war homes. Insured. Free estimates: (708) 288-1696."
 excerpt: "When the whole exterior needs work and the budget is one item a year, the order you do things in matters more than anything else. Emerald Masonry LLC scopes Oak Forest homes by element, ranks what is actually urgent, and tells you plainly what can wait."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Oak Forest, IL — scoping the full exterior envelope by element, ranking repairs by urgency, and phasing brick, chimney, lintel, sill and joint work across budget years. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Oak Forest, IL — scoping the full exterior envelope by element, ranking repairs by urgency, and phasing brick, chimney, lintel, sill and joint work across budget years. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored brick facade and chimney on a post-war home in Oak Forest Illinois"
 faqs:
   - q: "How much does masonry restoration cost in Oak Forest, IL?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "residential masonry restoration Oak Forest IL" / "masonry repair Oak Forest" — homeowner in a modest post-war south-suburban Cook County village.
-Competitor pattern observed: the SERP mixes chimney franchises, roofing-and-siding companies bolting masonry onto their service list, and regional tuckpointing shops with cloned service-area pages. The most structurally complete result is transparently automated: heavy boilerplate ("Property owners in Oak Forest, IL and nearby communities…"), repetitive sentence patterns, stock imagery, no contractor credentials or certifications, and no schema markup. Its one apparent advantage is a "Cost Snapshot" — and that is actually its worst feature: it publishes generic national-style figures ($300–$1,500 repairs, $10–$30/sq ft, $50–$100/hr) with NO cost drivers, NO mortar-matching content whatsoever, NO process, and NO prioritization guidance. A dollar range applied to a wall nobody has seen is worse than silence, because it anchors the homeowner to a number that has nothing to do with their house.
-Why this page is better: it takes the position that actually helps someone in Oak Forest — this is a village of modest post-war homes where the realistic question is not "what does restoration cost" but "the whole exterior needs work and I can afford one item a year, so what do I do first." It supplies an explicit priority order, phasing guidance, per-element itemization, and the honest counter to online cost anchors: the drivers, not a fabricated range.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; an explicit repair-priority sequence; phasing across budget years with the all-at-once trade-off stated honestly; real cost drivers instead of a generic range; era-appropriate mortar matching the competitor omits entirely; Oak Forest's actual post-war housing stock (brick ranches, Cape Cods, split-levels, bi-levels, wide picture-window and garage lintel spans); and internal links. Deliberately distinct in angle from the Orland Park residential-restoration page, which addresses affluent 1970s–2000s veneer and leads on restoration-vs-repair rather than budget phasing.
--->
 
 ## Residential Masonry Restoration in Oak Forest, IL
 
-Residential masonry restoration in Oak Forest, IL means scoping the whole exterior — joints, brick, chimney, lintels and sills — then doing it **in the right order, at a pace you can actually fund**. Emerald Masonry LLC itemizes by element, ranks what is urgent, and tells you plainly what can wait a season. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Oak Forest, IL means scoping the whole exterior — joints, brick, chimney, lintels and sills — then doing it **in the right order, at a pace you can actually fund**. Emerald Masonry LLC itemizes by element, ranks what is urgent, and tells you plainly what can wait a season. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Let us start with the question most Oak Forest homeowners are actually asking, which is not "what does masonry restoration cost."
 
@@ -154,7 +148,7 @@ Oak Forest sits in Cook County with no lake buffer, taking the full regional fre
 
 We work throughout 60452 — the residential grid around 159th Street, the neighborhoods near the Metra Rock Island station, the blocks toward Cicero and Central, and the churches and commercial properties along the main corridors. We also serve neighboring [Tinley Park](/locations/masonry-sealing-tinley-park-il), [Midlothian](/locations/tuckpointing-midlothian-il), [Crestwood](/locations/chimney-repair-crestwood-il) and [Country Club Hills](/locations/chimney-repair-country-club-hills-il). Oak Forest owners frequently start with [chimney repair](/locations/chimney-repair-oak-forest-il) and expand from there.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

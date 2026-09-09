@@ -18,10 +18,10 @@ service: "Tuckpointing & Repointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Manhattan, IL | Emerald Masonry"
-metaDescription: "Tuckpointing & brick repointing in Manhattan, IL by Emerald Masonry — family-owned, 40+ yrs, licensed, bonded & insured. Free on-site estimate (708) 288-1696."
+metaDescription: "Tuckpointing & brick repointing in Manhattan, IL by Emerald Masonry — family-owned, career masons, licensed, bonded & insured. Free on-site estimate (708) 288-1696."
 excerpt: "Crumbling or cracked mortar joints on your Manhattan, IL brick? Emerald Masonry LLC grinds out failed joints and repoints with color-matched mortar across Will County. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides tuckpointing and brick repointing in Manhattan, IL — grinding out failed mortar joints and repointing with color-matched mortar on Will County homes, chimneys, and buildings, from the older village center to newer brick subdivisions. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing and brick repointing in Manhattan, IL — grinding out failed mortar joints and repointing with color-matched mortar on Will County homes, chimneys, and buildings, from the older village center to newer brick subdivisions. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Repointed brick wall on a Manhattan, IL home after professional tuckpointing"
 faqs:
   - q: "How much does tuckpointing cost in Manhattan, IL?"
@@ -31,13 +31,13 @@ faqs:
   - q: "How long does tuckpointing last?"
     a: "When joints are ground out to the proper depth and repointed with the correct mortar type, quality tuckpointing commonly lasts 25 years or more. The biggest factor in longevity is matching the mortar to the brick — too hard a mortar on softer brick causes damage over time. Will County's freeze-thaw winters make proper depth and tooling especially important."
   - q: "Do you serve Manhattan and the rest of Will County?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, and we work throughout Will County including Manhattan, New Lenox, Mokena, and Frankfort. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, and we work throughout Will County including Manhattan, New Lenox, Mokena, and Frankfort. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides **tuckpointing and brick repointing in Manhattan, IL** — we grind out failed mortar joints and repoint them with color-matched mortar so your brick is sealed, weather-tight, and structurally sound again. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience serving Will County. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides **tuckpointing and brick repointing in Manhattan, IL** — we grind out failed mortar joints and repoint them with color-matched mortar so your brick is sealed, weather-tight, and structurally sound again. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience serving Will County. For a **free on-site estimate, call (708) 288-1696.**
 
 Manhattan is a mix of older village-center masonry and a wave of newer brick subdivisions — and both kinds of homes reach a point where the mortar wears out before the brick does. That is what tuckpointing fixes.
 
@@ -93,7 +93,7 @@ We can't quote tuckpointing sight-unseen. The honest cost drivers are:
 
 Manhattan has grown from a small farming village into a community with both older downtown masonry and a lot of newer brick subdivisions out toward New Lenox and Frankfort. The older buildings carry original mortar that is long overdue for repointing; the newer homes are now far enough along that their most exposed walls and chimneys are starting to show joint erosion. Both live with the same wide-open, wind-driven Will County weather — and that exposure is exactly what wears mortar joints out. As a Chicagoland masonry company that works throughout the county, we build joints to handle those winters.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 If tuckpointing turns up other issues, we handle the related work too — see our [tuckpointing and repointing services](/services/tuckpointing), [brick repair and replacement](/services/brick-repair), [chimney repair](/services/chimney-repair), and [masonry sealing and waterproofing](/services/masonry-sealing).
 
@@ -113,7 +113,7 @@ When joints are ground out to the proper depth and repointed with the correct mo
 
 **Do you serve Manhattan and the rest of Will County?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, and we work throughout Will County including Manhattan, New Lenox, Mokena, and Frankfort. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, and we work throughout Will County including Manhattan, New Lenox, Mokena, and Frankfort. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Tuckpointing Estimate in Manhattan
 

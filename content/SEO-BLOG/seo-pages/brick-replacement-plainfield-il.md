@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Plainfield, IL | Emerald Masonry LLC"
 metaDescription: "Brick replacement in Plainfield, IL — spalled veneer units replaced and the water source corrected. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "On a 20-year-old Plainfield home, the spalled brick is rarely a brick problem. It is a sprinkler head, a mulch bed, or a downspout — and replacing the units without correcting that just buys you the same repair again in five years."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Plainfield, IL — removing spalled and cracked brick veneer, correcting the water source that caused it, clearing blocked weep holes, and setting matched units with properly matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free estimates: (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Plainfield, IL — removing spalled and cracked brick veneer, correcting the water source that caused it, clearing blocked weep holes, and setting matched units with properly matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free estimates: (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Replaced brick veneer units blending into the lower wall of a Plainfield, Illinois home"
 faqs:
   - q: "Why is my brick flaking apart on a house that is only 20 years old?"
@@ -43,7 +43,7 @@ competitorInformed: false
 
 ## Brick Replacement in Plainfield, IL
 
-Brick replacement in Plainfield, IL means removing units whose faces have spalled, cracked or crumbled and setting matched brick in their place — **and correcting whatever kept that spot wet in the first place.** Emerald Masonry LLC serves Will County: family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick replacement in Plainfield, IL means removing units whose faces have spalled, cracked or crumbled and setting matched brick in their place — **and correcting whatever kept that spot wet in the first place.** Emerald Masonry LLC serves Will County: family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Plainfield poses a question we hear more here than almost anywhere else in Chicagoland:
 
@@ -146,7 +146,7 @@ A spalled brick has lost the fired skin that made it weather-resistant. From tha
 
 **The repair is small while it is still about brick.**
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Plainfield and Will County
 

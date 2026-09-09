@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "Masonry damage claims in Illinois are more complicated than they look. What's covered, what's excluded, and how to document damage effectively can determine whether you get a fair settlement or a denial. Here's what property managers and building owners need to know before filing."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - masonry damage insurance claim Illinois
   - brick damage insurance coverage Illinois

@@ -18,7 +18,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Glen Ellyn, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing and mortar joint repair in Glen Ellyn, IL. Emerald Masonry LLC serves DuPage County brick homes and commercial buildings. Free estimates."
 excerpt: "Glen Ellyn's older neighborhoods carry substantial brick construction from the 1920s through the 1950s — building stock that's now at or past the standard tuckpointing interval for Chicagoland's climate. Emerald Masonry LLC provides professional mortar joint repair for Glen Ellyn homes, commercial buildings, and institutional properties throughout DuPage County."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on brick building in Glen Ellyn, IL"
 competitorInformed: false
 ---
@@ -91,7 +91,7 @@ Caulking is an elastomeric sealant applied to control joints, window perimeters,
 
 ## Service Area
 
-Emerald Masonry LLC serves Glen Ellyn and the surrounding DuPage County communities from our base in Palos Heights, IL. We work regularly in Wheaton, Lombard, Villa Park, Elmhurst, Lisle, Westmont, Downers Grove, and throughout the western suburbs. Our crews have 40+ years in Chicagoland masonry — long enough to have worked on the full age range of DuPage County's building stock, from pre-war brick to 1990s commercial facades.
+Emerald Masonry LLC serves Glen Ellyn and the surrounding DuPage County communities from our base in Palos Heights, IL. We work regularly in Wheaton, Lombard, Villa Park, Elmhurst, Lisle, Westmont, Downers Grove, and throughout the western suburbs. Our crews have career masons in Chicagoland masonry — long enough to have worked on the full age range of DuPage County's building stock, from pre-war brick to 1990s commercial facades.
 
 Free on-site estimates for tuckpointing and mortar joint repair in Glen Ellyn. [Contact us online](/#contact) or call **(708) 288-1696**.
 

@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration Joliet, IL | Emerald Masonry"
 metaDescription: "Commercial masonry restoration in Joliet, IL — limestone facades, brick warehouses, storefronts and parapets, phased around your tenants. Call (708) 288-1696."
 excerpt: "Joliet asks a commercial mason to do two very different jobs: restore soft local limestone downtown and repair hard industrial brick along the corridors. Most contractors are set up for one or the other."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Joliet, IL — restoring limestone and brick facades, parapets, storefronts, warehouses and institutional buildings across Will County, phased so tenants stay open. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Joliet, IL — restoring limestone and brick facades, parapets, storefronts, warehouses and institutional buildings across Will County, phased so tenants stay open. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Restored commercial brick and limestone facade with repointed joints in Joliet, Illinois"
 faqs:
   - q: "How much does commercial masonry restoration cost in Joliet, IL?"
@@ -47,7 +47,7 @@ competitorInformed: true
 
 ## Commercial Masonry Restoration in Joliet, IL
 
-Commercial masonry restoration in Joliet, IL means being fluent in two completely different building traditions inside the same city — and most contractors are honestly set up for only one. Emerald Masonry LLC restores commercial, industrial, institutional and multi-tenant masonry throughout Joliet and Will County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates, $5,000 project minimum. Call **(708) 288-1696**.
+Commercial masonry restoration in Joliet, IL means being fluent in two completely different building traditions inside the same city — and most contractors are honestly set up for only one. Emerald Masonry LLC restores commercial, industrial, institutional and multi-tenant masonry throughout Joliet and Will County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates, $5,000 project minimum. Call **(708) 288-1696**.
 
 Joliet is a limestone city with a brick industrial economy wrapped around it, and those two building types fail differently, get repaired differently, and are ruined by different mistakes.
 
@@ -111,7 +111,7 @@ Soft, lime-rich mortars for limestone and pre-1930s soft brick; Type N and, wher
 
 Elevation area and the true percentage of failed joints and units · parapet condition, and whether it can be repointed or must be rebuilt · access method, from lift to pipe staging to a tight downtown setback · overhead protection over public walkways · lintel count and opening sizes · off-hours or phased scheduling · limestone versus brick, and match difficulty · season and curing conditions. We never quote a commercial building over the phone — the [assessment is free and written](/blog/what-a-masonry-estimate-should-include).
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Joliet and Will County
 
@@ -119,6 +119,6 @@ We restore commercial masonry across Joliet — the downtown limestone blocks, t
 
 ## Why Joliet Owners and Property Managers Call Emerald
 
-We give you a ranked scope instead of a lump sum, we phase the work so the building keeps earning, and we tell you when something can wait — and when it genuinely cannot. We specify soft mortar on limestone because that is what the stone requires, not because it is easier. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We give you a ranked scope instead of a lump sum, we phase the work so the building keeps earning, and we tell you when something can wait — and when it genuinely cannot. We specify soft mortar on limestone because that is what the stone requires, not because it is easier. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 Need a written, phased assessment of your Joliet building's masonry? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

@@ -5,7 +5,7 @@ excerpt: "Both are skilled trades and both lay brick, but they are trained on op
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Restoration mason hand-raking mortar joints on a century-old Chicagoland brick wall"
 keywords:
   - restoration mason vs new construction mason
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
   - church masonry restoration Illinois
-aiSummary: "New-construction masons build walls from known modern materials to a specification, while restoration masons repair unknown older walls without damaging them — which requires mortar analysis, hardness matching, hand joint preparation and salvaged unit sourcing. On soft pre-1930 masonry the wrong approach spalls brick faces within a few winters. Emerald Masonry LLC does restoration work across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "New-construction masons build walls from known modern materials to a specification, while restoration masons repair unknown older walls without damaging them — which requires mortar analysis, hardness matching, hand joint preparation and salvaged unit sourcing. On soft pre-1930 masonry the wrong approach spalls brick faces within a few winters. Emerald Masonry LLC does restoration work across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "What is the difference between a restoration mason and a regular mason?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Two Trades That Both Lay Brick
 
-**A new-construction mason builds walls from known modern materials to a specification. A restoration mason repairs an unknown existing wall without damaging it.** Both are genuinely skilled, but they are trained on opposite problems — and on soft pre-1930 Chicagoland masonry, the wrong approach spalls the brick faces within a few winters. Emerald Masonry LLC does restoration work across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**A new-construction mason builds walls from known modern materials to a specification. A restoration mason repairs an unknown existing wall without damaging it.** Both are genuinely skilled, but they are trained on opposite problems — and on soft pre-1930 Chicagoland masonry, the wrong approach spalls the brick faces within a few winters. Emerald Masonry LLC does restoration work across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 This is not a knock on new-construction masons. **The trade is demanding and they are very good at it.** Laying a plumb, level, tolerance-accurate wall at production speed is real skill that restoration work does not require.
 
@@ -218,6 +218,6 @@ Ask what mortar, ask how they know, ask grind-or-rake, ask about the match. **A 
 
 If your house predates 1930, that conversation is the single most consequential thing you will do for it.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We match the approach to the wall in front of us.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We match the approach to the wall in front of us.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

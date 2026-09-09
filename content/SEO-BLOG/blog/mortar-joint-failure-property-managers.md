@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Mortar joint failure is the single most common masonry problem in Chicagoland commercial buildings — and the most preventable. Here's how it happens, what it costs if ignored, and how to manage it intelligently."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/work-brick-repair.jpg"
+image: "/images/work-brick-repair.webp"
 keywords:
   - mortar joint failure commercial buildings
   - tuckpointing property management Chicago

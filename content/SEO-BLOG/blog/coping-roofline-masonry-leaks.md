@@ -4,7 +4,7 @@ date: "2026-06-17"
 excerpt: "When a brick building leaks, the instinct is to blame the roof. But on masonry buildings, the water often starts higher — at the coping and the roofline. Here's how the top of your wall is supposed to keep water out, and what goes wrong when it doesn't."
 service: "Parapet Wall Repair"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - coping stone repair Chicago
   - parapet wall leak repair
@@ -74,4 +74,4 @@ We cover the full scope of this work on our [parapet wall repair](/services/comm
 
 If you have a brick building that keeps leaking and the source never seems clear, look up before you look anywhere else. The coping and roofline masonry are the umbrella for the entire wall, and when that umbrella has holes in it, everything below gets wet. The good news is that this is fixable — and fixing it at the top usually stops a whole cluster of downstream leaks at once.
 
-If your Chicagoland building has stubborn leaks that defy diagnosis, [contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment. With more than 40 years of masonry experience across the region, we know where to look — and we will tell you straight what is letting the water in.
+If your Chicagoland building has stubborn leaks that defy diagnosis, [contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment. With more than decades of masonry experience across the region, we know where to look — and we will tell you straight what is letting the water in.

@@ -16,7 +16,7 @@ service: "Efflorescence & Waterproofing"
 metaTitle: "Efflorescence & Masonry Waterproofing in Glendale Heights, IL | Emerald Masonry LLC"
 metaDescription: "Efflorescence treatment and masonry waterproofing in Glendale Heights, IL — stop moisture infiltration in brick buildings. Penetrating sealers, mortar repair. Free estimates."
 excerpt: "Efflorescence on a brick building in Glendale Heights isn't just an aesthetic problem — the white staining is evidence that water is moving through the masonry. Emerald Masonry LLC identifies the source, addresses the failed joints or coping, and applies penetrating sealer to protect the building going forward."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Efflorescence treatment and waterproofing applied to a brick building in Glendale Heights Illinois DuPage County"
 competitorInformed: false
 ---

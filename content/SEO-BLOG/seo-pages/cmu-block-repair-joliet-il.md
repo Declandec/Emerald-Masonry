@@ -18,7 +18,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "CMU Block Wall Repair in Joliet, IL | Emerald Masonry LLC"
 metaDescription: "CMU block wall repair and restoration in Joliet, IL. Commercial and industrial concrete masonry repair for warehouses, retail, and institutional buildings. Emerald Masonry LLC — free estimates."
 excerpt: "CMU block walls in Joliet's commercial and industrial buildings develop specific failure modes that differ from brick masonry. Emerald Masonry LLC handles block repair, mortar joint restoration, and full CMU rehabilitation for commercial and industrial properties throughout Will County."
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 imageAlt: "CMU concrete block wall repair on commercial building in Joliet Illinois"
 ---
 

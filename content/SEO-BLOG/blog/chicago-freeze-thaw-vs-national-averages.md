@@ -4,7 +4,7 @@ date: "2026-06-03"
 excerpt: "Freeze-thaw cycling is the single biggest driver of masonry deterioration in the Chicago area — and Chicagoland gets far more of it than most of the country. Here's how our climate stacks up against national averages, and what those extra cycles actually do to brick and mortar."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - Chicago freeze-thaw masonry damage
   - freeze-thaw cycles Illinois brick
@@ -95,4 +95,4 @@ Repairs done with the wrong mortar — too hard for the existing brick — don't
 
 Chicago's freeze-thaw climate isn't just "cold." It's a high-frequency, moisture-rich cycling environment that ranks among the harder masonry climates in the country — harder than the warm regions that pull the national average down, and in some ways harder on masonry than colder-but-steadier northern climates. That's not a reason to panic; it's a reason to maintain on a Chicago schedule, keep water out aggressively, and fix small problems before the winter turns them into big ones.
 
-If you own or manage a brick building in the Chicago area and want a straight assessment of where water is getting in and how urgent it is, **[contact Emerald Masonry](/#contact)** for a free on-site evaluation. We've spent more than 40 years watching this climate work on Chicagoland masonry, and we'll tell you honestly what needs attention now and what can wait. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.
+If you own or manage a brick building in the Chicago area and want a straight assessment of where water is getting in and how urgent it is, **[contact Emerald Masonry](/#contact)** for a free on-site evaluation. We've spent more than decades watching this climate work on Chicagoland masonry, and we'll tell you honestly what needs attention now and what can wait. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

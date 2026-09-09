@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Riverside, IL | Emerald Masonry"
 metaDescription: "Limestone and sill repair in Riverside, IL — restoring stone sills, lintels and trim on landmark-district homes. Insured. Free estimates: (708) 288-1696."
 excerpt: "Riverside is a National Historic Landmark district, which changes the standard a stone repair is held to. Removing an original unit is a decision you cannot reverse — so on these houses, repair is not the frugal option, it is the correct one."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Riverside, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables and trim on landmark-district homes using dutchman inserts and matched patching. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Riverside, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables and trim on landmark-district homes using dutchman inserts and matched patching. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored limestone window sill and stone trim on a historic home in Riverside Illinois"
 faqs:
   - q: "Can a cracked limestone sill be repaired or does it need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone and Sill Repair in Riverside, IL
 
-Limestone and sill repair in Riverside, IL is the restoration of the stone elements on a house — window and door sills, lintels, water tables, steps and trim — when they crack, spall, erode or shift. Emerald Masonry LLC repairs those units rather than replacing them, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Riverside, IL is the restoration of the stone elements on a house — window and door sills, lintels, water tables, steps and trim — when they crack, spall, erode or shift. Emerald Masonry LLC repairs those units rather than replacing them, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Riverside changes the calculation on stone repair, and it is worth being explicit about why.
 
@@ -135,7 +135,7 @@ Riverside sits along the Des Plaines River in Cook County with no lake buffer, t
 
 We work throughout 60546 — the curvilinear streets of the original Olmsted plan, the homes along the river and around the Common, the blocks near the Riverside Metra station and the historic Water Tower, and the churches and institutional buildings in the village. We also serve neighboring [Brookfield](/locations/tuckpointing-brookfield-il), [La Grange Park](/locations/limestone-sill-repair-la-grange-park-il), [Berwyn](/locations/masonry-restoration-berwyn-il) and [Cicero](/locations/lintel-replacement-cicero-il). Riverside owners frequently pair stone work with [tuckpointing](/locations/tuckpointing-riverside-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Waiting Costs More Here
 

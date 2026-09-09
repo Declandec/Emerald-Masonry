@@ -19,7 +19,7 @@ secondaryKeywords:
   - "how to choose a masonry sealer"
 service: "Masonry Sealing / Waterproofing"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 faqs:
   - q: "Should I seal my brick at all?"
     a: "Often, yes — if the masonry is sound. Sealing a porous, weather-exposed brick wall with a breathable repellent reduces water absorption, slows freeze-thaw damage, and cuts down efflorescence. But sealing is never a substitute for repair: failed joints and cracks must be tuckpointed first, because no sealer can bridge a gap."
@@ -79,7 +79,7 @@ No sealer of any kind is a substitute for masonry repair. A sealer cannot bridge
 
 On a sealing job we inspect the wall first and tell you honestly whether it needs repair before it needs sealing. If repairs are needed, we tuckpoint and fix them first. Then we select a breathable penetrating repellent matched to your specific brick, block, or limestone — limestone and soft older brick absorb very differently from hard modern brick — and apply it at the correct coverage rate for full penetration. The result protects the wall without changing how it looks and without trapping a drop of moisture inside.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
 
 For related reading and services, see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair).
 

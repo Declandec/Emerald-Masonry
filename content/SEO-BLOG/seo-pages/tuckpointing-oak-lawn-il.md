@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Oak Lawn, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Oak Lawn, IL — mortar joint repair and brick repointing for ranches and Georgians. Family-owned, licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Oak Lawn's brick was mostly laid between 1950 and 1970, and that post-war mortar is now at the end of its service life. Emerald Masonry LLC repoints Oak Lawn homes with mortar matched to that specific era of brick and mix — protecting the wall instead of quietly damaging it."
-aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Oak Lawn, IL — grinding out failed mortar joints and repointing brick ranches, Georgians, Cape Cods and chimneys with color- and hardness-matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Oak Lawn, IL — grinding out failed mortar joints and repointing brick ranches, Georgians, Cape Cods and chimneys with color- and hardness-matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a post-war brick ranch home in Oak Lawn Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Oak Lawn, IL?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Oak Lawn IL" / "brick repointing Oak Lawn" — local residential tuckpointing intent, 60453.
-Competitor pattern observed: the top-ranking results are exact-match-domain local pages and multi-town service-area templates (oaklawntuckpointing.com-style, plus regional shops cloning one page across dozens of suburbs). The strongest of them lists 11 services, a gallery, three testimonials and a generic 3-step process — but has NO FAQ section, NO answer-first summary, NO cost guidance, NO mortar-matching explanation, and no Oak Lawn architectural or climate specificity beyond a street address. One even renders its experience metric as a broken "0 + Years of Experience."
-Why this page is better: it leads with a standalone, citable answer; it is grounded in Oak Lawn's actual post-war housing stock (1950s–60s brick ranches, Georgians, Cape Cods and split-levels, much of it rebuilt after the 1967 tornado); and it explains the single most important technical point every competitor omits — that post-war Portland-based mortar and denser brick require a different mix than a pre-1920 lime-mortar bungalow.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; qualitative cost-driver framework; era-specific mortar-hardness matching; real Oak Lawn geography (95th Street corridor, Stony Creek, Advocate Christ Medical Center area, Evergreen Park / Chicago Ridge / Burbank borders); a signs-of-failure checklist; internal links to related services; and honest guidance on spot repointing vs. full repointing.
--->
 
 ## Tuckpointing in Oak Lawn, IL: What It Is and When You Need It
 
-Tuckpointing in Oak Lawn, IL is the repair that removes failed mortar from your brick joints and replaces it with fresh mortar matched to the age, color and hardness of your original masonry. Emerald Masonry LLC has been doing this work across the southwest suburbs for 40+ years — family-owned, licensed, bonded and insured, with free on-site estimates. If the mortar on your ranch, Georgian or chimney is sandy, receded or crumbling, call **(708) 288-1696**.
+Tuckpointing in Oak Lawn, IL is the repair that removes failed mortar from your brick joints and replaces it with fresh mortar matched to the age, color and hardness of your original masonry. Emerald Masonry LLC has been doing this work across the southwest suburbs for career masons — family-owned, licensed, bonded and insured, with free on-site estimates. If the mortar on your ranch, Georgian or chimney is sandy, receded or crumbling, call **(708) 288-1696**.
 
 Oak Lawn is a village built almost entirely of brick, and almost entirely in one stretch of time. The village grew explosively from the 1950s through the early 1970s, and a large share of the housing north and east of 95th Street was rebuilt or repaired after the 1967 tornado. That means most Oak Lawn masonry shares a birthday — and it means most Oak Lawn mortar is reaching the end of its service life at the same time. Sixty to seventy Chicago winters is simply what a mortar joint gets.
 
@@ -119,7 +113,7 @@ Oak Lawn's masonry challenges are specific. The village sits in a stretch of Coo
 
 We work throughout 60453 and the surrounding area: the residential blocks north of 95th Street toward the Evergreen Park and Chicago Ridge borders, the neighborhoods along Stony Creek, the older sections near Cook Avenue and the Metra station, and the commercial and medical corridor around 95th Street and Advocate Christ Medical Center, where [commercial masonry restoration](/services/commercial-masonry-restoration) and parapet work are more common than residential repointing. We also serve neighboring [Evergreen Park](/locations/brick-repair-evergreen-park-il) and [Burbank](/locations/chimney-repair-burbank-il) with the same crews.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Risks of Waiting
 
@@ -127,6 +121,6 @@ Deferred tuckpointing does not stay a tuckpointing problem. Open joints let wate
 
 ## Get a Free Tuckpointing Estimate in Oak Lawn
 
-If your mortar is crumbling, receded or cracked, the fix is straightforward and it is far cheaper now than after the brick starts failing. Emerald Masonry LLC is family-owned, licensed, bonded and insured, with 40+ years of Chicagoland masonry experience and free on-site estimates for Oak Lawn homeowners, property managers and building owners.
+If your mortar is crumbling, receded or cracked, the fix is straightforward and it is far cheaper now than after the brick starts failing. Emerald Masonry LLC is family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates for Oak Lawn homeowners, property managers and building owners.
 
 **Call (708) 288-1696 or [request your free estimate](/#contact).**

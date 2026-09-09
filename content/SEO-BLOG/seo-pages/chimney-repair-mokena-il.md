@@ -16,9 +16,9 @@ secondaryKeywords:
 city: "Mokena, IL"
 service: "Chimney Repair"
 metaTitle: "Chimney Repair in Mokena, IL | Emerald Masonry LLC"
-metaDescription: "Professional chimney repair in Mokena, IL — crown, flashing, tuckpointing & rebuilds. Licensed masonry contractor, 40+ yrs experience. (708) 288-1696."
+metaDescription: "Professional chimney repair in Mokena, IL — crown, flashing, tuckpointing & rebuilds. Licensed masonry contractor, career masons. (708) 288-1696."
 excerpt: "A leaking or deteriorating chimney is one of the more deceptive maintenance problems a Mokena homeowner faces — interior damage appears long after the exterior problem started. Emerald Masonry LLC performs the full range of chimney repair work, from mortar joint repointing and crown repairs to partial and full chimney rebuilds, serving Mokena and Will County residential and commercial properties."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired and repointed brick chimney on a residential home in Mokena Illinois Will County"
 competitorInformed: false
 ---
@@ -27,7 +27,7 @@ Most chimney problems don't announce themselves right away. A homeowner notices 
 
 Mokena's residential neighborhoods — particularly the subdivisions built between the late 1970s and 1990s — have a significant number of brick chimneys that are now 30 to 50 years old. That's the age range when chimney maintenance becomes urgent. The original crowns crack. The flashing fails. The mortar joints at the top of the stack — most exposed to weather — begin to recede.
 
-Emerald Masonry LLC has been repairing Chicagoland chimneys for over 40 years. We assess the full chimney system, not just the visible symptom.
+Emerald Masonry LLC has been repairing Chicagoland chimneys for decades. We assess the full chimney system, not just the visible symptom.
 
 ## The Components That Fail First
 

@@ -16,10 +16,10 @@ service: "Brick Repair & Replacement"
 serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair Bolingbrook IL | Emerald Masonry LLC"
-metaDescription: "Brick repair and replacement in Bolingbrook, IL. Emerald Masonry fixes spalling, cracked and loose brick with expert brick matching. 40+ years. Free estimate."
+metaDescription: "Brick repair and replacement in Bolingbrook, IL. Emerald Masonry fixes spalling, cracked and loose brick with expert brick matching. career masons. Free estimate."
 excerpt: "Spalling, cracked, or loose brick in Bolingbrook? Emerald Masonry LLC repairs and replaces damaged brick with precise size, color, and texture matching. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides brick repair and replacement in Bolingbrook, IL, fixing spalling faces, cracked and loose brick, step cracks, and open joints on veneer and full masonry. With 40+ years of experience and expert brick matching, we restore walls to sound, weather-tight condition. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair and replacement in Bolingbrook, IL, fixing spalling faces, cracked and loose brick, step cracks, and open joints on veneer and full masonry. With career masons on every crew and expert brick matching, we restore walls to sound, weather-tight condition. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Restored brick wall after brick repair on a Bolingbrook, IL home by Emerald Masonry LLC"
 faqs:
   - q: "Can you match my existing brick in Bolingbrook?"
@@ -31,7 +31,7 @@ faqs:
   - q: "How much does brick repair cost in Bolingbrook?"
     a: "Cost depends on the number of damaged units, access and height, whether brick matching or a special order is required, and how much surrounding joint work is needed. We never quote a flat price sight unseen. We provide a clear, itemized free on-site estimate after inspecting the wall."
   - q: "Are you licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a licensed, bonded, and insured masonry contractor. We are family-owned, non-union, and bring 40+ years of experience to brick repair and replacement across Bolingbrook and the Chicagoland suburbs."
+    a: "Yes. Emerald Masonry LLC is a licensed, bonded, and insured masonry contractor. We are family-owned, non-union, and bring career masons with decades of experience to brick repair and replacement across Bolingbrook and the Chicagoland suburbs."
 competitorInformed: false
 ---
 
@@ -103,11 +103,11 @@ Bolingbrook grew fast, and its housing stock shows it. Large brick-and-frame sub
 
 **How much does brick repair cost?** It depends on the number of units, access, matching requirements, and joint work — quoted in a free on-site estimate, never a flat phone price.
 
-**Are you licensed and insured?** Yes — licensed, bonded, and insured, family-owned, with 40+ years of experience.
+**Are you licensed and insured?** Yes — licensed, bonded, and insured, family-owned, led by career masons with decades of hands-on experience.
 
 ## Why Bolingbrook homeowners trust Emerald Masonry
 
-With **40+ years** of hands-on masonry experience, we have seen every brick line, mortar type, and failure mode the Chicagoland climate produces. We are family-owned, non-union, licensed, bonded, and insured, and we stand behind clean, matched repairs that hold up. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+With **career masons** of hands-on masonry experience, we have seen every brick line, mortar type, and failure mode the Chicagoland climate produces. We are family-owned, non-union, licensed, bonded, and insured, and we stand behind clean, matched repairs that hold up. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Related services
 

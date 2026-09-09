@@ -17,10 +17,10 @@ service: "Tuckpointing & Repointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Brookfield, IL | Emerald Masonry"
-metaDescription: "Tuckpointing in Brookfield, IL — color-matched mortar joint repair for the village's 1920s–1950s brick homes. Emerald Masonry, 40+ yrs, licensed & insured. Free estimate (708) 288-1696."
+metaDescription: "Tuckpointing in Brookfield, IL — color-matched mortar joint repair for the village's 1920s–1950s brick homes. Emerald Masonry, career masons, licensed & insured. Free estimate (708) 288-1696."
 excerpt: "Crumbling mortar joints on your Brookfield brick home? Emerald Masonry LLC grinds out failed mortar and repoints with color-matched mortar that seals the wall and matches the original. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Brookfield, IL — grinding out failed mortar joints and repointing the village's 1920s–1950s brick bungalows, Cape Cods, and chimneys with color-matched mortar of the correct strength. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Brookfield, IL — grinding out failed mortar joints and repointing the village's 1920s–1950s brick bungalows, Cape Cods, and chimneys with color-matched mortar of the correct strength. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly repointed brick wall on a Brookfield, IL home after professional tuckpointing"
 faqs:
   - q: "How much does tuckpointing cost in Brookfield, IL?"
@@ -30,19 +30,14 @@ faqs:
   - q: "Will the new mortar match my older Brookfield brick?"
     a: "That is the whole job. Much of Brookfield's brick dates from the 1920s through the 1950s and was laid with softer, lime-rich mortar. We match the new mortar to the original color and — just as important — its strength, because mortar harder than the brick will push freeze-thaw damage into the brick face instead of the joint."
   - q: "Are you licensed and insured to work in Brookfield?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Brookfield and the near-west and southwest suburbs. We tuckpoint homes, two-flats, and commercial buildings. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Brookfield and the near-west and southwest suburbs. We tuckpoint homes, two-flats, and commercial buildings. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Brookfield IL" — the top-ranking Brookfield tuckpointing pages (Kerry Tuckpointing, Edmar/masonrytuckpointing.com, Mark's Tuckpointing) are conversion-first local-service pages. The strongest (Kerry) has a thin 4-question FAQ and one line of process ("carefully remove failing mortar and replace it"), one sentence of climate ("Illinois freeze-thaw cycles accelerate wear"), repeated "free estimate" CTAs — but NO pricing/cost-factor framework, no FAQ/Service schema evident, and no Brookfield neighborhood or housing-stock specificity. Edmar leads with a phone number and a since-1985 trust line; Mark's leads with a 10% coupon.
-Why this page is better: It is answer-first and specifically local to Brookfield — naming the Grossdale/Hollywood/Congress Park bungalow-and-Cape-Cod stock, the soft lime mortar of 1920s–1950s walls, and the Salt Creek-adjacent exposure — and it gives a real grind-and-repoint process, an honest set of price drivers (not just "call us"), a mortar-strength explanation most pages omit, and a FAQ that becomes FAQPage schema.
-Gaps filled: cost-driver education, mortar-strength/match explanation, step-by-step process, Brookfield-specific local detail, FAQPage + Service schema, internal links, spot-vs-full guidance.
--->
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides professional **tuckpointing in Brookfield, IL** — grinding out failed, crumbling mortar joints and repointing them with color-matched mortar of the correct strength so the wall sheds water and looks right. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, working on homes, two-flats, and commercial buildings. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides professional **tuckpointing in Brookfield, IL** — grinding out failed, crumbling mortar joints and repointing them with color-matched mortar of the correct strength so the wall sheds water and looks right. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, working on homes, two-flats, and commercial buildings. For a **free on-site estimate, call (708) 288-1696.**
 
 Most Brookfield tuckpointing pages will tell you they will "replace the mortar." The part that actually decides whether the repair lasts is what mortar they put back — and that is where this page starts.
 
@@ -94,7 +89,7 @@ We will not pretend a per-square-foot number means anything sight unseen. The re
 
 Brookfield is a railroad-era village — the old Grossdale, Hollywood, and Congress Park neighborhoods are dense with 1920s–1950s brick bungalows, Cape Cods, and Georgians, plus a stock of two-flats and small commercial buildings along the Burlington line and Ogden Avenue. That is precisely the housing that needs tuckpointing now: soft original mortar that has been weathering for the better part of a century, much of it never repointed, and chimneys exposed to decade after decade of Cook County freeze-thaw cycles. We know how these walls were built, which means we know how to repoint them so they stay repointed.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 When tuckpointing uncovers related work, we handle it — see our [tuckpointing and repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), [brick repair](/services/brick-repair), [lintel repair](/services/lintel-repair), and [masonry sealing and waterproofing](/services/masonry-sealing).
 
@@ -114,7 +109,7 @@ That is the whole job. Much of Brookfield's brick dates from the 1920s through t
 
 **Are you licensed and insured to work in Brookfield?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Brookfield and the near-west and southwest suburbs. We tuckpoint homes, two-flats, and commercial buildings. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Brookfield and the near-west and southwest suburbs. We tuckpoint homes, two-flats, and commercial buildings. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Tuckpointing Estimate in Brookfield
 

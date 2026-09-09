@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Parapet Wall Repair in Geneva, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair in Geneva, IL — coping, flashing, repointing and rebuilds on historic downtown roof edges. Insured. Free estimates: (708) 288-1696."
 excerpt: "Geneva's Third Street blocks put tall 19th-century parapets directly above one of the busiest pedestrian streets in Kane County. That changes the repair — not the masonry so much as the protection, the phasing and the urgency."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Geneva, IL — repointing, coping stone replacement, through-wall flashing and rebuilding deteriorated roof-edge masonry on historic downtown, commercial and institutional buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Geneva, IL — repointing, coping stone replacement, through-wall flashing and rebuilding deteriorated roof-edge masonry on historic downtown, commercial and institutional buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Rebuilt brick and limestone parapet with new coping on a historic downtown building in Geneva Illinois"
 faqs:
   - q: "What is a parapet wall and why does it fail before the rest of the building?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Parapet Wall Repair in Geneva, IL
 
-Parapet wall repair in Geneva, IL is the restoration of the masonry extending above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost integrity. Emerald Masonry LLC does this work on historic downtown, commercial and institutional buildings across Kane County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Parapet wall repair in Geneva, IL is the restoration of the masonry extending above your roofline — repointing failed joints, replacing cracked or displaced coping, correcting through-wall flashing, and rebuilding sections that have lost integrity. Emerald Masonry LLC does this work on historic downtown, commercial and institutional buildings across Kane County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Geneva's situation is specific, and it is not really about the masonry.
 
@@ -148,7 +148,7 @@ Geneva sits on the Fox River in a stretch of Kane County with hard freeze-thaw e
 
 We work with building owners, property managers, HOAs, churches and insurance companies throughout Geneva — the Third Street and State Street commercial blocks, the historic district, the churches and civic buildings, and newer commercial development toward Randall Road. We also serve neighboring [St. Charles](/locations/brick-repair-st-charles-il), [Batavia](/locations/chimney-repair-batavia-il), [Aurora](/locations/parapet-wall-repair-aurora-il) and [Elgin](/locations/parapet-wall-repair-elgin-il). Geneva owners frequently pair parapet work with [limestone and sill repair](/locations/limestone-sill-repair-geneva-il), [historic masonry restoration](/locations/historic-masonry-restoration-geneva-il) or [brick repair](/locations/brick-repair-geneva-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Deferring
 

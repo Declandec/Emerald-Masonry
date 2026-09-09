@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Parapet Wall Repair in Blue Island, IL | Emerald Masonry"
 metaDescription: "Parapet wall repair in Blue Island, IL — coping, through-wall flashing and rebuilds on historic storefronts. Free estimates today: call (708) 288-1696."
 excerpt: "A parapet is the only masonry on a building that weathers from the front, the back, and the top at once — and on Blue Island's century-old Western Avenue storefronts it is also the wall nobody has looked at in forty years. That combination is why parapets fail first and fail hardest."
-aiSummary: "Emerald Masonry LLC repairs and rebuilds parapet walls in Blue Island, IL — resetting coping, installing through-wall flashing, repointing and rebuilding deteriorated roof-edge masonry on historic storefronts, commercial buildings, churches and multi-unit properties. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free estimates: (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC repairs and rebuilds parapet walls in Blue Island, IL — resetting coping, installing through-wall flashing, repointing and rebuilding deteriorated roof-edge masonry on historic storefronts, commercial buildings, churches and multi-unit properties. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free estimates: (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Rebuilt brick parapet wall with new coping on a commercial building in Blue Island, Illinois"
 faqs:
   - q: "How much does parapet wall repair cost in Blue Island, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Parapet Wall Repair in Blue Island, IL
 
-Parapet wall repair in Blue Island, IL is the single highest-value masonry repair on most older commercial buildings — and the most neglected. Emerald Masonry LLC repoints, resets and rebuilds parapet walls, coping and roof-edge masonry on storefronts, churches, multi-unit buildings and commercial properties across the south suburbs. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience. Free on-site assessments — call **(708) 288-1696**.
+Parapet wall repair in Blue Island, IL is the single highest-value masonry repair on most older commercial buildings — and the most neglected. Emerald Masonry LLC repoints, resets and rebuilds parapet walls, coping and roof-edge masonry on storefronts, churches, multi-unit buildings and commercial properties across the south suburbs. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience. Free on-site assessments — call **(708) 288-1696**.
 
 ## Why the Parapet Always Fails First
 
@@ -124,7 +124,7 @@ We provide free written assessments and can phase work by elevation so an owner 
 
 ## Serving Blue Island and the South Suburbs
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Blue Island and neighbouring [Alsip](/locations/commercial-masonry-alsip-il), [Midlothian](/locations/tuckpointing-midlothian-il), [Oak Forest](/locations/chimney-repair-oak-forest-il) and [Evergreen Park](/locations/brick-repair-evergreen-park-il), for property managers, building owners, HOAs, churches and insurance companies. $5,000 project minimum.
 

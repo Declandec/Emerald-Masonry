@@ -18,7 +18,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Villa Park, IL | Emerald Masonry LLC"
 metaDescription: "Expert chimney repair, crown repair, and repointing in Villa Park, IL. Emerald Masonry serves DuPage County homeowners and commercial properties. Free estimates."
 excerpt: "Villa Park's residential neighborhoods were built primarily between the 1940s and 1970s — meaning most chimneys in the village are 50-80 years old and well into the range where crown failure, mortar erosion, and flashing deterioration are the norm rather than the exception. Emerald Masonry LLC provides chimney inspection, repointing, crown repair, and full rebuilds for Villa Park and surrounding DuPage County communities."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Chimney repair and tuckpointing completed on a residential brick chimney in Villa Park, IL DuPage County"
 competitorInformed: false
 ---
@@ -91,7 +91,7 @@ Routine tuckpointing and crown repair typically don't require permits. Structura
 
 ## Service Area
 
-Emerald Masonry LLC serves Villa Park and the surrounding DuPage County communities from our base in Palos Heights. We work throughout Lombard, Addison, Elmhurst, Glen Ellyn, Wheaton, and the full west suburban corridor. Our 40+ years in the Chicagoland market means we've serviced chimneys across every era of DuPage County residential construction.
+Emerald Masonry LLC serves Villa Park and the surrounding DuPage County communities from our base in Palos Heights. We work throughout Lombard, Addison, Elmhurst, Glen Ellyn, Wheaton, and the full west suburban corridor. Our career masons in the Chicagoland market means we've serviced chimneys across every era of DuPage County residential construction.
 
 Call **(708) 288-1696** or [contact us online](/#contact) for a free on-site chimney inspection. We get on the roof, document everything, and give you a complete scope.
 

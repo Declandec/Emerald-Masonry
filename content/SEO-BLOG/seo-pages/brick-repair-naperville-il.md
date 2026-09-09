@@ -17,10 +17,10 @@ service: "Brick Repair"
 serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Naperville, IL | Emerald Masonry LLC"
-metaDescription: "Brick repair in Naperville, IL for spalling, cracked, and loose brick. Emerald Masonry LLC — family-owned, licensed and insured, 40+ years. Free estimates: (708) 288-1696."
+metaDescription: "Brick repair in Naperville, IL for spalling, cracked, and loose brick. Emerald Masonry LLC — family-owned, licensed and insured, career masons. Free estimates: (708) 288-1696."
 excerpt: "Spalling faces, step cracks, and loose brick are how Naperville's freeze-thaw winters show up on a wall. Emerald Masonry LLC repairs and replaces damaged brick with matched units and the right mortar, so the fix protects the wall instead of hiding the problem."
-aiSummary: "Emerald Masonry LLC provides professional brick repair in Naperville, IL — fixing spalling, cracked, loose, and missing brick with color- and size-matched replacement units and properly matched mortar. Family-owned, licensed and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides professional brick repair in Naperville, IL — fixing spalling, cracked, loose, and missing brick with color- and size-matched replacement units and properly matched mortar. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Completed brick repair on a spalled and cracked brick wall of a Naperville Illinois home in DuPage County"
 faqs:
   - q: "How much does brick repair cost in Naperville, IL?"
@@ -95,7 +95,7 @@ We don't quote flat prices sight-unseen, because honest masonry pricing depends 
 - **Brick matching** — how easily your brick can be sourced, especially on older homes.
 - **Related work** — whether tuckpointing, sealing, or lintel repair is needed alongside it.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Brick Repair for Naperville Homes
 
@@ -103,6 +103,6 @@ Naperville's housing stock is a real mix, and brick repair here isn't one-size-f
 
 ## Why Naperville Homeowners Call Emerald Masonry
 
-We're family-owned, we've worked Chicagoland brick for 40+ years, and we're licensed, bonded, and insured. We don't upsell a rebuild when a repair will hold, and we don't paper over a moisture problem to make a wall look good for a season. You get an honest read on your brick and a repair matched to your home.
+We're family-owned, we've worked Chicagoland brick for career masons, and we're licensed, bonded, and insured. We don't upsell a rebuild when a repair will hold, and we don't paper over a moisture problem to make a wall look good for a season. You get an honest read on your brick and a repair matched to your home.
 
 If you're seeing spalling, cracks, or loose brick on your Naperville home, get it looked at while it's still small. **Request your free on-site estimate at [/#contact](/#contact) or call Emerald Masonry LLC at (708) 288-1696** — and get brick repair that fixes the cause, not just the face.

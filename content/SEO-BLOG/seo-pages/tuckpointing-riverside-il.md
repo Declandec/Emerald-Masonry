@@ -20,10 +20,10 @@ service: "Tuckpointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Riverside, IL | Emerald Masonry LLC"
-metaDescription: "Tuckpointing in Riverside, IL by Emerald Masonry LLC. Family-owned, licensed, 40+ years. Historic soft-brick mortar matched right. Free est: (708) 288-1696."
-excerpt: "Emerald Masonry LLC provides tuckpointing and repointing throughout Riverside, IL — including the village's Olmsted-planned historic district, where soft pre-1920 brick demands a soft, lime-rich mortar rather than a hard modern mix. 40+ years, family-owned, free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Riverside, IL, repointing failing mortar joints on the village's historic Victorian, Prairie, and 1920s brick homes. We match soft, lime-rich historic mortar instead of defaulting to a hard modern mix that would spall the brick. Family-owned, licensed and insured, 40+ years. Free estimates — call (708) 288-1696."
-image: "/images/after-residential.jpg"
+metaDescription: "Tuckpointing in Riverside, IL by Emerald Masonry LLC. Family-owned, licensed, career masons. Historic soft-brick mortar matched right. Free est: (708) 288-1696."
+excerpt: "Emerald Masonry LLC provides tuckpointing and repointing throughout Riverside, IL — including the village's Olmsted-planned historic district, where soft pre-1920 brick demands a soft, lime-rich mortar rather than a hard modern mix. career masons, family-owned, free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Riverside, IL, repointing failing mortar joints on the village's historic Victorian, Prairie, and 1920s brick homes. We match soft, lime-rich historic mortar instead of defaulting to a hard modern mix that would spall the brick. Family-owned, licensed and insured, career masons. Free estimates — call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Repointed historic brick facade on a Riverside, IL home after Emerald Masonry tuckpointing with color-matched mortar"
 faqs:
   - q: "How much does tuckpointing cost in Riverside, IL?"
@@ -35,7 +35,7 @@ faqs:
   - q: "How do I know my Riverside home needs tuckpointing?"
     a: "Look for mortar joints that have receded behind the face of the brick, mortar you can rake out with a screwdriver or that crumbles into sand in your hand, hairline gaps at the joints, damp interior walls, or efflorescence — the white powdery salt bloom — on the exterior brick. Any of those means water is getting into the wall."
   - q: "Are you licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience, serving Riverside, Brookfield, North Riverside, Berwyn, La Grange Park, and the surrounding suburbs."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, serving Riverside, Brookfield, North Riverside, Berwyn, La Grange Park, and the surrounding suburbs."
 competitorInformed: true
 ---
 
@@ -108,7 +108,7 @@ We will never quote a Riverside home off a photo. The real cost drivers are:
 
 You get an exact, itemized number after a free on-site estimate — never a guess.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Riverside and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Riverside and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Working in the Village
 

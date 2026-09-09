@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration Plainfield, IL | Emerald Masonry"
 metaDescription: "Commercial masonry restoration in Plainfield, IL — brick, block, tuckpointing, and facade repair for businesses and property managers. Free estimate — (708) 288-1696."
 excerpt: "Plainfield's commercial buildings, retail corridors, and institutional properties need masonry that holds up. Emerald Masonry LLC restores brick and block facades, tuckpoints, and repairs lintels and parapets for Will County businesses and property managers."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Plainfield, IL — tuckpointing, brick and CMU block repair, lintel and parapet work, and full facade restoration for businesses, retail, and institutional properties. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Plainfield, IL — tuckpointing, brick and CMU block repair, lintel and parapet work, and full facade restoration for businesses, retail, and institutional properties. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Restored commercial brick facade with fresh tuckpointing on a building in Plainfield, IL"
 faqs:
   - q: "What does commercial masonry restoration include in Plainfield, IL?"
@@ -82,7 +82,7 @@ Commercial restoration cost depends on the size of the building, how much of the
 
 Plainfield is one of the fastest-growing communities in Will County, anchored by a historic downtown along the DuPage River and Route 59 and surrounded by decades of residential and commercial growth. Its commercial stock ranges from older brick storefronts and institutional buildings in the historic core to newer retail centers, offices, and industrial CMU buildings along the Route 59 and 127th Street corridors. All of it faces the same Will County freeze-thaw exposure, with parapets, lintels, and weather-facing elevations deteriorating first. We do the same commercial restoration work across neighboring Naperville, Bolingbrook, Joliet, Romeoville, and Shorewood.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -100,4 +100,4 @@ Yes. Plainfield's commercial stock includes brick storefronts and offices as wel
 
 ## Get a Free Commercial Masonry Estimate in Plainfield
 
-If your commercial building is showing failing joints, spalling brick, or a deteriorating parapet, have the full masonry envelope assessed before water and freeze-thaw turn maintenance into structural repair. [Contact Emerald Masonry](/#contact) for a free on-site assessment in Plainfield, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured. Related work: [commercial masonry restoration](/services/commercial-masonry-restoration), [tuckpointing & repointing](/services/tuckpointing), and [parapet wall repair](/services/parapet-wall-repair).
+If your commercial building is showing failing joints, spalling brick, or a deteriorating parapet, have the full masonry envelope assessed before water and freeze-thaw turn maintenance into structural repair. [Contact Emerald Masonry](/#contact) for a free on-site assessment in Plainfield, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Related work: [commercial masonry restoration](/services/commercial-masonry-restoration), [tuckpointing & repointing](/services/tuckpointing), and [parapet wall repair](/services/parapet-wall-repair).

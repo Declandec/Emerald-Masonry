@@ -18,10 +18,10 @@ service: "Brick Repair"
 serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Schaumburg, IL | Emerald Masonry"
-metaDescription: "Brick repair in Schaumburg, IL — spalling, cracking & replacement for homes and commercial buildings. Emerald Masonry, 40+ yrs, licensed & insured. Free estimate (708) 288-1696."
+metaDescription: "Brick repair in Schaumburg, IL — spalling, cracking & replacement for homes and commercial buildings. Emerald Masonry, career masons, licensed & insured. Free estimate (708) 288-1696."
 excerpt: "Spalled, cracked, or loose brick on your Schaumburg home or building? Emerald Masonry LLC cuts out failed brick and replaces it with matching units that blend in. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides professional brick repair in Schaumburg, IL — replacing spalled, cracked, and failing brick on the village's 1960s–1990s subdivisions and Golf Road commercial corridor with carefully matched units. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides professional brick repair in Schaumburg, IL — replacing spalled, cracked, and failing brick on the village's 1960s–1990s subdivisions and Golf Road commercial corridor with carefully matched units. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Section of a Schaumburg, IL brick wall after spalled brick was cut out and replaced with matching units"
 faqs:
   - q: "How much does brick repair cost in Schaumburg, IL?"
@@ -31,19 +31,14 @@ faqs:
   - q: "Can you match the brick on a 1970s or 1980s Schaumburg home?"
     a: "Usually, yes — much of Schaumburg's housing stock is from the 1960s through 1990s, and brick from that era is often still available or can be matched closely by size, color, and texture, sometimes by sourcing salvaged units. We aim for a repair that blends into the wall rather than standing out as a patch."
   - q: "Are you licensed and insured to work in Schaumburg?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Schaumburg and the northwest suburbs. We work on both homes and commercial buildings. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Schaumburg and the northwest suburbs. We work on both homes and commercial buildings. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "brick repair Schaumburg IL" — a top-ranking northwest-suburbs masonry service page (exact-match local-service format). It includes a basic ~5-question FAQ and broad cost ranges ($500–$2,500 repairs, $1,000–$4,000 replacement, $40–$70/hr labor) but offers NO step-by-step repair process, no explanation of what drives cost within those ranges, no FAQ/Service schema, and zero Schaumburg-specific housing-stock, neighborhood, or climate detail (generic "Schaumburg, IL" mentions only).
-Why this page is better: It is answer-first and genuinely local to Schaumburg — naming the village's 1960s–1990s brick subdivisions and the Golf Road/Woodfield commercial corridor, explaining the actual cause of spalling, giving a concrete cut-and-replace process, honest price-factor drivers (not just bands), a real FAQ that becomes FAQPage schema, and the critical point most competitor pages omit: you must fix the water source, not just the visible brick.
-Gaps filled: step-by-step process, price-driver education (not just ranges), local specificity, FAQPage + Service schema, internal links, root-cause guidance.
--->
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides professional **brick repair in Schaumburg, IL** — cutting out spalled, cracked, and loose brick and replacing it with carefully matched units so the wall is sound and the repair blends in. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, working on both homes and commercial buildings. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides professional **brick repair in Schaumburg, IL** — cutting out spalled, cracked, and loose brick and replacing it with carefully matched units so the wall is sound and the repair blends in. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, working on both homes and commercial buildings. For a **free on-site estimate, call (708) 288-1696.**
 
 Here is the point most brick-repair pages skip: damaged brick is almost always a symptom. Replacing it without finding why it failed just means you replace it again in a few years.
 
@@ -101,7 +96,7 @@ We won't pretend a per-brick number means anything. The real cost drivers are:
 
 Schaumburg grew fastest in the brick-building decades after the war, so the village is full of 1960s–1990s subdivisions and a dense commercial corridor around Woodfield and Golf Road — a lot of brick veneer, a lot of original lintels, and a lot of sealers that have long since worn off. That combination, plus our hard northwest-suburban freeze-thaw winters, is exactly what produces the spalling and lintel-driven cracking we are called out to fix. As a Chicagoland masonry company, we know how that housing stock fails and how to repair it so it stays repaired.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 When brick repair uncovers related work, we handle it — see our [brick repair](/services/brick-repair), [brick replacement](/services/brick-replacement), [tuckpointing and repointing](/services/tuckpointing), [lintel repair](/services/lintel-repair), and [masonry sealing and waterproofing](/services/masonry-sealing).
 
@@ -121,7 +116,7 @@ Usually, yes — much of Schaumburg's housing stock is from the 1960s through 19
 
 **Are you licensed and insured to work in Schaumburg?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Schaumburg and the northwest suburbs. We work on both homes and commercial buildings. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Schaumburg and the northwest suburbs. We work on both homes and commercial buildings. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Brick Repair Estimate in Schaumburg
 

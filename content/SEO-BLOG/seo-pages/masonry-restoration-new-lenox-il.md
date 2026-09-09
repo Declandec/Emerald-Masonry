@@ -16,9 +16,9 @@ secondaryKeywords:
 city: "New Lenox, IL"
 service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in New Lenox, IL | Emerald Masonry LLC"
-metaDescription: "Full masonry restoration in New Lenox, IL — brick, stone, mortar & structural facade repairs. Licensed, 40+ yrs Chicagoland experience. (708) 288-1696."
+metaDescription: "Full masonry restoration in New Lenox, IL — brick, stone, mortar & structural facade repairs. Licensed, career masons, decades of Chicagoland experience. (708) 288-1696."
 excerpt: "New Lenox is one of Will County's fastest-growing suburbs, but it also has a significant inventory of older institutional, commercial, and residential masonry that requires serious restoration work — not just cosmetic patching. Emerald Masonry LLC provides comprehensive masonry restoration services for churches, commercial buildings, institutional properties, and older residential structures throughout New Lenox."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Restored brick commercial building facade in New Lenox Illinois Will County"
 competitorInformed: false
 ---
@@ -27,7 +27,7 @@ Masonry restoration is a different scope of work than routine maintenance. Tuckp
 
 New Lenox has a range of property types that present real restoration challenges. The older institutional buildings — churches, schools, and early commercial structures along Route 30 — were built with materials and techniques from a different era. The newer residential subdivisions that expanded through the 1990s and 2000s brought cavity wall construction that fails in its own specific ways when flashing and waterproofing systems aren't maintained.
 
-Emerald Masonry LLC has been doing this work in Will County and across Chicagoland for over 40 years. We understand the full picture of what masonry restoration involves — assessment, material matching, structural coordination, and execution.
+Emerald Masonry LLC has been doing this work in Will County and across Chicagoland for decades. We understand the full picture of what masonry restoration involves — assessment, material matching, structural coordination, and execution.
 
 ## When Restoration Is the Right Call
 

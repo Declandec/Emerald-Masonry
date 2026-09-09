@@ -19,9 +19,9 @@ serviceSlug: "foundation-masonry-repair"
 pageType: "location"
 metaTitle: "Foundation Masonry Repair in North Aurora, IL | Emerald Masonry"
 metaDescription: "Foundation masonry repair in North Aurora, IL by Emerald Masonry LLC. Repointing, parging, crack & block repair. Free on-site estimate — call (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs crumbling brick and block foundations in North Aurora, IL — repointing, parging, crack repair, and rebuilding deteriorated sections. Family-owned, licensed and insured, with 40+ years of masonry experience and free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in North Aurora, IL — repointing, parging, crack repair, and rebuilding crumbling brick and block foundations. Family-owned, licensed and insured, with 40+ years of experience. Free on-site estimates: call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+excerpt: "Emerald Masonry LLC repairs crumbling brick and block foundations in North Aurora, IL — repointing, parging, crack repair, and rebuilding deteriorated sections. Family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience and free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in North Aurora, IL — repointing, parging, crack repair, and rebuilding crumbling brick and block foundations. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Free on-site estimates: call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repaired and repointed brick foundation on a North Aurora, IL home after foundation masonry repair by Emerald Masonry"
 faqs:
   - q: "Who repairs masonry foundations in North Aurora, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 Emerald Masonry LLC repairs masonry foundations in North Aurora, IL. If your brick or block foundation has crumbling mortar, spalling, or cracks, we repoint, parge, crack-repair, and rebuild the deteriorated sections — and seal water entry at grade. Call **(708) 288-1696** for a free on-site estimate.
 
-We're a family-owned, non-union masonry contractor with 40+ years of experience, licensed, bonded, and insured. Foundation work near the Fox River means dealing with clay soils, high groundwater, and hard freeze-thaw cycles, and we repair foundations to stand up to all three.
+We're a family-owned, non-union masonry contractor led by career masons with decades of hands-on experience, licensed, bonded, and insured. Foundation work near the Fox River means dealing with clay soils, high groundwater, and hard freeze-thaw cycles, and we repair foundations to stand up to all three.
 
 > Crumbling mortar and spalling block at the base of your foundation rarely fix themselves — water and freeze-thaw only widen the damage. The sooner the masonry is repaired and sealed, the smaller the repair.
 
@@ -109,7 +109,7 @@ The town's housing mix matters too. **Older homes near the river** often have ma
 
 ## Why North Aurora homeowners call Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We're non-union, family-run, and bonded and insured, and we'll tell you straight what your foundation needs — even when that means less work, not more.
 

@@ -5,7 +5,7 @@ excerpt: "Before you spend money on a foundation, find out whether you have a ma
 service: "Foundation Masonry Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired masonry foundation wall at grade with corrected drainage on a Chicagoland home"
 keywords:
   - water in basement foundation or drainage
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free foundation inspection Chicagoland
   - tuckpointing foundation joints
-aiSummary: "Most Chicagoland basement water is a drainage problem rather than a foundation-masonry problem — overflowing gutters, downspouts discharging at the wall, grade sloping toward the house and splash at grade cause the majority of leaks, and they are cheap to fix. Masonry repair is needed when mortar is washing out, units are spalling, or cracks show movement. Emerald Masonry LLC diagnoses both across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Most Chicagoland basement water is a drainage problem rather than a foundation-masonry problem — overflowing gutters, downspouts discharging at the wall, grade sloping toward the house and splash at grade cause the majority of leaks, and they are cheap to fix. Masonry repair is needed when mortar is washing out, units are spalling, or cracks show movement. Emerald Masonry LLC diagnoses both across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "How do I know if my basement leak is a foundation problem or a drainage problem?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Water in the Basement: Masonry or Drainage?
 
-**Most Chicagoland basement water is a drainage problem, not a foundation problem.** Overflowing gutters, downspouts discharging at the wall, grade sloping toward the house, and splash-back at the base of the foundation cause the majority of leaks we get called about — and they cost a fraction of what masonry repair does. **Masonry repair is genuinely needed when mortar is washing out of the joints, units are spalling, or a crack shows real movement.** Emerald Masonry LLC diagnoses both across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Most Chicagoland basement water is a drainage problem, not a foundation problem.** Overflowing gutters, downspouts discharging at the wall, grade sloping toward the house, and splash-back at the base of the foundation cause the majority of leaks we get called about — and they cost a fraction of what masonry repair does. **Masonry repair is genuinely needed when mortar is washing out of the joints, units are spalling, or a crack shows real movement.** Emerald Masonry LLC diagnoses both across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 We will say the part most contractors do not: **if you call us about a wet basement and the problem turns out to be your downspouts, we will tell you that.** It is a cheap fix, it is not our work, and selling foundation repair to somebody who needs a gutter extension is how this trade earns a bad reputation.
 
@@ -211,6 +211,6 @@ Before you spend money on your foundation, spend an hour outside in the rain. Wa
 
 When it is the masonry, the signs are specific: mortar leaving the joints, units breaking down, or cracks that are moving rather than just sitting there. Those are worth fixing properly, with the right mortar for the wall, after the water has been dealt with.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling you when the fix is not masonry.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling you when the fix is not masonry.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

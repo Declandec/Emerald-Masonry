@@ -14,9 +14,9 @@ secondaryKeywords:
 city: "Tinley Park, IL"
 service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Tinley Park, IL | Emerald Masonry LLC"
-metaDescription: "Full-scope masonry restoration in Tinley Park, IL — brick repair, repointing, facade and structural work for commercial buildings. 40+ years. Free estimate: (708) 288-1696."
+metaDescription: "Full-scope masonry restoration in Tinley Park, IL — brick repair, repointing, facade and structural work for commercial buildings. career masons. Free estimate: (708) 288-1696."
 excerpt: "Masonry restoration is more than tuckpointing — it's bringing a whole building's brick and mortar back to sound, weather-tight condition. Here's what full restoration covers, how it's planned, and what Tinley Park building owners should expect."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Restored commercial brick facade with repointed mortar joints in Tinley Park, IL"
 competitorInformed: false
 ---
@@ -81,7 +81,7 @@ That planning is also where access gets figured out — scaffolding, swing stage
 - **Expect a written scope** that explains what is being done and why, elevation by elevation.
 - **Confirm license, bond, and insurance.** Restoration is height work on occupied buildings.
 
-Emerald Masonry has restored Chicagoland masonry for more than 40 years. We are family-owned, non-union, and licensed, bonded, and insured, and we work regularly with property managers, HOAs, churches, and insurance companies. We provide free on-site estimates and carry a ,000 project minimum.
+Emerald Masonry has restored Chicagoland masonry for more than decades. We are family-owned, non-union, and licensed, bonded, and insured, and we work regularly with property managers, HOAs, churches, and insurance companies. We provide free on-site estimates and carry a ,000 project minimum.
 
 ## Frequently Asked Questions
 

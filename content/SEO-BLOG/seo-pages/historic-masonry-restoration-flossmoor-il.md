@@ -16,10 +16,10 @@ service: "Historic Masonry Restoration"
 serviceSlug: "historic-masonry-restoration"
 pageType: "location"
 metaTitle: "Historic Masonry Restoration in Flossmoor, IL | Emerald Masonry"
-metaDescription: "Historic masonry restoration in Flossmoor, IL — lime mortar repointing and sensitive brick & stone repair for older estates and Tudors. Emerald Masonry, 40+ yrs. Free estimate (708) 288-1696."
+metaDescription: "Historic masonry restoration in Flossmoor, IL — lime mortar repointing and sensitive brick & stone repair for older estates and Tudors. Emerald Masonry, career masons. Free estimate (708) 288-1696."
 excerpt: "Flossmoor's older brick and stone homes need a gentler hand than standard masonry work. Emerald Masonry LLC restores them with matched lime mortar and period-correct technique. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Flossmoor, IL — lime mortar repointing, soft cleaning, and sensitive brick and stone repair for the village's 1920s Tudors, Georgians, and estate homes. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Flossmoor, IL — lime mortar repointing, soft cleaning, and sensitive brick and stone repair for the village's 1920s Tudors, Georgians, and estate homes. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored historic brick and stone wall on a Flossmoor, IL home after lime mortar repointing"
 faqs:
   - q: "How is historic masonry restoration different from regular tuckpointing in Flossmoor?"
@@ -29,13 +29,13 @@ faqs:
   - q: "Do you do gentle cleaning, or will you sandblast the brick?"
     a: "We never sandblast or high-pressure power-wash historic brick — both strip the protective fired surface and accelerate decay. Historic masonry is cleaned with the gentlest effective method: low-pressure, appropriate cleaners, and patience. Preserving the original surface is the whole point."
   - q: "Are you licensed and insured to work in Flossmoor?"
-    a: "Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Flossmoor and the south suburbs. We restore historic homes, estates, and institutional buildings. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Flossmoor and the south suburbs. We restore historic homes, estates, and institutional buildings. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides **historic masonry restoration in Flossmoor, IL** — lime mortar repointing, gentle cleaning, and sensitive brick and stone repair for the village's older Tudors, Georgians, and estate homes. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides **historic masonry restoration in Flossmoor, IL** — lime mortar repointing, gentle cleaning, and sensitive brick and stone repair for the village's older Tudors, Georgians, and estate homes. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. For a **free on-site estimate, call (708) 288-1696.**
 
 Restoring a century-old Flossmoor home is not the same job as repairing a modern wall. The single most important rule: the repair must be softer than the brick, or it does more harm than good.
 
@@ -78,7 +78,7 @@ Good historic restoration is a matching exercise on three fronts. **Mortar:** ma
 
 Flossmoor grew as a leafy commuter village around its Illinois Central station, and it shows in the housing: tree-lined streets of 1920s and '30s Tudors, Georgians, Colonials, and custom brick-and-stone estates, many in and around the local historic district. That stock is now a century into its life — original lime mortar washed thin, limestone trim weathered, and in too many cases marred by well-meaning but damaging hard-mortar repairs. These are the homes historic restoration exists for, and exactly the work we are called out to do across the south suburbs. We treat an older Flossmoor home as something to conserve, not just patch.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 For related work, see our [historic masonry restoration](/services/historic-masonry-restoration), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), [brick repair](/services/brick-repair), and [residential masonry restoration](/services/residential-masonry-restoration).
 
@@ -98,7 +98,7 @@ We never sandblast or high-pressure power-wash historic brick — both strip the
 
 **Are you licensed and insured to work in Flossmoor?**
 
-Yes. Emerald Masonry LLC is a family-owned company with 40+ years of Chicagoland experience, licensed, bonded, and insured, serving Flossmoor and the south suburbs. We restore historic homes, estates, and institutional buildings. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC is a family-owned company led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, serving Flossmoor and the south suburbs. We restore historic homes, estates, and institutional buildings. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Historic Restoration Estimate in Flossmoor
 

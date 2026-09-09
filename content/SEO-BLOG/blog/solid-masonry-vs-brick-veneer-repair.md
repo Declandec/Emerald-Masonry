@@ -4,7 +4,7 @@ date: "2026-06-03"
 excerpt: "Two brick buildings can look identical from the street and need completely different repairs — because one is a solid load-bearing masonry wall and the other is a thin brick veneer hung on a frame. Knowing which one you have changes how you read the damage and what the fix should be."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - solid masonry vs brick veneer
   - brick veneer repair Chicago

@@ -5,7 +5,7 @@ excerpt: "Sealant is the cheapest material on a building envelope and the one mo
 service: "Caulking & Joint Sealant"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "New joint sealant with backer rod installed in a masonry expansion joint on a Chicagoland building"
 keywords:
   - masonry sealants
@@ -38,7 +38,7 @@ keywords:
   - HOA building envelope repair
   - licensed and insured masonry contractor
   - free masonry estimate Chicago
-aiSummary: "Silicone sealants offer the best movement capability and UV resistance but resist paint and can stain porous masonry; polyurethane sealants bond well to masonry, are paintable and abrasion-resistant, and are the common choice for expansion and precast joints; hybrid MS polymer sealants split the difference. Correct backer rod and joint geometry matter as much as product choice. Emerald Masonry LLC installs joint sealant across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Silicone sealants offer the best movement capability and UV resistance but resist paint and can stain porous masonry; polyurethane sealants bond well to masonry, are paintable and abrasion-resistant, and are the common choice for expansion and precast joints; hybrid MS polymer sealants split the difference. Correct backer rod and joint geometry matter as much as product choice. Emerald Masonry LLC installs joint sealant across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is the difference between silicone and polyurethane caulk?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Masonry Sealants 101: What Goes Where
 
-**Silicone sealants give the best movement capability and UV resistance, but most cannot be painted and some stain porous masonry. Polyurethane sealants bond exceptionally well to masonry and concrete, are paintable and abrasion-resistant, and are the workhorse for expansion and precast panel joints. Hybrid MS polymer sealants sit between the two — paintable, low-staining, good movement.** And underneath all of it: **correct backer rod and joint geometry matter as much as which tube you open.** Emerald Masonry LLC installs and replaces joint sealant on commercial and residential buildings across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Silicone sealants give the best movement capability and UV resistance, but most cannot be painted and some stain porous masonry. Polyurethane sealants bond exceptionally well to masonry and concrete, are paintable and abrasion-resistant, and are the workhorse for expansion and precast panel joints. Hybrid MS polymer sealants sit between the two — paintable, low-staining, good movement.** And underneath all of it: **correct backer rod and joint geometry matter as much as which tube you open.** Emerald Masonry LLC installs and replaces joint sealant on commercial and residential buildings across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Sealant is the cheapest material on a building envelope and the one most often installed badly. In our experience the failures almost never trace back to the product. They trace back to three things: **caulking over old sealant, skipping backer rod, and putting flexible sealant and rigid mortar in each other's places.**
 
@@ -215,6 +215,6 @@ Pick the family by the joint: **silicone** where movement and sun exposure domin
 
 Then care more about the preparation than the product. A mid-grade sealant in a properly cut, cleaned, backer-rodded and tooled joint will outlast a premium sealant smeared over the old bead — every time, and by years.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, churches and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, churches and insurance companies.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

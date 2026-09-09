@@ -5,7 +5,7 @@ excerpt: "Look at the brick around your dryer vent, your furnace exhaust, and yo
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Spalled and efflorescing brick around a dryer vent and sidewall furnace exhaust on a Chicagoland brick home"
 keywords:
   - dryer vent brick damage
@@ -38,7 +38,7 @@ keywords:
   - brick replacement near me Illinois
   - free masonry estimate Chicago
   - family owned masonry contractor Chicago
-aiSummary: "Brick around dryer vents, sidewall furnace exhausts and bathroom fan outlets deteriorates faster than the surrounding wall because those vents deliver warm, moisture-saturated air directly into porous masonry — and high-efficiency furnace exhaust is also mildly acidic. The result is spalling, efflorescence and eroded joints in a distinct halo around the penetration. Emerald Masonry LLC repairs vent-area masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick around dryer vents, sidewall furnace exhausts and bathroom fan outlets deteriorates faster than the surrounding wall because those vents deliver warm, moisture-saturated air directly into porous masonry — and high-efficiency furnace exhaust is also mildly acidic. The result is spalling, efflorescence and eroded joints in a distinct halo around the penetration. Emerald Masonry LLC repairs vent-area masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why is the brick around my dryer vent crumbling?"
@@ -65,7 +65,7 @@ faqs:
 
 **Go outside and look at the brick immediately around your dryer vent, your furnace exhaust, and your bathroom fan outlet.** If it is spalled, crusted white, or crumbling while the wall two feet away is perfectly sound, you are looking at damage you have been causing on purpose for years — by venting warm, wet air directly at porous masonry.
 
-Emerald Masonry LLC repairs vent-area brick and mortar throughout Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs vent-area brick and mortar throughout Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 It is one of the most consistent patterns in residential masonry: **a distinct halo of deterioration centered on a penetration**, sharply different from the wall around it. Once you know to look for it, you see it on half the block.
 
@@ -210,6 +210,6 @@ Vent-area damage usually touches several trades' worth of masonry: [brick repair
 
 Replace the brick and leave the exhaust aimed at the wall, and you will be looking at the same halo in five or six years. Extend the termination, reseal the penetration properly, repoint with the right mortar, and the repair holds.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

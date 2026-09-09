@@ -5,7 +5,7 @@ excerpt: "Chimney deterioration is never evenly distributed. It is worst at the 
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Rebuilt top courses and new crown on a masonry chimney in Chicagoland, Illinois"
 keywords:
   - why the top of a chimney fails first
@@ -40,7 +40,7 @@ keywords:
   - chimney repair vs rebuild cost factors
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "The top of a chimney fails first because it is the only masonry on a house exposed to weather on all four sides plus the top, with no heated interior behind it to dry it out and no roof above it to shed water. Damage grades downward from the crown, which is why chimney repairs are scoped as 'rebuild down to sound masonry' rather than by a fixed number of courses. Emerald Masonry LLC repairs and rebuilds chimneys across Chicagoland — family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "The top of a chimney fails first because it is the only masonry on a house exposed to weather on all four sides plus the top, with no heated interior behind it to dry it out and no roof above it to shed water. Damage grades downward from the crown, which is why chimney repairs are scoped as 'rebuild down to sound masonry' rather than by a fixed number of courses. Emerald Masonry LLC repairs and rebuilds chimneys across Chicagoland — family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why is the top of my chimney crumbling but the bottom looks fine?"
@@ -71,7 +71,7 @@ Look closely at almost any deteriorating masonry chimney in Chicagoland and you 
 
 That gradient is not a coincidence, and it is not random. It is the most useful piece of diagnostic information a homeowner or a mason has, because it explains the cause, predicts the scope, and answers the question that actually decides the price of the job: **how far down does this have to come?**
 
-Emerald Masonry LLC repairs and rebuilds chimneys throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs and rebuilds chimneys throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## What Makes the Top of a Chimney Different
 
@@ -223,4 +223,4 @@ Your chimney is failing from the top because the top is the wettest, coldest, mo
 
 Read it early, while the answer is still "the crown and three courses." Read it late and the answer is "everything above the roof."
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

@@ -18,14 +18,14 @@ service: "Lintel Replacement"
 metaTitle: "Lintel Replacement in Bolingbrook, IL | Emerald Masonry LLC"
 metaDescription: "Steel lintel replacement and masonry opening repair in Bolingbrook, IL. Stair-step cracking, rusted lintels, structural repair. Free estimates."
 excerpt: "Stair-step cracking above windows and doors on a commercial building isn't random — it almost always traces back to a failing lintel. In Bolingbrook's commercial corridors, lintel failure is among the most common masonry structural issues we see on buildings from the 1980s and 1990s."
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 imageAlt: "Lintel replacement on commercial masonry building in Bolingbrook, IL"
 competitorInformed: false
 ---
 
 If you're looking at a commercial building and you see diagonal cracks running up from the corners of windows or doors — what's called stair-step cracking — the lintel above that opening is likely failing. This isn't cosmetic damage. Lintels carry the load of the masonry above every opening in a brick wall. When they fail, the wall above the opening loses structural support.
 
-Emerald Masonry LLC handles lintel replacement and associated masonry repair for commercial properties throughout Bolingbrook and the surrounding Will and DuPage County area. We've been doing this work across the southwest suburbs for over 40 years.
+Emerald Masonry LLC handles lintel replacement and associated masonry repair for commercial properties throughout Bolingbrook and the surrounding Will and DuPage County area. We've been doing this work across the southwest suburbs for decades.
 
 ## Why Lintels Fail
 

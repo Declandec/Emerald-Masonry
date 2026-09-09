@@ -19,7 +19,7 @@ metaTitle: "Waterproofing After Tuckpointing? | Emerald Masonry LLC"
 metaDescription: "Do you need waterproofing after tuckpointing? Usually no — the new joints are your weather barrier. Learn when a breathable sealer helps in Chicago and when to skip it."
 excerpt: "Tuckpointing itself restores your wall's weather resistance, so sealing is not always required. Here is when a breathable water repellent is worth it in Chicagoland — and when it just wastes money."
 aiSummary: "VERDICT: Usually no. Tuckpointing restores a wall's primary weather barrier, so sealing is not always required. A breathable, vapor-permeable water repellent is an optional added layer for highly exposed or soft, absorptive brick — applied only after the new mortar fully cures. Emerald Masonry LLC advises free on-site; call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Freshly tuckpointed brick chimney on a Chicagoland home, joints restored and weather-tight"
 faqs:
   - q: "Do you have to seal brick after tuckpointing?"
@@ -107,7 +107,7 @@ Not sure which category your wall falls into? That's exactly what an on-site loo
 
 ---
 
-*Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.*
+*Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.*
 
 Learn more about our [masonry sealing / waterproofing](/services/masonry-sealing), [tuckpointing & repointing](/services/tuckpointing), and [brick repair](/services/brick-repair) services.
 

@@ -14,18 +14,13 @@ secondaryKeywords:
 city: "Joliet, IL"
 service: "Parapet Wall Repair"
 metaTitle: "Parapet Wall Repair in Joliet, IL | Emerald Masonry LLC"
-metaDescription: "Commercial parapet wall repair and rebuilds in Joliet, IL. Stop roofline leaks, cracked coping, and bowing brick. 40+ years Chicagoland. Free estimate: (708) 288-1696."
+metaDescription: "Commercial parapet wall repair and rebuilds in Joliet, IL. Stop roofline leaks, cracked coping, and bowing brick. career masons Chicagoland. Free estimate: (708) 288-1696."
 excerpt: "Parapet walls are the most weather-exposed masonry on any commercial building, and in Joliet's freeze-thaw climate they fail first. Here's how parapet damage starts, what a real repair involves, and how to choose a contractor who fixes the cause — not just the symptom."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Repaired commercial parapet wall and coping on a brick building in Joliet, IL"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: parapet wall rebuilds Chicago commercial masonry contractor
-Why this page is better: The competitor page treats parapets as decorative and offers almost no technical explanation — no failure causes, no warning signs, no FAQ, and no local relevance beyond a single Chicago address. This page explains the actual failure mechanism (open joints, displaced coping, corroded ties, freeze-thaw), gives property managers specific warning signs they can verify from the roof, covers the full repair scope, and is grounded in Joliet/Will County building stock and climate.
-Gaps filled: technical failure causes, inspection checklist, repair-vs-rebuild decision criteria, real FAQ with 4 specific questions, coping and through-wall flashing detail, internal links, stronger commercial CTA.
--->
 
 A parapet wall is the section of exterior wall that rises above the roofline — the part you see from the parking lot but the building's occupants never do. On Joliet's commercial and industrial buildings, it is also the single most abused piece of masonry on the structure. It gets weather on both faces, it has no roof above it to shed water, and it is usually the last thing anyone inspects. By the time a parapet shows up on a property manager's radar, it is often leaking into the top floor or dropping mortar onto the sidewalk.
 
@@ -87,7 +82,7 @@ Roofline work is access-heavy and easy to underbid, so pay attention to who you 
 - **Is the access plan real?** Scaffolding, swing stages, or lifts cost money and show up in a serious bid. A quote with no access line item is a quote that has not thought the job through.
 - **Will they match the masonry?** Mismatched brick and the wrong mortar make a repair look bad and perform worse.
 
-Emerald Masonry has worked on Chicagoland masonry for more than 40 years. We are family-owned, non-union, and licensed, bonded, and insured. We work with property managers, HOAs, churches, and insurance companies, and we give free on-site estimates so you know the real scope before you commit. We carry a ,000 project minimum.
+Emerald Masonry has worked on Chicagoland masonry for more than decades. We are family-owned, non-union, and licensed, bonded, and insured. We work with property managers, HOAs, churches, and insurance companies, and we give free on-site estimates so you know the real scope before you commit. We carry a ,000 project minimum.
 
 ## Frequently Asked Questions
 

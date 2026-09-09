@@ -5,7 +5,7 @@ excerpt: "An empty brick building doesn't just sit there. Heat goes off, gutters
 service: "Commercial Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial Masonry"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 intent: "commercial"
 aiSummary: "Vacant buildings lose masonry fast because heat is off, water management stops being maintained, and small failures go unobserved. Unheated walls stay saturated through more freeze-thaw cycles, blocked gutters and roof leaks drive water into the assembly from above, and a single unrepaired parapet or chimney can compromise an elevation in two winters. Stabilising the roof, drainage and openings preserves far more value than deferring. Emerald Masonry LLC — (708) 288-1696."
 keywords:
@@ -61,7 +61,7 @@ faqs:
 
 An occupied building is under constant, unpaid inspection. Somebody notices the stain on the ceiling, mentions the gutter overflowing, complains that the back door sticks. That informal surveillance is worth more to a masonry wall than most owners realise — because the moment it stops, the building starts losing material on a schedule nobody is watching.
 
-Emerald Masonry LLC assesses and restores masonry on vacant, transitional and stalled buildings for owners, property managers, investors and institutions across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free written on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC assesses and restores masonry on vacant, transitional and stalled buildings for owners, property managers, investors and institutions across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free written on-site assessments. Call **(708) 288-1696**.
 
 ## Why Vacancy Accelerates Masonry Damage
 
@@ -215,6 +215,6 @@ Vacancy does not preserve a masonry building; it removes the two things that wer
 
 The good news is that the highest-value interventions are the cheapest ones: sound roof, clear drainage, closed openings, ventilation, and a real inspection twice a year. Do those and a building can sit. Skip them and two winters will cost more than ten occupied ones.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Holding a vacant building, or considering buying one? We will assess the masonry properly and give you a written, prioritised scope. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

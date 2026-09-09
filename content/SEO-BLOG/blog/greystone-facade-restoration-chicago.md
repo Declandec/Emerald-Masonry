@@ -5,7 +5,7 @@ excerpt: "Chicago's greystones are limestone-fronted survivors from the 1890s–
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Historic Restoration"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 keywords:
   - greystone facade restoration Chicago
   - greystone restoration
@@ -37,7 +37,7 @@ keywords:
   - family-owned masonry contractor Chicago
   - licensed insured mason Chicagoland
   - masonry restoration near me
-aiSummary: "Greystone facade restoration in Chicago is the specialist repair of limestone-fronted homes — gentle cleaning, repointing with soft lime-compatible mortar, Dutchman stone piecing, and sill and lintel repair. Emerald Masonry LLC is a family-owned, licensed and insured contractor with 40+ years of Chicagoland experience restoring greystones the right way. Free on-site estimates — call (708) 288-1696."
+aiSummary: "Greystone facade restoration in Chicago is the specialist repair of limestone-fronted homes — gentle cleaning, repointing with soft lime-compatible mortar, Dutchman stone piecing, and sill and lintel repair. Emerald Masonry LLC is a family-owned, licensed and insured contractor led by career masons with decades of hands-on Chicagoland experience restoring greystones the right way. Free on-site estimates — call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "What is greystone facade restoration?"
@@ -55,10 +55,10 @@ faqs:
   - q: "How much does greystone facade restoration cost in Chicago?"
     a: "It depends on the facade's height and access, the amount of scaffolding needed, how much stone must be pieced in versus simply repointed, and the extent of sill and lintel damage. Because every greystone is different, Emerald Masonry provides a free on-site estimate after inspecting the actual facade."
   - q: "Who restores greystones near me in the Chicago area?"
-    a: "Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience restoring greystones and historic limestone facades across Chicago and the suburbs. Free on-site estimates — call (708) 288-1696."
+    a: "Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience restoring greystones and historic limestone facades across Chicago and the suburbs. Free on-site estimates — call (708) 288-1696."
 ---
 
-If you own a Chicago greystone, the limestone on the front of your home is almost certainly a century old — and it was never meant to be repaired the way most contractors repair it. **Greystone facade restoration** is the specialist work of cleaning, repointing, and rebuilding a historic limestone facade with materials and methods that match how the wall was originally built. Done correctly, it can add decades of life to irreplaceable stone. Done with the wrong mortar or a sandblaster, it does permanent, un-reversible damage. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience restoring greystones the right way — call **(708) 288-1696** for a free on-site estimate.
+If you own a Chicago greystone, the limestone on the front of your home is almost certainly a century old — and it was never meant to be repaired the way most contractors repair it. **Greystone facade restoration** is the specialist work of cleaning, repointing, and rebuilding a historic limestone facade with materials and methods that match how the wall was originally built. Done correctly, it can add decades of life to irreplaceable stone. Done with the wrong mortar or a sandblaster, it does permanent, un-reversible damage. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience restoring greystones the right way — call **(708) 288-1696** for a free on-site estimate.
 
 This guide explains what a greystone actually is, why these facades fail, and how the restoration is properly done — so you can tell a real restoration from a repair that will quietly ruin your stone.
 
@@ -68,7 +68,7 @@ The greystone is one of Chicago's signature building types. Built mostly between
 
 That construction matters, because a greystone is not a solid stone building. It is a **composite wall** — limestone face, brick backup, and mortar tying it all together — and every part ages differently. The building science that keeps it standing depends on those materials working as a breathable system: moisture that gets in has to be able to get back out, and the mortar has to be the "sacrificial" part that gives way before the stone does.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Greystones Deteriorate
 
@@ -190,4 +190,4 @@ Greystone work overlaps with several Emerald specialties. Explore [historic maso
 
 ## Restore Your Greystone With a Team That Respects the Stone
 
-A Chicago greystone is a piece of the city's history, and its limestone facade can last another century — but only if it's cleaned, repointed, and repaired with historically compatible methods. Emerald Masonry LLC is a **family-owned, licensed, bonded and insured** masonry contractor with **40+ years of Chicagoland experience** in historic limestone and greystone restoration. If your facade is spalling, staining, or opening at the joints, don't let another winter make it worse. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a **free on-site estimate**.
+A Chicago greystone is a piece of the city's history, and its limestone facade can last another century — but only if it's cleaned, repointed, and repaired with historically compatible methods. Emerald Masonry LLC is a **family-owned, licensed, bonded and insured** masonry contractor with **career masons with decades of Chicagoland experience** in historic limestone and greystone restoration. If your facade is spalling, staining, or opening at the joints, don't let another winter make it worse. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a **free on-site estimate**.

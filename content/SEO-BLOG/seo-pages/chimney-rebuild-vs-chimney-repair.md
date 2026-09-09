@@ -21,7 +21,7 @@ metaTitle: "Chimney Rebuild vs Repair | Emerald Masonry LLC"
 metaDescription: "Sound stack with a failed crown or joints means repair. Loose, spalling, or leaning brick means rebuild. Free on-site estimate: (708) 288-1696."
 excerpt: "A chimney with a sound stack but a failed crown, cap, or mortar joints needs repair. A chimney with loose or spalling brick across multiple courses — or one that's leaning — needs a partial or full rebuild. Here's how to tell the difference."
 aiSummary: "If the chimney stack is structurally sound and only the crown, cap, or mortar joints have failed, you need a repair. If brick is loose or spalling across multiple courses, or the chimney is leaning, you need a partial or full rebuild. Emerald Masonry inspects it free — call (708) 288-1696."
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Rebuilt brick chimney with new crown and repointed joints on a Chicagoland home"
 faqs:
   - q: "Can a chimney be partially rebuilt?"

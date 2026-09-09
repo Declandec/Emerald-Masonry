@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair in Joliet, IL | Emerald Masonry"
 metaDescription: "Foundation masonry repair in Joliet, IL — limestone, brick and block repointing, parging and rebuilding. Licensed and insured. Free estimates: (708) 288-1696."
 excerpt: "Joliet was built on limestone, and a great many of its older homes still sit on quarried stone foundations. Emerald Masonry LLC repoints, parges and rebuilds limestone, brick and block foundation walls across Will County."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Joliet, IL — repointing and rebuilding limestone, brick and concrete block foundation walls, parging, and repairing deteriorated mortar at and below grade. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Joliet, IL — repointing and rebuilding limestone, brick and concrete block foundation walls, parging, and repairing deteriorated mortar at and below grade. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired limestone and block foundation wall with fresh parging on an older home in Joliet Illinois"
 faqs:
   - q: "How much does foundation masonry repair cost in Joliet, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Foundation Masonry Repair in Joliet, IL
 
-Foundation masonry repair in Joliet, IL means restoring the mortar, stone, brick or block that your house actually stands on — repointing failed joints, rebuilding displaced sections, and parging and protecting the wall so water stops driving the damage. Emerald Masonry LLC has been doing this work across Will County and greater Chicagoland for 40+ years. Family-owned, licensed, bonded and insured, with free on-site estimates. Call **(708) 288-1696**.
+Foundation masonry repair in Joliet, IL means restoring the mortar, stone, brick or block that your house actually stands on — repointing failed joints, rebuilding displaced sections, and parging and protecting the wall so water stops driving the damage. Emerald Masonry LLC has been doing this work across Will County and greater Chicagoland for career masons. Family-owned, licensed, bonded and insured, with free on-site estimates. Call **(708) 288-1696**.
 
 Joliet is a limestone town. The city sat on top of one of the region's great dolomitic limestone deposits, and the quarries along the Des Plaines River supplied stone for buildings across the Midwest — including a great many of Joliet's own homes, churches, institutional buildings and foundations. If your house predates the Second World War, there is a strong chance you are standing on quarried Joliet limestone right now.
 
@@ -113,7 +113,7 @@ We work throughout Joliet — the older east-side neighborhoods with their stone
 
 Foundation work frequently connects to other masonry needs on the same building, and we handle them together: [tuckpointing](/services/tuckpointing), [brick repair](/services/brick-repair), [masonry sealing](/services/masonry-sealing) and [limestone and sill repair](/services/limestone-sill-repair).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Happens If You Wait
 

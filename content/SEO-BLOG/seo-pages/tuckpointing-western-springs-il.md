@@ -16,16 +16,11 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Western Springs, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Western Springs, IL — expert mortar joint repair and brick repointing for Tudor, Georgian, and bungalow homes. Licensed, insured, free estimates."
 excerpt: "Western Springs has one of the older, higher-quality residential brick stocks in the west suburbs — Tudor revivals, Georgians, and 1920s bungalows that are now well past the point where their original mortar holds up. Emerald Masonry LLC repoints these homes with mortar matched to their age, so the repair protects the brick instead of damaging it."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing and brick repointing on a Tudor revival home in Western Springs Illinois Cook County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Western Springs IL" / "brick repointing Western Springs" — local residential tuckpointing service intent
-Why this page is better: The top-ranking competitor page mentions "Western Springs" 15+ times but contains zero local detail — no architecture, no building age, no climate exposure — just a generic three-step repointing description with the town name inserted. This page leads with the actual Western Springs brick stock (Tudor revivals, Georgians, Old Town district bungalows, 1910s–1930s construction), explains why mortar-to-brick hardness matching matters on those specific homes, and gives a longer, more specific FAQ.
-Gaps filled: real local architectural context; mortar-strength matching explanation the competitor omits; signs-of-failure section; honest "when tuckpointing isn't enough" guidance; multiple internal links; stronger, specific CTA.
--->
 
 ## Why Western Springs Brick Needs Attention Now
 
@@ -99,7 +94,7 @@ On a visible elevation, that's the goal. We match the joint profile and color so
 Almost always because of mortar and prep. A crew using bagged Type S mortar and grinding joints fast can quote low — but on a soft older Western Springs brick home, that mortar is too hard and will spall the brick within a few years. We match mortar strength and cut joints properly, which costs more labor and protects the brick you're trying to save.
 
 **How long does tuckpointing last?**
-A correctly executed repoint with properly matched mortar lasts 25 to 40 years or more on a Chicago-area home. A mismatched repoint can start causing visible brick damage within 5. The mortar choice is what determines which one you get.
+A correctly executed repoint with properly matched mortar lasts 25 to decades or more on a Chicago-area home. A mismatched repoint can start causing visible brick damage within 5. The mortar choice is what determines which one you get.
 
 **Is winter a problem for this work?**
 Mortar needs to cure above freezing. We schedule tuckpointing for the warm-weather window and won't repoint in conditions where the mortar won't set properly — doing so produces weak, crumbling joints.
@@ -108,6 +103,6 @@ Mortar needs to cure above freezing. We schedule tuckpointing for the warm-weath
 
 ## Serving Western Springs and the Surrounding West Suburbs
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we work with homeowners, property managers, HOAs, and churches across the west and southwest suburbs — Western Springs, La Grange, Hinsdale, Western Springs' Old Town district, Willowbrook, Burr Ridge, and the surrounding communities. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we work with homeowners, property managers, HOAs, and churches across the west and southwest suburbs — Western Springs, La Grange, Hinsdale, Western Springs' Old Town district, Willowbrook, Burr Ridge, and the surrounding communities. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If your Western Springs brick home has receding joints, cracked mortar, or efflorescence on the walls, the cheapest time to deal with it is before the water reaches the brick. **[Contact Emerald Masonry](/#contact)** for a free, no-pressure on-site assessment — we'll walk the house with you, show you exactly what's failing, and quote mortar matched to your brick. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

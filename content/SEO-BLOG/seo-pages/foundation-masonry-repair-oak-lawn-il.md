@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair in Oak Lawn, IL | Emerald Masonry"
 metaDescription: "Brick and block foundation masonry repair in Oak Lawn, IL. Emerald Masonry fixes step cracks, water entry, and crumbling joints. Free estimate — (708) 288-1696."
 excerpt: "Many Oak Lawn homes sit on brick or concrete-block foundation walls that have moved, cracked, and started letting water into the basement. Emerald Masonry LLC repairs and repoints foundation masonry, addresses step cracks, and restores the wall's ability to keep water out."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Oak Lawn, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Oak Lawn, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repaired brick and block foundation wall on a mid-century home in Oak Lawn, IL"
 faqs:
   - q: "How do I know if my Oak Lawn foundation needs masonry repair?"
@@ -102,4 +102,4 @@ Yes. Oak Lawn's housing stock includes both older brick foundation walls and con
 
 ## Get a Free Foundation Estimate in Oak Lawn
 
-If your basement walls are cracking, crumbling, or letting water in, the smart move is to have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Lawn, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we'll give you a straight answer on what your foundation actually needs.
+If your basement walls are cracking, crumbling, or letting water in, the smart move is to have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Lawn, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we'll give you a straight answer on what your foundation actually needs.

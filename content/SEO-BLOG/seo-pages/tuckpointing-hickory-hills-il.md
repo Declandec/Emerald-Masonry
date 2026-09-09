@@ -16,10 +16,10 @@ service: "Tuckpointing & Repointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing Hickory Hills IL | Emerald Masonry LLC"
-metaDescription: "Tuckpointing in Hickory Hills, IL by Emerald Masonry LLC — 40+ years of experience, licensed and insured, mortar-matched repointing. Free on-site estimate: (708) 288-1696."
-excerpt: "Professional tuckpointing and repointing in Hickory Hills, IL from Emerald Masonry LLC — color-matched mortar, 40+ years of Chicagoland experience, and free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Hickory Hills, IL — replacing cracked, crumbling mortar joints in brick homes and chimneys with color-matched Type N or Type S mortar. Family-owned with 40+ years of experience, licensed and insured. Call (708) 288-1696 for a free on-site estimate."
-image: "/images/after-residential.jpg"
+metaDescription: "Tuckpointing in Hickory Hills, IL by Emerald Masonry LLC — career masons with decades of experience, licensed and insured, mortar-matched repointing. Free on-site estimate: (708) 288-1696."
+excerpt: "Professional tuckpointing and repointing in Hickory Hills, IL from Emerald Masonry LLC — color-matched mortar, career masons with decades of Chicagoland experience, and free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Hickory Hills, IL — replacing cracked, crumbling mortar joints in brick homes and chimneys with color-matched Type N or Type S mortar. Family-owned, led by career masons with decades of hands-on experience, licensed and insured. Call (708) 288-1696 for a free on-site estimate."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tuckpointed brick wall in Hickory Hills, IL with color-matched mortar joints"
 faqs:
   - q: "How much does tuckpointing cost in Hickory Hills, IL?"
@@ -37,7 +37,7 @@ competitorInformed: true
 
 ## Tuckpointing in Hickory Hills, IL
 
-**Emerald Masonry LLC provides expert tuckpointing and repointing in Hickory Hills, IL — grinding out failed mortar and refilling the joints with fresh, color-matched Type N or Type S mortar so your brick stays weather-tight and looks like new.** We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and every project starts with a free on-site estimate. Call **(708) 288-1696** to have your Hickory Hills brickwork inspected.
+**Emerald Masonry LLC provides expert tuckpointing and repointing in Hickory Hills, IL — grinding out failed mortar and refilling the joints with fresh, color-matched Type N or Type S mortar so your brick stays weather-tight and looks like new.** We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and every project starts with a free on-site estimate. Call **(708) 288-1696** to have your Hickory Hills brickwork inspected.
 
 Mortar is the first part of any brick wall to fail. When it does, tuckpointing is the repair that restores the wall's strength and keeps water out — long before you ever need to touch the brick itself.
 
@@ -111,9 +111,9 @@ Yes — we tint Type N or Type S mortar to match your existing color, texture, a
 
 ### Why homeowners choose Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
-We work with homeowners, property managers, HOAs, churches, and insurance companies across southwest Cook County. Being non-union keeps our pricing competitive, and four decades in the field means we've matched mortar on just about every era of Hickory Hills brick.
+We work with homeowners, property managers, HOAs, churches, and insurance companies across southwest Cook County. Being non-union keeps our pricing competitive, and decades in the field means we've matched mortar on just about every era of Hickory Hills brick.
 
 ### Related services
 

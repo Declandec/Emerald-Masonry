@@ -16,10 +16,10 @@ service: "Foundation Masonry Repair"
 serviceSlug: "foundation-masonry-repair"
 pageType: "location"
 metaTitle: "Foundation Masonry Repair Glendale Heights | Emerald Masonry LLC"
-metaDescription: "Foundation masonry repair in Glendale Heights, IL — repointing, rebuilding deteriorated brick/block courses, parging & crack repair. Family-owned, 40+ years. Free estimate: (708) 288-1696."
+metaDescription: "Foundation masonry repair in Glendale Heights, IL — repointing, rebuilding deteriorated brick/block courses, parging & crack repair. Family-owned, career masons. Free estimate: (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs deteriorated brick, block, and stone foundations in Glendale Heights, IL — repointing, rebuilding failing courses, parging, and crack repair. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Glendale Heights, IL, restoring deteriorated brick, block, and stone foundations through repointing, rebuilding failing courses, parging, and crack repair. Family-owned with 40+ years of experience, licensed and insured. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Glendale Heights, IL, restoring deteriorated brick, block, and stone foundations through repointing, rebuilding failing courses, parging, and crack repair. Family-owned, led by career masons with decades of hands-on experience, licensed and insured. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repaired brick foundation on a Glendale Heights, IL home after Emerald Masonry foundation masonry work"
 faqs:
   - q: "What is foundation masonry repair versus structural foundation repair?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Foundation masonry repair in Glendale Heights, IL
 
-Foundation masonry repair restores the brick, block, or stone that forms your foundation wall. For Glendale Heights homeowners, that means repointing failed mortar joints, rebuilding deteriorated courses of brick or block, parging worn or pitted surfaces, and sealing cracks so water stays out. It is masonry work on the foundation — not structural underpinning of the footing beneath it. If you're seeing crumbling mortar, spalling brick, or step cracks near grade, that's a masonry problem, and it's exactly what Emerald Masonry LLC has fixed on Chicagoland homes for over 40 years. Free on-site estimate: **(708) 288-1696**.
+Foundation masonry repair restores the brick, block, or stone that forms your foundation wall. For Glendale Heights homeowners, that means repointing failed mortar joints, rebuilding deteriorated courses of brick or block, parging worn or pitted surfaces, and sealing cracks so water stays out. It is masonry work on the foundation — not structural underpinning of the footing beneath it. If you're seeing crumbling mortar, spalling brick, or step cracks near grade, that's a masonry problem, and it's exactly what Emerald Masonry LLC has fixed on Chicagoland homes for decades. Free on-site estimate: **(708) 288-1696**.
 
 ### What foundation masonry repair actually is
 
@@ -91,9 +91,9 @@ There's no honest way to quote a foundation masonry repair sight unseen, so we d
 
 A lot of Glendale Heights housing stock was built from the 1970s through the 1990s, and those homes typically sit on concrete block or brick-faced foundations that are now 30 to 50 years old — right in the window where mortar and masonry start giving out. DuPage County's clay-heavy soils make it harder. Clay holds water, and in spring the ground around Glendale Heights foundations stays saturated, driving hydrostatic pressure against the wall and feeding the freeze-thaw cycle that spalls brick and washes out mortar. That combination — aging block-and-brick foundations plus wet, expansive clay — is exactly why foundation masonry repair is such steady work in this part of DuPage County.
 
-### 40+ years you can rely on
+### career masons you can rely on
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696. We're non-union, we stand behind our work, and we give Glendale Heights homeowners an honest read on whether they need masonry repair or a structural engineer.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696. We're non-union, we stand behind our work, and we give Glendale Heights homeowners an honest read on whether they need masonry repair or a structural engineer.
 
 ### Related services
 

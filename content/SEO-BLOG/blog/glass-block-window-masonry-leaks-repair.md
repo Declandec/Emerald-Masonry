@@ -4,7 +4,7 @@ date: "2026-06-21"
 excerpt: "Glass block basement and bathroom windows are everywhere on Chicago-area brick homes — and when they leak, the problem is almost always the masonry around them, not the glass. Here's why glass block fails, what actually leaks, and how it's properly repaired."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - glass block window leak
   - glass block masonry repair
@@ -78,7 +78,7 @@ Yes. For Chicago-area basements especially, glass block remains a smart choice �
 
 A leaking glass block window is one of the most misdiagnosed masonry problems we see, because the obvious suspect — the glass — is almost never the culprit. Water gets in through the eroded mortar between the blocks, the failed perimeter joint where the panel meets the brick, and dried-out sealant. Fix those, and the leak stops. The repair is straightforward masonry work, but it has to target the right paths — which is why an experienced look at both the panel and the surrounding opening makes the difference.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If a glass block window is letting water in, [contact us](/#contact) for a free on-site assessment — or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If a glass block window is letting water in, [contact us](/#contact) for a free on-site assessment — or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

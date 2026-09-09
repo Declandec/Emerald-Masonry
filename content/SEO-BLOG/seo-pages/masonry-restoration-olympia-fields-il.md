@@ -16,7 +16,7 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Olympia Fields, IL | Emerald Masonry LLC"
 metaDescription: "Masonry restoration in Olympia Fields, IL — full-scope brick and stone repair for estates, commercial, and institutional buildings in south suburban Cook County. Free estimates."
 excerpt: "Olympia Fields has a higher-end built environment than most of the south suburbs — larger custom homes, a country-club legacy, medical and institutional campuses, and substantial brick and stone construction. Emerald Masonry LLC provides full-scope restoration that treats these buildings as the whole systems they are, not a list of isolated patches."
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Full-scope masonry restoration on a brick and stone estate home in Olympia Fields Illinois Cook County"
 competitorInformed: false
 ---
@@ -97,6 +97,6 @@ Yes — estate residences, commercial buildings, and institutional properties in
 
 ## Serving Olympia Fields and the South Suburbs
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, churches, and institutional owners across the south and southwest suburbs — Olympia Fields, Flossmoor, Matteson, Park Forest, Homewood, and the surrounding south suburban Cook County communities. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, churches, and institutional owners across the south and southwest suburbs — Olympia Fields, Flossmoor, Matteson, Park Forest, Homewood, and the surrounding south suburban Cook County communities. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If you own or manage an Olympia Fields property with multiple masonry issues — failing joints, spalling brick or stone, a leaking parapet or coping, or damage you suspect is water-driven — a comprehensive assessment will tell you what you're actually dealing with. **[Contact Emerald Masonry](/#contact)** for a free on-site restoration evaluation and a written, prioritized scope. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

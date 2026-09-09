@@ -18,7 +18,7 @@ service: "Historic Masonry Restoration"
 metaTitle: "Historic Masonry Restoration in Westmont, IL | Emerald Masonry LLC"
 metaDescription: "Historic masonry restoration in Westmont, IL. Lime mortar repointing, compatible brick repair & facade preservation for older DuPage County buildings. Free estimates."
 excerpt: "Historic masonry restoration is a different discipline than standard commercial repair — the materials, the techniques, and the stakes are all different. In Westmont and DuPage County, older institutional and commercial buildings require a contractor who understands material compatibility, not one who applies modern methods to 100-year-old masonry."
-image: "/images/restoration-facade.jpg"
+image: "/images/restoration-facade.webp"
 imageAlt: "Historic masonry restoration on older brick building in Westmont, IL"
 competitorInformed: false
 ---

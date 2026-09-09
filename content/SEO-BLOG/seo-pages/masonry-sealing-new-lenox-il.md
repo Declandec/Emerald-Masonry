@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Masonry Sealing in New Lenox, IL | Emerald Masonry LLC"
 metaDescription: "Masonry sealing in New Lenox, IL — breathable repellents applied after repairs, never instead of them. Free written on-site estimates: (708) 288-1696."
 excerpt: "Plenty of New Lenox brick does not need sealing, and some of it would be actively harmed by it. There is a two-minute test that tells you which camp your wall is in."
-aiSummary: "Emerald Masonry LLC provides masonry sealing in New Lenox, IL — testing whether masonry actually needs a repellent, completing repairs first, then applying a breathable penetrating sealer that resists driving rain and freeze-thaw damage without trapping moisture. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing in New Lenox, IL — testing whether masonry actually needs a repellent, completing repairs first, then applying a breathable penetrating sealer that resists driving rain and freeze-thaw damage without trapping moisture. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Breathable penetrating water repellent applied to a repointed brick home in New Lenox, Illinois"
 faqs:
   - q: "How much does masonry sealing cost in New Lenox, IL?"
@@ -49,7 +49,7 @@ competitorInformed: false
 
 ## Masonry Sealing in New Lenox, IL
 
-Masonry sealing in New Lenox, IL is worth doing on some walls, pointless on others, and genuinely harmful on a few — and there is a two-minute test that tells you which one you have. Emerald Masonry LLC assesses, repairs and seals masonry throughout New Lenox and Will County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Masonry sealing in New Lenox, IL is worth doing on some walls, pointless on others, and genuinely harmful on a few — and there is a two-minute test that tells you which one you have. Emerald Masonry LLC assesses, repairs and seals masonry throughout New Lenox and Will County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Most sealing sold door-to-door skips that test entirely, which is how homeowners end up paying to coat a wall that was already shedding water — or worse, to seal a wall that needed repointing.
 
@@ -113,7 +113,7 @@ Both sit in the same climate: dozens of freeze-thaw cycles a winter, and the wet
 
 Square footage to be treated · height and access, from a ranch elevation to a two-story or a chimney needing staging · **masonry porosity, since thirsty brick absorbs considerably more material** · repairs required first, usually the largest part on an older house · substrate mix where stone trim is involved · surface preparation and cleaning · season. The on-site assessment is free and written.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving New Lenox and Will County
 
@@ -121,6 +121,6 @@ We assess, repair and seal masonry throughout New Lenox's 60451 — the subdivis
 
 ## Why New Lenox Homeowners Call Emerald
 
-We will tell you when sealing is worth doing and when it would be a waste of your money — including the times the right answer is to extend a downspout and watch it for a season. We repair before we seal, we use breathable products that let walls dry, and we do not sell coatings that look good for one summer and cost you brick later. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We will tell you when sealing is worth doing and when it would be a waste of your money — including the times the right answer is to extend a downspout and watch it for a season. We repair before we seal, we use breathable products that let walls dry, and we do not sell coatings that look good for one summer and cost you brick later. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 Want to know whether your New Lenox brick should be sealed — and what needs fixing first? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

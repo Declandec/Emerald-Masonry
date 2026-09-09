@@ -18,7 +18,7 @@ service: "Parapet Wall Repair"
 metaTitle: "Parapet Wall Repair in Elgin, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair and coping joint restoration in Elgin, IL. Emerald Masonry serves Kane County commercial buildings. Licensed, bonded & insured. Free estimates."
 excerpt: "Parapet walls on Elgin's commercial and industrial buildings take more weather exposure than any other masonry element — all sides exposed, no overhang protection, direct precipitation on the top surface. In a community with substantial commercial development from the 1960s through the 1990s, most flat-roofed buildings are reaching the age where parapet maintenance is overdue. Emerald Masonry LLC provides parapet wall repair, coping restoration, and flashing repair for Elgin and Kane County commercial properties."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Parapet wall repair and coping restoration completed on a commercial building in Elgin, IL Kane County"
 competitorInformed: false
 ---

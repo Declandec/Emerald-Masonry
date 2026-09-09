@@ -4,7 +4,7 @@ date: "2026-05-11"
 excerpt: "The postwar brick bungalow is one of the most common building types in south and southwest Cook County. These homes were built to last, but most are now 60–75 years old and have reached a predictable set of masonry failure points that every owner should understand before scheduling work."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - brick bungalow masonry repair Chicago
   - post-WWII brick home masonry Illinois
@@ -32,7 +32,7 @@ The original mortar in most postwar bungalows was a lime-Portland blend that per
 
 ### 2. Chimney Deterioration
 
-The chimneys on these homes have taken more than 70 winters. Crown deterioration is nearly universal — original concrete crowns crack within 15–20 years and have been cycling water in for 40+ years in many cases. Upper chimney joints are often severely eroded. In serious cases, the upper 10–15 courses have gone through enough freeze cycles that they need to come down and be rebuilt rather than repointed.
+The chimneys on these homes have taken more than 70 winters. Crown deterioration is nearly universal — original concrete crowns crack within 15–20 years and have been cycling water in for career masons in many cases. Upper chimney joints are often severely eroded. In serious cases, the upper 10–15 courses have gone through enough freeze cycles that they need to come down and be rebuilt rather than repointed.
 
 ### 3. Lintel Rust and Brick Displacement
 

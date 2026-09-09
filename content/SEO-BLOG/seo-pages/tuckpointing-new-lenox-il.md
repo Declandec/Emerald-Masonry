@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in New Lenox, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in New Lenox, IL — targeted repointing where newer brick veneer actually fails. Licensed and insured. Free estimates: call (708) 288-1696 now."
 excerpt: "New Lenox is a young masonry town, and young brick does not fail the way century-old brick does. It fails at specific details — sill lines, chimney chases, the bottom courses, the weather elevation — which means most homes here need targeted spot repointing, not a whole-house job."
-aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in New Lenox, IL — grinding out failed mortar joints and repacking them with matched mortar, targeting the sill lines, chimney chases and bottom courses where newer brick veneer actually fails. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in New Lenox, IL — grinding out failed mortar joints and repacking them with matched mortar, targeting the sill lines, chimney chases and bottom courses where newer brick veneer actually fails. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Spot repointed mortar joints below a window sill on a brick veneer home in New Lenox, Illinois"
 faqs:
   - q: "How much does tuckpointing cost in New Lenox, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Tuckpointing in New Lenox, IL
 
-Tuckpointing in New Lenox, IL is usually a smaller job than homeowners are told it is. Emerald Masonry LLC repoints brick and stone on homes, subdivisions, associations and commercial buildings throughout Will County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Tuckpointing in New Lenox, IL is usually a smaller job than homeowners are told it is. Emerald Masonry LLC repoints brick and stone on homes, subdivisions, associations and commercial buildings throughout Will County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 That claim needs explaining, because it runs against most of what gets sold in this market.
 
@@ -133,7 +133,7 @@ We do not quote over the phone or by the linear foot before seeing the wall. Est
 
 ## Serving New Lenox and Will County
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout New Lenox and neighbouring [Mokena](/locations/tuckpointing-mokena-il), [Frankfort](/locations/tuckpointing-contractor-frankfort-il), [Manhattan](/locations/tuckpointing-manhattan-il) and [Homer Glen](/locations/tuckpointing-homer-glen-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

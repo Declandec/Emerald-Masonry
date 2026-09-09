@@ -18,7 +18,7 @@ service: "CMU Block Repair"
 metaTitle: "CMU Block Repair in Evergreen Park, IL | Emerald Masonry LLC"
 metaDescription: "CMU block wall repair and repointing in Evergreen Park, IL. Emerald Masonry serves Cook County commercial and retail properties. Licensed, bonded & insured."
 excerpt: "Concrete masonry unit (CMU) block is the dominant wall material in Evergreen Park's commercial and light-industrial buildings — and it deteriorates differently than brick veneer. Block mortar joints erode, paint and block filler coatings fail, and unsealed CMU absorbs water at a rate that can cause significant interior moisture problems. Emerald Masonry LLC diagnoses CMU block deterioration and restores the wall assembly's water resistance for Evergreen Park commercial and institutional properties."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "CMU block wall repair and repointing completed on a commercial building in Evergreen Park, IL Cook County"
 competitorInformed: false
 ---

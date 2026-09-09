@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair Downers Grove IL | Emerald Masonry"
 metaDescription: "Foundation masonry repair in Downers Grove, IL — rubble stone, brick, clay tile and block walls repaired correctly. Free estimates: call (708) 288-1696."
 excerpt: "Downers Grove has four common foundation materials under four eras of housing, and each one fails and gets repaired differently. Parging a rubble stone wall the way you would parge block is one of the most common — and most damaging — mistakes made on older Village homes."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Downers Grove, IL — repointing and rebuilding rubble stone, brick, hollow clay tile and concrete block foundation walls, and correcting the water sources that cause them to fail. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Downers Grove, IL — repointing and rebuilding rubble stone, brick, hollow clay tile and concrete block foundation walls, and correcting the water sources that cause them to fail. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Repointed stone foundation wall on an older home in Downers Grove, Illinois"
 faqs:
   - q: "How much does foundation masonry repair cost in Downers Grove, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Foundation Masonry Repair in Downers Grove, IL
 
-Foundation masonry repair in Downers Grove, IL depends almost entirely on one question: **what is the foundation actually made of?** Emerald Masonry LLC repairs rubble stone, brick, hollow clay tile and concrete block foundations throughout DuPage County — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Foundation masonry repair in Downers Grove, IL depends almost entirely on one question: **what is the foundation actually made of?** Emerald Masonry LLC repairs rubble stone, brick, hollow clay tile and concrete block foundations throughout DuPage County — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Downers Grove is unusual in how many foundation types sit within a few blocks of each other. A house near the older Village core and a house in a post-war subdivision a mile away can have the same symptom — crumbling joints, damp walls, a crack — and need almost nothing in common.
 
@@ -125,7 +125,7 @@ We do not price foundation work sight unseen. The assessment is free and the est
 
 ## Serving Downers Grove and DuPage County
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Downers Grove and neighbouring [Westmont](/locations/historic-masonry-restoration-westmont-il), [Lisle](/locations/chimney-repair-lisle-il), [Woodridge](/locations/commercial-masonry-woodridge-il) and [Naperville](/locations/tuckpointing-naperville-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

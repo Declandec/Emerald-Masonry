@@ -7,7 +7,7 @@
       "city": "Orland Park, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-02",
-      "image": "/images/work-tuckpointing.jpg",
+      "image": "/images/work-tuckpointing.webp",
       "competitorInformed": false
     },
     {
@@ -17,7 +17,7 @@
       "city": "Oak Lawn, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-02",
-      "image": "/images/work-brick-repair.jpg",
+      "image": "/images/work-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -27,7 +27,7 @@
       "city": "Tinley Park, IL",
       "service": "Commercial Masonry",
       "publishDate": "2026-04-02",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -37,7 +37,7 @@
       "city": "Homer Glen, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-02",
-      "image": "/images/work-chimney-rebuild.jpg",
+      "image": "/images/work-chimney-rebuild.webp",
       "competitorInformed": false
     },
     {
@@ -47,7 +47,7 @@
       "city": "Joliet, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-04-02",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -57,7 +57,7 @@
       "city": "Frankfort, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-02",
-      "image": "/images/work-tuckpointing.jpg",
+      "image": "/images/work-tuckpointing.webp",
       "competitorInformed": true
     },
     {
@@ -67,7 +67,7 @@
       "city": "Mokena, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-04-02",
-      "image": "/images/restoration-facade.jpg",
+      "image": "/images/restoration-facade.webp",
       "competitorInformed": false
     },
     {
@@ -77,7 +77,7 @@
       "city": "Naperville, IL",
       "service": "Parapet Wall Repair",
       "publishDate": "2026-04-08",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -87,7 +87,7 @@
       "city": "Downers Grove, IL",
       "service": "Efflorescence & Waterproofing",
       "publishDate": "2026-04-02",
-      "image": "/images/work-efflorescence.jpg",
+      "image": "/images/work-efflorescence.webp",
       "competitorInformed": false
     },
     {
@@ -97,7 +97,7 @@
       "city": "Bolingbrook, IL",
       "service": "Lintel Replacement",
       "publishDate": "2026-04-02",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -107,7 +107,7 @@
       "city": "New Lenox, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-09",
-      "image": "/images/work-chimney-rebuild.jpg",
+      "image": "/images/work-chimney-rebuild.webp",
       "competitorInformed": true
     },
     {
@@ -117,7 +117,7 @@
       "city": "Lemont, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-09",
-      "image": "/images/work-brick-repair.jpg",
+      "image": "/images/work-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -127,7 +127,7 @@
       "city": "Plainfield, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-09",
-      "image": "/images/work-tuckpointing.jpg",
+      "image": "/images/work-tuckpointing.webp",
       "competitorInformed": false
     },
     {
@@ -137,7 +137,7 @@
       "city": "Lockport, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-04-09",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -147,7 +147,7 @@
       "city": "Westmont, IL",
       "service": "Historic Masonry Restoration",
       "publishDate": "2026-04-09",
-      "image": "/images/restoration-facade.jpg",
+      "image": "/images/restoration-facade.webp",
       "competitorInformed": false
     },
     {
@@ -157,7 +157,7 @@
       "city": "La Grange, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-12",
-      "image": "/images/work-tuckpointing.jpg",
+      "image": "/images/work-tuckpointing.webp",
       "competitorInformed": true
     },
     {
@@ -167,7 +167,7 @@
       "city": "Burr Ridge, IL",
       "service": "Efflorescence & Waterproofing",
       "publishDate": "2026-04-12",
-      "image": "/images/work-efflorescence.jpg",
+      "image": "/images/work-efflorescence.webp",
       "competitorInformed": false
     },
     {
@@ -177,7 +177,7 @@
       "city": "Wheaton, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-12",
-      "image": "/images/work-chimney-rebuild.jpg",
+      "image": "/images/work-chimney-rebuild.webp",
       "competitorInformed": false
     },
     {
@@ -187,7 +187,7 @@
       "city": "Romeoville, IL",
       "service": "CMU Block Repair",
       "publishDate": "2026-04-12",
-      "image": "/images/work-commercial.jpg",
+      "image": "/images/work-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -197,7 +197,7 @@
       "city": "Matteson, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-04-12",
-      "image": "/images/restoration-facade.jpg",
+      "image": "/images/restoration-facade.webp",
       "competitorInformed": false
     },
     {
@@ -207,7 +207,7 @@
       "city": "Lemont, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-12",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -217,7 +217,7 @@
       "city": "Burr Ridge, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-12",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -227,7 +227,7 @@
       "city": "Downers Grove, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-12",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": true
     },
     {
@@ -237,7 +237,7 @@
       "city": "Frankfort, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-12",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -247,7 +247,7 @@
       "city": "Mokena, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-12",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -257,7 +257,7 @@
       "city": "New Lenox, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-04-12",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -267,7 +267,7 @@
       "city": "Bolingbrook, IL",
       "service": "Parapet Wall Repair",
       "publishDate": "2026-04-12",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -277,7 +277,7 @@
       "city": "Aurora, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-13",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": true
     },
     {
@@ -287,7 +287,7 @@
       "city": "Elmhurst, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-13",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -297,7 +297,7 @@
       "city": "Berwyn, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-04-13",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -307,7 +307,7 @@
       "city": "Darien, IL",
       "service": "Lintel Replacement",
       "publishDate": "2026-04-13",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -317,7 +317,7 @@
       "city": "Woodridge, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-04-13",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -327,7 +327,7 @@
       "city": "Hinsdale, IL",
       "service": "Lintel Replacement",
       "publishDate": "2026-04-24",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": true
     },
     {
@@ -337,7 +337,7 @@
       "city": "Glen Ellyn, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-24",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -347,7 +347,7 @@
       "city": "Lisle, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-24",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -357,7 +357,7 @@
       "city": "Alsip, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-04-24",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -367,7 +367,7 @@
       "city": "Palos Hills, IL",
       "service": "Efflorescence & Waterproofing",
       "publishDate": "2026-04-24",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -377,7 +377,7 @@
       "city": "Cicero, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-25",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": true
     },
     {
@@ -387,7 +387,7 @@
       "city": "Lombard, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-25",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -397,7 +397,7 @@
       "city": "Palos Park, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-25",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -407,7 +407,7 @@
       "city": "Blue Island, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-04-25",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -417,7 +417,7 @@
       "city": "Elgin, IL",
       "service": "Parapet Wall Repair",
       "publishDate": "2026-04-25",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -427,7 +427,7 @@
       "city": "Oak Park, IL",
       "service": "Historic Masonry Restoration",
       "publishDate": "2026-04-26",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -437,7 +437,7 @@
       "city": "Evergreen Park, IL",
       "service": "CMU Block Repair",
       "publishDate": "2026-04-26",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -447,7 +447,7 @@
       "city": "Shorewood, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-04-26",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -457,7 +457,7 @@
       "city": "Villa Park, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-04-26",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -467,7 +467,7 @@
       "city": "Addison, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-04-26",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -477,7 +477,7 @@
       "city": "Calumet City, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-05-11",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": true
     },
     {
@@ -487,7 +487,7 @@
       "city": "Willowbrook, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-05-11",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -497,7 +497,7 @@
       "city": "Bartlett, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-05-11",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -507,7 +507,7 @@
       "city": "Glendale Heights, IL",
       "service": "Efflorescence & Waterproofing",
       "publishDate": "2026-05-11",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -517,7 +517,7 @@
       "city": "Oswego, IL",
       "service": "Parapet Wall Repair",
       "publishDate": "2026-05-11",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -527,7 +527,7 @@
       "city": "Bridgeview, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-05-11",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -537,7 +537,7 @@
       "city": "Lansing, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-05-20",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": true
     },
     {
@@ -547,7 +547,7 @@
       "city": "Midlothian, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-05-20",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -557,7 +557,7 @@
       "city": "Streamwood, IL",
       "service": "Lintel Replacement",
       "publishDate": "2026-05-20",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -567,7 +567,7 @@
       "city": "Crest Hill, IL",
       "service": "CMU Block Repair",
       "publishDate": "2026-05-20",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -577,7 +577,7 @@
       "city": "River Forest, IL",
       "service": "Historic Masonry Restoration",
       "publishDate": "2026-05-20",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -587,7 +587,7 @@
       "city": "Western Springs, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-06-03",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": true
     },
     {
@@ -597,7 +597,7 @@
       "city": "Channahon, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-06-03",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -607,7 +607,7 @@
       "city": "Hanover Park, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-06-03",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -617,7 +617,7 @@
       "city": "Montgomery, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-06-03",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -627,7 +627,7 @@
       "city": "Olympia Fields, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-06-03",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -637,7 +637,7 @@
       "city": "Harvey, IL",
       "service": "Commercial & Industrial Masonry",
       "publishDate": "2026-06-06",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -647,7 +647,7 @@
       "city": "Justice, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-06-06",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -657,7 +657,7 @@
       "city": "Worth, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-06-06",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -667,7 +667,7 @@
       "city": "Chicago Ridge, IL",
       "service": "Brick Repair & Replacement",
       "publishDate": "2026-06-06",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -677,7 +677,7 @@
       "city": "Yorkville, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-06-06",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -687,7 +687,7 @@
       "city": "Joliet, IL",
       "service": "Parapet Wall Repair",
       "publishDate": "2026-06-17",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": true
     },
     {
@@ -697,7 +697,7 @@
       "city": "Naperville, IL",
       "service": "Chimney Repair",
       "publishDate": "2026-06-17",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -707,7 +707,7 @@
       "city": "Tinley Park, IL",
       "service": "Masonry Restoration",
       "publishDate": "2026-06-17",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -717,7 +717,7 @@
       "city": "Lockport, IL",
       "service": "Efflorescence & Waterproofing",
       "publishDate": "2026-06-17",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -727,7 +727,7 @@
       "city": "Elgin, IL",
       "service": "Tuckpointing & Repointing",
       "publishDate": "2026-06-17",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -739,7 +739,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": true
     },
     {
@@ -751,7 +751,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -763,7 +763,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -775,7 +775,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -787,7 +787,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "comparison",
       "publishDate": "2026-06-18",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -799,7 +799,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "comparison",
       "publishDate": "2026-06-18",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -811,7 +811,7 @@
       "serviceSlug": "masonry-restoration",
       "pageType": "decision",
       "publishDate": "2026-06-18",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -823,7 +823,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -835,7 +835,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -847,7 +847,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -859,7 +859,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-06-18",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -871,7 +871,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-20",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -883,7 +883,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-20",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -895,7 +895,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-06-20",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -907,7 +907,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-06-20",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -919,7 +919,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-06-20",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -931,7 +931,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-21",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -943,7 +943,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-21",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -955,7 +955,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-06-21",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -967,7 +967,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-06-21",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -979,7 +979,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-06-21",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -991,7 +991,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-22",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1003,7 +1003,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-06-22",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": true
     },
     {
@@ -1015,7 +1015,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-22",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1027,7 +1027,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-06-22",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -1039,7 +1039,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-06-22",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1051,7 +1051,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-23",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -1063,7 +1063,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-23",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -1075,7 +1075,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-06-23",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1087,7 +1087,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-06-23",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1099,7 +1099,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-06-23",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1111,7 +1111,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-06-28",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1123,7 +1123,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-28",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1135,7 +1135,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-28",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": true
     },
     {
@@ -1147,7 +1147,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-06-28",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1159,19 +1159,19 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-06-28",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
       "slug": "chimney-repair-chicago-heights-il",
-      "title": "Chimney Repair in Chicago Heights, IL — Family-Owned Masonry With 40+ Years on South-Suburb Chimneys",
+      "title": "Chimney Repair in Chicago Heights, IL — Family-Owned Masonry by Career Masons on South-Suburb Chimneys",
       "primaryKeyword": "chimney repair Chicago Heights IL",
       "city": "Chicago Heights, IL",
       "service": "Chimney Repair",
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-06-29",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": true
     },
     {
@@ -1183,7 +1183,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-06-29",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1195,7 +1195,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-06-29",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1207,7 +1207,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-06-29",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1219,7 +1219,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-06-29",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -1231,7 +1231,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-02",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": true
     },
     {
@@ -1243,7 +1243,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-02",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -1255,7 +1255,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-07-02",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1267,7 +1267,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-07-02",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1279,7 +1279,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-07-02",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1291,7 +1291,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-04",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -1303,7 +1303,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-04",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1315,7 +1315,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-04",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1327,7 +1327,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-07-04",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1339,7 +1339,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-07-04",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1351,7 +1351,7 @@
       "serviceSlug": "masonry-restoration",
       "pageType": "decision",
       "publishDate": "2026-07-04",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1363,7 +1363,7 @@
       "serviceSlug": "masonry-restoration",
       "pageType": "comparison",
       "publishDate": "2026-07-04",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1375,7 +1375,7 @@
       "serviceSlug": "masonry-restoration",
       "pageType": "comparison",
       "publishDate": "2026-07-04",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1387,7 +1387,7 @@
       "serviceSlug": "masonry-restoration",
       "pageType": "decision",
       "publishDate": "2026-07-04",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1399,7 +1399,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "decision",
       "publishDate": "2026-07-04",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -1411,7 +1411,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-09",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -1423,7 +1423,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-09",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1435,7 +1435,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-09",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1447,7 +1447,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-07-09",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1459,7 +1459,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-07-09",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -1471,7 +1471,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-12",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -1483,7 +1483,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-12",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1495,7 +1495,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-07-12",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1507,7 +1507,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-07-12",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1519,7 +1519,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-07-12",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1531,7 +1531,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-20",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": true
     },
     {
@@ -1543,7 +1543,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-07-20",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1555,7 +1555,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-20",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1567,7 +1567,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-07-20",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1579,7 +1579,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-07-20",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -1591,7 +1591,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-21",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": true
     },
     {
@@ -1603,7 +1603,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-07-21",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1615,7 +1615,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-07-21",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1627,7 +1627,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-07-21",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1639,7 +1639,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-07-21",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1651,7 +1651,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-28",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -1663,7 +1663,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-28",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1675,7 +1675,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-28",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1687,7 +1687,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-07-28",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1699,7 +1699,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-07-28",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1711,7 +1711,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-29",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": true
     },
     {
@@ -1723,7 +1723,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-29",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1735,7 +1735,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-07-29",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1747,7 +1747,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-07-29",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1759,7 +1759,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-07-29",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1771,7 +1771,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-30",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": true
     },
     {
@@ -1783,7 +1783,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-07-30",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1795,7 +1795,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-07-30",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1807,7 +1807,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-07-30",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -1819,7 +1819,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-30",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1831,7 +1831,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-07-31",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": true
     },
     {
@@ -1843,7 +1843,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-07-31",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1855,7 +1855,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-07-31",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -1867,7 +1867,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-07-31",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1879,7 +1879,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-07-31",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -1891,7 +1891,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-08-02",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": true
     },
     {
@@ -1903,7 +1903,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-08-02",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1915,7 +1915,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-02",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1927,7 +1927,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-08-02",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -1939,7 +1939,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-08-02",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -1951,7 +1951,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-03",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": true
     },
     {
@@ -1963,7 +1963,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-08-03",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -1975,7 +1975,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-08-03",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -1987,7 +1987,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-08-03",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -1999,7 +1999,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-08-03",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2011,7 +2011,7 @@
       "serviceSlug": "historic-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-05",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": true
     },
     {
@@ -2023,7 +2023,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-08-05",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2035,7 +2035,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-05",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -2047,7 +2047,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-08-05",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2059,7 +2059,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-08-05",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -2071,7 +2071,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-08-06",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": true
     },
     {
@@ -2083,7 +2083,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-08-06",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2095,7 +2095,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-08-06",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2107,7 +2107,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-08-06",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2119,7 +2119,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-08-06",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -2131,7 +2131,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-08",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": true
     },
     {
@@ -2143,7 +2143,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-08-08",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -2155,7 +2155,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-08-08",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2167,7 +2167,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-08-08",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2179,7 +2179,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-08-08",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2191,7 +2191,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-11",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": true
     },
     {
@@ -2203,7 +2203,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-11",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2215,7 +2215,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-08-11",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -2227,7 +2227,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-11",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": false
     },
     {
@@ -2239,7 +2239,7 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-08-11",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2330,7 +2330,7 @@
       "pageType": "location",
       "primaryKeyword": "tuckpointing Elmwood Park IL",
       "date": "2026-08-15",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": true
     },
     {
@@ -2341,7 +2341,7 @@
       "pageType": "location",
       "primaryKeyword": "chimney repair Downers Grove IL",
       "date": "2026-08-15",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "competitorInformed": false
     },
     {
@@ -2352,7 +2352,7 @@
       "pageType": "location",
       "primaryKeyword": "parapet wall repair Berwyn IL",
       "date": "2026-08-15",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -2363,7 +2363,7 @@
       "pageType": "location",
       "primaryKeyword": "brick repair Maywood IL",
       "date": "2026-08-15",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2374,7 +2374,7 @@
       "pageType": "location",
       "primaryKeyword": "brick replacement Plainfield IL",
       "date": "2026-08-15",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2386,7 +2386,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-08-22",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": true
     },
     {
@@ -2398,7 +2398,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-08-22",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2410,7 +2410,7 @@
       "serviceSlug": "foundation-masonry-repair",
       "pageType": "location",
       "publishDate": "2026-08-22",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -2422,7 +2422,7 @@
       "serviceSlug": "parapet-wall-repair",
       "pageType": "location",
       "publishDate": "2026-08-22",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": false
     },
     {
@@ -2434,7 +2434,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-08-22",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2446,7 +2446,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-24",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": true
     },
     {
@@ -2458,7 +2458,7 @@
       "serviceSlug": "limestone-sill-repair",
       "pageType": "location",
       "publishDate": "2026-08-24",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -2470,7 +2470,7 @@
       "serviceSlug": "brick-repair",
       "pageType": "location",
       "publishDate": "2026-08-24",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2482,7 +2482,7 @@
       "serviceSlug": "tuckpointing",
       "pageType": "location",
       "publishDate": "2026-08-24",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2494,7 +2494,7 @@
       "serviceSlug": "chimney-repair",
       "pageType": "location",
       "publishDate": "2026-08-24",
-      "image": "/images/after-chimney-2.jpg",
+      "image": "/images/after-chimney-2.webp",
       "competitorInformed": false
     },
     {
@@ -2506,7 +2506,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-25",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "competitorInformed": true
     },
     {
@@ -2518,7 +2518,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-08-25",
-      "image": "/images/after-brick-repair.jpg",
+      "image": "/images/after-brick-repair.webp",
       "competitorInformed": false
     },
     {
@@ -2530,7 +2530,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-08-25",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -2542,7 +2542,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-25",
-      "image": "/images/after-residential.jpg",
+      "image": "/images/after-residential.webp",
       "competitorInformed": false
     },
     {
@@ -2554,7 +2554,7 @@
       "serviceSlug": "lintel-repair",
       "pageType": "location",
       "publishDate": "2026-08-25",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2566,7 +2566,7 @@
       "serviceSlug": "commercial-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-26",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "competitorInformed": true
     },
     {
@@ -2578,7 +2578,7 @@
       "serviceSlug": "brick-replacement",
       "pageType": "location",
       "publishDate": "2026-08-26",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "competitorInformed": false
     },
     {
@@ -2590,7 +2590,7 @@
       "serviceSlug": "caulking",
       "pageType": "location",
       "publishDate": "2026-08-26",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "competitorInformed": false
     },
     {
@@ -2602,7 +2602,7 @@
       "serviceSlug": "residential-masonry-restoration",
       "pageType": "location",
       "publishDate": "2026-08-26",
-      "image": "/images/after-residential-3.jpg",
+      "image": "/images/after-residential-3.webp",
       "competitorInformed": false
     },
     {
@@ -2614,7 +2614,247 @@
       "serviceSlug": "masonry-sealing",
       "pageType": "location",
       "publishDate": "2026-08-26",
+      "image": "/images/after-brick-repair.webp",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-tuckpointing-oak-lawn-il",
+      "title": "Commercial Tuckpointing in Oak Lawn, IL — Written Scopes, Phased Around Your Tenants",
+      "primaryKeyword": "commercial tuckpointing Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "hoa-masonry-repair-orland-park-il",
+      "title": "HOA & Condo Masonry Repair in Orland Park, IL — Scopes a Board Can Approve",
+      "primaryKeyword": "HOA masonry repair Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "facade-repair-downers-grove-il",
+      "title": "Commercial Façade Repair in Downers Grove, IL — What an Inspection Should Actually Produce",
+      "primaryKeyword": "commercial facade repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-bridgeview-il",
+      "title": "CMU Block Repair in Bridgeview, IL — Industrial Walls Fail on Different Rules Than Brick",
+      "primaryKeyword": "CMU block repair Bridgeview IL",
+      "city": "Bridgeview, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-27",
       "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "church-masonry-restoration-chicago-il",
+      "title": "Church Masonry Restoration in Chicago, IL — Scopes a Parish Council Can Fund in Stages",
+      "primaryKeyword": "church masonry restoration Chicago IL",
+      "city": "Chicago, IL",
+      "service": "Historic Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "parapet-wall-repair-tinley-park-il",
+      "title": "Parapet Wall Repair in Tinley Park, IL — The Seam Between Two Trades",
+      "primaryKeyword": "parapet wall repair Tinley Park IL",
+      "city": "Tinley Park, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "commercial-tuckpointing-naperville-il",
+      "title": "Commercial Tuckpointing in Naperville, IL — Pricing the Access, Not Just the Wall",
+      "primaryKeyword": "commercial tuckpointing Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-lintel-repair-frankfort-il",
+      "title": "Commercial Lintel Repair in Frankfort, IL — They Fail in Batches, Not One at a Time",
+      "primaryKeyword": "commercial lintel repair Frankfort IL",
+      "city": "Frankfort, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "school-masonry-repair-evergreen-park-il",
+      "title": "School & Municipal Masonry Repair in Evergreen Park, IL — Built Around the Summer Window",
+      "primaryKeyword": "school masonry repair Evergreen Park IL",
+      "city": "Evergreen Park, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-homer-glen-il",
+      "title": "Brick Replacement in Homer Glen, IL — Rebuilding the Freestanding Masonry First",
+      "primaryKeyword": "brick replacement Homer Glen IL",
+      "city": "Homer Glen, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-mailbox.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-tuckpointing-palos-hills-il",
+      "title": "Commercial Tuckpointing in Palos Hills, IL — On a Veneer-Over-Block Walk-Up, the Joints Are Only Half the Job",
+      "primaryKeyword": "commercial tuckpointing Palos Hills IL",
+      "city": "Palos Hills, IL",
+      "service": "Commercial Tuckpointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "facade-repair-hinsdale-il",
+      "title": "Façade Repair in Hinsdale, IL — Downtown Work Where the Village Reviews What You Build Back",
+      "primaryKeyword": "facade repair Hinsdale IL",
+      "city": "Hinsdale, IL",
+      "service": "Commercial Façade Repair",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "church-masonry-restoration-oak-lawn-il",
+      "title": "Church & Parish Masonry Restoration in Oak Lawn, IL — Where the School Calendar Is the Schedule",
+      "primaryKeyword": "church masonry restoration Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Church & Institutional Masonry Restoration",
+      "serviceSlug": "historic-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-worth-il",
+      "title": "Tuckpointing in Worth, IL — A Low Village, Wet Ground, and Mortar That Goes From the Bottom Up",
+      "primaryKeyword": "tuckpointing Worth IL",
+      "city": "Worth, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-la-grange-il",
+      "title": "Limestone & Sill Repair in La Grange, IL — When the Wash Stops Working, the Wall Below Pays for It",
+      "primaryKeyword": "limestone sill repair La Grange IL",
+      "city": "La Grange, IL",
+      "service": "Limestone & Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "commercial-masonry-restoration-chicago-il",
+      "title": "Commercial Masonry Restoration in Chicago, IL — For the Buildings the Landmark Firms Don't Bid",
+      "primaryKeyword": "commercial masonry restoration Chicago IL",
+      "city": "Chicago, IL",
+      "service": "Commercial Masonry Restoration",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "parapet-wall-repair-chicago-ridge-il",
+      "title": "Parapet Wall Repair in Chicago Ridge, IL — Retail Roof Edges Over Doors People Walk Through",
+      "primaryKeyword": "parapet wall repair Chicago Ridge IL",
+      "city": "Chicago Ridge, IL",
+      "service": "Parapet Wall Repair",
+      "serviceSlug": "parapet-wall-repair",
+      "pageType": "location",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "hoa-masonry-repair-palos-heights-il",
+      "title": "HOA & Condo Masonry Repair in Palos Heights, IL — For the Self-Managed Board With No Reserve Study",
+      "primaryKeyword": "HOA masonry repair Palos Heights IL",
+      "city": "Palos Heights, IL",
+      "service": "HOA & Condo Masonry Repair",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-palos-park-il",
+      "title": "Brick Repair in Palos Park, IL — Wooded Lots, Shaded Walls, and Masonry That Never Gets to Dry",
+      "primaryKeyword": "brick repair Palos Park IL",
+      "city": "Palos Park, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "residential-masonry-restoration-new-lenox-il",
+      "title": "Residential Masonry Restoration in New Lenox, IL — A Town of Brick Veneer Reaching Its First Service Life",
+      "primaryKeyword": "residential masonry restoration New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-residential.jpg",
       "competitorInformed": false
     }
   ],
@@ -3168,7 +3408,7 @@
       "category": "Masonry Education",
       "intent": "commercial",
       "publishDate": "2026-07-12",
-      "image": "/images/after-chimney-2.jpg"
+      "image": "/images/after-chimney-2.webp"
     },
     {
       "slug": "chimney-sweep-vs-masonry-contractor",
@@ -3178,7 +3418,7 @@
       "category": "Hiring a Contractor",
       "intent": "commercial",
       "publishDate": "2026-07-12",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "how-to-tell-if-mortar-is-failing-screwdriver-test",
@@ -3188,7 +3428,7 @@
       "category": "Masonry Education",
       "intent": "informational",
       "publishDate": "2026-07-12",
-      "image": "/images/after-commercial-2.jpg"
+      "image": "/images/after-commercial-2.webp"
     },
     {
       "slug": "water-coming-through-brick-wall-causes",
@@ -3198,7 +3438,7 @@
       "category": "Masonry Education",
       "intent": "informational",
       "publishDate": "2026-07-20",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "does-ivy-damage-brick-masonry",
@@ -3208,7 +3448,7 @@
       "category": "Masonry Education",
       "intent": "informational",
       "publishDate": "2026-07-20",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "how-long-does-tuckpointing-last",
@@ -3218,7 +3458,7 @@
       "category": "Masonry Education",
       "intent": "commercial",
       "publishDate": "2026-07-20",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "why-brick-cracks-around-windows-doors",
@@ -3228,7 +3468,7 @@
       "category": "Masonry Education",
       "intent": "informational",
       "publishDate": "2026-07-21",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "how-often-should-you-seal-brick",
@@ -3238,7 +3478,7 @@
       "category": "Masonry Education",
       "intent": "commercial",
       "publishDate": "2026-07-21",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "chicago-facade-inspection-ordinance-masonry",
@@ -3248,7 +3488,7 @@
       "category": "Masonry Education",
       "intent": "commercial",
       "publishDate": "2026-07-21",
-      "image": "/images/after-commercial-2.jpg"
+      "image": "/images/after-commercial-2.webp"
     },
     {
       "slug": "step-cracks-in-brick-walls-chicago",
@@ -3256,7 +3496,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-28",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "greystone-facade-restoration-chicago",
@@ -3264,7 +3504,7 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-28",
-      "image": "/images/after-commercial-2.jpg"
+      "image": "/images/after-commercial-2.webp"
     },
     {
       "slug": "commercial-storefront-masonry-repair-chicago",
@@ -3272,7 +3512,7 @@
       "service": "Commercial Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-28",
-      "image": "/images/after-commercial.jpg"
+      "image": "/images/after-commercial.webp"
     },
     {
       "slug": "what-happens-if-you-wait-too-long-to-tuckpoint",
@@ -3280,7 +3520,7 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-29",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "how-to-clean-brick-without-damaging-it",
@@ -3288,7 +3528,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-29",
-      "image": "/images/after-residential-2.jpg"
+      "image": "/images/after-residential-2.webp"
     },
     {
       "slug": "chicago-common-brick-why-it-crumbles",
@@ -3296,7 +3536,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-29",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "type-n-vs-type-s-mortar-chicago",
@@ -3304,7 +3544,7 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-30",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "terra-cotta-cast-stone-facade-repair-chicago",
@@ -3312,7 +3552,7 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-30",
-      "image": "/images/after-commercial-3.jpg"
+      "image": "/images/after-commercial-3.webp"
     },
     {
       "slug": "party-wall-masonry-who-pays-chicago",
@@ -3320,7 +3560,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-30",
-      "image": "/images/after-residential-2.jpg"
+      "image": "/images/after-residential-2.webp"
     },
     {
       "slug": "buying-home-masonry-problems-inspection-guide",
@@ -3328,7 +3568,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-31",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "masonry-sealants-silicone-urethane-hybrid-caulk",
@@ -3336,7 +3576,7 @@
       "service": "Caulking & Joint Sealant",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-31",
-      "image": "/images/after-commercial-2.jpg"
+      "image": "/images/after-commercial-2.webp"
     },
     {
       "slug": "precast-panel-curtain-wall-joint-failure-chicago",
@@ -3344,7 +3584,7 @@
       "service": "Commercial Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-07-31",
-      "image": "/images/after-commercial-3.jpg"
+      "image": "/images/after-commercial-3.webp"
     },
     {
       "slug": "basement-water-foundation-masonry-or-drainage",
@@ -3352,7 +3592,7 @@
       "service": "Foundation Masonry Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-02",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "brick-grades-sw-mw-weathering-spalling",
@@ -3360,7 +3600,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-02",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "brick-bonds-patterns-repair-matching",
@@ -3368,7 +3608,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-02",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "what-a-masonry-estimate-should-include",
@@ -3376,7 +3616,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-03",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "should-i-remove-my-chimney-instead-of-repairing",
@@ -3384,7 +3624,7 @@
       "service": "Chimney Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-03",
-      "image": "/images/after-chimney-2.jpg"
+      "image": "/images/after-chimney-2.webp"
     },
     {
       "slug": "salvaged-brick-sourcing-matching-chicago",
@@ -3392,7 +3632,7 @@
       "service": "Brick Replacement",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-03",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "athens-marble-chicagoland-limestone-guide",
@@ -3400,7 +3640,7 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-05",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "church-steeple-bell-tower-masonry-restoration",
@@ -3408,7 +3648,7 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-05",
-      "image": "/images/after-commercial-3.jpg"
+      "image": "/images/after-commercial-3.webp"
     },
     {
       "slug": "how-long-do-masonry-repairs-take-timelines",
@@ -3416,7 +3656,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-05",
-      "image": "/images/after-residential-2.jpg"
+      "image": "/images/after-residential-2.webp"
     },
     {
       "slug": "emergency-masonry-brick-fell-off-house",
@@ -3424,7 +3664,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-06",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "why-masonry-contractors-wont-quote-over-the-phone",
@@ -3432,7 +3672,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-06",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "brick-patios-walkways-driveways-flatwork-repair",
@@ -3440,7 +3680,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-06",
-      "image": "/images/after-mailbox.jpg"
+      "image": "/images/after-mailbox.webp"
     },
     {
       "slug": "why-new-brick-looks-different-weathering-in",
@@ -3448,7 +3688,7 @@
       "service": "Brick Replacement",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-08",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "why-houses-on-same-block-age-differently-masonry",
@@ -3456,7 +3696,7 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-08",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "masonry-air-leakage-energy-loss-failed-joints",
@@ -3464,7 +3704,7 @@
       "service": "Tuckpointing & Repointing",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-08",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "masonry-sequencing-with-other-trades",
@@ -3472,7 +3712,7 @@
       "service": "Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-11",
-      "image": "/images/after-residential-3.jpg"
+      "image": "/images/after-residential-3.webp"
     },
     {
       "slug": "where-additions-meet-original-masonry-cold-joints",
@@ -3480,7 +3720,7 @@
       "service": "Brick Repair",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-11",
-      "image": "/images/after-brick-repair.jpg"
+      "image": "/images/after-brick-repair.webp"
     },
     {
       "slug": "restoration-mason-vs-new-construction-mason",
@@ -3488,7 +3728,7 @@
       "service": "Historic Masonry Restoration",
       "location": "Chicagoland, IL",
       "publishDate": "2026-08-11",
-      "image": "/images/after-residential.jpg"
+      "image": "/images/after-residential.webp"
     },
     {
       "slug": "why-the-bottom-three-courses-of-brick-fail-first",
@@ -3552,7 +3792,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-22",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "intent": "informational"
     },
     {
@@ -3563,7 +3803,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-22",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "intent": "informational"
     },
     {
@@ -3574,7 +3814,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-22",
-      "image": "/images/after-mailbox.jpg",
+      "image": "/images/after-mailbox.webp",
       "intent": "informational"
     },
     {
@@ -3585,7 +3825,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-24",
-      "image": "/images/after-residential-2.jpg",
+      "image": "/images/after-residential-2.webp",
       "intent": "informational"
     },
     {
@@ -3596,7 +3836,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-24",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "intent": "informational"
     },
     {
@@ -3607,7 +3847,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-24",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "intent": "informational"
     },
     {
@@ -3618,7 +3858,7 @@
       "location": "Chicagoland, IL",
       "category": "Masonry Restoration",
       "publishDate": "2026-08-25",
-      "image": "/images/after-commercial-3.jpg",
+      "image": "/images/after-commercial-3.webp",
       "intent": "informational"
     },
     {
@@ -3629,7 +3869,7 @@
       "location": "Chicagoland, IL",
       "category": "Masonry Restoration",
       "publishDate": "2026-08-25",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "intent": "informational"
     },
     {
@@ -3640,7 +3880,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-25",
-      "image": "/images/after-chimney.jpg",
+      "image": "/images/after-chimney.webp",
       "intent": "informational"
     },
     {
@@ -3651,7 +3891,7 @@
       "location": "Chicagoland, IL",
       "category": "Homeowner Education",
       "publishDate": "2026-08-26",
-      "image": "/images/after-commercial-2.jpg",
+      "image": "/images/after-commercial-2.webp",
       "intent": "informational"
     },
     {
@@ -3662,7 +3902,7 @@
       "location": "Chicagoland, IL",
       "category": "Commercial Masonry",
       "publishDate": "2026-08-26",
-      "image": "/images/after-commercial.jpg",
+      "image": "/images/after-commercial.webp",
       "intent": "commercial"
     },
     {
@@ -3673,7 +3913,139 @@
       "location": "Chicagoland, IL",
       "category": "Commercial Masonry",
       "publishDate": "2026-08-26",
+      "image": "/images/after-commercial-2.webp",
+      "intent": "commercial"
+    },
+    {
+      "slug": "hoa-vs-unit-owner-who-pays-masonry-repair",
+      "title": "Who Pays for Masonry Repair — the Association or the Unit Owner? How Illinois Boards Actually Decide",
+      "primaryKeyword": "HOA vs unit owner masonry repair",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-residential-3.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "how-to-write-masonry-scope-for-bid",
+      "title": "How to Write a Masonry Scope That Gets Comparable Bids",
+      "primaryKeyword": "how to write a masonry scope of work",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-commercial.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "storm-damage-vs-pre-existing-deterioration-masonry-claim",
+      "title": "Storm Damage or Wear and Tear? How Masonry Actually Tells You Which One It Is",
+      "primaryKeyword": "storm damage vs wear and tear masonry",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-27",
+      "image": "/images/after-chimney.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "masonry-leak-triage-property-manager",
+      "title": "A Tenant Reports Water at an Exterior Wall: How a Property Manager Should Triage a Masonry Leak",
+      "primaryKeyword": "masonry leak triage property manager",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-29",
       "image": "/images/after-commercial-2.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "masonry-work-in-occupied-buildings-tenant-communication",
+      "title": "Masonry Work in an Occupied Building: The Logistics That Decide Whether It Goes Well",
+      "primaryKeyword": "masonry work occupied building",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-commercial-3.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "what-general-contractors-need-from-masonry-subcontractor",
+      "title": "What a GC Actually Needs From a Masonry Subcontractor (Beyond a Number)",
+      "primaryKeyword": "masonry subcontractor general contractor",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial Masonry",
+      "publishDate": "2026-08-29",
+      "image": "/images/after-commercial.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "landlord-vs-tenant-who-pays-masonry-commercial-lease",
+      "title": "Landlord or Tenant? Who Pays for Masonry Repair Under a Commercial Lease",
+      "primaryKeyword": "who pays for masonry repair commercial lease",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-commercial-2.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "access-agreements-scaffolding-neighboring-property-masonry",
+      "title": "When You Can't Reach the Wall: Access Agreements, Alleys and Neighbor Consent for Masonry Work",
+      "primaryKeyword": "masonry access agreement neighboring property",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-commercial-3.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "public-works-masonry-bidding-schools-municipal-prevailing-wage",
+      "title": "Bidding Masonry for Schools, Park Districts and Municipalities: Prevailing Wage, Bonds and What Actually Changes",
+      "primaryKeyword": "public works masonry bidding Illinois",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-08-31",
+      "image": "/images/after-commercial.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "commercial-property-condition-assessment-masonry-due-diligence",
+      "title": "Buying a Commercial Building: What the Masonry Section of Your Condition Assessment Should Actually Tell You",
+      "primaryKeyword": "commercial property condition assessment masonry",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-commercial.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "lien-waivers-mechanics-liens-masonry-project-illinois",
+      "title": "Lien Waivers on a Masonry Project: What an Illinois Owner Should Collect, and When",
+      "primaryKeyword": "lien waivers masonry project Illinois",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-commercial-2.jpg",
+      "intent": "commercial"
+    },
+    {
+      "slug": "drone-inspection-masonry-facade-what-it-can-and-cannot-tell-you",
+      "title": "Drone Façade Inspections: What They Genuinely Show You, and What They Cannot",
+      "primaryKeyword": "drone facade inspection masonry",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Commercial & Property Management",
+      "publishDate": "2026-09-08",
+      "image": "/images/after-commercial-3.jpg",
       "intent": "commercial"
     }
   ],
@@ -3807,25 +4179,13 @@
     "Tuckpointing & Repointing",
     "Caulking & Joint Sealant",
     "Masonry Sealing",
-    "Commercial Masonry Restoration"
+    "Commercial Masonry Restoration",
+    "Commercial Tuckpointing",
+    "Commercial Façade Repair",
+    "Church & Institutional Masonry Restoration",
+    "HOA & Condo Masonry Repair"
   ],
   "competitorIntentsUsed": [
-    {
-      "intent": "parapet wall rebuilds Chicago commercial masonry contractor",
-      "date": "2026-06-17"
-    },
-    {
-      "intent": "tuckpointing Beverly Chicago historic brick greystone contractor",
-      "date": "2026-06-18"
-    },
-    {
-      "intent": "tuckpointing Mount Greenwood Chicago bungalow brick repointing contractor 60655",
-      "date": "2026-06-18"
-    },
-    {
-      "intent": "tuckpointing Tinley Park IL brick repointing residential commercial — exact-match-domain/local service pages (tinleyparktuckpointing.com style) with thin keyword-stuffed copy, weak FAQ, and little Tinley-specific detail",
-      "date": "2026-06-21"
-    },
     {
       "intent": "tuckpointing Joliet IL brick repointing — generic exact-match local pages (Joliet's Best Bricklayers style) with a process + warning signs but NO FAQ, NO cost-driver education, NO FAQ/Service schema, and zero Joliet housing-stock/limestone/climate specificity; ours adds Will County housing context, a cost-driver framework, freeze-thaw reasoning, and full schema",
       "date": "2026-06-28"
@@ -3934,6 +4294,22 @@
     {
       "intent": "commercial masonry restoration Cicero IL / industrial facade repair Cicero — the field is a long-established local firm with 50+ years and a Cicero-specific commercial page, a Cicero-based tuckpointing shop, and regional Chicago restoration companies. The strongest result names building types served (townhome/condo associations, churches, schools, industrial), lists facade materials, and uniquely mentions correcting municipal code violations and failed inspections — but carries no FAQs, no cost drivers, no timelines, no phasing or tenant-occupancy planning, no overhead protection or staging discussion, and no repair-vs-rebuild framework. Neither competitor addresses the constraint that actually governs a Cicero job: zero-lot-line buildings, alley-only access, party walls, and sidewalks directly beneath the work — nor the front face brick vs side common brick mortar-hardness split on the local housing stock",
       "date": "2026-08-26"
+    },
+    {
+      "intent": "commercial tuckpointing Oak Lawn IL / apartment and multi-unit repointing — the local field is residential-configured: two Oak Lawn tuckpointing firms plus regional Chicago restoration companies. The strongest local page is genuinely educational (what tuckpointing is, freeze-thaw mechanism, cold-weather temperature limits and 72-hour cure) and even carries informal FAQs, but commercial content is a single passing phrase about 'much larger commercial projects'. Across the field there is no written-scope deliverable, no cost drivers, no phasing or tenant-occupancy planning, no overhead protection or staging discussion, no COI/W-9/lien-waiver documentation, no board or property-manager approval workflow, no quantity or cut-out-depth specification, and no bid-comparability framing — which is the entire buying process for the association and multi-tenant work Emerald targets",
+      "date": "2026-08-27"
+    },
+    {
+      "intent": "parapet wall repair Tinley Park IL / commercial roof-edge masonry — the ranking set is Chicago restoration firms and regional tuckpointing companies with parapet service pages. The better ones do define a parapet, list the four sub-scopes (repointing, waterproofing, coping replacement, rebuilding), give warning signs, and one states a repair-vs-rebuild criterion ('minor cracking without brick movement' vs 'severe cracking, bulging, shifted brick'). Universally absent: FAQs and FAQPage schema, cost drivers, project timelines, phasing or tenant-occupancy planning, overhead protection over sidewalks, staging/roof-access discussion, COI/lien-waiver and written-scope documentation, through-wall flashing specifics — and, most usefully, any treatment of the masonry/roofing trade boundary (counterflashing, base flashing, membrane termination), which is where a large share of parapet leaks actually originate and which no competitor page assigns responsibility for",
+      "date": "2026-08-29"
+    },
+    {
+      "intent": "commercial tuckpointing Palos Hills IL / apartment and condo building repointing — this SERP has no commercial layer at all. The entire ranking set is residential-configured: directory aggregators (Yelp 'Top 10 Tuck Pointing', BBB category, Nextdoor), two Palos Hills-based chimney-and-tuckpointing shops leading on years in business and free estimates, a regional tuckpointing firm running a templated per-suburb page, a roofing-and-siding generalist with a masonry sub-page, and a competing masonry contractor's own location page. Across all of them: no scope documentation, no COI/W-9/lien-waiver language, no phasing, no unit pricing, no tenant or resident notification, and nothing addressed to a property manager or association board. But the decisive gap is technical, not commercial, and no one in the field touches it: the multi-unit stock that dominates Palos Hills is BRICK VENEER OVER CONCRETE BLOCK, i.e. a drained cavity assembly, and every page in this SERP writes about repointing as though the brick were the water barrier. On these buildings it never was — water is designed to pass the veneer and return through through-wall flashing and weep holes, so the failures that generate the actual resident complaints live behind the face: shelf angles corroding and rust-jacking a horizontal crack along each floor line (readable from the parking lot, and routinely misattributed to settlement), through-wall flashing missing or unturned at floor lines, weep holes mortared shut by a prior repointing crew or buried under raised mulch, and corroded wall ties letting the veneer bow. We publish that, plus the second thing nobody scopes: exterior BALCONIES AND OPEN STAIR TOWERS, which penetrate a drained wall at dozens of points and whose sealant is decades past a 15-20 year service life — which is why complexes tuckpoint an elevation and the leaks continue. We add the pilot-building calibration method (scope one building fully, price the balance as unit work) so an owner or board can phase across budget years on real opened-wall quantities. Deliberately distinct from the Oak Lawn commercial tuckpointing page, which leads on written scopes and tenant logistics, and from the Orland Park HOA page, which leads on board governance and reserve schedules.",
+      "date": "2026-08-31"
+    },
+    {
+      "intent": "commercial masonry restoration Chicago IL / facade repair Chicago — the SERP is owned by large-scale and landmark restoration firms (RestoreWorks, Central, Soumar est. 1938, Corona Craft, BRAL, Fortune, Krisbud) plus a Landmarks Illinois contractor directory. These are strong companies and several pages do open answer-first with real FAQs, material coverage (brick, stone, terra cotta) and impressive portfolios — Navy Pier, the Civic Opera House, the Marquette Building, a 58-story tower. What every one of them omits is the operating content a mid-market owner needs: NO cost drivers, NO timelines, NO phasing or staged-implementation strategy, NO tenant or occupancy planning, NO repair-versus-rebuild decision criteria beyond a single sentence, and — most tellingly for a market whose buyers are property managers and boards — NO procurement documentation whatsoever: no COI, no W-9, no lien waivers, no payment-application or sworn-statement language, despite testimonials on those same sites from condominium association presidents and building managers. Their pages are credential-and-portfolio instruments optimized for enterprise pursuit, not for procurement or due-diligence workflow. Our angle is twofold and neither half is contested in this SERP. First, we name the MID-MARKET GAP explicitly and position for it honestly: the owner of a four-story mixed-use building on a commercial corridor, a courtyard apartment property, a corner storefront with flats above, or a small office or industrial building is too commercial for the residential tuckpointing shops and too small to interest the landmark firms, and that owner cannot currently get a straight answer from anyone ranking. Second, we make the Chicago-specific point that converts this from a budget decision into a deadline: in the City of Chicago deferred facade condition is a COMPLIANCE matter, enforced by the Department of Buildings, escalating from citation toward administrative hearings and accumulating penalties, with periodic exterior wall examination obligations on buildings above certain heights and construction types — so the masonry scope has to produce a documented RECORD (dated pre-existing-condition photography, quantities by elevation, documented methods, completion record), not merely a repaired wall. We pair that with the risk-ranked four-phase table, separately priced phases with quantities carried forward, occupancy and public-way staging planning, and the concealed-failure content (shelf angle rust jacking drawing a level line and being misread as settlement, coping joints opening into the parapet core, blocked weeps, wall-tie bowing). Deliberately distinct from the Oak Brook page (suburban corporate campus), Cicero (industrial), Joliet and Melrose Park.",
+      "date": "2026-09-08"
     }
   ],
   "coveredKeywords": [
@@ -3943,13 +4319,23 @@
     "Boston ivy brick",
     "CMU block repair Bedford Park IL",
     "CMU block repair Bolingbrook IL",
+    "CMU block repair Bridgeview IL",
     "CMU block repair Crest Hill IL",
     "CMU block repair Evergreen Park IL",
     "CMU block repair Joliet IL",
     "CMU block repair Romeoville IL",
     "CMU block wall impact repair",
+    "CMU block wall subcontractor",
+    "CMU control joint repair Illinois",
     "CMU tuckpointing industrial building",
     "CMU vs brick repair differences property managers",
+    "COI lien waiver association contractor",
+    "COI lien waiver association contractor Illinois",
+    "COI lien waiver bid requirements",
+    "COI lien waiver church contractor Illinois",
+    "COI lien waiver masonry contractor Illinois",
+    "COI lien waiver occupied building",
+    "COI lien waiver school district contractor",
     "Chicago bungalow",
     "Chicago bungalow brick cracks",
     "Chicago bungalow brick repair",
@@ -3973,11 +4359,20 @@
     "Fox River limestone building repair",
     "Fox River masonry repair Illinois",
     "Georgian brick home repair Chicago southwest side",
+    "HOA masonry bid documents",
     "HOA masonry contingency budget",
     "HOA masonry maintenance",
     "HOA masonry maintenance budget planning",
+    "HOA masonry project resident notice",
+    "HOA masonry repair Orland Park IL",
+    "HOA masonry reserve study",
+    "HOA storm damage masonry claim",
+    "HOA tuckpointing Cook County",
+    "HOA vs unit owner masonry repair",
+    "HOA water infiltration complaint",
     "I&M Canal limestone masonry",
     "I&M Canal stone quarry",
+    "Illinois condominium property act repairs",
     "Indiana limestone sill repair Hinsdale",
     "Joliet limestone building",
     "Joliet limestone facade repair",
@@ -3986,6 +4381,7 @@
     "PVC vent termination brick wall",
     "Portland cement mortar",
     "Prairie School brick repair Oak Park",
+    "RFI masonry subcontractor",
     "Type M mortar",
     "Type N mortar",
     "Type N vs Type S mortar",
@@ -3997,7 +4393,10 @@
     "Virginia creeper brick damage",
     "adhered stone veneer water damage",
     "adjacent construction damage masonry",
+    "adjuster masonry inspection",
     "aerial roots brick wall",
+    "after hours masonry work",
+    "after hours masonry work Naperville IL",
     "air leakage through mortar joints",
     "allowance in masonry contract",
     "anchoring into brick",
@@ -4007,14 +4406,20 @@
     "antique brick sourcing",
     "apartment building brick replacement forest park",
     "apartment building masonry Cicero Illinois",
+    "apartment building tuckpointing Oak Lawn IL",
     "arch bar rusted masonry",
     "architectural terra cotta restoration",
+    "association insurance vs owner insurance masonry",
+    "association reserve masonry funding",
+    "association reserve masonry repair Orland Park IL",
     "backer rod joint sealant",
     "backer rod sealant installation Chicago area",
     "backer rod sealant joint Hinsdale Illinois",
     "backer rod sealant joint Naperville Illinois",
     "bad tuckpointing job",
     "bad tuckpointing job signs",
+    "balcony and patio masonry responsibility",
+    "balcony clearing masonry work",
     "bat exclusion masonry building",
     "bathroom fan vent brick wall",
     "bees in brick wall holes",
@@ -4026,11 +4431,15 @@
     "block foundation repair Joliet Illinois",
     "block foundation repair berwyn il",
     "block wall crack repair Bedford Park",
+    "block wall crack repair Bridgeview IL",
     "block wall repair Cicero IL",
     "block wall sealing Crest Hill",
     "blocked chimney flue nest",
     "blocked gutters brick damage",
+    "blocked weep holes water infiltration",
+    "board approval masonry scope Orland Park IL",
     "boarded up building brick damage",
+    "bollard installation industrial Bridgeview",
     "bollard installation masonry",
     "bottom courses of brick failing",
     "bowing bulging brick wall repair Chicago",
@@ -4061,6 +4470,7 @@
     "brick expansion joint sealant Illinois",
     "brick facade restoration",
     "brick facade restoration Elmwood Park IL",
+    "brick facade water infiltration Downers Grove IL",
     "brick fell off my house",
     "brick foundation repair Fox Valley",
     "brick foundation repair berwyn",
@@ -4069,6 +4479,7 @@
     "brick home repair Elmwood Park IL 60707",
     "brick is not waterproof",
     "brick lintel contractor Homer Glen IL",
+    "brick mailbox rebuild Homer Glen Illinois",
     "brick mailbox repair Illinois",
     "brick maintenance Chicagoland",
     "brick mason Chicago",
@@ -4076,15 +4487,22 @@
     "brick mason near me Aurora Illinois",
     "brick mason near me Cicero IL",
     "brick mason near me Evergreen Park",
+    "brick mason near me Evergreen Park IL",
+    "brick mason near me Frankfort IL",
     "brick mason near me Hinsdale Illinois",
+    "brick mason near me Homer Glen Illinois",
     "brick mason near me La Grange Illinois",
     "brick mason near me Mount Greenwood",
+    "brick mason near me Naperville IL",
     "brick mason near me Naperville Illinois",
     "brick mason near me New Lenox Illinois",
+    "brick mason near me Oak Lawn IL",
     "brick mason near me Oak Lawn Illinois",
     "brick mason near me Palos Heights Illinois",
+    "brick mason near me Tinley Park IL",
     "brick mason near me Villa Park",
     "brick mason wheaton il",
+    "brick matching Homer Glen Illinois",
     "brick matching Oak Lawn Illinois",
     "brick matching Palos Heights Illinois",
     "brick matching Villa Park Illinois",
@@ -4096,8 +4514,10 @@
     "brick parapet tuckpointing Cicero",
     "brick patio repair Chicagoland",
     "brick paver settling",
+    "brick pillar rebuild Homer Glen Illinois",
     "brick pillar repair",
     "brick planter and pier rebuild Palos Heights IL",
+    "brick planter repair Homer Glen IL",
     "brick porosity water absorption",
     "brick repair",
     "brick repair Addison IL",
@@ -4136,6 +4556,7 @@
     "brick repair cost Illinois",
     "brick repair doesn't match",
     "brick repair near grade",
+    "brick repair vs replacement Homer Glen IL",
     "brick repair vs replacement Oak Lawn IL",
     "brick repair vs replacement Palos Heights IL",
     "brick repair vs replacement forest park il",
@@ -4143,6 +4564,8 @@
     "brick replacement Chicago",
     "brick replacement Elgin IL",
     "brick replacement Forest Park IL",
+    "brick replacement Homer Glen IL",
+    "brick replacement Homer Glen Illinois 60491",
     "brick replacement Oak Lawn IL",
     "brick replacement Oak Lawn Illinois 60453",
     "brick replacement Palos Heights IL",
@@ -4153,6 +4576,7 @@
     "brick replacement Villa Park IL",
     "brick replacement Villa Park Illinois",
     "brick replacement Wheaton IL",
+    "brick replacement allowance",
     "brick replacement at grade",
     "brick replacement contractor forest park il",
     "brick replacement cost Chicago",
@@ -4174,18 +4598,22 @@
     "brick spalling",
     "brick spalling at grade",
     "brick spalling repair Chicago",
+    "brick spalling weathering pattern",
     "brick steps stoops repair vs rebuild",
     "brick unit replacement cook county",
     "brick veneer drainage cavity",
     "brick veneer ivy",
+    "brick veneer repair Homer Glen Illinois",
     "brick veneer repair Naperville IL",
     "brick veneer repair Will County",
+    "brick veneer repair townhome Orland Park IL",
     "brick veneer repair wheaton il",
     "brick veneer repointing Will County",
     "brick veneer ties corrosion",
     "brick veneer ties shelf angles hidden steel",
     "brick veneer vent termination",
     "brick walkway repair Chicago",
+    "brick wall leak diagnosis",
     "brick wall leak repair Chicagoland",
     "brick wall rebuild Oak Lawn Illinois",
     "brick wall rebuild Palos Heights Illinois",
@@ -4227,6 +4655,9 @@
     "century home masonry repair Elmhurst",
     "century home masonry repair St Charles",
     "century old brick home repair La Grange IL",
+    "certificate of insurance subcontractor",
+    "change order procedure masonry",
+    "chargeback unit owner repair",
     "chicago common brick matching forest park",
     "chicago facade inspection ordinance",
     "chimney and facade restoration La Grange Illinois",
@@ -4337,8 +4768,13 @@
     "chimney waterproofing Frankfort IL",
     "choosing a masonry contractor older brick home Chicago",
     "church and school masonry Cicero Illinois",
+    "church and school masonry Evergreen Park Illinois",
+    "church masonry restoration Chicago IL",
     "church masonry restoration Joliet IL",
+    "church parapet and cornice repair Chicago",
+    "church roofline flashing masonry Illinois",
     "church steeple masonry restoration",
+    "church tuckpointing Chicago Illinois",
     "church tuckpointing institutional masonry Chicago",
     "church vacant masonry deterioration",
     "clay soil settlement Chicago",
@@ -4354,19 +4790,27 @@
     "commercial building pigeon damage",
     "commercial caulking Naperville IL",
     "commercial caulking contractor Oak Brook IL",
+    "commercial facade repair Downers Grove IL",
     "commercial fire damage restoration Chicago",
+    "commercial lintel repair Frankfort IL",
     "commercial masonry Alsip IL",
+    "commercial masonry RFP",
     "commercial masonry bid variance",
     "commercial masonry contractor Bedford Park IL",
+    "commercial masonry contractor Bridgeview IL",
     "commercial masonry contractor Channahon IL",
     "commercial masonry contractor Chicagoland",
+    "commercial masonry contractor Frankfort Illinois",
     "commercial masonry contractor Harvey IL",
     "commercial masonry contractor Lockport IL",
     "commercial masonry contractor Melrose Park",
+    "commercial masonry contractor Naperville Illinois",
+    "commercial masonry contractor Oak Lawn Illinois",
     "commercial masonry contractor Tinley Park IL",
     "commercial masonry contractor Woodridge IL",
     "commercial masonry contractor summit il",
     "commercial masonry repair Cicero",
+    "commercial masonry repair Downers Grove Illinois",
     "commercial masonry restoration Chicago",
     "commercial masonry restoration Chicagoland",
     "commercial masonry restoration Cicero IL",
@@ -4382,37 +4826,60 @@
     "commercial storefront masonry repair Chicago",
     "commercial tuckpointing Chicago",
     "commercial tuckpointing Cicero IL",
+    "commercial tuckpointing Downers Grove IL",
     "commercial tuckpointing Joliet Illinois",
     "commercial tuckpointing Melrose Park Illinois",
+    "commercial tuckpointing Naperville IL",
+    "commercial tuckpointing Naperville Illinois 60563",
+    "commercial tuckpointing Oak Lawn IL",
+    "commercial tuckpointing Oak Lawn Illinois 60453",
+    "commercial tuckpointing schedule",
+    "commercial tuckpointing water infiltration",
     "common bond header course",
     "common brick side wall repair Chicago",
     "common brick vs face brick",
+    "common element masonry repair Illinois",
+    "common element vs limited common element",
+    "comparable masonry bids",
     "compare chimney repair bids",
     "comparing masonry bids",
     "concrete block repair Bedford Park Illinois",
+    "concrete block wall repair Bridgeview Illinois 60455",
     "concrete vs masonry",
     "condensate damage masonry",
     "condensing furnace exhaust brick damage",
     "condo association facade repair Oak Brook",
     "condo association masonry DuPage",
     "condo association masonry Kane County",
+    "condo association masonry repair Orland Park Illinois",
+    "condo board masonry scope",
+    "condo building brick repair Orland Park Illinois",
+    "condo building tuckpointing Cook County",
+    "condo declaration masonry responsibility",
+    "condo water infiltration brick wall",
+    "construction noise tenant complaints",
     "contractor dispute masonry",
+    "contractor scope for insurance claim",
     "control joint block wall",
     "control joint brick veneer Hinsdale IL",
     "control joint repair concrete block",
     "control joint sealant brick veneer Naperville",
     "control joint sealant repair Cook County",
+    "coping joint leak parapet",
+    "coping joint sealant parapet Tinley Park",
     "coping roofline masonry leaks Chicago",
     "coping stone repair",
     "coping stone repair Aurora",
     "coping stone repair Berwyn",
     "coping stone repair Frankfort",
     "coping stone repair Geneva",
+    "coping stone repair Tinley Park Illinois",
     "coping stone repair summit illinois",
     "coping stone replacement Blue Island IL",
     "coping stone replacement Cicero IL",
     "corbelled chimney repair Cook County",
     "corbelled chimney repair Kane County",
+    "corporate campus masonry repair DuPage County",
     "cosmetic vs structural brick cracks",
     "cost of delaying masonry repair",
     "courtyard building brick repair Cicero IL",
@@ -4424,6 +4891,7 @@
     "cracked brick above window",
     "cracked brick above window Aurora IL",
     "cracked brick above window Cicero",
+    "cracked brick above window commercial Frankfort IL",
     "cracked brick replacement DuPage County",
     "cracked brick replacement dupage county",
     "cracked brick replacement forest park il",
@@ -4449,6 +4917,8 @@
     "crumbling window sill brick home la grange park",
     "curb appeal brick repair",
     "curtain wall joint sealant",
+    "cut out depth repointing specification",
+    "daily cleanup jobsite",
     "damaged brick pillar repair",
     "damaged brick replacement Oak Lawn IL",
     "damaged brick replacement wheaton",
@@ -4468,10 +4938,13 @@
     "diagonal crack in brick wall",
     "discontinued brick match Chicagoland",
     "displaced brick course repair",
+    "displaced coping storm",
+    "district facilities masonry scope Illinois",
     "do I need a chimney sweep or a mason",
     "do you need to seal brick",
     "do you need waterproofing after tuckpointing",
     "dock bumper replacement",
+    "documentation for masonry leak claim",
     "documenting contractor work photos",
     "does ivy damage brick",
     "does ivy damage brick walls",
@@ -4494,6 +4967,7 @@
     "dryer vent through brick wall",
     "drying time masonry wall",
     "due diligence masonry inspection purchase",
+    "dust control masonry grinding",
     "dutchman stone repair Chicago north shore",
     "dutchman stone repair Cook County",
     "dutchman stone repair Geneva IL",
@@ -4509,11 +4983,13 @@
     "efflorescence brick",
     "efflorescence brick New Lenox Illinois",
     "efflorescence diagnosis",
+    "efflorescence interior wall",
     "efflorescence on brick",
     "efflorescence on brick chimney",
     "efflorescence on brick wall",
     "efflorescence on chimney",
     "efflorescence on new mortar",
+    "efflorescence pre-existing evidence",
     "efflorescence recurring brick building Illinois",
     "efflorescence treatment Crest Hill IL",
     "efflorescence treatment Frankfort",
@@ -4527,7 +5003,9 @@
     "efflorescence waterproofing Palos Hills IL",
     "embedded steel corrosion precast",
     "emergency masonry repair Chicago",
+    "emergency masonry stabilization",
     "entrance monument repair HOA",
+    "entrance monument repair Will County",
     "excavation damage to neighboring foundation",
     "expansion joint sealant Burr Ridge",
     "expansion joint sealant Hinsdale Illinois",
@@ -4538,14 +5016,23 @@
     "exterior renovation sequencing",
     "exterior wall inspection",
     "facade condition assessment Chicagoland",
+    "facade condition report Chicagoland",
     "facade critical examination cycle",
     "facade inspection Chicago",
+    "facade inspection Downers Grove IL",
+    "facade leak investigation Chicago",
     "facade ordinance compliance",
     "facade repair Chicago",
+    "facade repair Downers Grove Illinois 60515",
     "facade repair Melrose Park Illinois",
+    "facade repair condo association Chicago",
+    "facade repair subcontractor Chicago",
+    "facade repointing Oak Lawn IL",
+    "facade repointing office park Illinois",
     "facade restoration Cicero Illinois",
     "facade restoration Joliet IL",
     "facade restoration Wheaton IL",
+    "facility manager masonry repair Chicagoland",
     "failed brick patch repair Cook County",
     "failed caulk around windows Park Ridge",
     "failed caulk joints brick Naperville IL",
@@ -4571,6 +5058,8 @@
     "flashing chimney roof responsibility",
     "flat roof brick wall repair summit",
     "flat roof masonry repair Cicero IL",
+    "flat roof masonry repair Tinley Park IL",
+    "flex building masonry repair Bridgeview Illinois",
     "flue gas condensate acidic brick",
     "flue liner cracked chimney fire",
     "flue liner inspection",
@@ -4596,6 +5085,8 @@
     "freeze thaw brick damage Illinois",
     "freeze thaw chimney damage",
     "freeze-thaw brick damage",
+    "freeze-thaw brick damage Chicago",
+    "freeze-thaw brick damage Homer Glen IL",
     "freeze-thaw brick damage Illinois",
     "freeze-thaw brick damage Oak Lawn IL",
     "freeze-thaw brick damage Palos Heights Illinois",
@@ -4604,8 +5095,10 @@
     "freeze-thaw brick spalling",
     "freeze-thaw chimney damage",
     "freeze-thaw damage after fire",
+    "freeze-thaw damage exclusion",
     "freeze-thaw masonry damage",
     "freeze-thaw masonry damage Chicago",
+    "fresh fracture vs weathered brick",
     "front dormer masonry repair Chicago",
     "frost heave masonry footing",
     "frozen pipes masonry damage",
@@ -4617,6 +5110,7 @@
     "garage door lintel replacement Homer Glen",
     "garage tuckpointing Burbank Illinois",
     "garage wall brick rebuild Oak Lawn Illinois",
+    "general contractor masonry subcontractor Illinois",
     "ghosting shadow after graffiti removal",
     "glass block window masonry leaks repair",
     "grade too high against brick",
@@ -4641,12 +5135,15 @@
     "guano damage limestone",
     "gutter downspout grading water",
     "gutters and masonry damage",
+    "gymnasium and annex masonry repair Illinois",
+    "hail damage masonry assessment",
     "hairline crack in mortar",
     "hairline cracks brick",
     "hairline cracks mortar",
     "hairline vs structural cracks brick wall",
     "hand raking vs grinding joints",
     "hard mortar on soft brick",
+    "hidden conditions change order",
     "hidden conditions masonry repair",
     "hidden masonry damage",
     "high efficiency furnace sidewall vent masonry",
@@ -4661,6 +5158,7 @@
     "historic chimney restoration Beverly IL",
     "historic chimney restoration Elgin IL",
     "historic chimney restoration St Charles IL",
+    "historic church brick repair Cook County",
     "historic commercial masonry Aurora IL",
     "historic district masonry La Grange IL",
     "historic district masonry contractor Kane County",
@@ -4708,6 +5206,7 @@
     "how pros diagnose masonry leaks",
     "how to clean brick without damaging it",
     "how to evaluate masonry contractor bid",
+    "how to find a masonry leak",
     "how to make tuckpointing last longer",
     "how to read masonry assessment report",
     "how to read masonry scope of work",
@@ -4716,6 +5215,7 @@
     "how to remove ivy from brick",
     "how to stop water coming through brick",
     "how to tell if mortar is failing",
+    "how to write a masonry scope of work",
     "hybrid sealant MS polymer",
     "hydrostatic pressure basement",
     "impact damage block wall repair Illinois",
@@ -4724,13 +5224,18 @@
     "industrial building brick repair Cook County",
     "industrial building masonry repair summit il",
     "industrial masonry contractor Will County",
+    "industrial masonry repair Bridgeview IL",
     "industrial masonry repair Chicagoland",
     "industrial masonry repair Cicero IL",
+    "institutional masonry contractor Chicago",
+    "institutional masonry contractor Evergreen Park IL",
     "institutional masonry repair Wheaton",
     "insurance masonry repair commercial",
+    "insurance restoration masonry Illinois",
     "interior insulation solid masonry risk",
     "interior vs exterior foundation repair",
     "investment property brick repair",
+    "is chimney damage covered by insurance",
     "is fire damaged brick structurally sound",
     "is ivy bad for brick",
     "ivy holdfasts mortar joints",
@@ -4753,12 +5258,14 @@
     "leaning chimney repair Palos area",
     "leaning chimney repair chicago",
     "leaning chimney repair cook county",
+    "leaning parapet wall Cook County",
     "leaning parapet wall repair Cicero",
     "leaning parapet wall repair cook county",
     "licensed and insured mason",
     "licensed and insured mason Chicagoland",
     "licensed and insured mason illinois",
     "licensed and insured masonry contractor",
+    "lien waiver masonry subcontractor",
     "lime mortar",
     "lime mortar historic brick",
     "lime mortar historic masonry fire",
@@ -4772,6 +5279,7 @@
     "limestone Dutchman repair DuPage County",
     "limestone banding repair Chicago bungalow",
     "limestone building restoration Joliet IL",
+    "limestone church restoration Chicago IL",
     "limestone coping repair cook county",
     "limestone delamination bedding planes",
     "limestone foundation repair Joliet IL",
@@ -4798,10 +5306,12 @@
     "limestone sill water damage",
     "limestone water table repair Hinsdale",
     "limestone water table repair la grange park il",
+    "limited common element chimney",
     "lint buildup vent masonry",
     "lintel damage overhead door",
     "lintel flashing installation Illinois",
     "lintel flashing repair Aurora IL",
+    "lintel flashing replacement Illinois",
     "lintel repair",
     "lintel repair Aurora IL",
     "lintel repair Batavia IL",
@@ -4815,18 +5325,27 @@
     "lintel repair Oak Lawn IL",
     "lintel repair Tinley Park IL",
     "lintel repair before listing",
+    "lintel repair condo building",
+    "lintel repair condo building Orland Park",
     "lintel repair rental property",
+    "lintel repair vs replacement criteria",
     "lintel replacement Aurora Illinois 60505",
     "lintel replacement Bolingbrook IL",
     "lintel replacement Cicero IL",
     "lintel replacement Darien IL",
+    "lintel replacement Frankfort Illinois 60423",
     "lintel replacement Hinsdale IL",
     "lintel replacement Streamwood IL",
     "lintel replacement commercial building Illinois",
     "lintel replacement hidden rust",
+    "lintel replacement office building Downers Grove",
+    "lintel replacement subcontractor",
+    "lintel replacement unit price",
+    "lintel rust water entry",
     "loading dock block damage repair Chicago area",
     "loading dock masonry repair",
     "loading dock masonry repair Bolingbrook IL",
+    "loading dock masonry repair Bridgeview IL",
     "loading dock masonry repair Illinois",
     "loading dock masonry repair Joliet Illinois",
     "local masonry company Palos Heights",
@@ -4839,23 +5358,31 @@
     "manufactured stone veneer failure",
     "mason bees mortar joints",
     "masonry access agreement neighbor",
+    "masonry and roofing coordination Chicagoland",
     "masonry assessment vs home inspection",
     "masonry bait and switch contractor",
     "masonry before or after roof",
+    "masonry bid leveling",
+    "masonry bid specification",
     "masonry caulking Carol Stream IL",
     "masonry caulking Hinsdale IL",
     "masonry caulking Naperville IL",
     "masonry caulking Park Ridge Illinois",
     "masonry change order",
     "masonry chimney contractor Palos Heights IL",
+    "masonry closeout documentation",
     "masonry code violation repair Cicero Illinois",
+    "masonry cold weather protection schedule",
+    "masonry condition baseline photos",
     "masonry condition survey La Grange Illinois",
+    "masonry condition survey association",
     "masonry contingency allowance",
     "masonry contract terms homeowner",
     "masonry contractor Aurora Kane County",
     "masonry contractor Chicagoland",
     "masonry contractor Cicero IL",
     "masonry contractor Hinsdale IL",
+    "masonry contractor Homer Glen Will County",
     "masonry contractor La Grange Cook County",
     "masonry contractor Mount Greenwood Chicago IL",
     "masonry contractor Naperville DuPage County",
@@ -4866,8 +5393,13 @@
     "masonry contractor Villa Park IL 60181",
     "masonry contractor near me",
     "masonry contractor near me Chicago",
+    "masonry contractor near me Chicago IL",
+    "masonry contractor near me Downers Grove IL",
+    "masonry contractor near me Orland Park Illinois",
+    "masonry contractor prequalification",
     "masonry contractor riverside il",
     "masonry crack repair",
+    "masonry crew size duration schedule",
     "masonry disclosure Illinois",
     "masonry estimate accuracy",
     "masonry expansion joint failure",
@@ -4875,12 +5407,17 @@
     "masonry expansion joints",
     "masonry facade compliance",
     "masonry inspection contingency",
+    "masonry inspection from lift",
+    "masonry insurance claim documentation",
     "masonry insurance claim fire",
     "masonry insurance claim vehicle impact",
     "masonry insurance claims Illinois",
+    "masonry lead times brick availability",
+    "masonry leak triage property manager",
     "masonry maintenance multi-family building Chicago",
     "masonry moisture inspection",
     "masonry penetration sealant",
+    "masonry project timeline expectations",
     "masonry punch list",
     "masonry quote over the phone",
     "masonry red flags home buying",
@@ -4906,6 +5443,7 @@
     "masonry restoration Tinley Park IL",
     "masonry restoration Yorkville IL",
     "masonry restoration near me St. Charles",
+    "masonry scope exclusions bid",
     "masonry scope of work",
     "masonry scope of work property manager",
     "masonry sealant contractor Park Ridge IL",
@@ -4928,16 +5466,22 @@
     "masonry stabilization",
     "masonry stabilization emergency",
     "masonry stone repair Hinsdale IL",
+    "masonry subcontractor general contractor",
+    "masonry submittals mockup panel",
+    "masonry unit prices bid",
     "masonry warranty claim",
     "masonry warranty commercial building Illinois",
+    "masonry warranty terms",
     "masonry waterproofing Chicago",
     "masonry waterproofing Crest Hill IL 60403",
     "masonry waterproofing Frankfort",
     "masonry waterproofing New Lenox IL",
     "masonry weather delays",
+    "masonry work occupied building",
     "matched brick replacement DuPage",
     "matching brick after impact",
     "mechanics lien Illinois contractor",
+    "medical office masonry repair Oak Lawn IL",
     "microclimate building envelope",
     "mid-century brick match Chicagoland",
     "moisture damage masonry Crest Hill Illinois",
@@ -4945,7 +5489,9 @@
     "mortar color matching tuckpointing Illinois",
     "mortar color mismatch repair",
     "mortar cure time",
+    "mortar cure time schedule impact",
     "mortar drying lighter",
+    "mortar erosion timeline",
     "mortar falling out of brick wall",
     "mortar hardness testing",
     "mortar joint failure commercial buildings",
@@ -4958,19 +5504,28 @@
     "mortar joint repair Palos Park Illinois",
     "mortar joint repair around penetration",
     "mortar joint repair before sale",
+    "mortar joint repair commercial DuPage",
+    "mortar joint repair commercial Oak Lawn IL",
     "mortar joints water",
     "mortar matching",
     "mortar matching Oak Park",
     "mortar matching riverside il",
     "mortar smeared on brick face",
+    "mortar specification Type N Type S",
     "mortar types for tuckpointing",
     "mortared vs sand set pavers",
     "moss and algae on brick",
     "mothballing a building masonry",
     "mulch covering weep holes",
     "multi unit building masonry restoration",
+    "multi-building masonry phasing Orland Park IL",
+    "multi-family masonry restoration Chicago",
+    "multi-tenant building lintel repair Will County",
     "multi-tenant building masonry Joliet IL",
+    "multi-tenant masonry repair Naperville IL",
+    "multi-unit repointing Oak Lawn Illinois",
     "multi-wythe brick wall repair Chicago area",
+    "municipal building masonry repair Cook County",
     "negative grade foundation repair",
     "new brick looks different",
     "non-staining sealant limestone Hinsdale Illinois",
@@ -4978,19 +5533,32 @@
     "non-union masonry contractor Elgin",
     "north-facing brick wall deterioration Illinois",
     "occupied building masonry restoration",
+    "office building facade restoration DuPage County",
+    "office building repointing Naperville IL",
     "office park caulking Chicago suburbs",
     "old brick home restoration south side Chicago",
     "orange rust stains brick Aurora IL",
+    "orange rust stains brick commercial building",
     "orange rust stains on brick",
     "order of exterior home repairs",
     "overcut joints grinder",
     "overhead door jamb masonry repair",
+    "overhead door jamb repair Bridgeview Illinois",
+    "overhead door lintel repair Frankfort IL",
+    "overhead protection sidewalk bid",
+    "overhead protection sidewalk entrance",
     "painted block wall spalling repair Illinois",
+    "painted block wall water infiltration",
     "painted brick moisture problems",
     "painted brick problems",
     "painted brick traps moisture",
+    "parapet and cornice repair Downers Grove IL",
     "parapet coping leak",
+    "parapet failure after storm",
+    "parapet rebuild Tinley Park IL",
     "parapet rebuild deeper than expected",
+    "parapet rebuild specification",
+    "parapet repair vs rebuild criteria",
     "parapet tuckpointing summit il",
     "parapet wall contractor near me summit",
     "parapet wall failure signs commercial buildings",
@@ -5014,12 +5582,19 @@
     "parapet wall repair Naperville IL",
     "parapet wall repair Oswego IL",
     "parapet wall repair Summit IL",
+    "parapet wall repair Tinley Park IL",
+    "parapet wall repair Tinley Park Illinois 60477",
     "parapet wall repair Wood Dale IL",
     "parapet wall repair apartment building",
+    "parapet wall repair association",
+    "parapet wall repair commercial",
     "parging foundation",
     "parging foundation Homer Glen IL",
     "parging foundation Joliet IL",
+    "parish building masonry restoration Illinois",
+    "parish school brick repair Evergreen Park IL",
     "parking garage column masonry damage",
+    "parking management construction project",
     "partial brick elevation repair Chicagoland",
     "party wall exposed after demolition",
     "party wall masonry repair Chicago",
@@ -5028,8 +5603,14 @@
     "penetrating masonry sealer",
     "penetrating masonry sealer Frankfort",
     "phased masonry repair Chicagoland",
+    "phased masonry repair budget years",
     "phased masonry repair by elevation",
     "phased masonry restoration Chicagoland",
+    "phased masonry restoration church budget",
+    "phased tuckpointing commercial building",
+    "phasing masonry by elevation",
+    "phasing masonry work budget years",
+    "photographic documentation masonry damage",
     "picture window brick repair Oak Lawn IL",
     "pigeon droppings damage masonry",
     "pigeon netting masonry facade",
@@ -5045,35 +5626,57 @@
     "poultice graffiti removal masonry",
     "power washing brick damage",
     "pre listing masonry assessment",
+    "pre-existing deterioration exclusion",
     "pre-purchase masonry assessment",
     "pre-purchase masonry inspection Chicagoland",
+    "precast and brick veneer repointing Naperville IL",
     "precast panel joint failure",
+    "precast panel joint repair Downers Grove Illinois",
     "precast panel joint sealant Naperville IL",
     "preconstruction survey masonry",
+    "predecessor trades masonry",
     "preservation standards masonry",
     "pressure washing brick damage",
+    "prevailing wage masonry school project",
     "prior bad repointing damage",
     "prioritize masonry repairs",
     "professional mason vs handyman masonry repair",
+    "property manager construction coordination",
+    "property manager facade repair Downers Grove",
     "property manager fire damage masonry",
     "property manager graffiti removal",
+    "property manager lintel repair Frankfort",
+    "property manager maintenance triage",
     "property manager masonry",
     "property manager masonry Cook County",
     "property manager masonry Joliet IL",
+    "property manager masonry Oak Lawn IL",
+    "property manager masonry Orland Park Illinois",
+    "property manager masonry bid process",
     "property manager masonry budget",
     "property manager masonry change order",
+    "property manager masonry documentation",
     "property manager masonry repair",
+    "property manager parapet repair Illinois",
+    "property manager storm response masonry",
+    "property manager tuckpointing Naperville",
     "property manager vacant asset masonry",
+    "protected walkway commercial entrance",
     "protection of the public way",
+    "punch list masonry",
+    "punch list masonry closeout",
     "questions to ask a mason",
     "rebuild chimney above roofline",
     "rebuilding fire damaged brick wall",
     "receding mortar joints",
     "reclaimed brick matching",
+    "rectory and parish hall masonry Chicago IL",
     "redoing failed tuckpointing",
+    "remediation masonry subcontractor Chicago",
     "remove ivy without damaging brick",
     "rental property masonry repair",
     "repairing anchor holes masonry",
+    "replace damaged brick Homer Glen IL",
     "replace damaged brick Palos Heights IL",
     "replace damaged brick house DuPage",
     "replace spalled brick Oak Lawn IL",
@@ -5106,15 +5709,23 @@
     "residential masonry restoration Orland Park IL",
     "residential masonry restoration Palos Heights IL",
     "restoration mason vs new construction mason",
+    "retail centre tuckpointing Naperville Illinois",
+    "retail facade repair Downers Grove Illinois",
     "retail storefront brick damage",
+    "retail storefront tuckpointing Oak Lawn Illinois",
+    "retail tenant trading hours construction",
+    "retaining wall brick replacement Homer Glen",
     "rising damp masonry",
     "road salt damage brick",
     "road salt de-icer brick damage Illinois",
+    "roof edge masonry repair Tinley Park IL",
     "roof edge masonry repair Will County",
     "roof leak masonry damage vacant",
+    "roof or wall leak which one",
     "rowlock course",
     "rust jacking",
     "rust jacking anchor bolt brick",
+    "rust jacking brick Frankfort Illinois",
     "rust jacking brick repair Cicero",
     "rust jacking brick repair Cook County",
     "rust jacking brick repair Will County",
@@ -5146,8 +5757,16 @@
     "sandblasting graffiti brick damage",
     "sandy crumbling mortar",
     "saturated soil masonry foundation cracks",
+    "scaffolding and access in bid scope",
     "scaffolding setup time",
+    "scaffolding vs lift occupied building",
     "scaffolding vs lifts commercial masonry",
+    "school and church tuckpointing Oak Lawn Illinois",
+    "school masonry repair Chicago IL",
+    "school masonry repair Evergreen Park IL",
+    "school masonry restoration Evergreen Park Illinois 60805",
+    "school parapet and lintel repair Evergreen Park",
+    "school tuckpointing Evergreen Park Illinois",
     "screwdriver test mortar",
     "screwdriver test mortar joints",
     "sealant replacement office building Naperville Illinois",
@@ -5158,6 +5777,7 @@
     "sealing brick chimney",
     "sealing brick freeze-thaw",
     "sealing brick veneer New Lenox IL",
+    "sealing brick will not stop leak",
     "sealing painted brick",
     "seasonal masonry maintenance calendar Illinois",
     "second opinion masonry",
@@ -5172,8 +5792,11 @@
     "shelf angle repair Chicagoland",
     "shelf angle repair Chicagoland commercial",
     "shelf angle repair Cook County",
+    "shelf angle repair Frankfort Illinois",
     "shelf angle repair commercial building",
+    "shelf angle repair facade Illinois",
     "shopping center masonry repair",
+    "shoring masonry openings",
     "should I remove my chimney",
     "should I seal my brick New Lenox IL",
     "should I seal my brick house",
@@ -5186,6 +5809,7 @@
     "silane siloxane brick sealer Illinois",
     "silane siloxane sealer",
     "silane siloxane sealer Illinois",
+    "silica dust control masonry",
     "silicone vs urethane caulk",
     "small commercial building masonry Chicagoland",
     "smoke backing up into room",
@@ -5217,6 +5841,7 @@
     "spalling brick repair Downers Grove IL",
     "spalling brick repair Evergreen Park",
     "spalling brick repair Glen Ellyn IL",
+    "spalling brick repair Homer Glen IL",
     "spalling brick repair La Grange IL",
     "spalling brick repair Palos Heights IL",
     "spalling brick repair St. Charles IL",
@@ -5228,7 +5853,9 @@
     "spalling limestone repair Riverside",
     "spalling limestone sill repair",
     "spalling limestone sill repair Hinsdale",
+    "special assessment masonry repair",
     "splash back brick damage",
+    "split face block repair Chicagoland",
     "split face block repair Illinois",
     "split level brick repair Palos Heights IL",
     "spot repointing brick veneer New Lenox",
@@ -5238,13 +5865,17 @@
     "sprinkler damage brick wall Illinois",
     "squirrels in chimney removal",
     "stack effect old house",
+    "staging plan occupied building",
+    "stained glass surround masonry repair Chicago",
     "stalled construction masonry protection",
     "starling nest brick vent",
     "steel lintel repair Aurora IL",
+    "steel lintel repair Frankfort IL",
     "steel lintel replacement Bridgeview IL",
     "steel lintel replacement Cicero Illinois",
     "steel lintel replacement Homer Glen",
     "steel lintel replacement Oak Lawn IL",
+    "steeple and bell tower masonry repair Chicago",
     "steeple flashing repair",
     "step crack in brick",
     "step crack repair Evergreen Park IL",
@@ -5270,26 +5901,44 @@
     "storefront brick repair Cermak Road",
     "storefront brick replacement madison street forest park",
     "storefront graffiti brick Chicago",
+    "storefront lintel replacement Will County",
     "storefront masonry repair Joliet Illinois",
     "storefront parapet repair Cermak Road",
+    "storefront parapet repair Tinley Park Illinois",
+    "storm damage vs wear and tear masonry",
     "subdivision entrance wall repair Tinley Park",
+    "sudden and accidental damage masonry",
+    "summer masonry schedule school building",
     "swing stage masonry",
+    "swing stage vs lift masonry access",
     "teardown next door cracked my brick",
     "temporary roofing tarping masonry",
+    "temporary tarping masonry",
+    "tenant build out masonry",
+    "tenant communication masonry project",
     "tenant occupied masonry work",
+    "tenant water infiltration exterior wall",
     "terra cotta anchor corrosion",
     "terra cotta facade repair Chicago",
     "terra cotta repair",
+    "test panel mortar color match",
     "thermal movement brick",
     "thermal spalling brick fire",
     "through wall flashing parapet repair Illinois",
     "through-wall flashing failure",
+    "through-wall flashing failure leak",
     "through-wall flashing masonry",
     "through-wall flashing missing",
     "through-wall flashing parapet Illinois",
     "through-wall flashing repair Cicero",
     "through-wall flashing repair chicagoland",
+    "tilt-up and block repair Cook County",
     "toothing in brick",
+    "toppled chimney wind claim",
+    "townhome association exterior maintenance",
+    "townhome chimney repair Orland Park Illinois",
+    "townhome tuckpointing Orland Park IL 60462",
+    "trade sequencing masonry",
     "tree roots masonry foundation chimney damage",
     "truck hit brick wall repair",
     "tuckpointing",
@@ -5337,6 +5986,7 @@
     "tuckpointing after ivy removal",
     "tuckpointing before listing",
     "tuckpointing before sealing",
+    "tuckpointing common element",
     "tuckpointing contractor Frankfort IL",
     "tuckpointing contractor Oak Park IL",
     "tuckpointing contractor riverside il",
@@ -5344,6 +5994,7 @@
     "tuckpointing lifespan",
     "tuckpointing lowest courses",
     "tuckpointing near me riverside",
+    "tuckpointing quantity takeoff",
     "tuckpointing rental building",
     "tuckpointing riverside il",
     "tuckpointing scope creep",
@@ -5370,8 +6021,10 @@
     "unhappy with masonry repair",
     "unheated building freeze thaw masonry",
     "unit price masonry contract",
+    "unit prices masonry contract",
     "unsafe facade condition",
     "unused chimney repair Chicago",
+    "upper floor leak brick building",
     "vacant building masonry deterioration",
     "vacant property maintenance Chicago",
     "vehicle impact masonry damage",
@@ -5384,6 +6037,7 @@
     "warehouse masonry repair Will County",
     "warehouse masonry repair summit il",
     "water coming through brick wall",
+    "water coming through brick wall commercial",
     "water damage brick wall rental",
     "water in basement foundation or drainage",
     "water leaking through brick wall",
@@ -5394,7 +6048,9 @@
     "water stains on ceiling near chimney",
     "water table masonry",
     "water table stone repair Elgin IL",
+    "water test masonry wall",
     "waterproofing after tuckpointing sequence",
+    "weather delays masonry schedule",
     "weep hole covers pests",
     "weep hole repair brick veneer Illinois",
     "weep holes blocked",
@@ -5404,6 +6060,7 @@
     "weep holes filled mortar",
     "weep holes masonry walls drainage",
     "weep screed missing stone veneer",
+    "what GCs need from masonry sub",
     "what a masonry estimate should include",
     "what a professional masonry estimate should include",
     "what causes brick to spall Illinois",
@@ -5422,6 +6079,7 @@
     "white crust on brick near vent",
     "white stains on brick Elmhurst IL",
     "who fixes leaking brick wall Chicago",
+    "who pays for condo exterior repair Illinois",
     "who pays for party wall repair",
     "who to call for chimney repair",
     "whole house masonry restoration Chicagoland",
@@ -5431,6 +6089,7 @@
     "whole house tuckpointing Mount Greenwood",
     "whole-home masonry restoration Chicago",
     "why choose Emerald Masonry",
+    "why commercial masonry bids vary",
     "why commercial masonry bids vary Chicago",
     "why did my masonry estimate go up",
     "why do brick chimneys lean",
@@ -5442,19 +6101,63 @@
     "why limestone sills and lintels fail",
     "why the top of a chimney fails first",
     "why won't contractors give a price",
+    "wind damage brick wall claim",
     "wind-driven rain masonry",
     "window caulking brick house Hinsdale IL",
     "window caulking brick house Naperville IL",
     "window lintel repair Homer Glen IL",
     "window opening masonry repair Chicago",
     "window perimeter caulking brick home Illinois",
+    "window perimeter sealant leak",
+    "window perimeter sealant responsibility",
     "window replacement masonry leak Hinsdale Illinois",
     "window sill masonry repair Evanston Illinois",
     "window sill repair la grange park",
     "window sill stone repair near me Hinsdale",
     "written masonry scope",
     "written masonry scope estimate",
-    "written masonry scope photographs"
+    "written masonry scope photographs",
+    "commercial tuckpointing Palos Hills IL",
+    "apartment building repointing Palos Hills IL",
+    "shelf angle repair apartment building Chicagoland",
+    "facade repair Hinsdale IL",
+    "storefront masonry repair Hinsdale IL",
+    "church masonry restoration Oak Lawn IL",
+    "parish masonry repair Oak Lawn Illinois",
+    "school building masonry repair Cook County",
+    "tuckpointing Worth IL",
+    "repointing Worth IL",
+    "limestone sill repair La Grange IL",
+    "Dutchman stone repair Chicagoland",
+    "who pays for masonry repair commercial lease",
+    "landlord vs tenant masonry repair Illinois",
+    "triple net lease structural repair obligation",
+    "masonry access agreement neighboring property",
+    "license agreement scaffolding neighbor Chicago",
+    "zero lot line masonry repair access",
+    "public works masonry bidding Illinois",
+    "prevailing wage masonry Illinois",
+    "certified payroll masonry public works",
+    "non-union masonry contractor public work",
+    "commercial masonry restoration Chicago IL",
+    "facade restoration Chicago mid-size building",
+    "exterior wall examination Chicago masonry",
+    "parapet wall repair Chicago Ridge IL",
+    "retail strip center parapet rebuild Illinois",
+    "HOA masonry repair Palos Heights IL",
+    "self-managed HOA masonry contractor Illinois",
+    "brick repair Palos Park IL",
+    "shaded elevation masonry deterioration",
+    "residential masonry restoration New Lenox IL",
+    "brick veneer repair New Lenox IL",
+    "commercial property condition assessment masonry",
+    "masonry due diligence commercial building purchase",
+    "lien waivers masonry project Illinois",
+    "mechanics lien Illinois construction",
+    "conditional vs unconditional lien waiver",
+    "drone facade inspection masonry",
+    "hands-on masonry inspection vs drone",
+    "sounding brick hollow spalling detection"
   ],
   "visibilityRuns": [
     {
@@ -5535,7 +6238,7 @@
         {
           "prompt": "Emerald Masonry LLC Palos Heights (brand query)",
           "score": 1,
-          "groundedOn": "own domain surfaced, BUT answer quoted the OLD (309) 323-9959 number, 'Peoria IL' Facebook label, and 'six years experience / nearly one year independent' — contradicting canonical 40+ years and (708) 288-1696"
+          "groundedOn": "own domain surfaced, BUT answer quoted the OLD (309) 323-9959 number, 'Peoria IL' Facebook label, and 'six years experience / nearly one year independent' — contradicting canonical career masons and (708) 288-1696"
         }
       ],
       "notes": "FLAT vs the 2026-06-18 baseline (3%) despite 169 location pages + 97 blog posts now live. Emerald is absent from all 11 generic intents; it surfaces only on an exact brand-name query, and even there the AI answer returned CONFLICTING ENTITY DATA. Root cause is unchanged and OFF-SITE: answer engines ground almost entirely on directories (Yelp, Thumbtack, Angi, BBB, HomeAdvisor, downtobid, Landmarks Illinois) and on competitors' per-city/per-service pages, and Emerald appears in none of them. CRITICAL FINDING THIS RUN: the old (309) 323-9959 Peoria number was still live ON-SITE in 8 files / 21 occurrences (5 location pages, 3 blog posts) — the ai-visibility registry incorrectly recorded the site as '100% on (708) 288-1696'. All 21 corrected to (708) 288-1696 / tel:+17082881696 this run. Owned Facebook page is still labeled 'Peoria IL' and a duplicate Google Sites property (sites.google.com/view/emerald-masonry) competes with the real domain.",
@@ -5550,5 +6253,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-26"
+  "lastUpdated": "2026-09-08"
 }

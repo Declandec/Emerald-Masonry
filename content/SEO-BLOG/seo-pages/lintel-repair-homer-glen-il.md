@@ -18,10 +18,10 @@ service: "Lintel Repair"
 serviceSlug: "lintel-repair"
 pageType: "location"
 metaTitle: "Lintel Repair in Homer Glen, IL | Emerald Masonry LLC"
-metaDescription: "Lintel repair in Homer Glen, IL by Emerald Masonry LLC. We fix rusted, sagging steel lintels above windows and garage doors. 40+ years. Call (708) 288-1696."
+metaDescription: "Lintel repair in Homer Glen, IL by Emerald Masonry LLC. We fix rusted, sagging steel lintels above windows and garage doors. career masons. Call (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs and replaces failing steel lintels above windows, doors, and garage openings across Homer Glen, IL. We stop rust jacking, reset displaced brick, and protect the wide openings common on Homer Glen's larger brick homes. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Homer Glen, IL, fixing rusted and sagging steel lintels above windows, doors, and garage openings and resetting the cracked brick above them. Family-owned, licensed and insured, with 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Homer Glen, IL, fixing rusted and sagging steel lintels above windows, doors, and garage openings and resetting the cracked brick above them. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired steel lintel and reset brick above a wide window opening on a Homer Glen, IL brick home"
 faqs:
   - q: "How much does lintel repair cost in Homer Glen, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "Why do lintels over garage doors and big windows fail first in Homer Glen?"
     a: "Homer Glen has many larger homes with wide garage-door and picture-window openings. A wider opening means a longer steel lintel carrying more brick, so when that steel rusts and expands, the damage above it is bigger and more consequential than over a small window. Wide spans are where we see lintel failure show up most."
   - q: "Are you licensed and insured to work in Homer Glen?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Homer Glen and the surrounding Will County suburbs, with 40+ years of Chicagoland experience."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Homer Glen and the surrounding Will County suburbs, led by career masons with decades of hands-on Chicagoland experience."
 competitorInformed: false
 ---
 
 # Lintel Repair in Homer Glen, IL
 
-If rust stains are bleeding down the brick under a window or garage door, or a crack has opened in the mortar joint just above an opening, you need lintel repair — and in Homer Glen, IL, Emerald Masonry LLC fixes exactly that. We repair and replace the rusted, sagging steel lintels that hold the brick up over your windows, doors, and garage openings, then reset the displaced brick so the wall is sound and dry again. Emerald is a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
+If rust stains are bleeding down the brick under a window or garage door, or a crack has opened in the mortar joint just above an opening, you need lintel repair — and in Homer Glen, IL, Emerald Masonry LLC fixes exactly that. We repair and replace the rusted, sagging steel lintels that hold the brick up over your windows, doors, and garage openings, then reset the displaced brick so the wall is sound and dry again. Emerald is a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
 
 ## What a Lintel Is — and Why It Fails
 
@@ -94,7 +94,7 @@ We never quote an exact price sight unseen. You get a clear, itemized estimate a
 
 ## Serving Homer Glen and the Will County Suburbs
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Homer Glen and Chicagoland with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We know the brick-veneer homes that fill Homer Glen and the neighboring Will County towns, and we know how their wide openings and freeze-thaw exposure drive lintel failure. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Homer Glen and Chicagoland led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We know the brick-veneer homes that fill Homer Glen and the neighboring Will County towns, and we know how their wide openings and freeze-thaw exposure drive lintel failure. Free on-site estimates — call **(708) 288-1696**.
 
 Lintel trouble rarely travels alone. If rust jacking has cracked or displaced brick, our [brick repair](/services/brick-repair) and [brick replacement](/services/brick-replacement) crews reset and match the affected units, and where mortar joints have opened up around the opening our [lintel repair](/services/lintel-repair) and [tuckpointing](/services/tuckpointing) work seals the wall back up. Homeowners often have us look at a chimney at the same time — see our [chimney repair in Homer Glen](/locations/chimney-repair-homer-glen-il) — and we handle the same work for neighbors in [Lemont](/locations/tuckpointing-lemont-il) and [Downers Grove](/locations/lintel-repair-downers-grove-il).
 

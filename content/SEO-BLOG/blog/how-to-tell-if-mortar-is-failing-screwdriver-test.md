@@ -5,7 +5,7 @@ excerpt: "You don't need a contractor to tell you whether your mortar joints are
 service: "Tuckpointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Freshly tuckpointed brick wall with sound, tooled mortar joints on a Chicagoland building after Emerald Masonry repointing"
 aiSummary: "To tell if mortar is failing, press a flathead screwdriver firmly into the joint. Sound mortar resists and the tip skates off; failing mortar sinks in, gouges, or crumbles into sand. If mortar is soft or missing to a depth of roughly 1/4 inch or more, the joint is no longer keeping water out and the wall needs tuckpointing. Emerald Masonry LLC repoints brick across Chicagoland — free on-site estimates, (708) 288-1696."
 intent: "informational"
@@ -65,12 +65,12 @@ faqs:
   - q: "Should I just seal the wall instead of tuckpointing it?"
     a: "No — sealing a wall with failing joints traps the problem instead of fixing it. Repointing comes first; a breathable masonry sealer is something you consider after the joints are sound, as added protection. Sealing over crumbling mortar is one of the most expensive mistakes a homeowner can make."
   - q: "Who does tuckpointing in the Chicago suburbs?"
-    a: "Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, repointing brick homes, two-flats, greystones, and commercial buildings across Chicago and the surrounding suburbs. Free on-site estimates — call (708) 288-1696."
+    a: "Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, repointing brick homes, two-flats, greystones, and commercial buildings across Chicago and the surrounding suburbs. Free on-site estimates — call (708) 288-1696."
 ---
 
 # How to Tell If Your Mortar Is Failing: The Screwdriver Test and 6 Other Checks You Can Do Yourself
 
-**Here's the short answer.** To tell if your mortar is failing, press the tip of an ordinary flathead screwdriver firmly into a mortar joint. Sound mortar fights back — the tip skates off and leaves nothing but a scratch. Failing mortar gives: the tip sinks in, gouges a groove, or the joint crumbles into sand and falls out at your feet. If you can dig mortar out to a depth of roughly a quarter-inch with hand pressure alone, that joint has lost its binder and your wall needs tuckpointing. Emerald Masonry LLC has been repointing brick across Chicago and the Chicagoland suburbs for 40+ years, and this is the first thing we do when we walk up to a house. You can do it yourself this afternoon — call (708) 288-1696 when you want a second opinion.
+**Here's the short answer.** To tell if your mortar is failing, press the tip of an ordinary flathead screwdriver firmly into a mortar joint. Sound mortar fights back — the tip skates off and leaves nothing but a scratch. Failing mortar gives: the tip sinks in, gouges a groove, or the joint crumbles into sand and falls out at your feet. If you can dig mortar out to a depth of roughly a quarter-inch with hand pressure alone, that joint has lost its binder and your wall needs tuckpointing. Emerald Masonry LLC has been repointing brick across Chicago and the Chicagoland suburbs for career masons, and this is the first thing we do when we walk up to a house. You can do it yourself this afternoon — call (708) 288-1696 when you want a second opinion.
 
 Everything below is a **ground-level check**. You should be able to run every one of these standing on your own grass, in sneakers, with nothing in your hand but a screwdriver. Nothing in this article requires a ladder, and nothing in this article should be attempted on a roof.
 
@@ -219,6 +219,6 @@ And if you want to know exactly what the repair itself involves before you call 
 
 **If a screwdriver goes into your mortar under hand pressure, your wall is telling you it needs tuckpointing.** It isn't ambiguous, it doesn't require an expert, and it doesn't cost anything to find out. The joints are the part of your building designed to wear out — and the part designed to be replaced before the brick behind them ever has to be.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We'll come out, look at every elevation, tell you honestly whether you're looking at a few soft joints or a wall that's been drinking for a decade — and if the answer is "you're fine, check again in two years," we'll tell you that too.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We'll come out, look at every elevation, tell you honestly whether you're looking at a few soft joints or a wall that's been drinking for a decade — and if the answer is "you're fine, check again in two years," we'll tell you that too.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

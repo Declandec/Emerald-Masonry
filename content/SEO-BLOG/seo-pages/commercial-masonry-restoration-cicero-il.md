@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration in Cicero, IL | Emerald"
 metaDescription: "Commercial masonry restoration in Cicero, IL — facades, parapets and block walls restored on tight urban sites, phased around tenants. Call (708) 288-1696."
 excerpt: "In Cicero the masonry is rarely the hard part. Zero-lot-line buildings, alley-only access, party walls and sidewalks directly under the work are what actually shape a commercial restoration."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Cicero, IL — restoring facades, parapets, block walls and storefronts on apartment, industrial, church and multi-tenant buildings, staged around tight urban access so tenants stay open. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Cicero, IL — restoring facades, parapets, block walls and storefronts on apartment, industrial, church and multi-tenant buildings, staged around tight urban access so tenants stay open. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Restored commercial brick facade with repointed joints and rebuilt parapet in Cicero, Illinois"
 faqs:
   - q: "How much does commercial masonry restoration cost in Cicero, IL?"
@@ -49,7 +49,7 @@ competitorInformed: true
 
 ## Commercial Masonry Restoration in Cicero, IL
 
-Commercial masonry restoration in Cicero, IL is rarely limited by the masonry. It is limited by the fact that the building runs to the lot line, the only access is a shared alley, there is a public sidewalk directly beneath the parapet, and the wall on one side belongs to somebody else. Emerald Masonry LLC restores commercial, industrial, institutional and multi-unit masonry throughout Cicero and Cook County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates, $5,000 project minimum. Call **(708) 288-1696**.
+Commercial masonry restoration in Cicero, IL is rarely limited by the masonry. It is limited by the fact that the building runs to the lot line, the only access is a shared alley, there is a public sidewalk directly beneath the parapet, and the wall on one side belongs to somebody else. Emerald Masonry LLC restores commercial, industrial, institutional and multi-unit masonry throughout Cicero and Cook County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates, $5,000 project minimum. Call **(708) 288-1696**.
 
 Contractors who work mostly on open suburban sites price a Cicero building and then discover the site. We price the site.
 
@@ -115,7 +115,7 @@ Soft, lime-rich mortars for pre-1930s common brick; Type N, and Type S only wher
 
 Elevation area and the real percentage of failed joints and units · parapet repair versus rebuild, and how far down it reaches · **access method, which on a Cicero site is often the single largest line** · overhead protection over public walkways · lintel count and opening widths · block and impact repairs at docks · occupancy constraints and tenant coordination · match difficulty · season and curing conditions. We never quote a commercial building over the phone — see [what a masonry estimate should include](/blog/what-a-masonry-estimate-should-include).
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Cicero and the Near West Suburbs
 
@@ -123,6 +123,6 @@ We restore commercial masonry throughout Cicero's 60804 — the courtyard and mu
 
 ## Why Cicero Owners and Managers Call Emerald
 
-We survey the site as carefully as the wall, we tell you what access is going to cost before you commit, and we phase the work so a building keeps earning while it gets fixed. On this housing stock we specify soft mortar because that is what century-old brick requires. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We survey the site as carefully as the wall, we tell you what access is going to cost before you commit, and we phase the work so a building keeps earning while it gets fixed. On this housing stock we specify soft mortar because that is what century-old brick requires. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 Need a written, phased assessment of your Cicero building — including a notice you have been served? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

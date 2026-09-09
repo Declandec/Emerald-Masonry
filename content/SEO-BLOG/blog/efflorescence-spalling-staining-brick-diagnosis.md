@@ -4,7 +4,7 @@ date: "2026-06-17"
 excerpt: "White bloom, flaking faces, dark streaks — brick problems can look similar but mean very different things. Here's how to tell efflorescence from spalling from staining, what each one is telling you about your wall, and which ones actually need a contractor."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 keywords:
   - efflorescence vs spalling brick
   - what is wrong with my brick
@@ -85,4 +85,4 @@ Identify the source before cleaning. Rust staining warrants a look at the lintel
 
 Notice what connects almost all of these: water. Efflorescence is water carrying salts out. Spalling is water freezing inside the brick. Rust staining is water reaching the steel. Organic growth is water lingering on the surface. Reading your brick correctly is really about reading where water is getting in — and that is exactly what a real masonry assessment does.
 
-If your building is showing any of these and you are not sure how serious it is, get a professional eye on it before guessing. [Contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment anywhere in Chicagoland. With more than 40 years of masonry experience, we will tell you exactly what your brick is doing — and whether it needs a contractor now or just a watchful eye.
+If your building is showing any of these and you are not sure how serious it is, get a professional eye on it before guessing. [Contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment anywhere in Chicagoland. With more than decades of masonry experience, we will tell you exactly what your brick is doing — and whether it needs a contractor now or just a watchful eye.

@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Burbank, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Burbank, IL — spalled faces, cracked units and damaged stoops repaired and matched properly. Free estimates: call (708) 288-1696 today."
 excerpt: "Drive any Burbank block built in the 1950s and the damage repeats at the same height on house after house. That is not coincidence — it is a build era, a brick type and a splash line doing exactly what they always do, and it tells you precisely what the repair has to address."
-aiSummary: "Emerald Masonry LLC performs brick repair in Burbank, IL — replacing spalled and cracked brick, rebuilding damaged sections, and repairing stoops, steps and garage walls on the village's post-war bungalows, ranches and Georgians. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC performs brick repair in Burbank, IL — replacing spalled and cracked brick, rebuilding damaged sections, and repairing stoops, steps and garage walls on the village's post-war bungalows, ranches and Georgians. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick set into a spalled wall on a post-war home in Burbank, Illinois"
 faqs:
   - q: "How much does brick repair cost in Burbank, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Brick Repair in Burbank, IL
 
-Brick repair in Burbank, IL is unusually predictable, and that is genuinely good news. Emerald Masonry LLC repairs and replaces damaged brick on homes, garages, stoops, steps and commercial buildings throughout the southwest suburbs. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Burbank, IL is unusually predictable, and that is genuinely good news. Emerald Masonry LLC repairs and replaces damaged brick on homes, garages, stoops, steps and commercial buildings throughout the southwest suburbs. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Burbank is one of the most architecturally consistent towns in Cook County. The village built out fast, mostly in the 1950s and 1960s, in brick — ranches, Cape Cods, Georgians and Chicago-style bungalows, block after block of them, built by the same trades with the same materials at the same time.
 
@@ -126,7 +126,7 @@ We do not quote brick work over the phone. Estimates are free, on-site and writt
 
 ## Serving Burbank and the Southwest Suburbs
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Burbank and neighbouring [Oak Lawn](/locations/brick-repair-oak-lawn-il), [Bridgeview](/locations/tuckpointing-bridgeview-il), [Hickory Hills](/locations/tuckpointing-hickory-hills-il) and [Chicago Ridge](/locations/brick-repair-chicago-ridge-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

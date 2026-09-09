@@ -18,10 +18,10 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Oak Lawn, IL | Emerald Masonry LLC"
-metaDescription: "Chimney repair in Oak Lawn, IL from Emerald Masonry LLC — 40+ years of tuckpointing, rebuilds, crown & flashing work. Family-owned, licensed & insured. Free estimate: (708) 288-1696."
+metaDescription: "Chimney repair in Oak Lawn, IL from Emerald Masonry LLC — career masons of tuckpointing, rebuilds, crown & flashing work. Family-owned, licensed & insured. Free estimate: (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs, rebuilds, and waterproofs chimneys throughout Oak Lawn, IL. From tuckpointing and crown repair to full above-roofline rebuilds, our licensed and insured crews restore your chimney with matched brick and mortar. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Oak Lawn, IL — tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled-brick replacement. Family-owned with 40+ years of experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Oak Lawn, IL — tuckpointing, above-roofline rebuilds, crown repair, flashing, and spalled-brick replacement. Family-owned, led by career masons with decades of hands-on experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Restored brick chimney after chimney repair by Emerald Masonry LLC in Oak Lawn, IL"
 faqs:
   - q: "How much does chimney repair cost in Oak Lawn, IL?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 # Chimney Repair in Oak Lawn, IL
 
-Emerald Masonry LLC provides expert **chimney repair in Oak Lawn, IL**, from tuckpointing and crown repair to full above-roofline rebuilds. We're a family-owned masonry contractor with 40+ years of experience, licensed, bonded, and insured, and every on-site estimate is free. If your Oak Lawn chimney is dropping brick, leaning, or letting water in, call **(708) 288-1696** and we'll inspect it and give you a straight answer on what it needs.
+Emerald Masonry LLC provides expert **chimney repair in Oak Lawn, IL**, from tuckpointing and crown repair to full above-roofline rebuilds. We're a family-owned masonry contractor led by career masons with decades of hands-on experience, licensed, bonded, and insured, and every on-site estimate is free. If your Oak Lawn chimney is dropping brick, leaning, or letting water in, call **(708) 288-1696** and we'll inspect it and give you a straight answer on what it needs.
 
 A chimney is one of the most exposed pieces of masonry on your house. It stands above the roofline with no shelter from wind, rain, snow, or the freeze-thaw cycles that punish brick across SW Cook County every winter. When it starts to fail, it fails from the top down — and small problems become expensive, dangerous ones fast. Our job is to catch that early and restore your chimney so it protects your home for decades.
 
@@ -99,14 +99,14 @@ Whether it's a single course of spalled brick or a chimney that needs to come do
 
 ## Why Oak Lawn Homeowners Choose Emerald Masonry LLC
 
-- **40+ years of experience** with brick and chimney masonry.
+- **career masons with decades of experience** with brick and chimney masonry.
 - **Family-owned** — you deal with people who stand behind the work.
 - **Licensed, bonded, and insured** for your protection on every job.
 - **Free on-site estimates** with honest recommendations.
 
 > We'll tell you whether your chimney needs a simple repoint or a full rebuild — and we won't sell you the bigger job if you don't need it.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Related Masonry Services
 

@@ -14,9 +14,9 @@ secondaryKeywords:
 city: "Naperville, IL"
 service: "Chimney Repair"
 metaTitle: "Chimney Repair in Naperville, IL | Emerald Masonry LLC"
-metaDescription: "Brick chimney repair in Naperville, IL — crown repair, tuckpointing, flashing, and rebuilds. 40+ years Chicagoland masonry. Free on-site estimate: (708) 288-1696."
+metaDescription: "Brick chimney repair in Naperville, IL — crown repair, tuckpointing, flashing, and rebuilds. career masons Chicagoland masonry. Free on-site estimate: (708) 288-1696."
 excerpt: "A chimney takes more weather than any other part of your house, and in Naperville's freeze-thaw climate it shows. Here's how chimney damage actually starts, what each level of repair involves, and how to tell whether you need a crown patch or a rebuild."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and repointed joints on a home in Naperville, IL"
 competitorInformed: false
 ---
@@ -78,7 +78,7 @@ When the upper section of a chimney is leaning, badly spalled, or has open joint
 - **Proper brick and mortar matching.** Mismatched repairs look obvious and, with the wrong mortar, perform worse.
 - **License, bond, and insurance.** Chimney work is at height. Confirm coverage before anyone gets on your roof.
 
-Emerald Masonry brings more than 40 years of Chicagoland masonry experience to every chimney. We are family-owned, non-union, and fully licensed, bonded, and insured. We provide free on-site estimates and carry a ,000 project minimum.
+Emerald Masonry brings more than decades of Chicagoland masonry experience to every chimney. We are family-owned, non-union, and fully licensed, bonded, and insured. We provide free on-site estimates and carry a ,000 project minimum.
 
 ## Frequently Asked Questions
 

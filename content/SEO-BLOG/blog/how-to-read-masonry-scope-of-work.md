@@ -4,7 +4,7 @@ date: "2026-05-20"
 excerpt: "Most property managers reviewing masonry estimates are evaluating price without the context to evaluate scope. Knowing what the line items in a masonry scope of work actually mean — and what's missing from a weak scope — is what separates a decision based on price from a decision based on value."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 keywords:
   - masonry scope of work property manager
   - how to evaluate masonry estimate

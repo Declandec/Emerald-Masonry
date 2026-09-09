@@ -18,7 +18,7 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Addison, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair and replacement in Addison, IL for spalled, cracked, and damaged masonry. Emerald Masonry serves DuPage County residential and commercial properties."
 excerpt: "Addison's mixed commercial and residential character — including light-industrial parks, older subdivisions along Lake Street, and mid-century commercial strip development — creates a diverse brick repair caseload. The issues range from freeze-thaw spalling on postwar residential brick to lintel-driven cracking in 1960s and 1970s commercial facades. Emerald Masonry LLC diagnoses the cause, repairs the brick, and addresses the underlying water entry pathway so the repair holds long-term."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Brick repair and replacement on a commercial brick building in Addison, IL DuPage County"
 competitorInformed: false
 ---
@@ -82,7 +82,7 @@ A complete repair scope for spalling brick typically includes:
 ## FAQ: Brick Repair in Addison
 
 **How do I tell spalling from a bad brick (manufacturing defect)?**
-Manufacturing defects in brick are rare and typically appear early — within a few years of construction, not decades later. Spalling in a building 40+ years old is almost always freeze-thaw fatigue or mortar-incompatibility, not manufacturing defect. If the damaged brick is on the north or west elevation and the south elevation is intact, freeze-thaw is the likely cause. If damage is adjacent to specific mortar joints and the mortar in those joints looks different from surrounding areas, mortar incompatibility is probable.
+Manufacturing defects in brick are rare and typically appear early — within a few years of construction, not decades later. Spalling in a building career masons old is almost always freeze-thaw fatigue or mortar-incompatibility, not manufacturing defect. If the damaged brick is on the north or west elevation and the south elevation is intact, freeze-thaw is the likely cause. If damage is adjacent to specific mortar joints and the mortar in those joints looks different from surrounding areas, mortar incompatibility is probable.
 
 **How long does brick repair last?**
 Properly installed replacement brick with compatible mortar in a repaired zone that's also had the water entry source addressed should last as long as the original construction — decades. Brick repair that doesn't address the underlying water entry pathway fails faster because the new brick faces the same conditions that damaged the original. The diagnosis step before repair is what determines long-term durability.
@@ -95,7 +95,7 @@ Routine individual brick replacement typically doesn't require a permit. Structu
 
 ## Service Area
 
-Emerald Masonry LLC serves Addison and the surrounding DuPage County communities from our base in Palos Heights. We work throughout Glendale Heights, Hanover Park, Villa Park, Lombard, Elmhurst, and the full central DuPage corridor. Our 40+ years of Chicagoland experience spans the complete range of DuPage County brick construction.
+Emerald Masonry LLC serves Addison and the surrounding DuPage County communities from our base in Palos Heights. We work throughout Glendale Heights, Hanover Park, Villa Park, Lombard, Elmhurst, and the full central DuPage corridor. Our career masons with decades of Chicagoland experience spans the complete range of DuPage County brick construction.
 
 [Contact us online](/#contact) or call **(708) 288-1696** for a free on-site evaluation. We'll assess the brick condition, identify the cause, and give you a complete repair scope.
 

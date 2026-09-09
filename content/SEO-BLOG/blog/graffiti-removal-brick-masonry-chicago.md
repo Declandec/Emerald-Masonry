@@ -5,7 +5,7 @@ excerpt: "The instinct after finding graffiti is to blast it off. That instinct 
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Masonry Restoration"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 intent: "informational"
 aiSummary: "Graffiti on brick should be removed quickly and gently, not aggressively. Masonry is porous, so paint wicks into the surface within days, and sandblasting or high-pressure washing removes the paint by removing the brick's fired face — permanently increasing water absorption. Correct removal means substrate-appropriate poultices and chemical removers at low pressure, followed by a sacrificial or permanent anti-graffiti coating. Emerald Masonry LLC restores Chicagoland masonry — (708) 288-1696."
 keywords:
@@ -63,7 +63,7 @@ Somebody tags the side of your building on a Friday night. By Monday you want it
 
 Here is the thing worth knowing before you accept it: **the paint is on the surface of the brick, and blasting removes it by removing that surface.** The tag disappears and the wall is permanently worse — rougher, more absorbent, and considerably more likely to spall in the next hard winter.
 
-Emerald Masonry LLC cleans and restores masonry on commercial, institutional and residential buildings throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC cleans and restores masonry on commercial, institutional and residential buildings throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 ## Why Masonry Is Difficult to Clean
 
@@ -206,6 +206,6 @@ Graffiti removal on masonry is a race against absorption, not a contest of force
 
 And if a previous removal already opened up your brick, that damage does not heal — but the wall can be repaired, repointed and protected so it stops getting worse.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Dealing with graffiti on a building — or with brick that a previous removal already damaged? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

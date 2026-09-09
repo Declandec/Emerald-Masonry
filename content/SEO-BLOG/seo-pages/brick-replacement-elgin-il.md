@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Elgin, IL | Emerald Masonry LLC"
 metaDescription: "Brick replacement in Elgin, IL — removing spalled and failed brick and setting matched replacements. Emerald Masonry fixes the cause too. Free estimate — (708) 288-1696."
 excerpt: "When brick spalls or fails on an Elgin home or building, it has to be replaced — not patched over. Emerald Masonry LLC removes failed brick, sets carefully matched replacements, and fixes the water or structural cause behind the damage."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Elgin, IL — removing spalled, cracked, and failed brick and setting carefully matched replacements, then correcting the water or structural cause. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Elgin, IL — removing spalled, cracked, and failed brick and setting carefully matched replacements, then correcting the water or structural cause. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Section of matched replacement brick set into a wall on a home in Elgin, IL"
 faqs:
   - q: "When does brick need to be replaced instead of repaired in Elgin?"
@@ -81,7 +81,7 @@ Cost depends on how many brick need replacing, the height and access, how diffic
 
 Elgin is one of the larger Fox River cities in Kane County, with a deep stock of older and historic masonry — 19th- and early-20th-century brick homes, downtown commercial buildings, and institutional structures — alongside decades of newer subdivision construction. The older brick, often laid in soft lime mortar, is exactly the kind that spalls when water gets in or when a previous repair used too-hard mortar, while newer brick-veneer homes fail around rusting lintels and failed sealant. The Fox River Valley's freeze-thaw exposure drives all of it. We do the same matched brick replacement across neighboring South Elgin, St. Charles, Bartlett, Streamwood, and Hanover Park.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -99,4 +99,4 @@ It depends on how many brick need replacing, the access and height, how difficul
 
 ## Get a Free Brick Replacement Estimate in Elgin
 
-If brick on your Elgin home or building is spalling, cracked through, or has failed outright, have it assessed before water spreads the damage across the wall. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Elgin, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we match brick and mortar so the repair disappears. Related work: [brick replacement](/services/brick-replacement), [brick repair](/services/brick-repair), and [lintel repair](/services/lintel-repair).
+If brick on your Elgin home or building is spalling, cracked through, or has failed outright, have it assessed before water spreads the damage across the wall. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Elgin, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we match brick and mortar so the repair disappears. Related work: [brick replacement](/services/brick-replacement), [brick repair](/services/brick-repair), and [lintel repair](/services/lintel-repair).

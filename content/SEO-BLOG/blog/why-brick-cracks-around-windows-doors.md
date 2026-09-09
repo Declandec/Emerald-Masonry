@@ -5,7 +5,7 @@ excerpt: "Cracks in brick almost always show up around windows and doors first. 
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Cracked brick and mortar joints above a window opening on a Chicago-area brick home before repair"
 aiSummary: "Brick cracks around windows and doors because openings are the weak points in a masonry wall — the load has to bridge the gap, steel lintels sit and rust there, and different materials meet and move there. The crack's location and pattern reveal the cause. Emerald Masonry LLC diagnoses and repairs cracked brick at openings across Chicagoland. Free on-site estimates — call (708) 288-1696."
 intent: "informational"
@@ -137,7 +137,7 @@ A real repair starts with finding the cause, not the crack. When we assess crack
 6. **Perimeter sealant failure** → replace failed caulk with quality sealant. (See [caulking](/services/caulking).)
 7. **Active structural settlement** → coordinate with a structural engineer to stabilize the foundation first, then do the masonry repair once movement has stopped.
 
-**Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience** in tuckpointing, brick repair and replacement, lintel and sill repair, caulking, sealing, and full masonry restoration for homeowners, property managers, HOAs, and churches. We diagnose cracked brick honestly — including telling you when a crack is cosmetic and can wait.
+**Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience** in tuckpointing, brick repair and replacement, lintel and sill repair, caulking, sealing, and full masonry restoration for homeowners, property managers, HOAs, and churches. We diagnose cracked brick honestly — including telling you when a crack is cosmetic and can wait.
 
 ## What Drives the Cost of Repairing Cracked Brick
 
@@ -159,4 +159,4 @@ You can't stop a wall from having openings, but you can keep those openings from
 
 Brick cracks around windows and doors because that's where a masonry wall is weakest and most stressed — where the load bridges a gap, where steel rusts, where sills hold water, and where materials move against each other. The crack's shape and location tell you the cause: horizontal with rust means a lintel; widening diagonal steps can mean settlement; cracking below a window points to the sill; sandy, receding joints mean it's time to repoint. The fix is to diagnose the cause and address it — not to hide the crack.
 
-If your brick is cracking around a window, door, or garage opening anywhere in Chicagoland, **Emerald Masonry LLC** will tell you honestly what's causing it and what it takes to fix it. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and our on-site estimates are free. Call **(708) 288-1696** or reach us through our [contact page](/#contact) to schedule a look.
+If your brick is cracking around a window, door, or garage opening anywhere in Chicagoland, **Emerald Masonry LLC** will tell you honestly what's causing it and what it takes to fix it. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and our on-site estimates are free. Call **(708) 288-1696** or reach us through our [contact page](/#contact) to schedule a look.

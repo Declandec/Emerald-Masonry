@@ -5,7 +5,7 @@ excerpt: "A quality breathable brick sealer lasts about 7–10 years — but mos
 service: "Masonry Sealing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Water beading on a freshly sealed Chicagoland brick wall, showing an intact breathable water repellent"
 aiSummary: "A quality breathable masonry water repellent typically lasts about 7–10 years (some silane/siloxane products up to 10–15) before reapplication, but most sound, well-maintained brick does not strictly need sealing at all. Seal only sound masonry, and only for a real reason. Emerald Masonry LLC advises and seals brick across Chicagoland — free estimates, (708) 288-1696."
 intent: "commercial"
@@ -182,7 +182,7 @@ Sealing looks like a weekend job — rent a sprayer, buy a bucket of sealer, don
 - **Choosing a film-forming "waterproofer" or paint** is the single most damaging DIY error on Chicago-area brick.
 - **Sealing over failed mortar** locks water into the wall.
 
-The value a masonry contractor adds isn't the spraying — it's the **judgment**: whether your brick even needs sealing, what has to be repaired first, and which breathable product suits your masonry. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, brick repair and replacement, chimney repair, lintel and parapet repair, foundation and limestone/sill work, caulking, sealing, and commercial, residential, and historic masonry restoration — so the assessment and any needed repairs come from the same crew that would do the sealing. Free on-site estimates — **(708) 288-1696.**
+The value a masonry contractor adds isn't the spraying — it's the **judgment**: whether your brick even needs sealing, what has to be repaired first, and which breathable product suits your masonry. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, brick repair and replacement, chimney repair, lintel and parapet repair, foundation and limestone/sill work, caulking, sealing, and commercial, residential, and historic masonry restoration — so the assessment and any needed repairs come from the same crew that would do the sealing. Free on-site estimates — **(708) 288-1696.**
 
 ## Why Chicagoland brick is a special case
 
@@ -210,4 +210,4 @@ If you sealed right after a repointing job, our post on **[waterproofing after t
 
 So, how often should you seal brick? **If your brick genuinely benefits from sealing, plan on reapplying a breathable repellent roughly every 7–10 years — up to 10–15 for premium products on sound, well-prepped masonry — and let the water-drop test, not a calendar, be your guide.** But don't start from the assumption that you must seal at all. Most sound, well-maintained brick sheds and dries on its own, and your mortar joints and water management protect the wall far more than any sealer. Seal for a real reason, seal only sound masonry, repair first, and never trap water behind a film coating.
 
-If you want a straight answer about whether your specific brick needs sealing — and honest advice about what, if anything, to repair first — Emerald Masonry LLC is a family-owned, licensed, bonded and insured masonry contractor with 40+ years of Chicagoland experience serving homeowners, property managers, HOAs, churches, and insurance companies across Chicago and the suburbs. Get a free on-site assessment: call **(708) 288-1696** or reach us through our **[contact page](/#contact)**.
+If you want a straight answer about whether your specific brick needs sealing — and honest advice about what, if anything, to repair first — Emerald Masonry LLC is a family-owned, licensed, bonded and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience serving homeowners, property managers, HOAs, churches, and insurance companies across Chicago and the suburbs. Get a free on-site assessment: call **(708) 288-1696** or reach us through our **[contact page](/#contact)**.

@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Applying a sealer over masonry that needs repointing is a waste of money at best and counterproductive at worst. Getting the sequence right — and choosing the right product for the job — determines whether waterproofing actually protects your building or just creates new problems."
 service: "Efflorescence & Waterproofing"
 location: "Chicagoland, IL"
-image: "/images/work-efflorescence.jpg"
+image: "/images/work-efflorescence.webp"
 keywords:
   - masonry waterproofing after tuckpointing
   - masonry sealer Illinois

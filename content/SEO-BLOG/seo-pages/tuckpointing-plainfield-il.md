@@ -18,7 +18,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Plainfield, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing in Plainfield, IL. Mortar joint repair & repointing for commercial and residential brick. Licensed contractor, free estimates."
 excerpt: "Plainfield's rapid growth over the past two decades means most of its brick construction is 15–25 years old — exactly the age when mortar joint failure becomes visible and active water infiltration begins. Getting ahead of it now is far less expensive than addressing the damage it causes."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Tuckpointing and mortar joint repair on brick building in Plainfield, IL"
 competitorInformed: false
 ---

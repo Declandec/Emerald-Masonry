@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Lintel Repair in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Lintel repair in Tinley Park, IL — rusted steel lintel repair and replacement above windows and doors. Family-owned, licensed and insured. Free estimates: (708) 288-1696."
 excerpt: "Rusting steel lintels above windows and doors are one of the most common — and most overlooked — masonry problems on Tinley Park brick homes. Emerald Masonry LLC repairs and replaces failing lintels before rust-jacking cracks the brick course above the opening."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Tinley Park, IL — repairing and replacing rusted steel lintels above windows and doors before oxidation lifts and cracks the brick course. Family-owned with 40+ years of Chicagoland experience, licensed and insured, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Tinley Park, IL — repairing and replacing rusted steel lintels above windows and doors before oxidation lifts and cracks the brick course. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed and insured, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repaired steel lintel and rebuilt brick course above a window on a Tinley Park, IL brick home"
 faqs:
   - q: "How do I know if my lintel needs repair in Tinley Park, IL?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Lintel Repair in Tinley Park, IL — Before the Rust Cracks the Brick
 
-If you have orange rust streaks running down the brick beneath a window, or a cracked line of brick sitting right above a window or door, you almost certainly need **lintel repair in Tinley Park, IL**. Emerald Masonry LLC repairs and replaces the rusted steel lintels that carry the brick over your openings — before oxidation lifts and splits the course above. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
+If you have orange rust streaks running down the brick beneath a window, or a cracked line of brick sitting right above a window or door, you almost certainly need **lintel repair in Tinley Park, IL**. Emerald Masonry LLC repairs and replaces the rusted steel lintels that carry the brick over your openings — before oxidation lifts and splits the course above. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
 
 A lintel is the horizontal support that spans the top of a window or door and holds up the brick above it. On the vast majority of Tinley Park brick homes, that support is a steel angle — and steel and Chicago-area weather do not get along forever. Catching a failing lintel early is the difference between a contained repair and rebuilding several courses of brick.
 
@@ -85,7 +85,7 @@ Good lintel work is invisible when it's done right. The goal is a window head th
 
 We repair lintels with **galvanized or shop-coated steel** sized to the span, set to shed water rather than trap it. Brick is matched from salvaged units and the closest available replacements. Joints are repointed with **Type N or Type S mortar** chosen to suit your wall and matched for color and texture. Where the detail calls for it, we address flashing and drainage so the new steel isn't set up to fail the same way the old one did.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## What Drives the Cost of Lintel Repair
 
@@ -109,4 +109,4 @@ We repair lintels throughout Tinley Park and the neighboring communities, includ
 
 If you've noticed rust stains under a window or cracked brick above a door, don't wait for the course to loosen. Emerald Masonry LLC will inspect the lintel, tell you honestly whether it can be treated or needs replacement, and give you a clear, no-pressure estimate.
 
-Call **(708) 288-1696** or reach us through the [contact form](/#contact) to schedule your free on-site estimate. Family-owned, licensed and insured, and repairing Tinley Park masonry the right way for over 40 years.
+Call **(708) 288-1696** or reach us through the [contact form](/#contact) to schedule your free on-site estimate. Family-owned, licensed and insured, and repairing Tinley Park masonry the right way for decades.

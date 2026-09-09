@@ -5,7 +5,7 @@ excerpt: "When a mason says they will source a match for your hundred-year-old b
 service: "Brick Replacement"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Salvaged Chicago common brick set beside original weathered brick in a matched wall repair"
 keywords:
   - salvaged brick Chicago
@@ -37,7 +37,7 @@ keywords:
   - dutchman stone repair
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Matching brick for pre-1940 Chicago buildings comes from salvage — reclaimed units from demolished Chicago-area structures — because those bricks, including Chicago common brick, are no longer manufactured. Salvaged brick is often the technically correct choice rather than merely the authentic one, because it matches the original's absorption and hardness as well as its size and color. Emerald Masonry LLC sources and matches brick across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Matching brick for pre-1940 Chicago buildings comes from salvage — reclaimed units from demolished Chicago-area structures — because those bricks, including Chicago common brick, are no longer manufactured. Salvaged brick is often the technically correct choice rather than merely the authentic one, because it matches the original's absorption and hardness as well as its size and color. Emerald Masonry LLC sources and matches brick across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Where does salvaged brick actually come from?"
@@ -62,7 +62,7 @@ faqs:
 
 ## Salvaged Brick: Where Matching Brick Really Comes From
 
-**When a mason says they will source a match for your hundred-year-old brick, that brick comes off a demolished Chicago-area building** — because the units in your wall stopped being manufactured decades ago. Reclaimed brick from houses, two-flats, warehouses and factories is cleaned, sorted and stocked by regional salvage yards, and restoration masons maintain relationships with those sources because matching work depends on them. Emerald Masonry LLC sources and matches brick on repairs across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**When a mason says they will source a match for your hundred-year-old brick, that brick comes off a demolished Chicago-area building** — because the units in your wall stopped being manufactured decades ago. Reclaimed brick from houses, two-flats, warehouses and factories is cleaned, sorted and stocked by regional salvage yards, and restoration masons maintain relationships with those sources because matching work depends on them. Emerald Masonry LLC sources and matches brick on repairs across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners are often surprised by this. It sounds improvised — *you are putting used brick in my house?* But on a pre-1940 wall, salvaged brick is usually not the compromise. **It is the correct material**, and new brick is the compromise.
 
@@ -197,6 +197,6 @@ The brick that matches your 1924 bungalow is sitting in a salvage yard on the So
 
 What to ask before anyone sets a unit into your wall: **where is the replacement coming from, how was it matched, and what mortar is going around it.** A mason who can answer those three specifically is going to give you a repair you cannot find afterward. One who plans to grab a pallet of whatever is closest at the supply house is going to give you a patch you will notice every day.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

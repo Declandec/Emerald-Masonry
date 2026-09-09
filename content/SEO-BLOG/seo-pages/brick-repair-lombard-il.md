@@ -18,7 +18,7 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Lombard, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair and replacement in Lombard, IL for spalled, cracked, and damaged brick. Emerald Masonry serves DuPage County commercial and residential properties. Free estimates."
 excerpt: "Brick failure in Lombard's commercial and residential building stock shows up in predictable patterns: spalling faces from freeze-thaw cycling, cracking above windows from corroded lintels, and displacement where water has been entering mortar joints for years. Emerald Masonry LLC diagnoses the cause, repairs the brick, and addresses the underlying water entry source so the repair holds."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Brick repair and replacement completed on a commercial building in Lombard, IL DuPage County"
 competitorInformed: false
 ---
@@ -87,7 +87,7 @@ Spalling at or adjacent to all five window openings strongly suggests lintel cor
 
 ## Service Area
 
-Emerald Masonry LLC serves Lombard and the surrounding DuPage County communities from our base in Palos Heights, IL. We work regularly in Addison, Villa Park, Elmhurst, Glen Ellyn, Wheaton, Lisle, and throughout the west suburban area. With 40+ years of Chicagoland masonry experience, we've worked on brick from every era of DuPage County construction — from 1910 bungalows to 1980s commercial facades.
+Emerald Masonry LLC serves Lombard and the surrounding DuPage County communities from our base in Palos Heights, IL. We work regularly in Addison, Villa Park, Elmhurst, Glen Ellyn, Wheaton, Lisle, and throughout the west suburban area. With career masons of Chicagoland masonry experience, we've worked on brick from every era of DuPage County construction — from 1910 bungalows to 1980s commercial facades.
 
 Call **(708) 288-1696** or [contact us online](/#contact) for a free on-site evaluation. We'll assess the brick condition, identify the cause of damage, and give you a complete scope — not just a price for the symptom.
 

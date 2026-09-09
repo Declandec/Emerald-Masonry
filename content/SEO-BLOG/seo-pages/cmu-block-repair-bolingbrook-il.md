@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "CMU Block Repair in Bolingbrook, IL | Emerald Masonry LLC"
 metaDescription: "CMU block repair in Bolingbrook, IL — cracked block, repointing and rebuilds on warehouse and industrial walls. Insured. Free estimates: (708) 288-1696."
 excerpt: "Concrete block does not fail like brick. It cracks in long straight lines, absorbs water through its face, and on Bolingbrook's warehouse walls it takes impacts brick never sees. Emerald Masonry LLC repairs CMU across Will County's industrial corridor."
-aiSummary: "Emerald Masonry LLC provides CMU block repair in Bolingbrook, IL — repairing cracked and spalled concrete block, repointing joints, replacing damaged units, and rebuilding sections on warehouse, industrial and commercial walls. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides CMU block repair in Bolingbrook, IL — repairing cracked and spalled concrete block, repointing joints, replacing damaged units, and rebuilding sections on warehouse, industrial and commercial walls. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired CMU block wall with replaced units and repointed joints on an industrial building in Bolingbrook Illinois"
 faqs:
   - q: "How much does CMU block repair cost in Bolingbrook, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## CMU Block Repair in Bolingbrook, IL
 
-CMU block repair in Bolingbrook, IL means repairing cracked and spalled concrete block, repointing failed joints, replacing damaged units and rebuilding sections on warehouse, industrial and commercial walls. Emerald Masonry LLC does this work across Will County's distribution corridor. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+CMU block repair in Bolingbrook, IL means repairing cracked and spalled concrete block, repointing failed joints, replacing damaged units and rebuilding sections on warehouse, industrial and commercial walls. Emerald Masonry LLC does this work across Will County's distribution corridor. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Bolingbrook is a distribution town. The **warehouse and light-industrial parks off I-55, Route 53 and Remington**, the flex and manufacturing buildings, the big-box retail and the commercial corridors are overwhelmingly **concrete masonry unit** construction — often painted, often tilt-up or block-and-panel hybrids, and often twenty to forty years old.
 
@@ -132,7 +132,7 @@ Bolingbrook sits in Will County with no lake buffer, taking the full regional fr
 
 We work throughout 60440 and 60490 — the industrial and distribution parks off I-55 and Route 53, the flex and manufacturing buildings, the retail corridors along Boughton and Weber, and the association and commercial properties throughout the village. We also serve neighboring [Romeoville](/locations/cmu-block-repair-romeoville-il), [Woodridge](/locations/commercial-masonry-woodridge-il), [Plainfield](/locations/commercial-masonry-restoration-plainfield-il) and [Lockport](/locations/commercial-masonry-lockport-il). Bolingbrook owners frequently pair block work with [parapet repair](/locations/parapet-wall-repair-bolingbrook-il), [lintel replacement](/locations/lintel-replacement-bolingbrook-il) or [brick repair](/locations/brick-repair-bolingbrook-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

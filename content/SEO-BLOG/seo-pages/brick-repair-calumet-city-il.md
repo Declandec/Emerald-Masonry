@@ -18,16 +18,11 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Calumet City, IL | Emerald Masonry LLC"
 metaDescription: "Professional brick repair in Calumet City, IL. Spalling, cracking, and structural brick replacement for south Cook County buildings. Free estimates. (708) 288-1696."
 excerpt: "Calumet City's dense brick housing stock — post-WWII bungalows, two-flats, and commercial buildings along Torrence Avenue — takes a beating from Chicago's freeze-thaw cycles. Emerald Masonry LLC repairs spalled, cracked, and structurally failing brick for property owners throughout south Cook County."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired brick facade on a commercial building in Calumet City Illinois south Cook County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: brick repair south Cook County Chicago suburbs masonry contractor
-Why this page is better: Highly localized content addressing Calumet City's specific housing stock (post-WWII bungalows, dense residential, Torrence Ave commercial) versus competitor generic homepage with no suburb-specific content, no FAQ, and weak CTAs. Covers commercial and residential contexts with detailed repair process and specific cost expectations.
-Gaps filled: No FAQ on competitor page — added 4-question FAQ with specific, actionable answers; no local context — added specific Calumet City neighborhood and street references; no repair process detail — added full step-by-step sequence; no pricing context — added realistic scope expectations
--->
 
 ## Brick Repair in Calumet City: What the Housing Stock Actually Demands
 

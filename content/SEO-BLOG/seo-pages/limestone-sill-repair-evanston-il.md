@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Evanston, IL | Emerald"
 metaDescription: "Limestone and sill repair in Evanston, IL — delaminating sills, greystone facades and dutchman stone repair. Insured. Free estimates today: (708) 288-1696."
 excerpt: "Two limestone sills, same building, same age, same weather — one is shedding in sheets and the other is fine. The difference is usually which way the stone was laid, and it was decided a century ago at the quarry."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Evanston, IL — restoring delaminating and cracked stone sills, lintels, water tables and greystone facades using dutchman inserts, matched patching and correct lime-based mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Evanston, IL — restoring delaminating and cracked stone sills, lintels, water tables and greystone facades using dutchman inserts, matched patching and correct lime-based mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored limestone window sill and stone facade on a historic building in Evanston Illinois"
 faqs:
   - q: "Why is one of my limestone sills flaking while the identical one next to it is fine?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone & Sill Repair in Evanston, IL
 
-Limestone and sill repair in Evanston, IL means restoring the stone sills, lintels, water tables, steps and greystone facades on the city's older housing stock — with matched stone, correct lime-based mortar, and dutchman inserts rather than replacement wherever the original can be saved. Emerald Masonry LLC brings 40+ years of Chicagoland experience to this work. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
+Limestone and sill repair in Evanston, IL means restoring the stone sills, lintels, water tables, steps and greystone facades on the city's older housing stock — with matched stone, correct lime-based mortar, and dutchman inserts rather than replacement wherever the original can be saved. Emerald Masonry LLC brings career masons with decades of Chicagoland experience to this work. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
 
 Here is a question we get on nearly every Evanston stone job, and the answer surprises people.
 
@@ -133,7 +133,7 @@ Exposure is demanding. Lake Michigan is a few blocks away for much of the city, 
 
 We serve 60201, 60202 and 60203 and the surrounding north-suburban communities. Evanston owners frequently pair sill work with [historic masonry restoration](/services/historic-masonry-restoration) or [tuckpointing](/services/tuckpointing), since stone repair and the joints around it are the same water problem.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Request a Free Limestone & Sill Assessment in Evanston
 

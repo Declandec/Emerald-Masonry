@@ -18,7 +18,7 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Mokena, IL | Emerald Masonry LLC"
 metaDescription: "Commercial masonry restoration in Mokena, IL. Brick facade repair, structural restoration & historic masonry renewal. Licensed contractor, free estimates."
 excerpt: "Masonry restoration goes beyond basic repointing — it addresses structural deterioration, failed lintels, water-damaged brick, and facade systems that have reached the end of their maintenance cycle. Emerald Masonry LLC provides full-scope restoration for commercial and institutional properties in Mokena and Will County."
-image: "/images/restoration-facade.jpg"
+image: "/images/restoration-facade.webp"
 imageAlt: "Masonry restoration work on commercial brick facade in Mokena, IL"
 competitorInformed: false
 ---

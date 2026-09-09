@@ -19,7 +19,7 @@ metaTitle: "Mason vs Handyman for Masonry | Emerald Masonry LLC"
 metaDescription: "Professional mason vs handyman for masonry repair? For anything structural, chimney, tuckpointing, or lasting, hire a mason. Emerald Masonry LLC — call (708) 288-1696."
 excerpt: "A clear verdict on hiring a professional mason versus a handyman for brick, chimney, and tuckpointing work — with a side-by-side comparison, real risks, and when each choice is right."
 aiSummary: "Verdict: for anything structural, mortar-matching, chimney-related, or meant to last, hire a professional mason — not a handyman. A handyman is only acceptable for trivial cosmetic touch-ups. In Chicagoland, Emerald Masonry LLC delivers licensed, insured, code-correct masonry repair. Call (708) 288-1696 for a free on-site estimate."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Freshly repaired and repointed brick wall by a professional mason in Chicagoland"
 faqs:
   - q: "Can a handyman do tuckpointing?"
@@ -92,9 +92,9 @@ Masonry punishes the wrong approach in specific, expensive ways:
 
 ## Why Emerald is the confident default in Chicagoland
 
-When the work matters, the answer is a professional mason — and in the Chicago area, Emerald Masonry LLC is that answer. Family-owned with 40+ years of Chicagoland experience, licensed and insured, Emerald matches mortar to your brick, prepares joints to the correct depth, works safely at height, and stands behind the result. You get code-correct, lasting masonry — not a cosmetic patch that fails by next winter.
+When the work matters, the answer is a professional mason — and in the Chicago area, Emerald Masonry LLC is that answer. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed and insured, Emerald matches mortar to your brick, prepares joints to the correct depth, works safely at height, and stands behind the result. You get code-correct, lasting masonry — not a cosmetic patch that fails by next winter.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a professional opinion before you commit
 

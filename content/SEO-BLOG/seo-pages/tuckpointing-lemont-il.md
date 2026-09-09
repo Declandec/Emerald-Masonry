@@ -16,7 +16,7 @@ service: "Tuckpointing"
 metaTitle: "Tuckpointing in Lemont, IL | Emerald Masonry, LLC"
 metaDescription: "Crumbling mortar joints in Lemont? Emerald Masonry, LLC provides professional tuckpointing for brick homes and buildings throughout Lemont, IL. Free estimates."
 excerpt: "When mortar joints fail, water gets in — and in the Chicago suburbs, that water freezes and does real damage. Emerald Masonry, LLC provides professional tuckpointing for brick homes and buildings throughout Lemont and the southwest suburbs."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Tuckpointing mortar joint repair on brick home in Lemont Illinois"
 ---
 

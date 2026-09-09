@@ -5,7 +5,7 @@ excerpt: "Failing brick and masonry quietly chip away at your home's resale valu
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Restored brick masonry and a repaired chimney on a Chicagoland home, protecting resale value"
 aiSummary: "Failing masonry — open mortar joints, spalling brick, a leaning chimney — lowers appraisals, scares off buyers, and shows up in home inspections, becoming price-reduction leverage. Sound tuckpointing and brick repair protect and often improve resale value. Emerald Masonry LLC restores Chicagoland brick — free estimates (708) 288-1696."
 intent: "commercial"
@@ -58,7 +58,7 @@ Here's the chain reaction. The inspection report lists your open joints, spallin
 
 The frustrating part: you usually pay either way. Either you fix it on your own terms, at a fair price, before listing — or you "pay" through a discount, a credit, or a deal that falls through and forces a relist. Controlling the repair yourself almost always costs less and protects your timeline.
 
-If you're already seeing crumbling joints or a chimney you're not sure about, the simplest next step is a free on-site assessment so you know exactly what you're dealing with before a buyer's inspector tells you. Emerald Masonry LLC has restored Chicagoland brick for over 40 years and can tell you straight whether it's a quick repoint or something more.
+If you're already seeing crumbling joints or a chimney you're not sure about, the simplest next step is a free on-site assessment so you know exactly what you're dealing with before a buyer's inspector tells you. Emerald Masonry LLC has restored Chicagoland brick for decades and can tell you straight whether it's a quick repoint or something more.
 
 ## The repairs that give the best return before listing
 
@@ -79,4 +79,4 @@ Before a buyer reads a single inspection line, they form an opinion from the cur
 
 Schedule masonry work early — ideally a few weeks before you list. That gives the mortar time to cure properly, lets you capture the improved curb appeal in your listing photos, and builds in a buffer against weather. In Chicagoland, tuckpointing and brick repair go best in mild, dry stretches; booking ahead means you're not scrambling when a cold snap or rainy week hits. Realtors who flag masonry early for their sellers consistently see smoother inspections and fewer last-minute credit demands.
 
-If you're getting ready to sell — or you're a realtor whose listing has brick that needs attention — get ahead of the inspection. Emerald Masonry LLC is a family-owned, non-union masonry company serving Chicagoland from Palos Heights, licensed, bonded, and insured, with 40+ years restoring brick across the suburbs. We'll give you a free, honest on-site estimate so you know exactly what protects your sale price — and what isn't worth doing. Call **(708) 288-1696** or [reach out through our contact form](/#contact) to get on the schedule before you list.
+If you're getting ready to sell — or you're a realtor whose listing has brick that needs attention — get ahead of the inspection. Emerald Masonry LLC is a family-owned, non-union masonry company serving Chicagoland from Palos Heights, licensed, bonded, and insured, with career masons restoring brick across the suburbs. We'll give you a free, honest on-site estimate so you know exactly what protects your sale price — and what isn't worth doing. Call **(708) 288-1696** or [reach out through our contact form](/#contact) to get on the schedule before you list.

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair Carpentersville, IL | Emerald"
 metaDescription: "Foundation masonry repair in Carpentersville, IL — block and brick repointing, crack repair, parging and rebuilding. Insured. Free estimates: (708) 288-1696."
 excerpt: "Carpentersville sits on the Fox River bluffs, and slope changes what a foundation deals with. Water arrives laterally from uphill rather than just falling on the yard — which is why hillside-lot foundations here fail on the uphill wall first."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Carpentersville, IL — repointing and rebuilding concrete block, brick and stone foundation walls, repairing step and horizontal cracks, and parging deteriorated masonry at grade. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Carpentersville, IL — repointing and rebuilding concrete block, brick and stone foundation walls, repairing step and horizontal cracks, and parging deteriorated masonry at grade. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired block foundation wall with fresh parging on a home in Carpentersville Illinois"
 faqs:
   - q: "How much does foundation masonry repair cost in Carpentersville, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Foundation Masonry Repair in Carpentersville, IL
 
-Foundation masonry repair in Carpentersville, IL means restoring the block, brick or stone your house stands on — repointing failed joints, repairing step and horizontal cracks, rebuilding deteriorated sections, and parging the wall so water stops driving the damage. Emerald Masonry LLC does this work across Kane County and greater Chicagoland. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Foundation masonry repair in Carpentersville, IL means restoring the block, brick or stone your house stands on — repointing failed joints, repairing step and horizontal cracks, rebuilding deteriorated sections, and parging the wall so water stops driving the damage. Emerald Masonry LLC does this work across Kane County and greater Chicagoland. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Carpentersville has a foundation variable most Chicagoland suburbs do not: **slope**.
 
@@ -137,7 +137,7 @@ Where a wall shows genuine structural movement rather than masonry deterioration
 
 We work throughout 60110 — the hillside neighborhoods above the river, the subdivisions east and west of Route 25 and Route 31, the older homes near the original village center, the newer construction toward Randall Road, and the churches and commercial properties along the main corridors. We also serve neighboring [Elgin](/locations/chimney-repair-elgin-il), [Bartlett](/locations/chimney-repair-bartlett-il), [Hanover Park](/locations/brick-repair-hanover-park-il) and [Streamwood](/locations/lintel-replacement-streamwood-il). Carpentersville owners frequently pair foundation work with [brick repair](/locations/brick-repair-carpentersville-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Happens If You Wait
 

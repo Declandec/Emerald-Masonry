@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Historic Masonry Restoration Lemont, IL | Emerald Masonry"
 metaDescription: "Historic masonry restoration in Lemont, IL — Athens Marble limestone and lime-mortar repointing on canal-era buildings. Free estimates: (708) 288-1696."
 excerpt: "The stone Lemont is built from has a name — Athens Marble, the dolomitic limestone quarried here for the I&M Canal and shipped out to build half of old Chicago. Emerald Masonry LLC restores it with lime-based mortar matched to how it was laid, not the hard modern mix that destroys it."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Lemont, IL — lime-mortar repointing, dolomitic limestone repair and stone facade restoration on Athens Marble and canal-era buildings, plus historic brick. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Lemont, IL — lime-mortar repointing, dolomitic limestone repair and stone facade restoration on Athens Marble and canal-era buildings, plus historic brick. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored Athens Marble limestone facade on a canal-era historic building in Lemont Illinois"
 faqs:
   - q: "What is Athens Marble?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "historic masonry restoration Lemont IL" / "Lemont limestone building repair" — owner of an older stone or brick building in the canal district looking for restoration-capable masonry.
-Competitor pattern observed: the ranking set mixes stone suppliers, directory listings (Landmarks Illinois contractor archive, Yelp) and regional restoration contractors running service-area template pages. The strongest competitor page is genuinely better than most — it has a three-question FAQ and, unusually, a real mortar-matching paragraph mentioning composition, color, texture, hardness and breathability. But the same boilerplate is templated across 18+ communities, there is NO step-by-step process, NO cost guidance beyond "repair is more cost-effective than replacement", NO lime-mortar specifics, no schema markup, no case studies — and critically, it gestures at "historic limestone structures that echo our town's quarrying past" WITHOUT EVER NAMING THE STONE.
-Why this page is better: it names Athens Marble, explains what it actually is (dolomitic limestone, not marble), ties it to the I&M Canal and to the landmark Chicago buildings it produced, and — most usefully — explains the specific failure mode of layered dolomitic limestone (delamination along bedding planes) and why lime mortar rather than Portland is not a stylistic preference but the difference between preserving and destroying the stone. It also states plainly that matched replacement material is scarce because the quarries are closed, which reframes repair-before-replacement as a materials reality rather than a sales position.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; the Athens Marble identity and history the competitor omits; dolomitic limestone failure modes; lime-vs-Portland mortar explanation with the governing softer-than-the-stone rule; dutchman and matched-patch repair hierarchy; undoing prior hard-mortar repairs; qualitative cost drivers; historic review context; and internal links to related services. Deliberately distinct in angle from the Lockport limestone-sill page (which covers sills and lintels as a service) — this one is whole-building stone restoration.
--->
 
 ## Historic Masonry Restoration in Lemont, IL
 
-Historic masonry restoration in Lemont, IL means repairing canal-era limestone and brick the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand, and matched stone where units must be repaired. Emerald Masonry LLC restores Lemont's historic buildings with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
+Historic masonry restoration in Lemont, IL means repairing canal-era limestone and brick the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand, and matched stone where units must be repaired. Emerald Masonry LLC restores Lemont's historic buildings led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
 
 Most masonry pages about Lemont mention the village's "quarrying past" and move on. The stone has a name, and knowing what it is changes how you repair it.
 
@@ -145,7 +139,7 @@ Lemont sits in the Des Plaines valley where Cook, DuPage and Will counties meet,
 
 We work throughout 60439 — the historic downtown along Stephen and Main Street, the buildings on the bluff overlooking the canal corridor, the 19th-century churches and institutional properties, the older residential streets, and the newer subdivisions on the outskirts. We also serve neighboring [Lockport](/locations/limestone-sill-repair-lockport-il), [Homer Glen](/locations/tuckpointing-homer-glen-il), [Palos Park](/locations/tuckpointing-palos-park-il) and [Woodridge](/locations/commercial-masonry-woodridge-il). Lemont owners frequently pair restoration with [tuckpointing](/locations/tuckpointing-lemont-il) or [brick repair](/locations/brick-repair-lemont-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferring Costs More Here Than Anywhere
 

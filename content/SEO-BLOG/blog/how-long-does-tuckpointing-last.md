@@ -5,7 +5,7 @@ excerpt: "A quality tuckpointing job on Chicagoland masonry typically lasts 20�
 service: "Tuckpointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Freshly tuckpointed brick wall with crisp, color-matched mortar joints on a Chicagoland home"
 aiSummary: "A quality tuckpointing job on Chicagoland brick typically lasts 20–30 years — and well-matched historic lime repointing can last even longer — while a poorly done job can begin failing in just a few years. Lifespan is driven mostly by mortar matching and workmanship, not luck. Emerald Masonry LLC repoints brick across Chicago and the suburbs to last. Free estimates: (708) 288-1696."
 intent: "commercial"
@@ -178,4 +178,4 @@ Tuckpointing lasts longest as part of a simple maintenance rhythm: keep water of
 
 ## The bottom line
 
-**How long does tuckpointing last? Typically 20–30 years when it's done right on well-maintained Chicagoland masonry — and only a few years when it isn't.** The lifespan is set less by the weather than by the mortar match and the quality of the work, then protected or squandered by how you manage water afterward. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, repointing, brick repair and replacement, chimney repair, and masonry restoration — matching mortar to your brick so the repair protects the wall and lasts. For an honest assessment of your joints and a free on-site estimate, call **(708) 288-1696** or reach us through our [contact page](/#contact).
+**How long does tuckpointing last? Typically 20–30 years when it's done right on well-maintained Chicagoland masonry — and only a few years when it isn't.** The lifespan is set less by the weather than by the mortar match and the quality of the work, then protected or squandered by how you manage water afterward. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, repointing, brick repair and replacement, chimney repair, and masonry restoration — matching mortar to your brick so the repair protects the wall and lasts. For an honest assessment of your joints and a free on-site estimate, call **(708) 288-1696** or reach us through our [contact page](/#contact).

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Lockport, IL | Emerald Masonry"
 metaDescription: "Limestone and sill repair in Lockport, IL — restoring cracked stone sills, lintels and canal-era masonry. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Lockport was built out of the stone dug to make the I&M Canal — and a century and a half later that limestone is still standing while the mortar and details around it have failed. Emerald Masonry LLC repairs the stone rather than tearing it out."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Lockport, IL — restoring cracked, spalled and eroded stone sills, lintels, water tables and canal-era masonry on homes and historic buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Lockport, IL — restoring cracked, spalled and eroded stone sills, lintels, water tables and canal-era masonry on homes and historic buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored limestone sill and canal-era stone wall on a historic building in Lockport Illinois"
 faqs:
   - q: "Can a cracked limestone sill be repaired or does it need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone and Sill Repair in Lockport, IL
 
-Limestone and sill repair in Lockport, IL is the restoration of the stone elements on a building — window and door sills, lintels, water tables, steps, coping and trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs those units rather than defaulting to tearing them out, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Lockport, IL is the restoration of the stone elements on a building — window and door sills, lintels, water tables, steps, coping and trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs those units rather than defaulting to tearing them out, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Lockport has a stone story unlike anywhere else in the region. The city grew up around the **Illinois and Michigan Canal** in the 1830s and 40s, and the dolomitic limestone excavated to cut the canal went straight into the buildings beside it. Walk the historic district along State Street, past the old canal structures and the 1830s–1800s stone buildings, and you are looking at a town built literally out of the ditch it was built for.
 
@@ -121,7 +121,7 @@ Lockport sits along the Des Plaines River and canal corridor in a stretch of Wil
 
 We work throughout 60441 — the historic district along State Street and the canal, the older residential streets on the bluff, the stone and brick commercial buildings downtown, the churches and institutional properties, and the newer subdivisions on the outskirts. We also serve neighboring [Joliet](/locations/foundation-masonry-repair-joliet-il), [Homer Glen](/locations/foundation-masonry-repair-homer-glen-il), [Crest Hill](/locations/cmu-block-repair-crest-hill-il) and [Romeoville](/locations/cmu-block-repair-romeoville-il). Lockport owners frequently pair stone work with [foundation masonry repair](/locations/foundation-masonry-repair-lockport-il), [waterproofing](/locations/efflorescence-waterproofing-lockport-il) or [commercial masonry](/locations/commercial-masonry-lockport-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Waiting Costs More on Stone
 

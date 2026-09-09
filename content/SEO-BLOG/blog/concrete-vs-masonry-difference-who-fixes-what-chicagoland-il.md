@@ -5,7 +5,7 @@ excerpt: "Concrete is a poured mix; masonry is individual brick, block, and ston
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Restored brick masonry wall beside a poured concrete surface on a Chicagoland property"
 aiSummary: "Concrete is a poured mix of cement, sand, aggregate and water used for flatwork, footings and slabs; masonry is individual units — brick, concrete block (CMU) and stone — set in mortar to build walls, chimneys and facades. Masonry contractors like Emerald Masonry LLC repair brick, block, stone, chimneys and tuckpointing across Chicagoland — free estimates (708) 288-1696."
 intent: "informational"
@@ -74,7 +74,7 @@ We're a masonry contractor, so here's the honest split.
 
 **Call a flatwork contractor (concrete):** cracked or heaved driveways, spalling sidewalks, sunken patio slabs, and garage floor repair. Those are poured surfaces, and a good concrete crew is the right call.
 
-We'd rather tell you straight than sell you a job that isn't ours — after 40+ years across Chicagoland, our reputation is worth more than one mismatched project.
+We'd rather tell you straight than sell you a job that isn't ours — after career masons across Chicagoland, our reputation is worth more than one mismatched project.
 
 ## How to tell who to call, fast
 
@@ -85,4 +85,4 @@ Ask one question: **is the damage in something poured as one piece, or in indivi
 
 And when it's a mix — brick sitting on a slab, a lintel over a doorway, a block foundation — a masonry contractor is usually the safer first call, because we can see how the units and the poured elements interact and tell you exactly which trade needs to touch what.
 
-If you've got failing brick, open mortar joints, a chimney dropping debris, or a block wall that's starting to bow anywhere in Chicagoland, **Emerald Masonry LLC** is family-owned, non-union, licensed, bonded and insured, with 40+ years of local experience. We offer **free on-site estimates** — call **(708) 288-1696** or [reach out through our contact page](/#contact) and we'll take a look, tell you honestly whether it's a masonry or concrete job, and give you a clear plan either way.
+If you've got failing brick, open mortar joints, a chimney dropping debris, or a block wall that's starting to bow anywhere in Chicagoland, **Emerald Masonry LLC** is family-owned, non-union, licensed, bonded and insured, led by career masons with decades of hands-on local experience. We offer **free on-site estimates** — call **(708) 288-1696** or [reach out through our contact page](/#contact) and we'll take a look, tell you honestly whether it's a masonry or concrete job, and give you a clear plan either way.

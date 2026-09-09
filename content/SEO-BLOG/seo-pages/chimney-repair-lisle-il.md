@@ -18,7 +18,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Lisle, IL | Emerald Masonry LLC"
 metaDescription: "Expert chimney repair, crown repair, and repointing in Lisle, IL. Emerald Masonry LLC serves DuPage County homeowners and commercial properties. Free estimates."
 excerpt: "Chimneys fail faster than any other masonry element on a building — all four sides exposed, no overhang protection, freeze-thaw cycling from above and below. In Lisle's climate, most chimneys need meaningful repair within 15-25 years of construction. Emerald Masonry LLC provides chimney inspection, repointing, crown repair, and full rebuilds for Lisle and surrounding DuPage County communities."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Brick chimney repair and tuckpointing completed in Lisle, IL"
 competitorInformed: false
 ---
@@ -104,7 +104,7 @@ Most routine masonry repair — tuckpointing, crown repair, brick replacement �
 
 ## Service Area
 
-Emerald Masonry LLC serves Lisle and the surrounding DuPage County area from our base in Palos Heights, IL. We work regularly in Naperville, Downers Grove, Westmont, Woodridge, Darien, Wheaton, Glen Ellyn, and throughout the western and southwestern suburbs. With 40+ years of Chicagoland masonry experience, we've repaired chimneys across every era of construction present in this region.
+Emerald Masonry LLC serves Lisle and the surrounding DuPage County area from our base in Palos Heights, IL. We work regularly in Naperville, Downers Grove, Westmont, Woodridge, Darien, Wheaton, Glen Ellyn, and throughout the western and southwestern suburbs. With career masons of Chicagoland masonry experience, we've repaired chimneys across every era of construction present in this region.
 
 Call **(708) 288-1696** or [contact us online](/#contact) for a free on-site chimney inspection and repair estimate. We get on the roof, document what we find, and give you a clear picture of what needs to be done.
 

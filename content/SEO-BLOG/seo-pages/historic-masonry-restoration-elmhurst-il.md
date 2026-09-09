@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Historic Masonry Restoration Elmhurst, IL | Emerald Masonry"
 metaDescription: "Historic masonry restoration in Elmhurst, IL — lime mortar repointing, brick and stone repair on century homes. Licensed. Free estimates: (708) 288-1696."
 excerpt: "Elmhurst's older neighborhoods hold Victorians, Prairie-influenced homes and 1920s brick that were never built for modern mortar. Emerald Masonry LLC restores them with soft lime-based mixes matched to the original wall — and undoes the hard-mortar repairs that are spalling the brick."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Elmhurst, IL — lime-mortar repointing, brick and stone repair, chimney restoration and facade work on century-old homes and buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Elmhurst, IL — lime-mortar repointing, brick and stone repair, chimney restoration and facade work on century-old homes and buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored historic brick and stone facade on a century-old home in Elmhurst Illinois"
 faqs:
   - q: "What makes historic masonry restoration different from regular tuckpointing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Historic Masonry Restoration in Elmhurst, IL
 
-Historic masonry restoration in Elmhurst, IL means repairing century-old brick and stone the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand rather than power-ground, and salvaged units where masonry has to be replaced. Emerald Masonry LLC restores Elmhurst's older homes, churches and downtown buildings with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
+Historic masonry restoration in Elmhurst, IL means repairing century-old brick and stone the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand rather than power-ground, and salvaged units where masonry has to be replaced. Emerald Masonry LLC restores Elmhurst's older homes, churches and downtown buildings led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
 
 Elmhurst has a deeper stock of genuinely old buildings than people expect from a DuPage suburb. The city dates to the 1840s and grew along the rail line through the late 19th and early 20th centuries, leaving neighborhoods of **Victorians, Queen Annes, Foursquares, Tudors, Colonial Revivals and Prairie-influenced homes** alongside the 1920s brick housing that fills much of the older grid, plus the churches, school buildings and downtown commercial masonry around York and Schiller.
 
@@ -111,7 +111,7 @@ DuPage County has no lake moderation, so freeze-thaw cycling here is aggressive 
 
 We work throughout 60126 — the older residential streets around Wilder Park and the Elmhurst Art Museum, the century homes near the Metra line and York Street, the neighborhoods around Elmhurst University, the churches and school buildings, and the brick commercial stock downtown. We also serve neighboring [Villa Park](/locations/chimney-repair-villa-park-il), [Lombard](/locations/chimney-repair-lombard-il), [Oak Brook](/locations/caulking-oak-brook-il) and [Hinsdale](/locations/historic-masonry-restoration-hinsdale-il). Elmhurst owners often pair restoration with [tuckpointing](/locations/tuckpointing-elmhurst-il) or [chimney repair](/locations/chimney-repair-elmhurst-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferring Costs More on an Old Building
 

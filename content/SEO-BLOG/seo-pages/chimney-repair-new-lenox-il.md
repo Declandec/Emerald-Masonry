@@ -18,16 +18,11 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in New Lenox, IL | Emerald Masonry LLC"
 metaDescription: "Expert chimney repair in New Lenox, IL. Structural masonry repair, tuckpointing, crown rebuilds & flashing. Licensed contractor, free estimates."
 excerpt: "Chimney problems in New Lenox range from minor mortar joint failure to full structural rebuilds — and the difference matters both for safety and cost. Emerald Masonry LLC handles the masonry side of chimney repair for residential and commercial properties throughout New Lenox and Will County."
-image: "/images/work-chimney-rebuild.jpg"
+image: "/images/work-chimney-rebuild.webp"
 imageAlt: "Chimney masonry repair and tuckpointing on brick chimney in New Lenox, IL"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: chimney repair New Lenox IL — residential chimney repair and inspection
-Why this page is better: Focuses on masonry structural repair rather than sweep/inspection services, includes commercial chimney scope, provides more specific pricing context for repair work (not just inspections), and gives property managers and homeowners a clearer picture of what structural chimney deterioration looks like and what fixing it actually involves.
-Gaps filled: No commercial chimney scope, vague repair pricing, no project timeline estimates, no explanation of mortar type compatibility, no distinction between masonry contractor work vs. chimney sweep work
--->
 
 A chimney sweep company and a masonry contractor are not the same thing. Sweeps handle cleaning, inspections, and liner work. Masonry contractors handle the brick and mortar — the structural shell of the chimney that keeps everything together and weather-tight. In New Lenox, where Will County's climate puts chimneys through 30–40 freeze-thaw cycles every winter, the masonry side of chimney maintenance is what determines whether a chimney lasts or fails.
 
@@ -85,7 +80,7 @@ A tuckpointing job on a standard residential chimney takes 1–2 days. Crown rep
 
 ## Serving New Lenox and Will County
 
-Emerald Masonry LLC serves New Lenox, Frankfort, Mokena, Joliet, Lockport, Plainfield, Manhattan, Orland Park, and surrounding communities. We've been doing chimney and masonry work across the southwest suburbs for over 40 years.
+Emerald Masonry LLC serves New Lenox, Frankfort, Mokena, Joliet, Lockport, Plainfield, Manhattan, Orland Park, and surrounding communities. We've been doing chimney and masonry work across the southwest suburbs for decades.
 
 Call (708) 288-1696 or [request a free chimney assessment](/#contact).
 

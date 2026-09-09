@@ -5,7 +5,7 @@ excerpt: "There's a vertical crack running floor to roof exactly where the 1978 
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Vertical crack at the junction where a brick addition meets original masonry on a Chicagoland home"
 keywords:
   - crack where addition meets house
@@ -38,7 +38,7 @@ keywords:
   - water intrusion addition joint
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "A vertical crack where an addition meets the original house is usually not a failed repair — it is a cold joint between two structures on separate foundations that settle and move at different rates. Repointing it with rigid mortar sends it straight back; the correct treatment is generally a properly detailed sealant joint with backer rod, after ruling out active structural movement. Emerald Masonry LLC assesses these across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A vertical crack where an addition meets the original house is usually not a failed repair — it is a cold joint between two structures on separate foundations that settle and move at different rates. Repointing it with rigid mortar sends it straight back; the correct treatment is generally a properly detailed sealant joint with backer rod, after ruling out active structural movement. Emerald Masonry LLC assesses these across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why does the crack always appear where the addition meets the house?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Why That Crack Is Exactly Where the Addition Starts
 
-**Because it is a cold joint — the boundary between two structures built at different times, on separate foundations, settling and moving at different rates.** The wall relieves that difference at the weakest available line, which is the junction. Repointing it with rigid mortar sends it straight back within a season or two; the correct treatment is usually a **properly detailed flexible sealant joint**, after ruling out active structural movement. Emerald Masonry LLC assesses these across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Because it is a cold joint — the boundary between two structures built at different times, on separate foundations, settling and moving at different rates.** The wall relieves that difference at the weakest available line, which is the junction. Repointing it with rigid mortar sends it straight back within a season or two; the correct treatment is usually a **properly detailed flexible sealant joint**, after ruling out active structural movement. Emerald Masonry LLC assesses these across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Nearly every homeowner who calls about this assumes somebody did the work badly. Usually nobody did. **Two buildings are behaving like two buildings.**
 
@@ -212,6 +212,6 @@ The crack at your addition is not evidence that someone botched the job. It is t
 
 **Stop trying to close it and start trying to detail it.** Rule out structural movement, then convert that crack into a proper sealant joint with backer rod — and accept a clean deliberate line as the correct result rather than an invisible seam that was never available.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We will tell you when a crack needs an engineer rather than a mason.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We will tell you when a crack needs an engineer rather than a mason.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

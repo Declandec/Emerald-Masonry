@@ -21,8 +21,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Elmwood Park, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Elmwood Park, IL — face brick and common brick repointed with the right mortar for each. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Most Elmwood Park houses are two different buildings: hard face brick on the front, soft Chicago common brick on the sides and rear. They fail on different schedules and they need different mortar — and pricing the job by the linear foot hides that completely."
-aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Elmwood Park, IL — grinding out failed mortar joints and repointing face brick and Chicago common brick with separately matched mortars, since the two need different hardness. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Elmwood Park, IL — grinding out failed mortar joints and repointing face brick and Chicago common brick with separately matched mortars, since the two need different hardness. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly repointed mortar joints on a 1920s brick bungalow in Elmwood Park, Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Elmwood Park, IL?"
@@ -42,16 +42,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Elmwood Park IL" / "brick repointing Elmwood Park" — a village homeowner or small multi-unit owner with eroding joints deciding who to call.
-Competitor pattern observed: this is one of the stronger SERPs analyzed. The leading result is genuinely substantive — a nine-question FAQ, a real ASTM C270 mortar comparison table (Type N/S/M with PSI values and misuse risks), a six-phase process, published price bands ($8–$25 per linear foot, $1,500–$4,500 per facade), and hard trust signals (39+ years, an Illinois license number, $2M liability, family-owned since 1987). Others range from a mortar-ratio-heavy but fully templated exact-match page (Edmar, since 1985, BBB + Google/Yelp badges, no cost guidance) to broad metro homepages. What NONE of them have: a single line of Elmwood Park specificity. The strongest page's own "neighborhood expertise" section lists Evanston, Lake Forest, Winnetka, Highland Park, Glenview and Northbrook — an entirely different housing market — and dispatches crews from Libertyville, roughly 35 miles north. Not one page distinguishes between brick types on the same building.
-Why this page is better: it attacks the strongest competitor at its strongest point. Publishing a per-linear-foot price band looks like transparency, but it is the wrong unit for Elmwood Park, because the typical village house is effectively two buildings — hard, dense face brick on the street elevation and soft Chicago common brick on the sides and rear. Those two materials fail on different schedules and require different mortar hardness, so a single per-foot number and a single mortar mix priced across the whole house is precisely how repointing ends up spalling the rear wall. We publish the governing rule (mortar must be softer than the brick it holds), apply it per elevation, and explain why the back of the house always looks worse.
-Gaps filled: answer-first Quick Answer; seven AI-phrased FAQs with FAQPage schema; the face-brick-vs-common-brick-on-one-building distinction absent from the entire SERP; per-elevation estimating instead of a misleading per-foot rate; the screwdriver test as a homeowner self-check; real Elmwood Park geography (the Conti Parkway circle, Grand and Harlem corridors, the Mont Clare and Galewood city line, 1920s–50s build-out, narrow lots and gangways); multi-unit and courtyard-building coordination; and full internal linking. Deliberately distinct from the Berwyn, Cicero and Oak Park tuckpointing pages, which lead on bungalow-belt soft-brick matching, density/access and historic-district work respectively.
--->
 
 ## Tuckpointing in Elmwood Park, IL
 
-Tuckpointing in Elmwood Park, IL means grinding out deteriorated mortar joints and repacking them with fresh mortar matched to the brick — and on most village houses, that means **two different mortars on one building.** Emerald Masonry LLC does this work throughout west Cook County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Tuckpointing in Elmwood Park, IL means grinding out deteriorated mortar joints and repacking them with fresh mortar matched to the brick — and on most village houses, that means **two different mortars on one building.** Emerald Masonry LLC does this work throughout west Cook County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the thing almost nobody tells an Elmwood Park homeowner:
 
@@ -155,7 +149,7 @@ Open joints are not a cosmetic problem — they are an entry point. Water that g
 
 **Repointing is maintenance. Rebuilding is construction.** The gap between those two prices is where the money is, and it is closed by acting while the joints are still just joints. See [what happens if you wait too long to tuckpoint](/blog/what-happens-if-you-wait-too-long-to-tuckpoint).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Elmwood Park and Neighboring Communities
 

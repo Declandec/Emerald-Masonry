@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration Wheaton, IL | Emerald Masonry"
 metaDescription: "Commercial masonry restoration in Wheaton, IL — facade, parapet and tuckpointing work on occupied buildings. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Wheaton's commercial masonry runs from 1890s downtown storefronts to college and church buildings to modern office and medical construction — and each needs a different mortar, a different access plan and a different phasing approach. Emerald Masonry LLC restores all of it on occupied buildings."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Wheaton, IL — facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on occupied commercial, institutional and church buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Wheaton, IL — facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on occupied commercial, institutional and church buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Restored brick facade and parapet on a commercial building in downtown Wheaton Illinois"
 faqs:
   - q: "How much does commercial masonry restoration cost in Wheaton, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Commercial Masonry Restoration in Wheaton, IL
 
-Commercial masonry restoration in Wheaton, IL covers facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on occupied commercial, institutional and church buildings. Emerald Masonry LLC works with owners, property managers, associations and church boards across DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
+Commercial masonry restoration in Wheaton, IL covers facade repair, parapet and coping work, tuckpointing, lintel replacement and stone restoration on occupied commercial, institutional and church buildings. Emerald Masonry LLC works with owners, property managers, associations and church boards across DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
 
 Wheaton has an unusually wide range of commercial masonry for a city its size, and the differences matter more than most owners expect.
 
@@ -129,7 +129,7 @@ DuPage has no lake moderation, so freeze-thaw cycling is aggressive — dozens o
 
 We work throughout 60187 and 60189 — the downtown commercial district, the college and county campuses, the churches and school buildings, medical and office properties along the main corridors, and condominium and association buildings citywide. We also serve neighboring [Glen Ellyn](/locations/tuckpointing-glen-ellyn-il), [Lombard](/locations/chimney-repair-lombard-il), [Naperville](/locations/parapet-wall-repair-naperville-il) and [Carol Stream](/locations/caulking-carol-stream-il). Wheaton owners frequently pair restoration with [brick replacement](/locations/brick-replacement-wheaton-il) or [chimney repair](/locations/chimney-repair-wheaton-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Budgeting: Treat the Envelope Like the Roof
 

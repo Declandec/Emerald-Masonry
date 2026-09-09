@@ -5,7 +5,7 @@ excerpt: "Freestanding masonry — porch piers, fence pillars, mailbox columns, 
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-mailbox.jpg"
+image: "/images/after-mailbox.webp"
 imageAlt: "Rebuilt brick pillar with a proper stone cap on a Chicagoland property"
 keywords:
   - brick pillar repair
@@ -39,7 +39,7 @@ keywords:
   - brick mason near me Chicago suburbs
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Brick pillars, porch columns, mailbox piers and HOA entrance monuments fail faster than house walls because they are exposed on every face, have no heated building behind them to dry out, and often sit on footings that do not reach below the frost line. A leaning or shifted pillar is a footing problem and must be rebuilt; a plumb pillar with eroded joints or spalled brick can usually be repaired. Emerald Masonry LLC repairs and rebuilds freestanding masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick pillars, porch columns, mailbox piers and HOA entrance monuments fail faster than house walls because they are exposed on every face, have no heated building behind them to dry out, and often sit on footings that do not reach below the frost line. A leaning or shifted pillar is a footing problem and must be rebuilt; a plumb pillar with eroded joints or spalled brick can usually be repaired. Emerald Masonry LLC repairs and rebuilds freestanding masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why does my brick mailbox pillar keep cracking?"
@@ -70,7 +70,7 @@ Nobody budgets for the mailbox pillar. Nobody inspects the porch piers. Nobody n
 
 Freestanding masonry — brick pillars, porch columns and piers, fence posts, gate piers, lamp post bases, planters, garden walls, entrance monuments and mailbox columns — is the most abused and least maintained masonry on any property in Chicagoland. It is also, structurally, the most vulnerable, and it fails for reasons that are genuinely different from the reasons a house wall fails.
 
-Emerald Masonry LLC repairs and rebuilds freestanding masonry across Chicago and the Chicagoland suburbs, for homeowners, HOAs, property managers, churches and commercial owners. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs and rebuilds freestanding masonry across Chicago and the Chicagoland suburbs, for homeowners, HOAs, property managers, churches and commercial owners. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## Why Freestanding Masonry Fails Faster
 
@@ -217,7 +217,7 @@ Everything above is amplified here.
 
 The **frost depth** in the Chicago area is deep enough that a decorative footing almost never reaches it, so seasonal heave is close to universal on freestanding masonry that was not built properly. The region's **heavy clay soils** hold water and heave more than sandy soils would. **Road salt volume** across Cook, DuPage, Will, Kane, Lake and McHenry County is high, and it goes directly onto and against pillars at grade. Plows throw snow, ice and salt slurry at mailbox pillars all winter by design.
 
-And the **housing stock** is full of this masonry: Chicago bungalows and two-flats with brick porch piers and low front walls, greystones with stone and brick entry piers, post-war ranches with brick planters, and four decades of suburban subdivisions with brick entrance monuments and mailbox columns that are now thirty to fifty years old and reaching the end of a service life nobody planned for.
+And the **housing stock** is full of this masonry: Chicago bungalows and two-flats with brick porch piers and low front walls, greystones with stone and brick entry piers, post-war ranches with brick planters, and decades of suburban subdivisions with brick entrance monuments and mailbox columns that are now thirty to fifty years old and reaching the end of a service life nobody planned for.
 
 ## For HOAs, Boards and Property Managers
 
@@ -248,4 +248,4 @@ Freestanding masonry fails early because it is exposed on every face, soaked at 
 
 That means the diagnosis is usually simple. **If it is plumb, it can probably be repaired. If it is moving, it has to be rebuilt, and the footing is why.** And whichever side of that line your pillar is on, put a real cap on it, because a pillar that sheds water from the top will outlast one that does not by decades.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

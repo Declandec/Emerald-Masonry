@@ -18,7 +18,7 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Oak Lawn, IL | Emerald Masonry LLC"
 metaDescription: "Expert brick repair and replacement in Oak Lawn, IL. Spalling brick, cracked walls, failed lintels — Emerald Masonry LLC fixes it right. Free estimates for commercial and residential properties."
 excerpt: "Spalling, cracked, and displaced bricks in Oak Lawn aren't cosmetic problems — they're active water entry points. Emerald Masonry LLC provides complete brick repair and replacement for commercial properties, multi-family buildings, and large residential across Cook County's southwest suburbs."
-image: "/images/work-brick-repair.jpg"
+image: "/images/work-brick-repair.webp"
 imageAlt: "Brick wall repair and replacement on commercial building in Oak Lawn Illinois"
 ---
 

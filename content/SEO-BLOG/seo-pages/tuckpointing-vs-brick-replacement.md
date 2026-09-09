@@ -21,7 +21,7 @@ metaTitle: "Tuckpointing vs Brick Replacement | Emerald Masonry LLC"
 metaDescription: "Tuckpointing fixes failed joints; replacement fixes failed brick. Learn which your wall needs, and when you need both. Free estimate: (708) 288-1696."
 excerpt: "If your brick is sound but the mortar is crumbling, you need tuckpointing. If the brick itself is cracked, spalling, or hollow, you need replacement. Here's how to tell which problem you actually have — and why many walls need both."
 aiSummary: "If the brick is solid but the mortar joints are crumbling, you need tuckpointing. If the brick is cracked, spalling, or hollow, it needs replacement. Many older Chicagoland walls need both. Emerald Masonry diagnoses it on-site for free — call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired brick wall after tuckpointing and selective brick replacement on a Chicagoland home"
 faqs:
   - q: "Is tuckpointing cheaper than replacing brick?"

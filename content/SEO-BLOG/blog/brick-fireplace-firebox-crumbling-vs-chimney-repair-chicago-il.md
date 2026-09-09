@@ -5,7 +5,7 @@ excerpt: "A crumbling firebox — the brick chamber where the fire actually burn
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick fireplace firebox and chimney masonry by Emerald Masonry in Chicagoland"
 aiSummary: "A crumbling firebox (the brick chamber inside the fireplace) usually means failing refractory mortar or heat-damaged firebrick, which is different from exterior chimney masonry repair. The two are often linked because water from a bad crown or cap runs down and damages the firebox. Emerald Masonry LLC repairs chimneys and masonry across Chicagoland — free estimates (708) 288-1696."
 intent: "informational"
@@ -84,6 +84,6 @@ To be clear about our own lane: **Emerald Masonry does the masonry side** — ch
 
 ## Get an honest look before winter
 
-A crumbling firebox rarely fixes itself, and in our freeze-thaw climate it tends to get worse fast once water is involved. The good news is that a straight answer is easy to get. **Emerald Masonry LLC** is a non-union, family-owned masonry company with 40+ years across Chicagoland, licensed, bonded, and insured. We'll come out, look at the firebox and the chimney top together, and tell you exactly what's going on and what it'll take to fix — no upselling into work you don't need.
+A crumbling firebox rarely fixes itself, and in our freeze-thaw climate it tends to get worse fast once water is involved. The good news is that a straight answer is easy to get. **Emerald Masonry LLC** is a non-union, family-owned masonry company with career masons across Chicagoland, licensed, bonded, and insured. We'll come out, look at the firebox and the chimney top together, and tell you exactly what's going on and what it'll take to fix — no upselling into work you don't need.
 
 Call us at **(708) 288-1696** for a **free on-site estimate**, or [reach out here](/#contact). We'll help you figure out whether it's the firebox, the chimney, or both — and get your fireplace safe to use again.

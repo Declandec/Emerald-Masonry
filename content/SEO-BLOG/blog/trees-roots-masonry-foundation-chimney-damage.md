@@ -4,7 +4,7 @@ date: "2026-06-21"
 excerpt: "The mature trees that make older Chicago suburbs beautiful are also a leading hidden cause of masonry damage. Here's how roots, soil moisture, and overhanging limbs work against your foundation, chimney, and brick walls — and what to do about it."
 service: "Foundation Masonry Repair"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - tree roots foundation damage
   - tree damage masonry chimney
@@ -80,7 +80,7 @@ The instinct when you hear "tree is damaging the foundation" is to remove the tr
 
 The mature trees that give older Chicagoland neighborhoods their character work against masonry in three ways: the soil-moisture swings their roots drive crack and shift foundations, their shade keeps walls and chimneys damp enough to spall, and their overhanging limbs and debris accelerate roofline and chimney decay. None of it means you have to lose the tree — but it does mean that a foundation crack or a spalling chimney near a big tree deserves a proper look at the cause, not just the symptom.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If a tree may be working on your foundation or chimney, [contact us](/#contact) for a free on-site assessment — or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If a tree may be working on your foundation or chimney, [contact us](/#contact) for a free on-site assessment — or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

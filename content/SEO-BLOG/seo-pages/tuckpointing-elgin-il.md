@@ -16,7 +16,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Elgin, IL | Emerald Masonry LLC"
 metaDescription: "Expert tuckpointing and brick repointing in Elgin, IL. Full-depth mortar joint repair matched to your wall — historic and modern brick. Free estimate: (708) 288-1696."
 excerpt: "Mortar is the part of a brick wall that wears out first, and on Elgin's older Fox River Valley buildings it has often been failing for decades. Here's what tuckpointing really is, why mortar matching matters most on historic brick, and how to spot joints that need attention."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Freshly repointed brick wall with matched mortar joints on a building in Elgin, IL"
 competitorInformed: false
 ---
@@ -73,7 +73,7 @@ Done this way, a tuckpointing job restores the weather seal and protects the bri
 - **They have experience with both old and modern masonry.** The two need different approaches.
 - **They are licensed, bonded, and insured.**
 
-Emerald Masonry has tuckpointed Chicagoland brick for more than 40 years. We are family-owned, non-union, and licensed, bonded, and insured, and we work with homeowners, property managers, HOAs, churches, and insurance companies. We provide free on-site estimates and carry a ,000 project minimum.
+Emerald Masonry has tuckpointed Chicagoland brick for more than decades. We are family-owned, non-union, and licensed, bonded, and insured, and we work with homeowners, property managers, HOAs, churches, and insurance companies. We provide free on-site estimates and carry a ,000 project minimum.
 
 ## Frequently Asked Questions
 

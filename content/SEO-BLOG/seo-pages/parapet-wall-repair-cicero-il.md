@@ -18,10 +18,10 @@ service: "Parapet Wall Repair"
 serviceSlug: "parapet-wall-repair"
 pageType: "location"
 metaTitle: "Parapet Wall Repair Cicero, IL | Emerald Masonry"
-metaDescription: "Parapet wall repair in Cicero, IL by Emerald Masonry LLC — coping, flashing, tuckpointing & rebuilds on flat-roof commercial buildings. 40+ yrs. (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and rebuilds failing parapet walls on Cicero's flat-roofed commercial and mixed-use buildings — resetting coping, correcting flashing, and stopping water at the top of the wall. Family-owned, 40+ years, free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides parapet wall repair in Cicero, IL — repointing, rebuilding, and stabilizing the brick parapets on flat-roofed commercial and mixed-use buildings, plus resetting coping and correcting through-wall flashing. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+metaDescription: "Parapet wall repair in Cicero, IL by Emerald Masonry LLC — coping, flashing, tuckpointing & rebuilds on flat-roof commercial buildings. career masons. (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs and rebuilds failing parapet walls on Cicero's flat-roofed commercial and mixed-use buildings — resetting coping, correcting flashing, and stopping water at the top of the wall. Family-owned, career masons, free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides parapet wall repair in Cicero, IL — repointing, rebuilding, and stabilizing the brick parapets on flat-roofed commercial and mixed-use buildings, plus resetting coping and correcting through-wall flashing. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Rebuilt brick parapet wall with reset coping on a flat-roof commercial building in Cicero, IL after Emerald Masonry repair"
 faqs:
   - q: "How much does parapet wall repair cost in Cicero, IL?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 # Parapet Wall Repair in Cicero, IL
 
-**Emerald Masonry LLC provides parapet wall repair in Cicero, IL — repointing, rebuilding, and stabilizing the brick parapets on flat-roofed commercial and mixed-use buildings, and correcting the coping and flashing that let water in.** If the parapet on your Cicero storefront or apartment building is leaning, shedding brick, or leaking into the top floor, call our family-owned, licensed and insured crew at **(708) 288-1696** for a free on-site estimate. With 40+ years of Chicagoland experience, we fix the parapet at its real source — the top of the wall — so the repair actually lasts.
+**Emerald Masonry LLC provides parapet wall repair in Cicero, IL — repointing, rebuilding, and stabilizing the brick parapets on flat-roofed commercial and mixed-use buildings, and correcting the coping and flashing that let water in.** If the parapet on your Cicero storefront or apartment building is leaning, shedding brick, or leaking into the top floor, call our family-owned, licensed and insured crew at **(708) 288-1696** for a free on-site estimate. With career masons on every crew, we fix the parapet at its real source — the top of the wall — so the repair actually lasts.
 
 Parapet wall repair in Cicero is some of the most important masonry work a commercial building owner can invest in, because the parapet is the part of the building that fails first and threatens the public below when it does.
 
@@ -91,7 +91,7 @@ A parapet repair that ignores the coping and flashing is not a repair; it's a de
 
 We repoint with mortar matched to the existing wall rather than defaulting to a hard, brittle mix that would spall the brick. We use appropriate through-wall flashing, reset stone or precast coping (or install metal coping where it's the right call), and use a durable, compatible sealant at the coping joints. On any exposed masonry, breathable materials matter — the wall has to be able to dry.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Cicero and the Chicagoland suburbs with 40+ years of experience in tuckpointing, brick repair and replacement, chimney and lintel repair, parapet wall repair, foundation and limestone work, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Cicero and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, brick repair and replacement, chimney and lintel repair, parapet wall repair, foundation and limestone work, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Drives the Cost of Parapet Wall Repair in Cicero
 
@@ -114,4 +114,4 @@ If you also have deteriorating mortar joints elsewhere on the building, our [tuc
 
 ## Get a Free Parapet Wall Inspection in Cicero, IL
 
-If your Cicero building's parapet is leaning, leaking, or dropping brick, don't wait for it to become a rebuild — or a liability claim. **Call Emerald Masonry LLC at (708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site parapet inspection and an honest, itemized estimate. Family-owned, licensed, bonded, and insured, with 40+ years keeping Chicagoland masonry standing.
+If your Cicero building's parapet is leaning, leaking, or dropping brick, don't wait for it to become a rebuild — or a liability claim. **Call Emerald Masonry LLC at (708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site parapet inspection and an honest, itemized estimate. Family-owned, licensed, bonded, and insured, with career masons keeping Chicagoland masonry standing.

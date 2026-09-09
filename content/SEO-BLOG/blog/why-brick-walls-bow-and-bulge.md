@@ -4,7 +4,7 @@ date: "2026-04-26"
 excerpt: "A visibly bowing or bulging brick wall is one of the more alarming things a building owner can discover, and for good reason — it indicates that the wall has separated from its structural backing and is no longer performing as a connected system. Understanding what causes this, how serious each cause is, and what the repair options look like helps property owners and managers respond appropriately rather than either panicking or ignoring a real structural concern."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - brick wall bowing bulging repair Chicago
   - bulging brick wall causes Illinois

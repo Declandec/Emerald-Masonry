@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair Homer Glen, IL | Emerald Masonry"
 metaDescription: "Foundation masonry repair in Homer Glen, IL — block and brick foundation repointing, crack repair, parging and rebuilding. Free estimates: (708) 288-1696."
 excerpt: "Homer Glen sits on heavy clay that swells and shrinks with the seasons, and that movement shows up in foundation walls as step cracks, horizontal cracking and bowing. Emerald Masonry LLC repairs block, brick and stone foundation masonry across Will County."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Homer Glen, IL — repointing and rebuilding concrete block, brick and stone foundation walls, repairing step and horizontal cracks, and parging deteriorated masonry at grade. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Homer Glen, IL — repointing and rebuilding concrete block, brick and stone foundation walls, repairing step and horizontal cracks, and parging deteriorated masonry at grade. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired block foundation wall with fresh parging on a home in Homer Glen Illinois"
 faqs:
   - q: "How much does foundation masonry repair cost in Homer Glen, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Foundation Masonry Repair in Homer Glen, IL
 
-Foundation masonry repair in Homer Glen, IL means restoring the block, brick or stone your house actually stands on — repointing failed joints, repairing step and horizontal cracks, rebuilding deteriorated sections, and parging and protecting the wall so water stops driving the damage. Emerald Masonry LLC does this work across Will County and greater Chicagoland. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Foundation masonry repair in Homer Glen, IL means restoring the block, brick or stone your house actually stands on — repointing failed joints, repairing step and horizontal cracks, rebuilding deteriorated sections, and parging and protecting the wall so water stops driving the damage. Emerald Masonry LLC does this work across Will County and greater Chicagoland. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homer Glen has a soil problem, and it is the defining factor in foundation masonry here. The village sits on the heavy glacial clay that runs across this part of Will County — soil that **swells substantially when it takes on water and shrinks as it dries**. That is not a defect; it is simply what this clay does, every year, in both directions.
 
@@ -122,7 +122,7 @@ We work throughout 60491 — the subdivisions off 143rd and 151st Street, the la
 
 We also serve neighboring [Lockport](/locations/foundation-masonry-repair-lockport-il), [Orland Park](/locations/chimney-repair-orland-park-il), [Mokena](/locations/masonry-restoration-mokena-il) and [New Lenox](/locations/chimney-repair-new-lenox-il). Homer Glen homeowners frequently pair foundation work with [chimney repair](/locations/chimney-repair-homer-glen-il) or [lintel repair](/locations/lintel-repair-homer-glen-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Happens If You Wait
 

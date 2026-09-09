@@ -19,9 +19,9 @@ serviceSlug: "residential-masonry-restoration"
 pageType: "location"
 metaTitle: "Residential Masonry Restoration | Beverly, Chicago IL"
 metaDescription: "Residential masonry restoration in Beverly, Chicago by Emerald Masonry LLC. Historic brick & greystone homes restored, mortar matched. Free est: (708) 288-1696."
-excerpt: "Emerald Masonry LLC restores Beverly and Morgan Park's historic brick and greystone homes — coordinated tuckpointing, brick and stone repair, chimney, lintel, and sill work, all with carefully matched mortar. Family-owned, 40+ years, free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Beverly, Chicago, restoring the neighborhood's historic brick and greystone homes with color- and strength-matched mortar, brick and stone repair, chimney, lintel, and sill work, and breathable sealing. Family-owned, licensed and insured, with 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential.jpg"
+excerpt: "Emerald Masonry LLC restores Beverly and Morgan Park's historic brick and greystone homes — coordinated tuckpointing, brick and stone repair, chimney, lintel, and sill work, all with carefully matched mortar. Family-owned, career masons, free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Beverly, Chicago, restoring the neighborhood's historic brick and greystone homes with color- and strength-matched mortar, brick and stone repair, chimney, lintel, and sill work, and breathable sealing. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored historic brick and greystone home in Beverly, Chicago, IL after Emerald Masonry residential masonry restoration"
 faqs:
   - q: "How much does residential masonry restoration cost in Beverly, Chicago?"
@@ -33,13 +33,13 @@ faqs:
   - q: "Do you restore greystone as well as brick?"
     a: "Yes. Many Beverly and Morgan Park homes feature Bedford limestone (greystone) elevations, porches, and detailing. We repoint, repair spalled and delaminated stone, address failed sills and lintels, and clean and restore greystone as part of a whole-home restoration."
   - q: "Are you licensed and insured, and do you work in the Ridge Historic District?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience, and we regularly restore older homes in and around Beverly, Morgan Park, and Mount Greenwood. We work in a preservation-minded way appropriate to the neighborhood's historic character."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we regularly restore older homes in and around Beverly, Morgan Park, and Mount Greenwood. We work in a preservation-minded way appropriate to the neighborhood's historic character."
 competitorInformed: false
 ---
 
 # Residential Masonry Restoration in Beverly, Chicago, IL
 
-If you own one of Beverly's historic homes, **residential masonry restoration in Beverly, Chicago** means bringing the whole masonry envelope — walls, chimney, sills, lintels, and stone detailing — back to sound, weather-tight condition without erasing the home's original character. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience restoring century-old brick and greystone homes, and we do it with carefully matched mortar so repairs protect the masonry and look original. For a free on-site assessment, call **(708) 288-1696**.
+If you own one of Beverly's historic homes, **residential masonry restoration in Beverly, Chicago** means bringing the whole masonry envelope — walls, chimney, sills, lintels, and stone detailing — back to sound, weather-tight condition without erasing the home's original character. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience restoring century-old brick and greystone homes, and we do it with carefully matched mortar so repairs protect the masonry and look original. For a free on-site assessment, call **(708) 288-1696**.
 
 Beverly and adjacent Morgan Park sit on the Blue Island ridge and form one of the largest urban historic districts in the country. The housing stock here is unlike almost anywhere else in the city — brick and greystone Victorians, Prairie School and Wright-influenced houses, Tudors, American Foursquares, and Chicago bungalows, many well past their hundredth year. That's exactly the kind of masonry that rewards a coordinated restoration rather than a patchwork of one-off fixes.
 
@@ -97,10 +97,10 @@ Every historic home is different, so we don't quote a flat price. The main facto
 
 ## Restoring the Ridge's Historic Homes
 
-Beverly and Morgan Park homeowners take real pride in their houses, and rightly so — from the greystone Victorians to the Prairie foursquares to the bungalows along the ridge, this is some of the most significant residential masonry in Chicago. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, brick repair and replacement, chimney, lintel, and limestone/sill repair, sealing, and full residential and historic masonry restoration. Freeze-thaw cycles and a century of Chicago weather are hard on soft historic masonry, and our whole-home approach is built for exactly that.
+Beverly and Morgan Park homeowners take real pride in their houses, and rightly so — from the greystone Victorians to the Prairie foursquares to the bungalows along the ridge, this is some of the most significant residential masonry in Chicago. Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, brick repair and replacement, chimney, lintel, and limestone/sill repair, sealing, and full residential and historic masonry restoration. Freeze-thaw cycles and a century of Chicago weather are hard on soft historic masonry, and our whole-home approach is built for exactly that.
 
 If your Beverly or Morgan Park home is showing crumbling joints, spalling brick, tired greystone, or a deteriorating chimney, start with a coordinated look at the whole envelope. Explore our [residential masonry restoration](/services/residential-masonry-restoration) and [historic masonry restoration](/services/historic-masonry-restoration) services, or dig into the specifics of [tuckpointing and repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), and [limestone and sill repair](/services/limestone-sill-repair). You can also see our neighborhood work on [tuckpointing in Beverly](/locations/tuckpointing-beverly-chicago-il) and [tuckpointing in Mount Greenwood](/locations/tuckpointing-mount-greenwood-chicago-il), or our [historic masonry restoration in Oak Park](/locations/historic-masonry-restoration-oak-park-il).
 
 ## Get a Free Beverly Restoration Assessment
 
-To have your historic Beverly or Morgan Park home's masonry assessed by a family-owned contractor with 40+ years of experience, [get in touch](/#contact) or call **(708) 288-1696**. We'll walk the whole home, tell you honestly what needs restoration now and what can wait, and give you an itemized estimate — for free.
+To have your historic Beverly or Morgan Park home's masonry assessed by a family-owned contractor led by career masons with decades of hands-on experience, [get in touch](/#contact) or call **(708) 288-1696**. We'll walk the whole home, tell you honestly what needs restoration now and what can wait, and give you an itemized estimate — for free.

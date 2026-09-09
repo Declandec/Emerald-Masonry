@@ -15,8 +15,8 @@ intent: "informational"
 metaTitle: "Mortar Joint Profiles Explained | Emerald Masonry"
 metaDescription: "Concave, V, weathered, struck — the shape of your mortar joints affects water resistance and appearance. A Chicagoland mason explains the profiles. Free estimate (708) 288-1696."
 excerpt: "The shape tooled into your mortar joints isn't just cosmetic — it decides how well the wall sheds water and whether a tuckpointing repair disappears or stands out. Here's how the common joint profiles compare."
-aiSummary: "Mortar joint profiles are the tooled shapes given to the mortar between brick — concave, V, weathered, struck, raked, flush, and grapevine. The shape affects both water resistance and appearance: concave and V joints shed water best and are preferred in Chicagoland's freeze-thaw climate, while raked and struck joints look attractive but hold water and are riskier outdoors. In tuckpointing, matching the original profile is what makes a repair blend in. Emerald Masonry LLC, family-owned, 40+ years; free estimates at (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Mortar joint profiles are the tooled shapes given to the mortar between brick — concave, V, weathered, struck, raked, flush, and grapevine. The shape affects both water resistance and appearance: concave and V joints shed water best and are preferred in Chicagoland's freeze-thaw climate, while raked and struck joints look attractive but hold water and are riskier outdoors. In tuckpointing, matching the original profile is what makes a repair blend in. Emerald Masonry LLC, family-owned, career masons; free estimates at (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Close view of crisp concave mortar joints on a freshly tuckpointed brick wall"
 faqs:
   - q: "What is the best mortar joint profile for a Chicago-area brick wall?"
@@ -73,7 +73,7 @@ A careful crew studies the existing profile and reproduces it, so the repointed 
 
 You do not need to memorize seven joint profiles. You need to know three things. First, **the shape of your joints affects how your wall handles water**, not just how it looks. Second, for exterior walls in the Chicago area, **concave and V profiles are the safe, durable defaults**, and recessed or ledged profiles are riskier. Third, when you have tuckpointing done, **insist that the crew match your existing profile** — it is the difference between a repair that disappears and one you will notice every day.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We match mortar color, strength, and profile so repointing blends into your wall. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We match mortar color, strength, and profile so repointing blends into your wall. Free on-site estimates — call (708) 288-1696.
 
 For related reading and services, see our [tuckpointing and repointing](/services/tuckpointing), [historic masonry restoration](/services/historic-masonry-restoration), and our guide to [what 'repointing' actually means](/blog/what-repointing-actually-means) and [mortar color matching in tuckpointing](/blog/mortar-color-matching-tuckpointing).
 

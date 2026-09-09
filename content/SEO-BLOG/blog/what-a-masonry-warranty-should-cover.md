@@ -4,7 +4,7 @@ date: "2026-04-25"
 excerpt: "Masonry warranties are one of the most misunderstood parts of a contractor relationship. Most property owners assume a warranty means they're protected if anything goes wrong. The details matter enormously — what's covered, for how long, what voids coverage, and whether the contractor will actually honor it. This guide explains what a meaningful masonry warranty looks like and what red flags to watch for."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - masonry warranty commercial building
   - tuckpointing warranty Illinois
@@ -105,6 +105,6 @@ A strong warranty from a high-quality contractor is genuine protection. A strong
 
 ---
 
-Emerald Masonry LLC provides written warranties on all commercial masonry work. We've been doing tuckpointing and masonry restoration in Chicagoland for 40+ years — our reputation is the real warranty. Call **(708) 288-1696** or [contact us online](/#contact) to discuss warranty terms as part of your project estimate.
+Emerald Masonry LLC provides written warranties on all commercial masonry work. We've been doing tuckpointing and masonry restoration in Chicagoland for career masons — our reputation is the real warranty. Call **(708) 288-1696** or [contact us online](/#contact) to discuss warranty terms as part of your project estimate.
 
 See also: [Tuckpointing](/services/tuckpointing) | [Commercial Masonry](/services/commercial) | [Masonry Restoration](/services/masonry-restoration)

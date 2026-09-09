@@ -20,7 +20,7 @@ secondaryKeywords:
   - "soft wash vs pressure wash brick"
 service: "Power Washing"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 faqs:
   - q: "Is power washing bad for brick?"
     a: "It can be. High pressure can erode soft mortar joints and spall the fired face off older or softer brick, and it drives water deep into the wall. Pressure level and technique matter far more than how clean it looks the day it is done."
@@ -100,7 +100,7 @@ Before you hire anyone to wash your brick, ask:
 
 A pressure-washing service is in the business of cleaning. A masonry contractor is in the business of protecting the wall. That difference matters, because the person cleaning your brick should be able to recognize when the brick is too soft for pressure, when mortar needs to be repaired first, and when "just cleaning it" is the wrong call entirely.
 
-Emerald Masonry LLC is a family-owned masonry contractor with more than 40 years of bricklaying and restoration experience, based in Palos Heights and serving Chicagoland. We are licensed, bonded, and insured, and we treat [masonry cleaning and sealing](/services/masonry-sealing) as restoration work — protecting your investment, not just rinsing it. We have seen too many walls damaged by a quick, cheap high-pressure job, and we would rather get it right the first time.
+Emerald Masonry LLC is a family-owned masonry contractor led by career masons with decades of hands-on bricklaying and restoration experience, based in Palos Heights and serving Chicagoland. We are licensed, bonded, and insured, and we treat [masonry cleaning and sealing](/services/masonry-sealing) as restoration work — protecting your investment, not just rinsing it. We have seen too many walls damaged by a quick, cheap high-pressure job, and we would rather get it right the first time.
 
 ## Frequently Asked Questions
 
@@ -120,6 +120,6 @@ Generally repair and repoint failed joints first so cleaning water cannot pour i
 
 Your brick is one of the most durable parts of your home, but only if it is cared for correctly. The wrong wash can undo a century of resilience in an afternoon. Before anyone points a pressure washer at your masonry, talk to a contractor who knows the difference.
 
-Call Emerald Masonry LLC at **(708) 288-1696** for a free estimate on safe masonry cleaning anywhere in Chicagoland — or email emeraldmasonryil@gmail.com. Family-owned, 40+ years of experience, licensed, bonded, and insured.
+Call Emerald Masonry LLC at **(708) 288-1696** for a free estimate on safe masonry cleaning anywhere in Chicagoland — or email emeraldmasonryil@gmail.com. Family-owned, career masons with decades of experience, licensed, bonded, and insured.
 
 *Emerald Masonry LLC · (708) 288-1696 · emeraldmasonryil@gmail.com · 7156 W. 126th St. Suite 136, Palos Heights, IL 60464 · https://emeraldmasonryil.com*

@@ -16,10 +16,10 @@ service: "Masonry Sealing / Waterproofing"
 serviceSlug: "masonry-sealing"
 pageType: "location"
 metaTitle: "Masonry Sealing Oak Lawn, IL | Emerald Masonry LLC"
-metaDescription: "Breathable masonry sealing & brick waterproofing in Oak Lawn, IL. Family-owned, 40+ years, licensed & insured. Free on-site estimates — call (708) 288-1696."
+metaDescription: "Breathable masonry sealing & brick waterproofing in Oak Lawn, IL. Family-owned, career masons, licensed & insured. Free on-site estimates — call (708) 288-1696."
 excerpt: "Professional masonry sealing and brick waterproofing for Oak Lawn homes and buildings. Emerald Masonry uses breathable repellents — applied only after failed joints are repointed — to keep water out without trapping moisture in your brick."
 aiSummary: "Emerald Masonry LLC provides masonry sealing and brick waterproofing in Oak Lawn, IL. We repoint any failed mortar first, then apply a breathable, vapor-permeable water repellent that blocks rain while letting brick dry — protecting Oak Lawn's mid-century bungalows from freeze-thaw damage. Free on-site estimates: (708) 288-1696."
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Sealed and waterproofed brick exterior on an Oak Lawn, IL residential masonry project by Emerald Masonry"
 faqs:
   - q: "Does sealing brick replace tuckpointing in Oak Lawn?"
@@ -102,7 +102,7 @@ Pricing depends on the **square footage and height** of the walls, **how much re
 
 ## Why choose Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 We don't upsell sealing as a magic fix. We diagnose the real source of water, repair it, and then waterproof a wall that's actually ready for it — so the protection lasts. Oak Lawn homeowners, property managers, and HOAs trust us because we do it in the right order.
 

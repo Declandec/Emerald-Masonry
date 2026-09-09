@@ -5,7 +5,7 @@ excerpt: "Excavation, demolition and pile driving next door can crack masonry th
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Cracked brick party wall exposed after an adjacent building demolition in Chicago"
 keywords:
   - adjacent construction damage masonry
@@ -38,7 +38,7 @@ keywords:
   - HOA adjacent construction damage
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Demolition and excavation next door can crack neighboring masonry through three mechanisms: vibration from demolition and pile driving, soil movement and loss of lateral support when a hole is dug beside your foundation, and sudden exposure of a party or lot-line wall that was never built to be an exterior wall. Documenting the condition before and during the work is what determines whether a claim succeeds. Emerald Masonry LLC assesses and repairs construction-related masonry damage across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Demolition and excavation next door can crack neighboring masonry through three mechanisms: vibration from demolition and pile driving, soil movement and loss of lateral support when a hole is dug beside your foundation, and sudden exposure of a party or lot-line wall that was never built to be an exterior wall. Documenting the condition before and during the work is what determines whether a claim succeeds. Emerald Masonry LLC assesses and repairs construction-related masonry damage across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Can construction next door really crack my brick wall?"
@@ -71,7 +71,7 @@ Then somebody buys the lot next door.
 
 Within a few weeks the adjacent building is demolished, an excavator is working eight feet from your foundation, and a hole appears where a basement used to be. And on the third floor of your building, a crack you have never seen before opens above a window.
 
-Emerald Masonry LLC assesses and repairs construction-related masonry damage on homes, two-flats, associations and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC assesses and repairs construction-related masonry damage on homes, two-flats, associations and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 This article is about what actually causes that damage, what to do about it, and — critically — **what to do before it happens**, because the single largest factor in how these situations resolve is documentation you either have or do not have.
 
@@ -225,4 +225,4 @@ If damage appears, document it in the same frames, mark and monitor the cracks, 
 
 And if a party wall has just been exposed to the sky for the first time in a century, treat that as urgent. It is taking weather it was never built to take, and Chicago winters are unforgiving of masonry that cannot dry.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We provide written assessments suitable for insurance and claim documentation. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We provide written assessments suitable for insurance and claim documentation. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

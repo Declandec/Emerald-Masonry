@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Lintel Repair in Aurora, IL | Emerald Masonry LLC"
 metaDescription: "Lintel repair and replacement in Aurora, IL — rusted steel treated or replaced, flashed, brick above rebuilt and matched. Free estimates: (708) 288-1696."
 excerpt: "Not every corroded lintel needs replacing, and not every one can be saved. There is a straightforward test that decides — and applying it correctly is the difference between a proportionate repair and an unnecessary one."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Aurora, IL — assessing corroded steel lintels above windows, doors and garage openings, treating what can be saved, replacing what cannot, installing flashing, and rebuilding the brick above with matched units. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Aurora, IL — assessing corroded steel lintels above windows, doors and garage openings, treating what can be saved, replacing what cannot, installing flashing, and rebuilding the brick above with matched units. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Replaced steel lintel and rebuilt brick course above a window opening in Aurora, Illinois"
 faqs:
   - q: "How much does lintel repair cost in Aurora, IL?"
@@ -47,7 +47,7 @@ competitorInformed: false
 
 ## Lintel Repair in Aurora, IL
 
-Lintel repair in Aurora, IL splits into two very different jobs, and the first thing a competent mason owes you is an honest answer about which one your opening needs. Emerald Masonry LLC repairs and replaces lintels throughout Aurora, the Fox Valley and Kane County — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Lintel repair in Aurora, IL splits into two very different jobs, and the first thing a competent mason owes you is an honest answer about which one your opening needs. Emerald Masonry LLC repairs and replaces lintels throughout Aurora, the Fox Valley and Kane County — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Some corroded lintels can be cleaned back, treated and flashed for many more years of service. Others are structurally spent and must come out. Selling every homeowner the second one is lazy; recommending the first one on steel that has lost section is worse.
 
@@ -103,7 +103,7 @@ On commercial and multi-tenant buildings the same failure runs at larger scale, 
 
 Span width, from a bungalow window to a two-car garage header · how much brick above must be removed and rebuilt, which is usually more than the visible crack suggests · shoring requirements · number of failing openings on the elevation, since doing several together is more efficient than one at a time · height and access, including storefront and upper-story openings needing staging · related sill, flashing or [tuckpointing](/services/tuckpointing) work on the same elevation · brick-match difficulty · season and curing conditions. The on-site assessment is free and written, with a $5,000 project minimum.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Aurora and the Fox Valley
 
@@ -111,6 +111,6 @@ We repair and replace lintels across Aurora — the historic neighbourhoods near
 
 ## Why Aurora Owners Call Emerald
 
-We assess every opening before we price it, we say plainly when steel can be treated rather than replaced, we shore before we cut, and we flash what we set. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience — with the historic-masonry judgment that Aurora's older stone-headed openings actually require.
+We assess every opening before we price it, we say plainly when steel can be treated rather than replaced, we shore before we cut, and we flash what we set. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience — with the historic-masonry judgment that Aurora's older stone-headed openings actually require.
 
 Cracked or lifted brick above an Aurora window, door or garage opening will not settle out on its own. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

@@ -5,7 +5,7 @@ excerpt: "Chicago requires periodic facade 'critical examinations' of taller bui
 service: "Commercial Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Commercial brick facade under masonry restoration on a Chicago building, tuckpointed joints and repaired parapet"
 aiSummary: "The Chicago facade inspection ordinance requires owners of taller buildings to have their exterior walls examined on a recurring cycle by a licensed architect or structural engineer and filed with the Department of Buildings, so failing masonry doesn't fall onto the public way. Emerald Masonry LLC performs the tuckpointing, brick, lintel, and parapet repairs those inspections turn up across Chicagoland. Free consultations — call (708) 288-1696. Verify current requirements with the City of Chicago Department of Buildings."
 intent: "commercial"
@@ -141,7 +141,7 @@ For multi-family and mixed-use owners, the same logic extends beyond the tall-bu
 
 ## The bottom line
 
-The Chicago facade inspection ordinance exists so that aging masonry gets professional eyes on it before it endangers the people below — and in a freeze-thaw city, that's a genuinely good idea, not just red tape. Your **engineer or architect** performs and files the critical examination; **Emerald Masonry LLC** performs the tuckpointing, brick and stone repair, lintel, parapet, and restoration work that resolves the findings and keeps your facade sound and compliant. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience serving building owners, property managers, HOAs, churches, and insurers across the city and suburbs.
+The Chicago facade inspection ordinance exists so that aging masonry gets professional eyes on it before it endangers the people below — and in a freeze-thaw city, that's a genuinely good idea, not just red tape. Your **engineer or architect** performs and files the critical examination; **Emerald Masonry LLC** performs the tuckpointing, brick and stone repair, lintel, parapet, and restoration work that resolves the findings and keeps your facade sound and compliant. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience serving building owners, property managers, HOAs, churches, and insurers across the city and suburbs.
 
 Confirm your building's current obligations with the **Chicago Department of Buildings**, then call **Emerald Masonry at (708) 288-1696** or reach us through our [contact page](/#contact) for a free consultation and a clear, itemized plan to address your facade's masonry.
 

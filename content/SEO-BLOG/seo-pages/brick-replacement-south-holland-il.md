@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in South Holland, IL | Emerald Masonry"
 metaDescription: "Brick replacement in South Holland, IL by Emerald Masonry LLC. Spalled, cracked & crumbling brick cut out and matched. Free on-site estimate — call (708) 288-1696."
 excerpt: "Emerald Masonry LLC replaces damaged, spalled, and crumbling brick throughout South Holland, IL. We cut out failed units, source matched replacements, reset, and repoint for a seamless, lasting result."
-aiSummary: "Emerald Masonry LLC provides brick replacement in South Holland, IL — cutting out spalled, cracked, or failing brick and installing color-, size-, and texture-matched replacements with matched mortar. Family-owned, licensed and insured, 40+ years of experience. Free on-site estimates: (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in South Holland, IL — cutting out spalled, cracked, or failing brick and installing color-, size-, and texture-matched replacements with matched mortar. Family-owned, licensed and insured, career masons with decades of experience. Free on-site estimates: (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Brick replacement on a South Holland, IL brick home after Emerald Masonry removed spalled units and installed matched brick"
 faqs:
   - q: "Who replaces damaged brick in South Holland, IL?"
@@ -122,11 +122,11 @@ Because we work throughout the south suburbs, we know these brick types and thes
 
 ## Why South Holland homeowners call Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 Trust signals that matter to South Holland homeowners:
 
-- **40+ years** of masonry experience across Chicagoland.
+- **career masons** of masonry experience across Chicagoland.
 - **Licensed, bonded, and insured**, non-union, and family-owned.
 - **Free on-site estimates** with an honest assessment of repair vs. replacement.
 - Careful **brick and mortar matching** so repairs blend in, not stand out.

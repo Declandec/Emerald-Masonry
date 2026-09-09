@@ -5,7 +5,7 @@ excerpt: "Tuckpointing is the cheapest rung on the masonry repair ladder — and
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Deteriorated mortar joints and spalling brick on a Chicagoland wall repaired by tuckpointing"
 keywords:
   - what happens if you wait too long to tuckpoint
@@ -39,7 +39,7 @@ keywords:
   - property manager masonry maintenance
   - HOA masonry repair budget
   - licensed and insured mason Chicagoland
-aiSummary: "Waiting too long to tuckpoint lets water into the brick wall through open mortar joints, and freeze-thaw cycling then escalates the damage from failed joints to spalled brick, rusted lintels, loose masonry, and eventually wall or chimney rebuilding — each stage costing several times the last. Emerald Masonry LLC repoints and restores masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Waiting too long to tuckpoint lets water into the brick wall through open mortar joints, and freeze-thaw cycling then escalates the damage from failed joints to spalled brick, rusted lintels, loose masonry, and eventually wall or chimney rebuilding — each stage costing several times the last. Emerald Masonry LLC repoints and restores masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What happens if you never tuckpoint a brick house?"
@@ -64,7 +64,7 @@ faqs:
 
 ## What Happens If You Wait Too Long to Tuckpoint?
 
-If you wait too long to tuckpoint, water gets into your brick wall through the open mortar joints, freezes inside it, and escalates the damage in stages — from failed joints, to spalled brick faces, to rusting steel lintels, to loose and displaced masonry, to sections that have to be rebuilt outright. Each stage costs several times the one before it. Emerald Masonry LLC repoints and restores masonry across Chicago and the Chicagoland suburbs; family-owned, licensed and insured, with 40+ years of experience and free on-site estimates. Call **(708) 288-1696**.
+If you wait too long to tuckpoint, water gets into your brick wall through the open mortar joints, freezes inside it, and escalates the damage in stages — from failed joints, to spalled brick faces, to rusting steel lintels, to loose and displaced masonry, to sections that have to be rebuilt outright. Each stage costs several times the one before it. Emerald Masonry LLC repoints and restores masonry across Chicago and the Chicagoland suburbs; family-owned, licensed and insured, led by career masons with decades of hands-on experience and free on-site estimates. Call **(708) 288-1696**.
 
 Nearly every serious masonry repair we are called to in Chicagoland started as a **tuckpointing** job somebody put off. Not out of negligence, usually — mortar failure is quiet, gradual, and easy to look past for a decade. But the building science here is unforgiving, and the cost curve is not linear. It is a staircase, and every step up is dramatically more expensive than the one below it.
 
@@ -192,6 +192,6 @@ Tuckpointing is the least expensive masonry repair there is, and it is the only 
 
 If your mortar is receding, sandy or cracked, you are standing on the cheapest rung of the ladder right now. That is genuinely good news, and it has an expiration date measured in winters.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling you when a wall can wait.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling you when a wall can wait.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration Melrose Park, IL"
 metaDescription: "Commercial masonry restoration in Melrose Park, IL — warehouse, industrial and storefront facade repair on occupied buildings. Free estimates: (708) 288-1696."
 excerpt: "Melrose Park has two kinds of commercial masonry sitting side by side on the same street — load-bearing brick from the 1920s and brick veneer hung on a steel frame from the 1970s. They fail differently, they get repaired differently, and they cost differently. Almost nobody asks which one you have."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Melrose Park, IL — tuckpointing, brick and CMU repair, parapet and lintel work, and facade restoration on warehouses, industrial buildings and storefronts, scheduled around active operations. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Melrose Park, IL — tuckpointing, brick and CMU repair, parapet and lintel work, and facade restoration on warehouses, industrial buildings and storefronts, scheduled around active operations. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Restored commercial brick facade and parapet on an industrial building in Melrose Park Illinois"
 faqs:
   - q: "How do I know whether my building is load-bearing masonry or brick veneer?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "commercial masonry restoration Melrose Park IL" / "commercial tuckpointing Melrose Park" — a building owner, facility manager or property manager of industrial, warehouse or storefront property in 60160/60164.
-Competitor pattern observed: the ranking local page for this town is a ~15,000-word municipality page that is almost entirely (a) a Wikipedia-style village history going back to 1873, (b) demographics and local landmarks (Kiddieland, Stern Pinball), and (c) an enormous wall of scraped testimonials. There is NO answer-first summary, NO FAQ section, NO cost or cost-driver discussion, NO explanation of any masonry process, NO project timeline guidance, and essentially no discussion of Melrose Park's actual BUILDING stock despite covering its history at length. It is length without information. Other results in the SERP are national directories and generic "commercial tuckpointing Chicago" pages with no Melrose Park content at all.
-Why this page is better: it answers the question a commercial owner in this town actually has, which no competing page addresses — is my wall load-bearing multi-wythe masonry or brick veneer on a frame? Melrose Park's commercial corridor mixes 1920s-1950s load-bearing industrial brick with 1960s-onward veneer-on-steel, often on the same block, and the two have different failure modes, different repairs, different steel, and different costs. Every competing page sells "tuckpointing" as a single undifferentiated product.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; the load-bearing vs veneer diagnostic and why it changes the scope; parapet/coping and dock-apron failure priority; hidden steel (lintels, relieving and shelf angles) and flashing; CMU vs brick coating decisions; real cost drivers; and occupied-building sequencing around docks and drive aisles. Deliberately distinct from the Lockport, Woodridge and Tinley Park commercial pages.
--->
 
 ## Commercial Masonry Restoration in Melrose Park, IL
 
-Commercial masonry restoration in Melrose Park, IL covers tuckpointing, brick and block repair, parapet and coping rebuilds, lintel and shelf-angle work, and full facade restoration on warehouses, industrial buildings, storefronts and multi-tenant property. Emerald Masonry LLC does this work throughout Cook County — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
+Commercial masonry restoration in Melrose Park, IL covers tuckpointing, brick and block repair, parapet and coping rebuilds, lintel and shelf-angle work, and full facade restoration on warehouses, industrial buildings, storefronts and multi-tenant property. Emerald Masonry LLC does this work throughout Cook County — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site assessments. Call **(708) 288-1696**.
 
 Here is the question that determines your scope, and it almost never gets asked:
 
@@ -131,7 +125,7 @@ Exposure is hard. Flat roofs mean parapets exposed on both faces with no heated 
 
 We serve 60160 and 60164 and the surrounding near-west communities, including [Forest Park](/locations/brick-replacement-forest-park-il), [River Forest](/locations/historic-masonry-restoration-river-forest-il), [Oak Park](/locations/tuckpointing-oak-park-il), [Berwyn](/locations/masonry-restoration-berwyn-il) and [Westchester](/locations/brick-repair-westchester-il). Property managers here often pair restoration with [parapet wall repair](/services/parapet-wall-repair) and joint sealant renewal on the same mobilization.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, HOAs, churches and insurance companies. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, HOAs, churches and insurance companies. Free on-site estimates — call (708) 288-1696.
 
 ## Request a Free Commercial Masonry Assessment in Melrose Park
 

@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Commercial Masonry Restoration Oak Brook IL | Emerald"
 metaDescription: "Commercial masonry restoration in Oak Brook, IL — cavity walls, shelf angles and movement joints on office and retail buildings. Call (708) 288-1696 today."
 excerpt: "Oak Brook's commercial stock is not historic masonry. It is 1970s–1990s cavity-wall brick veneer hung on steel, and its cracks usually come from shelf angles and missing movement joints — not from tired mortar. That is why some buildings get repointed every decade and crack again in exactly the same places."
-aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Oak Brook, IL — repairing cavity-wall brick veneer, corroded shelf angles, failed through-wall flashing and movement joints on office buildings, retail centers, medical offices and condominium associations. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site assessments: call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC provides commercial masonry restoration in Oak Brook, IL — repairing cavity-wall brick veneer, corroded shelf angles, failed through-wall flashing and movement joints on office buildings, retail centers, medical offices and condominium associations. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site assessments: call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Restored brick cavity wall and sealant joints on a commercial office building in Oak Brook, Illinois"
 faqs:
   - q: "How much does commercial masonry restoration cost in Oak Brook, IL?"
@@ -43,16 +43,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "commercial masonry restoration Oak Brook IL" / "facade repair Oak Brook" — a property manager, building owner, condo board member or facilities manager on a DuPage office, retail or association property deciding who to call.
-Competitor pattern observed: the SERP splits three ways. (1) Long-established institutional restoration firms — one operating since 1938, another since 1993 with BOMA, SWRI, ABC, EIMA and Dryvit affiliations, marketing sealant, masonry, EIFS, coatings and parking-structure repair across Chicagoland, Wisconsin, Central Illinois and Eastern Iowa to manufacturing, logistics, retail, multi-unit and institutional clients. (2) Cloned chimney-franchise location pages templated across 60+ cities, which dangle consumer teaser prices ($299 inspection, $199 annual inspection) on a page nominally about commercial masonry. (3) Directory aggregators (Procore, Landmarks Illinois contractor archive). Documented gaps across the entire set: NO FAQ anywhere, NO cost or budgeting guidance, NO step-by-step process, NO facade condition-assessment methodology, NO phasing or reserve-planning content for property managers, no timelines, no warranty detail, and — despite one firm serving four states — zero Oak Brook or DuPage-specific content of any kind.
-Why this page is better: it refuses the premise the institutional firms sell. Their marketing is built on historic and landmark restoration credentials, but Oak Brook's commercial stock is not historic masonry. It is 1970s-1990s corporate office-park construction: cavity-wall brick veneer hung on a steel or concrete frame, with shelf angles at the floor lines, through-wall flashing that was frequently omitted or lapped incorrectly, and movement joints that were either never installed at the right spacing or have since been mortared shut. On that stock, the single most misdiagnosed condition is movement-joint and shelf-angle failure presenting as "the mortar is tired." That is why some Oak Brook buildings get repointed every decade and crack in exactly the same places — nobody addressed why the wall is cracking. We publish the crack-pattern diagnostic (what a crack's location relative to floor lines, corners and openings actually tells you), the irreversible-moisture-expansion mechanism behind it, the facade condition assessment framework, and reserve-year phasing guidance — all four absent from every competitor page.
-Gaps filled: answer-first Quick Answer; seven AI-phrased FAQs with FAQPage schema; cavity-wall/shelf-angle/movement-joint building science absent from the whole SERP; a crack-pattern reading table; a real step-by-step assessment and repair process; qualitative cost drivers led by access; occupied-building staging; phasing for boards and reserve planning; an explicit statement of when a large institutional restoration firm is the RIGHT call instead of us; and full Service/FAQPage/Breadcrumb schema. Deliberately distinct from the Elgin commercial page (institutional-scale field, underserved small owners, parapet/through-wall-flashing misdiagnosis) and the Melrose Park and Plainfield commercial pages.
--->
 
 ## Commercial Masonry Restoration in Oak Brook, IL
 
-Commercial masonry restoration in Oak Brook, IL is usually misdiagnosed at the first step, because the buildings here are not what the restoration industry advertises for. Emerald Masonry LLC restores brick and stone on office buildings, retail centers, medical offices, institutional buildings and condominium associations throughout DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience. Free on-site assessments — call **(708) 288-1696**.
+Commercial masonry restoration in Oak Brook, IL is usually misdiagnosed at the first step, because the buildings here are not what the restoration industry advertises for. Emerald Masonry LLC restores brick and stone on office buildings, retail centers, medical offices, institutional buildings and condominium associations throughout DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience. Free on-site assessments — call **(708) 288-1696**.
 
 One question is worth asking before anyone quotes your building: **has this crack been repaired before?** If it came back in the same place, the mortar was never the problem.
 
@@ -140,7 +134,7 @@ Emerald Masonry is the right contractor for Oak Brook's office, retail, medical,
 
 ## Serving Oak Brook and DuPage County
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We serve Oak Brook and neighbouring [Hinsdale](/locations/lintel-replacement-hinsdale-il), [Downers Grove](/locations/foundation-masonry-repair-downers-grove-il), [Westmont](/locations/historic-masonry-restoration-westmont-il) and [Burr Ridge](/locations/caulking-burr-ridge-il), for property managers, building owners, condominium and townhome associations, HOAs, churches and insurance companies. $5,000 project minimum.
 

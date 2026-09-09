@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Masonry Sealing in Crest Hill, IL | Emerald Masonry LLC"
 metaDescription: "Masonry sealing in Crest Hill, IL — breathable brick and block waterproofing applied after joints are sound. Insured. Free estimates: (708) 288-1696."
 excerpt: "Sealing is the last step in a masonry job, not a substitute for one. On Crest Hill's mix of post-war brick and concrete block, the right product matters — and block absorbs very differently from brick."
-aiSummary: "Emerald Masonry LLC provides masonry sealing in Crest Hill, IL — breathable, vapor-permeable water repellents applied to brick, block and stone after mortar joints are repaired, never film-forming coatings that trap moisture. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing in Crest Hill, IL — breathable, vapor-permeable water repellents applied to brick, block and stone after mortar joints are repaired, never film-forming coatings that trap moisture. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick and block wall treated with breathable masonry sealer in Crest Hill Illinois"
 faqs:
   - q: "Does sealing brick actually stop water getting in?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Masonry Sealing in Crest Hill, IL
 
-Masonry sealing in Crest Hill, IL means applying a **breathable, vapor-permeable water repellent** to brick, block or stone — after the mortar joints are sound, and only where it genuinely helps. Emerald Masonry LLC repairs first and seals second, and will tell you when a wall does not need sealing at all. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Masonry sealing in Crest Hill, IL means applying a **breathable, vapor-permeable water repellent** to brick, block or stone — after the mortar joints are sound, and only where it genuinely helps. Emerald Masonry LLC repairs first and seals second, and will tell you when a wall does not need sealing at all. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 We should say the uncomfortable part first, because this is the service most often sold to people who do not need it.
 
@@ -132,7 +132,7 @@ The city's building mix runs from **post-war residential brick** through the sub
 
 We work throughout 60403 and also serve neighboring [Joliet](/locations/foundation-masonry-repair-joliet-il), [Lockport](/locations/efflorescence-waterproofing-lockport-il), [Romeoville](/locations/cmu-block-repair-romeoville-il) and [Shorewood](/locations/brick-replacement-shorewood-il). Crest Hill owners frequently pair sealing with [CMU block repair](/locations/cmu-block-repair-crest-hill-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Honest Summary
 

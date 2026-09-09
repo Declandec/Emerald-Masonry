@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "Most HOA boards either underfund masonry maintenance or spend money on the wrong things at the wrong time. Here's what experienced masonry contractors see HOA boards consistently get wrong — and what better budget planning actually looks like."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 keywords:
   - HOA masonry maintenance budget
   - HOA tuckpointing budget planning

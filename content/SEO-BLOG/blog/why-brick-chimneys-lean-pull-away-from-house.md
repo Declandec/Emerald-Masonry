@@ -19,7 +19,7 @@ secondaryKeywords:
   - "stair-step cracks chimney"
 service: "Chimney Repair"
 location: "Chicagoland, IL"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 faqs:
   - q: "Is a leaning chimney dangerous?"
     a: "It can be. A chimney that is visibly tilting or pulling away from the house has lost some of its support and is at risk of cracking further or, in severe cases, collapsing. It is also a flue safety concern. Any visible lean or a widening gap should be inspected promptly rather than left for another season."
@@ -84,7 +84,7 @@ The right repair depends on the cause and how far it has gone:
 
 A lean rarely corrects itself, and the freeze-thaw cycle that often drives it runs every single winter in the Chicago area. The longer a leaning chimney goes, the more likely a targeted repair turns into a full rebuild — and the higher the risk of falling brick. If your chimney is tilting, pulling away from the house, or showing stair-step cracks, get it inspected before the next freeze.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
 
 For related reading and services, see our [chimney repair and rebuilding](/services/chimney-repair), [foundation masonry repair](/services/foundation-masonry-repair), [tuckpointing and repointing](/services/tuckpointing), and [brick repair](/services/brick-repair).
 

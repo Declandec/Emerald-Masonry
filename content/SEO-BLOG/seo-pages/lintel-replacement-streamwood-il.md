@@ -16,7 +16,7 @@ service: "Lintel Replacement"
 metaTitle: "Lintel Replacement in Streamwood, IL | Emerald Masonry LLC"
 metaDescription: "Steel lintel replacement in Streamwood, IL — corroded lintels causing brick cracking above windows and doors. Expert masonry repair for Cook County. Free estimates."
 excerpt: "Cracking or displaced brick above a window or door opening in a Streamwood home or commercial building is almost always caused by a corroded steel lintel. Emerald Masonry LLC identifies and replaces failing lintels for residential and commercial properties throughout northwest Cook County."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Lintel replacement and brick repair above a window opening on a brick building in Streamwood Illinois Cook County"
 competitorInformed: false
 ---

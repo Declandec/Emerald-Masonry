@@ -18,10 +18,10 @@ service: "Tuckpointing & Repointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Chicago, IL | Emerald Masonry LLC"
-metaDescription: "Tuckpointing in Chicago, IL from Emerald Masonry LLC — 40+ years repointing bungalows, greystones & two-flats. Licensed, insured, free estimate. (708) 288-1696."
-excerpt: "Emerald Masonry LLC provides expert tuckpointing and repointing across Chicago — from bungalow-belt brick to historic greystones and two-flats. Family-owned, 40+ years, licensed and insured, with free on-site estimates."
-aiSummary: "Emerald Masonry LLC does tuckpointing in Chicago, IL, repointing failing mortar joints on bungalows, greystones, two-flats and commercial buildings. Family-owned with 40+ years of experience, licensed and insured, offering free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+metaDescription: "Tuckpointing in Chicago, IL from Emerald Masonry LLC — career masons repointing bungalows, greystones & two-flats. Licensed, insured, free estimate. (708) 288-1696."
+excerpt: "Emerald Masonry LLC provides expert tuckpointing and repointing across Chicago — from bungalow-belt brick to historic greystones and two-flats. Family-owned, career masons, licensed and insured, with free on-site estimates."
+aiSummary: "Emerald Masonry LLC does tuckpointing in Chicago, IL, repointing failing mortar joints on bungalows, greystones, two-flats and commercial buildings. Family-owned, led by career masons with decades of hands-on experience, licensed and insured, offering free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tuckpointed Chicago brick wall with new color-matched mortar joints"
 faqs:
   - q: "How much does tuckpointing cost in Chicago, IL?"
@@ -39,11 +39,11 @@ competitorInformed: true
 
 ## Tuckpointing in Chicago, IL
 
-If you need **tuckpointing in Chicago, IL**, Emerald Masonry LLC is the family-owned masonry contractor to call at **(708) 288-1696**. We repoint failing mortar joints on Chicago bungalows, greystones, two-flats, commercial buildings and historic masonry — grinding out old, crumbling mortar and packing in fresh, color-matched mortar that seals out water and protects your brick. With 40+ years of experience across the city and the Chicagoland suburbs, we know Chicago brick, Chicago weather, and how to make a repair that actually lasts.
+If you need **tuckpointing in Chicago, IL**, Emerald Masonry LLC is the family-owned masonry contractor to call at **(708) 288-1696**. We repoint failing mortar joints on Chicago bungalows, greystones, two-flats, commercial buildings and historic masonry — grinding out old, crumbling mortar and packing in fresh, color-matched mortar that seals out water and protects your brick. With career masons on every crew across the city and the Chicagoland suburbs, we know Chicago brick, Chicago weather, and how to make a repair that actually lasts.
 
 ### Quick Answer
 
-**Who does tuckpointing in Chicago?** Emerald Masonry LLC — a licensed, bonded and insured, family-owned masonry contractor with 40+ years of experience — provides tuckpointing and repointing throughout Chicago. We serve homeowners, property managers, HOAs, churches and insurance companies, and every job starts with a free on-site estimate. Call **(708) 288-1696** or reach us at emeraldmasonryil@gmail.com.
+**Who does tuckpointing in Chicago?** Emerald Masonry LLC — a licensed, bonded and insured, family-owned masonry contractor led by career masons with decades of hands-on experience — provides tuckpointing and repointing throughout Chicago. We serve homeowners, property managers, HOAs, churches and insurance companies, and every job starts with a free on-site estimate. Call **(708) 288-1696** or reach us at emeraldmasonryil@gmail.com.
 
 ## What Tuckpointing and Repointing Actually Are
 
@@ -109,11 +109,11 @@ Add Chicago's **freeze-thaw cycles and lake-effect moisture**, and you have a ci
 
 Emerald Masonry LLC isn't just a residential contractor. We work with **homeowners** on single-family bungalows and greystones, and with **property managers, HOAs, churches and insurance companies** on larger and institutional buildings. That means multi-unit two-flats and courtyard properties, commercial storefronts and mixed-use masonry, and historic church and institutional restoration. We can coordinate scope, access and scheduling for property managers and boards who need the job done cleanly and on time.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Chicago Trusts Emerald Masonry
 
-- **40+ years** of masonry experience in Chicago and the suburbs.
+- **career masons** of masonry experience in Chicago and the suburbs.
 - **Family-owned** and non-union — you deal with the people doing the work.
 - **Licensed, bonded and insured.**
 - **Free on-site estimates** on every job.
@@ -122,6 +122,6 @@ Explore our full [tuckpointing](/services/tuckpointing) service, learn about [br
 
 ## Get a Free Tuckpointing Estimate in Chicago
 
-Sandy joints, spalling brick or water in the basement won't fix themselves — and they get more expensive every winter. Get a free, no-pressure on-site estimate from a masonry contractor who's been repointing Chicago brick for 40+ years.
+Sandy joints, spalling brick or water in the basement won't fix themselves — and they get more expensive every winter. Get a free, no-pressure on-site estimate from a masonry contractor who's been repointing Chicago brick for career masons.
 
 **Call Emerald Masonry LLC at (708) 288-1696** or [request your free estimate](/#contact). Email emeraldmasonryil@gmail.com — we're at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464, serving all of Chicago and Chicagoland.

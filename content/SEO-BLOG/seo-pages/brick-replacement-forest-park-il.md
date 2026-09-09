@@ -19,10 +19,10 @@ service: "Brick Replacement"
 serviceSlug: "brick-replacement"
 pageType: "location"
 metaTitle: "Brick Replacement in Forest Park, IL | Emerald Masonry LLC"
-metaDescription: "Brick replacement in Forest Park, IL by Emerald Masonry LLC. Spalled and cracked brick cut out and matched. 40+ years. Free on-site estimate: (708) 288-1696."
+metaDescription: "Brick replacement in Forest Park, IL by Emerald Masonry LLC. Spalled and cracked brick cut out and matched. career masons. Free on-site estimate: (708) 288-1696."
 excerpt: "When the brick itself has failed — not just the mortar — Emerald Masonry LLC cuts out the dead units and replaces them with brick matched for size, color, texture, and hardness. Serving Forest Park, IL two-flats, courtyard buildings, and Madison Street storefronts. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC performs brick replacement in Forest Park, IL — cutting out spalled, cracked, or crumbling brick units and setting matched replacements in color-matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC performs brick replacement in Forest Park, IL — cutting out spalled, cracked, or crumbling brick units and setting matched replacements in color-matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Replaced and color-matched brick on an early-1900s brick two-flat wall in Forest Park, IL after Emerald Masonry brick replacement"
 faqs:
   - q: "How much does brick replacement cost in Forest Park, IL?"
@@ -40,7 +40,7 @@ competitorInformed: false
 
 # Brick Replacement in Forest Park, IL
 
-**Brick replacement in Forest Park, IL is what you need when the brick itself has failed — not just the mortar around it.** Emerald Masonry LLC cuts out spalled, cracked, and crumbling brick units, matches replacements for size, color, texture, and hardness, and sets them in color-matched mortar so the repair disappears into the wall. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. Free on-site estimates — call **(708) 288-1696**.
+**Brick replacement in Forest Park, IL is what you need when the brick itself has failed — not just the mortar around it.** Emerald Masonry LLC cuts out spalled, cracked, and crumbling brick units, matches replacements for size, color, texture, and hardness, and sets them in color-matched mortar so the repair disappears into the wall. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call **(708) 288-1696**.
 
 There is a simple test most homeowners can do from the sidewalk. If the *joints* between the bricks are receding, sandy, or missing, that is a mortar problem, and [tuckpointing](/services/tuckpointing) is the fix. If the *bricks* are flaking, blistering, cracked through the middle, or soft enough to gouge with a key, the units are gone and no amount of pointing will bring them back. That is brick replacement.
 
@@ -104,7 +104,7 @@ We never quote brick replacement over the phone, because the honest number depen
 
 A lot of Forest Park's brick is on income property, and a lot of our brick replacement calls start with an inspection or a village notice about loose or falling brick. We are used to that: we scope it, document it, do the work, and give you photos and a written scope you can hand back to the village or your board. We are non-union, licensed, bonded, and insured, and we carry a $5,000 project minimum.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Forest Park and the Chicagoland suburbs with 40+ years of experience in [brick repair](/services/brick-repair) and [brick replacement](/services/brick-replacement), tuckpointing, chimney repair, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and [residential](/services/residential-masonry-restoration), commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Forest Park and the Chicagoland suburbs led by career masons with decades of hands-on experience in [brick repair](/services/brick-repair) and [brick replacement](/services/brick-replacement), tuckpointing, chimney repair, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and [residential](/services/residential-masonry-restoration), commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Nearby Work
 

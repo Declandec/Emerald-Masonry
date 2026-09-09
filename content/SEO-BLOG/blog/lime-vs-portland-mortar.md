@@ -4,7 +4,7 @@ date: "2026-04-09"
 excerpt: "The mortar type used in a masonry repair isn't a minor technical detail — it determines whether the repair protects the building or accelerates its deterioration. For property managers and building owners, understanding the basic difference between lime and Portland cement mortar can prevent a costly mistake."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/restoration-facade.jpg"
+image: "/images/restoration-facade.webp"
 keywords:
   - lime mortar vs Portland cement mortar
   - masonry mortar types Illinois

@@ -5,7 +5,7 @@ excerpt: "Got a long masonry repair list and a short budget? Here's how to decid
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Chicagoland home mid-way through phased masonry repair, with repointed brick and restored joints on one section"
 aiSummary: "When you can't afford all masonry repairs at once, prioritize anything letting water in or posing a safety risk — a failing chimney, open or receding mortar joints, loose or bulging brick, and rusted lintels — first, then move to preventative sealing and cosmetic work. Emerald Masonry LLC helps Chicagoland owners phase repairs sensibly. Free estimates: (708) 288-1696."
 intent: "commercial"
@@ -79,7 +79,7 @@ For property managers juggling multiple buildings, this is doubly important — 
 
 ## Emerald Masonry LLC — planning masonry work that fits your budget
 
-We are a non-union, family-owned masonry company based in Palos Heights, with more than 40 years working on Chicagoland brick and stone. Licensed, bonded, and insured. We have walked a lot of owners through exactly this decision, and we would rather help you spend a smaller budget in the right order than sell you everything at once.
+We are a non-union, family-owned masonry company based in Palos Heights, with more than decades working on Chicagoland brick and stone. Licensed, bonded, and insured. We have walked a lot of owners through exactly this decision, and we would rather help you spend a smaller budget in the right order than sell you everything at once.
 
 If you have a repair list that is bigger than what you can fund right now, let us come out, look at it with you, and build a phased plan that protects your home or building first and your wallet second. Free on-site estimates, no pressure.
 

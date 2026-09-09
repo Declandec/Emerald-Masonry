@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Residential Masonry Restoration Palos Heights, IL | Emerald"
 metaDescription: "Residential masonry restoration in Palos Heights, IL — whole-house brick, chimney, lintel and joint repair by your local mason. Free estimates: (708) 288-1696."
 excerpt: "Our office is on 126th Street. When we say we can come back and check something in the spring, we mean it — and that changes what a whole-house masonry plan is actually worth to a Palos Heights homeowner."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Palos Heights, IL — assessing the full exterior envelope and repairing brick, chimney, lintel, sill and mortar joints on homes throughout the village. Family-owned and based in Palos Heights, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Palos Heights, IL — assessing the full exterior envelope and repairing brick, chimney, lintel, sill and mortar joints on homes throughout the village. Family-owned and based in Palos Heights, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored brick facade, chimney and sills on a home in Palos Heights Illinois"
 faqs:
   - q: "How much does masonry restoration cost in Palos Heights, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Residential Masonry Restoration in Palos Heights, IL
 
-Residential masonry restoration in Palos Heights, IL means assessing the whole exterior — joints, brick, chimney, lintels and sills — and repairing it in the order that actually protects the house. Emerald Masonry LLC does this work from an office right here in the village, at 7156 W. 126th St. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Palos Heights, IL means assessing the whole exterior — joints, brick, chimney, lintels and sills — and repairing it in the order that actually protects the house. Emerald Masonry LLC does this work from an office right here in the village, at 7156 W. 126th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 There is a practical difference between hiring a masonry contractor from your own village and hiring one who covers it from forty minutes away, and it shows up in a specific place: **what happens after the job is done.**
 
@@ -136,7 +136,7 @@ We work throughout 60463 — the neighborhoods around Lake Katherine and the Cal
 
 As the local masonry company we also serve [Palos Park](/locations/tuckpointing-palos-park-il), [Palos Hills](/locations/efflorescence-waterproofing-palos-hills-il), [Orland Park](/locations/residential-masonry-restoration-orland-park-il) and [Worth](/locations/chimney-repair-worth-il). Palos Heights owners frequently start with [brick repair](/locations/brick-repair-palos-heights-il), [tuckpointing](/locations/tuckpointing-palos-heights-il) or [chimney repair](/locations/chimney-repair-palos-heights-il) and expand from there.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

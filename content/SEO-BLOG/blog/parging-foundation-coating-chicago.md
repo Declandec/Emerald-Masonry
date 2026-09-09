@@ -5,9 +5,9 @@ excerpt: "Parging is a thin protective mortar coat that smooths, seals, and shie
 service: "Foundation Masonry Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Freshly parged and coated masonry foundation wall on a Chicago home, smooth gray mortar surface above grade"
-aiSummary: "Parging is a thin mortar coat troweled over a brick or block foundation to protect and smooth it and help the wall shed water. Failing parge coats flake, blister, and let moisture into the masonry behind them. Emerald Masonry LLC parges, coats, and repairs brick, block, and stone foundations across Chicagoland — free estimates, family-owned, 40+ years, (708) 288-1696."
+aiSummary: "Parging is a thin mortar coat troweled over a brick or block foundation to protect and smooth it and help the wall shed water. Failing parge coats flake, blister, and let moisture into the masonry behind them. Emerald Masonry LLC parges, coats, and repairs brick, block, and stone foundations across Chicagoland — free estimates, family-owned, career masons, (708) 288-1696."
 intent: "informational"
 keywords:
   - "parging foundation"
@@ -57,7 +57,7 @@ faqs:
     a: "When the wall is sound, properly prepped, and the coat is breathable, a quality parge job can last 15 to 25 years or more. Lifespan drops fast if there's an unresolved water problem behind the wall or if the coat was applied over a failing surface."
 ---
 
-If the gray mortar skin on your foundation is flaking off in sheets, cracking along the block joints, or showing chalky white stains, you're looking at a failing parge coat — and it's usually a symptom of a moisture problem, not just a cosmetic one. **Parging is a thin protective layer of cement mortar troweled over the exposed face of a brick, block, or stone foundation to smooth it, hide the joints, and help the wall shed water.** When it lets go, water starts reaching the masonry behind it. **Emerald Masonry LLC** has been repairing and coating foundations across **Chicagoland** for **40+ years** as a family-owned, licensed, bonded, and insured masonry contractor. If your foundation coating is crumbling or you want it done right the first time, call us at **(708) 288-1696** for a free estimate.
+If the gray mortar skin on your foundation is flaking off in sheets, cracking along the block joints, or showing chalky white stains, you're looking at a failing parge coat — and it's usually a symptom of a moisture problem, not just a cosmetic one. **Parging is a thin protective layer of cement mortar troweled over the exposed face of a brick, block, or stone foundation to smooth it, hide the joints, and help the wall shed water.** When it lets go, water starts reaching the masonry behind it. **Emerald Masonry LLC** has been repairing and coating foundations across **Chicagoland** for **career masons** as a family-owned, licensed, bonded, and insured masonry contractor. If your foundation coating is crumbling or you want it done right the first time, call us at **(708) 288-1696** for a free estimate.
 
 This guide walks through what parging actually is, where it's used, why parge coats fail, and — most importantly — how a real repair differs from just slapping fresh mortar over a bad wall.
 
@@ -140,7 +140,7 @@ The material choice is where experience shows. The wrong product can cause the e
 - **Surface-bonding cement** — a fiber-reinforced cementitious coat used especially on block walls; it bonds the units together and creates a tough parge surface in one step.
 - **Breathable masonry coatings** — applied as a finish over the parge, these add weather protection while allowing water vapor to escape. The cardinal rule: avoid trapping moisture with the wrong sealer. A hard, film-forming, non-breathable coating on a foundation is how you get spalling and blistering.
 
-Matching the coat to the wall's strength and moisture behavior is the whole game. That judgment call — Type N vs. Type S vs. surface bonding, breathable vs. film-forming — is exactly what 40+ years in the field teaches you.
+Matching the coat to the wall's strength and moisture behavior is the whole game. That judgment call — Type N vs. Type S vs. surface bonding, breathable vs. film-forming — is exactly what career masons in the field teaches you.
 
 ## What Drives the Cost
 
@@ -198,6 +198,6 @@ Foundation work rarely happens in isolation. Depending on what your wall needs, 
 
 A parge coat is the skin over your foundation — and like any skin, it protects what's underneath as long as it's healthy. When it starts flaking, cracking, or blistering, that's your foundation asking for help. Done right, with the wall repaired first and a breathable coat matched to your masonry, parging protects your home and looks clean for decades.
 
-**Emerald Masonry LLC** is a family-owned, licensed, bonded, and insured masonry contractor with **40+ years** of experience parging, coating, and repairing brick, block, and stone foundations across **Chicagoland** — from Beverly to Oak Park and everywhere between. We'll tell you honestly whether you need a fresh parge coat, underlying repairs, drainage work, or all three — and we back it with a **free estimate**.
+**Emerald Masonry LLC** is a family-owned, licensed, bonded, and insured masonry contractor with **career masons** of experience parging, coating, and repairing brick, block, and stone foundations across **Chicagoland** — from Beverly to Oak Park and everywhere between. We'll tell you honestly whether you need a fresh parge coat, underlying repairs, drainage work, or all three — and we back it with a **free estimate**.
 
-Call **(708) 288-1696**, email **emeraldmasonryil@gmail.com**, or [reach out through our contact form](/#contact) to get your foundation looked at by people who've been doing this the right way for four decades.
+Call **(708) 288-1696**, email **emeraldmasonryil@gmail.com**, or [reach out through our contact form](/#contact) to get your foundation looked at by people who've been doing this the right way for decades.

@@ -4,7 +4,7 @@ date: "2026-04-24"
 excerpt: "It's common to get three bids for the same tuckpointing or masonry repair project and find that the highest quote is double the lowest. That spread isn't random — each variable in a masonry bid represents a real difference in what will be done, how it will be done, and how long it will last. Understanding where bids diverge helps property managers and building owners make decisions based on value rather than just price."
 service: "Commercial & Industrial Masonry"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - why masonry bids vary commercial building
   - comparing masonry contractor quotes Illinois

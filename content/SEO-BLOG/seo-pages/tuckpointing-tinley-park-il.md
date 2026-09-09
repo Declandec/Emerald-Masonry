@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing and brick repointing in Tinley Park, IL. Emerald Masonry grinds out failed mortar and matches new joints to your brick. Free estimate — (708) 288-1696."
 excerpt: "Tinley Park's brick homes and commercial buildings are at the age where mortar joints fail. Emerald Masonry LLC tuckpoints and repoints brick across Tinley Park, matching mortar color and hardness so the repair protects the wall and disappears into it."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Tinley Park, IL — grinding out failed mortar joints on brick homes and commercial buildings and repointing with color- and hardness-matched mortar. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Tinley Park, IL — grinding out failed mortar joints on brick homes and commercial buildings and repointing with color- and hardness-matched mortar. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tuckpointed brick home with color-matched mortar joints in Tinley Park, IL"
 faqs:
   - q: "How much does tuckpointing cost in Tinley Park, IL?"
@@ -76,7 +76,7 @@ We don't quote exact prices online because every wall is different. Cost depends
 
 Tinley Park spans both Cook and Will Counties and is one of the larger southwest suburbs, with brick housing stock built heavily from the 1960s through the 1990s — ranches, split-levels, two-story homes — alongside the historic Oak Park Avenue downtown and commercial corridors along 159th Street and Harlem Avenue. After decades of Chicagoland freeze-thaw exposure, original mortar in many of these walls is failing, and chimneys and weather-facing elevations usually go first. We do the same matched, careful tuckpointing across neighboring Orland Park, Oak Forest, Mokena, and Frankfort, where the brick stock and exposure are nearly identical.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -94,4 +94,4 @@ That's the part we focus on. We match the new mortar's color, sand, and tooling 
 
 ## Get a Free Tuckpointing Estimate in Tinley Park
 
-If your joints are crumbling, your brick is staining, or a past repair left mortar that doesn't match, have it looked at before water turns a repointing job into a brick-replacement job. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Tinley Park, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured. Related work: [tuckpointing & repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), and [brick repair](/services/brick-repair).
+If your joints are crumbling, your brick is staining, or a past repair left mortar that doesn't match, have it looked at before water turns a repointing job into a brick-replacement job. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Tinley Park, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Related work: [tuckpointing & repointing](/services/tuckpointing), [chimney repair](/services/chimney-repair), and [brick repair](/services/brick-repair).

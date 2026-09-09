@@ -16,24 +16,19 @@ secondaryKeywords:
 city: "Downers Grove, IL"
 service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Downers Grove, IL | Emerald Masonry LLC"
-metaDescription: "Expert tuckpointing & mortar repointing in Downers Grove, IL. Licensed, 40+ yrs Chicagoland experience. Free on-site estimates. Call (708) 288-1696."
+metaDescription: "Expert tuckpointing & mortar repointing in Downers Grove, IL. Licensed, career masons, decades of Chicagoland experience. Free on-site estimates. Call (708) 288-1696."
 excerpt: "Downers Grove's commercial corridors and older residential neighborhoods are home to thousands of brick buildings that face constant pressure from DuPage County's freeze-thaw cycles. When mortar joints fail, tuckpointing is the repair that stops the damage before it becomes a full-scale brick replacement project. Emerald Masonry LLC delivers precise, properly matched tuckpointing for commercial and residential properties throughout Downers Grove."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Completed commercial tuckpointing project on a brick building in Downers Grove Illinois DuPage County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing chicago suburbs contractor (informational + transactional)
-Why this page is better: Provides Downers Grove-specific building context (Ogden Ave corridor, 1950s-70s brick stock), a structured FAQ with substantive answers, specific mortar type guidance relevant to DuPage County buildings, and a clear commercial focus with internal service links. Competitor page (Gralak tuckpointing-chicago) has no dedicated FAQ, generic weather content, and lacks suburb-specific local context.
-Gaps filled: Dedicated FAQ with specific technical questions; local building age and traffic vibration data; explicit mortar mix guidance tied to building era; stronger commercial CTA; more internal link opportunities.
--->
 
 Downers Grove sits at a geographic and commercial crossroads in DuPage County — the Ogden Avenue and Butterfield Road corridors are lined with brick buildings constructed in the 1950s, 1960s, and 1970s. Those buildings are now 50 to 75 years old, and most were built with lime-based mortars that require period-appropriate repair when they start to fail.
 
 Tuckpointing is not a cosmetic service. When mortar joints deteriorate past a certain point, water enters the wall assembly, freeze-thaw cycles open those gaps further, and what started as a repointing job becomes a partial or full brick replacement. The repair window matters. We've seen Downers Grove commercial properties where deferred maintenance turned a $4,000 tuckpointing job into a $20,000 brick removal and rebuild.
 
-Emerald Masonry LLC has been doing this work in Chicagoland for over 40 years. We understand DuPage County building stock, we match mortar properly, and we don't take shortcuts.
+Emerald Masonry LLC has been doing this work in Chicagoland for decades. We understand DuPage County building stock, we match mortar properly, and we don't take shortcuts.
 
 ## What Tuckpointing Actually Is
 

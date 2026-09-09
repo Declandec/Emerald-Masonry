@@ -18,10 +18,10 @@ service: "Masonry Sealing / Waterproofing"
 serviceSlug: "masonry-sealing"
 pageType: "location"
 metaTitle: "Masonry Sealing & Waterproofing Batavia IL | Emerald Masonry"
-metaDescription: "Masonry sealing & waterproofing in Batavia, IL — breathable sealers that protect brick and stone from water and freeze-thaw damage. Emerald Masonry, 40+ yrs. Free estimate (708) 288-1696."
+metaDescription: "Masonry sealing & waterproofing in Batavia, IL — breathable sealers that protect brick and stone from water and freeze-thaw damage. Emerald Masonry, career masons. Free estimate (708) 288-1696."
 excerpt: "Brick or limestone soaking up water on your Batavia property? Emerald Masonry LLC applies breathable masonry sealers that keep water out without trapping moisture in. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Batavia, IL — applying breathable, vapor-permeable sealers that keep wind-driven rain and snowmelt out of brick and limestone while letting the wall dry, protecting Fox Valley masonry from freeze-thaw damage. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Batavia, IL — applying breathable, vapor-permeable sealers that keep wind-driven rain and snowmelt out of brick and limestone while letting the wall dry, protecting Fox Valley masonry from freeze-thaw damage. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick and limestone wall on a Batavia, IL building after a breathable masonry sealer was applied"
 faqs:
   - q: "How much does masonry sealing cost in Batavia, IL?"
@@ -31,13 +31,13 @@ faqs:
   - q: "Should I repoint or repair before sealing?"
     a: "Yes. Sealer is not a substitute for repair. Failed mortar joints, cracks, and open gaps must be tuckpointed and repaired first, because a sealer cannot bridge a gap and will just let water in behind it. Sealing is the final protective step after the masonry is sound — never a shortcut around repairs."
   - q: "Do you waterproof masonry throughout Batavia and Kane County?"
-    a: "Yes. Emerald Masonry LLC seals and waterproofs brick, block, and limestone on homes and commercial buildings across Batavia, Geneva, St. Charles, and Kane County. We are family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC seals and waterproofs brick, block, and limestone on homes and commercial buildings across Batavia, Geneva, St. Charles, and Kane County. We are family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: false
 ---
 
 ## Quick Answer
 
-**Emerald Masonry LLC** provides **masonry sealing and waterproofing in Batavia, IL** — applying breathable, vapor-permeable sealers that keep wind-driven rain and snowmelt out of your brick and limestone while still letting the wall dry. We are a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, serving Kane County and the Fox Valley. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** provides **masonry sealing and waterproofing in Batavia, IL** — applying breathable, vapor-permeable sealers that keep wind-driven rain and snowmelt out of your brick and limestone while still letting the wall dry. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, serving Kane County and the Fox Valley. For a **free on-site estimate, call (708) 288-1696.**
 
 Sealing is one of the cheapest, most effective ways to extend the life of sound masonry — but only when it is the right product applied at the right time. Done wrong, it does real harm.
 
@@ -86,7 +86,7 @@ Sealing is priced largely by area, but the honest cost drivers are:
 
 Batavia is one of the Fox River's historic mill towns, and it shows in the masonry — limestone and older brick downtown buildings, brick homes of every era, and newer subdivisions across the river. Limestone in particular is highly absorptive and takes the Fox Valley's wind-driven rain and freeze-thaw winters hard, which makes correct, breathable waterproofing especially valuable here. As a Chicagoland masonry company, we match the sealer to the stone or brick in front of us rather than treating every wall the same.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Sealing works best as part of a maintenance plan — see our [masonry sealing and waterproofing](/services/masonry-sealing), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), and [caulking and joint sealant](/services/caulking).
 
@@ -106,7 +106,7 @@ Yes. Sealer is not a substitute for repair. Failed mortar joints, cracks, and op
 
 **Do you waterproof masonry throughout Batavia and Kane County?**
 
-Yes. Emerald Masonry LLC seals and waterproofs brick, block, and limestone on homes and commercial buildings across Batavia, Geneva, St. Charles, and Kane County. We are family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience. Call (708) 288-1696 for a free on-site estimate.
+Yes. Emerald Masonry LLC seals and waterproofs brick, block, and limestone on homes and commercial buildings across Batavia, Geneva, St. Charles, and Kane County. We are family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Masonry Sealing Estimate in Batavia
 

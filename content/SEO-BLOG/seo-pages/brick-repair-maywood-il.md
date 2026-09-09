@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Maywood, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Maywood, IL — spalled brick replaced, bad past patches corrected, joints matched properly. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Maywood has some of the oldest housing in west Cook County, which means most of its brick has been repaired before — often with mortar harder than the brick and patches that made things worse. On these walls, undoing the last repair is frequently step one."
-aiSummary: "Emerald Masonry LLC provides brick repair in Maywood, IL — replacing spalled and cracked brick, correcting failed past patches and hard-mortar repairs, and repointing with properly matched mortar on Maywood's pre-1930 housing, churches and commercial buildings. Family-owned, licensed and insured, 40+ years. Free estimates: (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in Maywood, IL — replacing spalled and cracked brick, correcting failed past patches and hard-mortar repairs, and repointing with properly matched mortar on Maywood's pre-1930 housing, churches and commercial buildings. Family-owned, licensed and insured, career masons. Free estimates: (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Replaced and repointed brick blending into an older wall on a Maywood, Illinois home"
 faqs:
   - q: "Why did my last brick repair fail so quickly?"
@@ -43,7 +43,7 @@ competitorInformed: false
 
 ## Brick Repair in Maywood, IL
 
-Brick repair in Maywood, IL means replacing units that have lost their face, repointing the joints around them, and — on most buildings here — **correcting whatever was done to the wall the last time somebody tried to fix it.** Emerald Masonry LLC serves Proviso Township and west Cook County: family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Maywood, IL means replacing units that have lost their face, repointing the joints around them, and — on most buildings here — **correcting whatever was done to the wall the last time somebody tried to fix it.** Emerald Masonry LLC serves Proviso Township and west Cook County: family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Maywood is one of the oldest suburbs in the region — laid out in 1869, well before most of its neighbors — and that shapes every masonry conversation here.
 
@@ -144,7 +144,7 @@ A spalled brick is an open door. The fired outer skin is what makes a brick weat
 
 **The gap between replacing a dozen bricks and rebuilding a wall section is where the real money is** — and it closes fast in a Chicagoland winter.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Maywood and West Cook County
 

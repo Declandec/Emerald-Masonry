@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Lombard, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Lombard, IL — crowns, flashing leaks, spalling brick and rebuilds by Emerald Masonry. Family-owned, licensed & insured. Free estimate: (708) 288-1696."
 excerpt: "Emerald Masonry repairs chimneys across Lombard and DuPage County — cracked crowns, leaking flashing, deteriorated mortar, and spalling brick above the roofline. Family-owned, licensed and insured, with free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Lombard, IL — fixing cracked crowns, leaking flashing, failed mortar joints, and spalling brick, plus partial rebuilds above the roofline. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience. Free on-site estimates: (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Lombard, IL — fixing cracked crowns, leaking flashing, failed mortar joints, and spalling brick, plus partial rebuilds above the roofline. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates: (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and mortar on a Lombard, IL home by Emerald Masonry"
 faqs:
   - q: "How do I know if my Lombard chimney needs repair or a full rebuild?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Chimney repair in Lombard, IL — fixed at the source, not just the surface
 
-If your Lombard chimney has a cracked crown, crumbling brick, or a leak when it rains, **Emerald Masonry LLC** repairs it correctly the first time. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and we repair chimney crowns, flashing leaks, deteriorated mortar, and spalling brick — plus partial rebuilds above the roofline — for homeowners across Lombard and DuPage County. For a free on-site assessment, call **(708) 288-1696**.
+If your Lombard chimney has a cracked crown, crumbling brick, or a leak when it rains, **Emerald Masonry LLC** repairs it correctly the first time. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we repair chimney crowns, flashing leaks, deteriorated mortar, and spalling brick — plus partial rebuilds above the roofline — for homeowners across Lombard and DuPage County. For a free on-site assessment, call **(708) 288-1696**.
 
 A chimney is the hardest-working masonry on your house. It stands above the roofline exposed to wind, rain, and sun on every side, and it has no overhang to shed water. In Lombard's climate that exposure adds up fast — which is why chimneys are usually the first masonry on a home to fail.
 
@@ -94,12 +94,12 @@ The dividing line is usually the roofline. Damage to the crown, flashing, and th
 
 Lombard's mix of mid-century brick homes, older frame houses with masonry chimneys, and established neighborhoods means we see everything from 1950s-era chimneys with original crowns to homes where past "quick fix" sealing only trapped moisture. DuPage County's freeze-thaw swings are hard on any exposed masonry, and a chimney with no overhang takes the worst of it. We tailor the repair to the chimney in front of us, not a generic template.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Trust signals
 
 - Family-owned and operated
-- 40+ years of Chicagoland masonry experience
+- career masons of Chicagoland masonry experience
 - Licensed, bonded, and insured
 - Free, no-pressure on-site estimates
 - Honest repair-versus-rebuild guidance

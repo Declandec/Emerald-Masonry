@@ -16,10 +16,10 @@ service: "Chimney Repair"
 serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair Country Club Hills IL | Emerald Masonry LLC"
-metaDescription: "Chimney repair in Country Club Hills, IL by Emerald Masonry LLC — crown, flashing, spalling brick, rebuilds and tuckpointing. 40+ years, licensed and insured. Free estimate: (708) 288-1696."
+metaDescription: "Chimney repair in Country Club Hills, IL by Emerald Masonry LLC — crown, flashing, spalling brick, rebuilds and tuckpointing. career masons, licensed and insured. Free estimate: (708) 288-1696."
 excerpt: "Cracked crown, rusted flashing, or spalling brick above the roofline in Country Club Hills? Emerald Masonry LLC repairs and rebuilds masonry chimneys across south Cook County. Free on-site estimate."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Country Club Hills, IL — fixing cracked crowns, leaking flashing, spalling brick, and failed mortar joints, plus partial and full rebuilds on 1960s–80s brick homes. Family-owned, 40+ years, licensed and insured. Free on-site estimates: (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Country Club Hills, IL — fixing cracked crowns, leaking flashing, spalling brick, and failed mortar joints, plus partial and full rebuilds on 1960s–80s brick homes. Family-owned, career masons, licensed and insured. Free on-site estimates: (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired masonry chimney with new crown on a Country Club Hills, IL home"
 faqs:
   - q: "How much does chimney repair cost in Country Club Hills, IL?"
@@ -29,7 +29,7 @@ faqs:
   - q: "What are the warning signs my Country Club Hills chimney needs repair?"
     a: "Watch for a cracked or crumbling crown, rusted or lifting flashing, spalling (flaking) brick above the roofline, white efflorescence staining, damp spots on ceilings or interior chimney walls, and mortar joints you can scrape out by hand. Any of these means water is getting in and it will get worse through the freeze-thaw cycle."
   - q: "Is Emerald Masonry LLC licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, non-union masonry contractor that is licensed, bonded, and insured, with 40+ years of Chicagoland experience. Every job starts with a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned, non-union masonry contractor that is licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience. Every job starts with a free on-site estimate."
   - q: "How long does chimney repair take?"
     a: "A crown seal, flashing repair, or minor tuckpointing is often a one-day job. Larger repairs and full rebuilds take several days depending on height, access, and weather. We give you a realistic timeline in your written estimate before any work begins."
 competitorInformed: false
@@ -94,11 +94,11 @@ The only way to get an accurate number is an inspection. That's why Emerald Maso
 
 ## Country Club Hills chimney repair — local context
 
-Country Club Hills sits in south Cook County, and much of its housing stock is **1960s through 1980s brick homes and split-levels**. On homes of that era, the chimney crowns and the top few courses of brick are usually the first thing to go — decades of Chicago freeze-thaw take a toll on the most exposed masonry on the house. We regularly find crowns that have cracked through, top courses spalling, and flashing that has rusted out on split-level rooflines. Because we've worked Chicagoland masonry for **40+ years**, we know how these homes were built and how their chimneys weather, and we repair them to hold up through the next round of winters.
+Country Club Hills sits in south Cook County, and much of its housing stock is **1960s through 1980s brick homes and split-levels**. On homes of that era, the chimney crowns and the top few courses of brick are usually the first thing to go — decades of Chicago freeze-thaw take a toll on the most exposed masonry on the house. We regularly find crowns that have cracked through, top courses spalling, and flashing that has rusted out on split-level rooflines. Because we've worked Chicagoland masonry for **career masons**, we know how these homes were built and how their chimneys weather, and we repair them to hold up through the next round of winters.
 
 ## Why homeowners trust Emerald Masonry LLC
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 We're non-union, we show up when we say we will, and we tell you honestly whether your chimney needs a repair or a rebuild.
 

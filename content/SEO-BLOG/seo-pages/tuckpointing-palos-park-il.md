@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Palos Park, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Palos Park, IL — mortar joint repair and brick repointing on wooded-lot homes. Licensed, insured, local. Free estimates: (708) 288-1696."
 excerpt: "Palos Park sits inside the forest preserves, and that canopy is why so much local masonry fails on one elevation while the rest looks fine. Emerald Masonry LLC — based two miles away in Palos Heights — repoints these homes with mortar matched to the wall."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Palos Park, IL — grinding out failed mortar joints and repointing brick homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned and based in neighboring Palos Heights, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Palos Park, IL — grinding out failed mortar joints and repointing brick homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned and based in neighboring Palos Heights, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a wooded-lot brick home in Palos Park Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Palos Park, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Tuckpointing in Palos Park, IL
 
-Tuckpointing in Palos Park, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC works here constantly — our office is two miles away in Palos Heights. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Tuckpointing in Palos Park, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC works here constantly — our office is two miles away in Palos Heights. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Palos Park is an unusual place to own masonry, and the reason is the trees.
 
@@ -122,7 +122,7 @@ Palos Park's housing runs from older homes near the village center and the Metra
 
 As the local masonry company we also serve [Palos Heights](/locations/brick-repair-palos-heights-il), [Palos Hills](/locations/efflorescence-waterproofing-palos-hills-il), [Orland Park](/locations/residential-masonry-restoration-orland-park-il) and [Lemont](/locations/historic-masonry-restoration-lemont-il). Palos Park owners frequently pair repointing with [chimney repair](/locations/chimney-repair-palos-park-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a Free Tuckpointing Estimate in Palos Park
 

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Historic Masonry Restoration Naperville IL | Emerald Masonry"
 metaDescription: "Historic masonry restoration in Naperville, IL — lime mortar repointing, brick and limestone repair on century homes. Free estimates: (708) 288-1696."
 excerpt: "Naperville's historic district holds pre-Civil-War brick and locally quarried limestone that predates almost everything else in DuPage County. Emerald Masonry LLC restores it with soft lime mortar and matched materials — never the hard modern mix that quietly destroys old brick."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Naperville, IL — lime-mortar repointing, brick and limestone repair, chimney rebuilding and facade restoration on century-old homes, churches and downtown buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Naperville, IL — lime-mortar repointing, brick and limestone repair, chimney rebuilding and facade restoration on century-old homes, churches and downtown buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored historic brick and limestone facade on a century-old building in Naperville Illinois"
 faqs:
   - q: "What makes historic masonry restoration different from ordinary tuckpointing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Historic Masonry Restoration in Naperville, IL
 
-Historic masonry restoration in Naperville, IL means repairing century-old brick and limestone the way it was originally built — soft lime-based mortar matched to the wall, joints raked by hand rather than power-ground, and salvaged or reproduction units where masonry must be replaced. Emerald Masonry LLC restores Naperville's older homes, churches and downtown buildings with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
+Historic masonry restoration in Naperville, IL means repairing century-old brick and limestone the way it was originally built — soft lime-based mortar matched to the wall, joints raked by hand rather than power-ground, and salvaged or reproduction units where masonry must be replaced. Emerald Masonry LLC restores Naperville's older homes, churches and downtown buildings led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
 
 Naperville is often thought of as a modern city, and by population it is — but its core is one of the oldest settled places in DuPage County. Founded in 1831, the city's historic district holds pre-Civil-War brick homes, Greek Revivals, Italianates, Victorians and Queen Annes, mid-1800s churches, and downtown commercial buildings built with brick and **locally quarried limestone** from the Naperville and Lemont-area quarries along the DuPage and Des Plaines corridors.
 
@@ -104,7 +104,7 @@ DuPage County has no lake moderation, so freeze-thaw cycling here is aggressive 
 
 We work throughout Naperville — the historic district streets around Naper Settlement and the downtown core, the century homes along Main, Eagle and Jefferson, the mid-1800s churches, the brick and limestone commercial buildings downtown, and the older properties near North Central College. We also serve neighboring [Lisle](/locations/chimney-repair-lisle-il), [Downers Grove](/locations/tuckpointing-downers-grove-il), [Plainfield](/locations/tuckpointing-plainfield-il) and [Aurora](/locations/limestone-sill-repair-aurora-il). Naperville property owners often pair restoration with [brick repair](/locations/brick-repair-naperville-il), [chimney repair](/locations/chimney-repair-naperville-il) or [masonry sealing](/locations/masonry-sealing-naperville-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferring Costs More on a Historic Building
 

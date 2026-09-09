@@ -5,7 +5,7 @@ excerpt: "Nobody can price brick repair from a photo, and any per-brick figure y
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Cost & Estimates"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Replaced and repointed brick blending into an older wall on a Chicagoland home"
 keywords:
   - brick repair cost Illinois
@@ -41,7 +41,7 @@ keywords:
   - property manager masonry budget
   - licensed and insured mason Chicagoland
   - family-owned masonry contractor Chicago
-aiSummary: "Brick repair and replacement cost in Illinois is not a per-brick rate. It is driven by how many units have failed, whether they are concentrated or scattered, how difficult the brick is to match, working height and access, how much surrounding repointing is needed, and whether the water source causing the damage must also be corrected. Emerald Masonry LLC gives free on-site estimates itemized by area, with a $5,000 project minimum. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick repair and replacement cost in Illinois is not a per-brick rate. It is driven by how many units have failed, whether they are concentrated or scattered, how difficult the brick is to match, working height and access, how much surrounding repointing is needed, and whether the water source causing the damage must also be corrected. Emerald Masonry LLC gives free on-site estimates itemized by area, with a $5,000 project minimum. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "How much does it cost to replace one brick?"
@@ -70,7 +70,7 @@ faqs:
 
 **There is no per-brick price for brick repair in Illinois, and any figure quoted without seeing the wall is describing someone else's job.** What actually sets the number is how many units have failed, whether they are concentrated in one area or scattered across an elevation, how hard the brick is to match, how high the work is, how much surrounding repointing is needed, and whether the water source that caused the damage still has to be corrected.
 
-Emerald Masonry LLC gives **free on-site estimates itemized by area** across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, $5,000 project minimum. Call **(708) 288-1696**.
+Emerald Masonry LLC gives **free on-site estimates itemized by area** across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, $5,000 project minimum. Call **(708) 288-1696**.
 
 ## Why "Cost Per Brick" Is the Wrong Unit
 
@@ -206,6 +206,6 @@ Brick repair pricing is not mysterious, it is just specific. The number is set b
 
 The one generalization that does hold: **the cheapest moment to address masonry is while the problem is still joints.** Repointing is maintenance. Unit replacement is repair. Section rebuilding is construction. Each tier is a large step up from the last, and Chicagoland winters move a wall from one tier to the next faster than most owners expect.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates, itemized by area — call (708) 288-1696 or [request an estimate](/#contact).**

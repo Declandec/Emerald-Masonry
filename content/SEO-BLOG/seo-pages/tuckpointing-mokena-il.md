@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Mokena, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Mokena, IL — mortar joint repair and brick repointing on newer veneer homes. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Most Mokena homes are too young to need a full repoint — and that is exactly why owners here miss the spots that do. On newer veneer, joint failure is local, early and easy to fix, if somebody looks in the right four places."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Mokena, IL — grinding out failed mortar joints and repointing brick veneer homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Mokena, IL — grinding out failed mortar joints and repointing brick veneer homes, chimneys and outbuildings with color- and hardness-matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a brick veneer home in Mokena Illinois"
 faqs:
   - q: "My house is only 20 years old — can it need tuckpointing already?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Tuckpointing in Mokena, IL
 
-Tuckpointing in Mokena, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
+Tuckpointing in Mokena, IL is the repair that removes failed mortar from your brick joints and replaces it with mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work across Will County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
 
 Mokena presents an unusual masonry situation, and it produces a specific blind spot.
 
@@ -126,7 +126,7 @@ Mokena sits in Will County with no lake buffer, taking the full regional freeze-
 
 We work throughout 60448 — the subdivisions off LaPorte, Wolf and 191st, the older homes near the original village center and the Metra station, the newer construction on the south and west edges, and the churches and commercial properties along Route 30. We also serve neighboring [New Lenox](/locations/brick-repair-new-lenox-il), [Frankfort](/locations/brick-repair-frankfort-il), [Tinley Park](/locations/masonry-sealing-tinley-park-il) and [Homer Glen](/locations/tuckpointing-homer-glen-il). Mokena owners frequently pair repointing with [chimney repair](/locations/chimney-repair-mokena-il) or [masonry restoration](/locations/masonry-restoration-mokena-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

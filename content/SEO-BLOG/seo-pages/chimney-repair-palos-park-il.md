@@ -18,7 +18,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Palos Park, IL | Emerald Masonry LLC"
 metaDescription: "Expert chimney repair, crown repair, and repointing in Palos Park, IL. Emerald Masonry is based in neighboring Palos Heights. Licensed, bonded & insured."
 excerpt: "Palos Park's residential character — established neighborhoods, wooded lots, and homes ranging from mid-century construction to newer builds — means chimney repair needs vary from crown sealant on a 20-year-old fireplace to full upper-chimney rebuilds on homes from the 1960s and 1970s. Emerald Masonry LLC is based in neighboring Palos Heights and serves the full Palos area with chimney inspection, repointing, crown repair, and rebuild services."
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Chimney repair and brick tuckpointing completed on a residential chimney in Palos Park, IL"
 competitorInformed: false
 ---

@@ -18,14 +18,14 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Lemont, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair and replacement in Lemont, IL. Spalling brick, structural repairs & facade restoration for commercial and residential masonry. Free estimates."
 excerpt: "Brick repair in Lemont covers everything from replacing a handful of spalled units to rebuilding sections of wall that have been compromised by years of water infiltration. The village's quarrying heritage means some properties have unique stone and brick combinations that require careful material matching."
-image: "/images/work-brick-repair.jpg"
+image: "/images/work-brick-repair.webp"
 imageAlt: "Brick repair and replacement on masonry building in Lemont, IL"
 competitorInformed: false
 ---
 
 Lemont has a distinctive built environment shaped by its history as a quarry town. The Illinois-Michigan Canal corridor, the historic downtown, and the older residential neighborhoods along the Des Plaines River valley include masonry construction you won't find in most Chicago suburbs — local Lemont limestone, early 20th-century common brick, and combinations of stone and brick in commercial and institutional buildings that require a contractor who understands material compatibility.
 
-Emerald Masonry LLC handles brick repair and replacement for residential and commercial properties throughout Lemont and Will County. We've been working with older and unusual masonry in the southwest suburbs for over 40 years.
+Emerald Masonry LLC handles brick repair and replacement for residential and commercial properties throughout Lemont and Will County. We've been working with older and unusual masonry in the southwest suburbs for decades.
 
 ## What "Brick Repair" Actually Covers
 

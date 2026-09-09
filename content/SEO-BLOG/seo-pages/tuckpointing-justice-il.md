@@ -16,7 +16,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Justice, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing and brick repointing in Justice, IL — mortar joint repair for brick ranches, bungalows, and commercial buildings in southwest Cook County. Free estimates."
 excerpt: "Most of Justice was built in brick during the post-war housing boom, which means most of its mortar joints are now reaching the age where they need attention. Emerald Masonry LLC repoints brick homes and buildings across Justice before failing joints turn into water damage and spalling brick."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a brick home in Justice Illinois southwest Cook County"
 competitorInformed: false
 ---
@@ -92,6 +92,6 @@ We handle both spot repointing and full-elevation tuckpointing. What's right dep
 
 ## Serving Justice and Southwest Cook County
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across Justice and the neighboring southwest suburbs — Bridgeview, Willow Springs, Hickory Hills, Bedford Park, Burbank, and Hodgkins. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across Justice and the neighboring southwest suburbs — Bridgeview, Willow Springs, Hickory Hills, Bedford Park, Burbank, and Hodgkins. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If the mortar on your Justice home is crumbling, recessed, or letting water into the wall, the time to repoint is before the brick starts to spall. **[Contact Emerald Masonry](/#contact)** for a free on-site tuckpointing estimate. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

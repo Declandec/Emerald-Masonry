@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Tinley Park, IL. We diagnose whether the brick failed, was struck, or is being pushed, then repair it right. Call (708) 288-1696 today."
 excerpt: "Broken brick in Tinley Park usually comes from one of four causes: freeze-thaw failure, physical impact, rusting steel pushing from behind, or structural movement. They look similar from ten feet away and they need completely different repairs — and only one of them is fixed by swapping the brick."
-aiSummary: "Emerald Masonry LLC performs brick repair in Tinley Park, IL — replacing spalled and cracked units, rebuilding damaged sections, and repairing garden, garage and subdivision walls, after first identifying whether the brick failed from weather, impact, rusting steel, or structural movement. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC performs brick repair in Tinley Park, IL — replacing spalled and cracked units, rebuilding damaged sections, and repairing garden, garage and subdivision walls, after first identifying whether the brick failed from weather, impact, rusting steel, or structural movement. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Replacement brick blended into a damaged wall on a Tinley Park, Illinois home"
 faqs:
   - q: "How much does brick repair cost in Tinley Park, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Brick Repair in Tinley Park, IL
 
-Brick repair in Tinley Park, IL starts with a diagnosis, not a demolition hammer. Emerald Masonry LLC repairs and replaces damaged brick on homes, garages, garden walls, entrance monuments and commercial buildings throughout the Southwest suburbs — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Tinley Park, IL starts with a diagnosis, not a demolition hammer. Emerald Masonry LLC repairs and replaces damaged brick on homes, garages, garden walls, entrance monuments and commercial buildings throughout the Southwest suburbs — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Because here is what we find on most Tinley Park calls: **the brick is the evidence, not the problem.**
 
@@ -116,7 +116,7 @@ We never quote brick work over the phone. Estimates are free, on-site, and writt
 
 ## Serving Tinley Park and the Southwest Suburbs
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Tinley Park and neighbouring [Orland Park](/locations/brick-repair-orland-park-il), [Oak Forest](/locations/chimney-repair-oak-forest-il), [Mokena](/locations/tuckpointing-mokena-il) and [Frankfort](/locations/tuckpointing-contractor-frankfort-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

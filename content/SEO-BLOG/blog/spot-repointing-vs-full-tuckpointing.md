@@ -4,7 +4,7 @@ date: "2026-06-17"
 excerpt: "Do you need to repoint the whole wall, or just the bad sections? It's one of the most common — and most consequential — questions on a masonry estimate. Here's how to tell which one your building actually needs, and how to avoid paying for the wrong one."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - spot repointing vs full tuckpointing
   - partial tuckpointing cost
@@ -71,4 +71,4 @@ When the foundational work of [tuckpointing](/services/tuckpointing) is matched 
 
 ## Get a Straight Recommendation
 
-If you are looking at a tuckpointing estimate and are not sure whether you are being quoted too much or too little scope, get a second set of eyes on the wall. [Contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment anywhere in Chicagoland. With more than 40 years of masonry experience, we will tell you honestly whether your wall needs spot repointing, a full elevation, or something in between — and why.
+If you are looking at a tuckpointing estimate and are not sure whether you are being quoted too much or too little scope, get a second set of eyes on the wall. [Contact Emerald Masonry](/#contact) or call **(708) 288-1696** for a free on-site assessment anywhere in Chicagoland. With more than decades of masonry experience, we will tell you honestly whether your wall needs spot repointing, a full elevation, or something in between — and why.

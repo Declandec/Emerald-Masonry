@@ -5,7 +5,7 @@ excerpt: "Mortar type is the single most consequential decision in a masonry rep
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Freshly tooled mortar joints matched in color and hardness on a Chicagoland brick wall"
 keywords:
   - Type N vs Type S mortar
@@ -38,7 +38,7 @@ keywords:
   - chimney repointing mortar
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
-aiSummary: "Type N is the general-purpose mortar for most above-grade Chicagoland brick, Type S is the stronger mix for below-grade, structural and high-load masonry, and Type M is reserved for heavy load-bearing and foundation work — while soft pre-1920 brick usually needs a lime-rich Type O or custom lime mortar instead. The rule is that mortar must always be softer than the brick. Emerald Masonry LLC matches mortar to the wall across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Type N is the general-purpose mortar for most above-grade Chicagoland brick, Type S is the stronger mix for below-grade, structural and high-load masonry, and Type M is reserved for heavy load-bearing and foundation work — while soft pre-1920 brick usually needs a lime-rich Type O or custom lime mortar instead. The rule is that mortar must always be softer than the brick. Emerald Masonry LLC matches mortar to the wall across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is the difference between Type N and Type S mortar?"
@@ -65,7 +65,7 @@ faqs:
 
 **Type N** is the general-purpose mortar for most above-grade brick walls in Chicagoland. **Type S** is the stronger mix for below-grade masonry, foundations, and walls carrying structural or lateral load. **Type M** is the strongest and is reserved for heavy load-bearing and below-grade work. And for soft pre-1920 brick — the bungalows, two-flats and greystones that make up so much of this region — the right answer is usually neither, but a **lime-rich Type O or custom lime mortar**.
 
-Behind all of it sits one rule: **mortar must always be softer than the brick it holds.** Emerald Masonry LLC matches mortar to the wall on every job across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Behind all of it sits one rule: **mortar must always be softer than the brick it holds.** Emerald Masonry LLC matches mortar to the wall on every job across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 This is the most consequential decision in any masonry repair, and it is the one homeowners are almost never asked about.
 
@@ -200,6 +200,6 @@ Type N for most above-grade Chicagoland brick. Type S below grade, at foundation
 
 Get the mortar right and the repair blends in and lasts decades. Get it wrong and you will have paid a contractor to strip the faces off your brick, slowly, one winter at a time.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We match mortar to the wall, every time.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We match mortar to the wall, every time.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

@@ -4,7 +4,7 @@ date: "2026-06-28"
 excerpt: "Those orange-brown streaks running down the brick below a window or above a garage door aren't just dirt — they're rust bleeding from a corroding steel lintel. Here's what the stains are telling you, why painting over them solves nothing, and when the problem crosses from cosmetic to structural."
 service: "Lintel Repair"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired brickwork above a window opening after steel lintel replacement on a Chicagoland building"
 aiSummary: "Orange rust stains below windows or above doors mean the steel lintel behind the brick is corroding and expanding, cracking the masonry above the opening. Emerald Masonry LLC repairs and replaces failing lintels across Chicago and the suburbs. Free on-site estimates — call (708) 288-1696."
 intent: "commercial"
@@ -36,7 +36,7 @@ faqs:
 
 If you've noticed orange or rust-brown streaks bleeding down the brick beneath a window, above a garage door, or over a storefront opening, that staining is not surface dirt and it will not wash off for good. It is rust — and it is coming from the steel lintel hidden inside the wall above that opening. The stain is the earliest visible warning that the lintel is corroding, and on a Chicagoland building it is a problem worth taking seriously before the brick above starts to crack and move.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What the Orange Stain Actually Is
 

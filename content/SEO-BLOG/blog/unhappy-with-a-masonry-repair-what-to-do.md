@@ -5,7 +5,7 @@ excerpt: "The work is finished, the crew is gone, and something looks wrong. Bef
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Homeowner comparing a completed masonry repair against original brickwork on a Chicagoland wall"
 keywords:
   - unhappy with masonry repair
@@ -38,7 +38,7 @@ keywords:
   - freeze-thaw brick damage Illinois
   - free masonry estimate Chicago
   - redoing failed tuckpointing
-aiSummary: "Some masonry complaints resolve on their own — fresh mortar cures lighter and darkens over weeks, and efflorescence on new work usually clears. Genuine defects include mortar smeared across brick faces, wrong joint profile, shallow preparation, filled weep holes, and mortar harder than the brick, which spalls faces within a few winters. Emerald Masonry LLC provides second-opinion assessments across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Some masonry complaints resolve on their own — fresh mortar cures lighter and darkens over weeks, and efflorescence on new work usually clears. Genuine defects include mortar smeared across brick faces, wrong joint profile, shallow preparation, filled weep holes, and mortar harder than the brick, which spalls faces within a few winters. Emerald Masonry LLC provides second-opinion assessments across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "My new mortar is much lighter than the old — is that a defect?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Before You Make the Call
 
-**Some masonry complaints resolve on their own. Some are cosmetic workmanship issues worth raising. And one category quietly destroys the wall over the next five winters.** Knowing which you are looking at determines whether you need a conversation, a punch list, or a second opinion. Emerald Masonry LLC provides second-opinion assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site. Call **(708) 288-1696**.
+**Some masonry complaints resolve on their own. Some are cosmetic workmanship issues worth raising. And one category quietly destroys the wall over the next five winters.** Knowing which you are looking at determines whether you need a conversation, a punch list, or a second opinion. Emerald Masonry LLC provides second-opinion assessments across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site. Call **(708) 288-1696**.
 
 We get these calls regularly, and they split fairly cleanly. **Roughly a third of the time the homeowner is looking at normal curing** and the work is fine. A third are real but cosmetic. And a third are genuine defects — sometimes serious ones the homeowner had not even flagged as the problem.
 
@@ -215,6 +215,6 @@ Wait a season on color. Raise smears and profile immediately. And if a key sinks
 
 Most masonry disputes we see started as a fixable Category 2 that went unraised for a year, or a Category 3 that nobody recognized until the brick started coming off.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest second opinions, including on work we did not do.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest second opinions, including on work we did not do.
 
 **Free on-site assessments. Call (708) 288-1696 or [request an estimate](/#contact).**

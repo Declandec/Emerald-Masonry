@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "A masonry chimney is the most weather-exposed part of your house, and Chicago winters work it hard. Here are the warning signs — from crown cracks and spalling brick to white staining, rust, and a leaning stack — and which ones mean you should stop waiting and call someone."
 service: "Chimney Repair"
 location: "Chicagoland, IL"
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 keywords:
   - signs of chimney damage
   - chimney damage Chicago

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Historic Masonry Restoration Hinsdale, IL | Emerald Masonry"
 metaDescription: "Historic masonry restoration in Hinsdale, IL — lime mortar repointing, brick and stone restoration for century homes. Free estimates: (708) 288-1696."
 excerpt: "Hinsdale's historic districts hold some of DuPage County's finest 19th- and early 20th-century masonry — and that masonry cannot be repaired with modern mortar without doing real damage. Emerald Masonry LLC restores it with materials matched to how it was originally built."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Hinsdale, IL — lime-mortar repointing, brick and limestone restoration, chimney rebuilding and facade repair on century-old homes and buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Hinsdale, IL — lime-mortar repointing, brick and limestone restoration, chimney rebuilding and facade repair on century-old homes and buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored historic brick and limestone facade on a century-old home in Hinsdale Illinois"
 faqs:
   - q: "What makes historic masonry restoration different from regular tuckpointing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Historic Masonry Restoration in Hinsdale, IL
 
-Historic masonry restoration in Hinsdale, IL means repairing century-old brick and stone the way it was originally built — with soft, lime-based mortar matched to the wall, hand-worked joints, and salvaged or reproduction units where masonry must be replaced. Emerald Masonry LLC restores Hinsdale's older homes, churches and commercial buildings with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, with free on-site assessments. Call **(708) 288-1696**.
+Historic masonry restoration in Hinsdale, IL means repairing century-old brick and stone the way it was originally built — with soft, lime-based mortar matched to the wall, hand-worked joints, and salvaged or reproduction units where masonry must be replaced. Emerald Masonry LLC restores Hinsdale's older homes, churches and commercial buildings led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, with free on-site assessments. Call **(708) 288-1696**.
 
 Hinsdale has one of the best-preserved collections of 19th- and early 20th-century architecture in DuPage County. The village's historic districts and its many individually significant homes include Victorians, Queen Annes, Prairie-influenced houses, Tudors, Colonial Revivals and early brick commercial buildings downtown — much of it original masonry that has never been properly repointed. That is both the opportunity and the risk: this masonry can last another century, but only if it is repaired correctly.
 
@@ -103,7 +103,7 @@ Hinsdale's masonry sits in a demanding climate. DuPage County has no lake modera
 
 We work throughout Hinsdale — the historic residential blocks around Robbins Park and the village center, the older homes near the Hinsdale Metra station and along the Burlington line, the estate properties on the south and east sides, and the brick commercial buildings downtown. We also serve neighboring [Burr Ridge](/locations/chimney-repair-burr-ridge-il), [Clarendon Hills](/locations/tuckpointing-clarendon-hills-il), [Western Springs](/locations/tuckpointing-western-springs-il) and [La Grange](/locations/brick-repair-la-grange-il), all of which share the same era of housing stock and the same restoration requirements.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Risks of Deferring Historic Masonry Work
 

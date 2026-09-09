@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Shorewood, IL | Emerald Masonry LLC"
 metaDescription: "Brick replacement in Shorewood, IL — cutting out spalled units and matching new brick to your wall. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Replacing brick is not the hard part — matching it is. On Shorewood's 1990s and 2000s veneer, the original color may no longer be manufactured, and the difference between a repair you can find and one you cannot is entirely in the sourcing."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Shorewood, IL — cutting out spalled, cracked and failed brick units and replacing them with brick matched for size, color, texture and absorption. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Shorewood, IL — cutting out spalled, cracked and failed brick units and replacing them with brick matched for size, color, texture and absorption. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick set into a repaired veneer wall on a Shorewood Illinois home"
 faqs:
   - q: "How much does brick replacement cost in Shorewood, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Replacement in Shorewood, IL
 
-Brick replacement in Shorewood, IL means cutting out spalled, cracked or failed units and setting matched brick in their place — matched not just for color, but for size, texture and **absorption**. Emerald Masonry LLC does this work across Will County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick replacement in Shorewood, IL means cutting out spalled, cracked or failed units and setting matched brick in their place — matched not just for color, but for size, texture and **absorption**. Emerald Masonry LLC does this work across Will County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the honest framing: **cutting out brick and setting new brick is the straightforward part of this job.** Any competent mason can do it.
 
@@ -133,7 +133,7 @@ Shorewood sits along the DuPage and Des Plaines rivers in Will County with no la
 
 We work throughout 60404 — the subdivisions off Route 59 and Black Road, the newer construction on the west side, the older homes near the original village center, and the churches and commercial properties along the main corridors. We also serve neighboring [Joliet](/locations/foundation-masonry-repair-joliet-il), [Plainfield](/locations/tuckpointing-plainfield-il), [Minooka](/locations/foundation-masonry-repair-minooka-il) and [Channahon](/locations/commercial-masonry-channahon-il). Shorewood owners frequently pair replacement with [tuckpointing](/locations/tuckpointing-shorewood-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

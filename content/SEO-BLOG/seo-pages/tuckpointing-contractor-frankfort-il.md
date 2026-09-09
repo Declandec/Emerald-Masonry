@@ -17,21 +17,16 @@ city: "Frankfort, IL"
 service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing Contractor in Frankfort, IL | Emerald Masonry LLC"
 metaDescription: "Licensed tuckpointing contractor serving Frankfort, IL. Mortar joint repair, repointing & brick restoration for commercial and residential properties. Free estimates."
-excerpt: "Frankfort's mix of newer commercial strips and established residential neighborhoods means tuckpointing needs range from routine repointing on 1990s subdivisions to full mortar restoration on older masonry. Emerald Masonry LLC is a licensed, bonded contractor with 40+ years of Chicagoland experience."
-image: "/images/work-tuckpointing.jpg"
+excerpt: "Frankfort's mix of newer commercial strips and established residential neighborhoods means tuckpointing needs range from routine repointing on 1990s subdivisions to full mortar restoration on older masonry. Emerald Masonry LLC is a licensed, bonded contractor led by career masons with decades of hands-on Chicagoland experience."
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Tuckpointing work on brick masonry in Frankfort, IL"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing contractor [Chicago suburb] IL — same intent as high-ranking Chicago tuckpointing service pages targeting suburban searches
-Why this page is better: Frankfort-specific local context (building age, property types, Will County climate exposure), stronger FAQ with pricing transparency and timeline detail, clearer differentiation between phone and form contact, better internal linking
-Gaps filled: No pricing context, no project timelines, no local neighborhood detail, no warranty language, no distinction between residential and commercial scope
--->
 
 Tuckpointing isn't a glamorous repair, but it's one of the most important things you can do for a masonry building in the Chicago area. Once mortar joints start cracking, water gets in. Once water gets in, it freezes, expands, and the damage accelerates fast. In Frankfort — where Will County's freeze-thaw cycles hit hard and many subdivisions were built between 1985 and 2010 — staying ahead of mortar deterioration is straightforward maintenance, not emergency repair.
 
-Emerald Masonry LLC is a licensed, bonded, and insured tuckpointing contractor based in Palos Heights, IL. We've been doing this work across the southwest suburbs for over 40 years. No subs, no surprises — we send our own crew, do the work right, and stand behind it.
+Emerald Masonry LLC is a licensed, bonded, and insured tuckpointing contractor based in Palos Heights, IL. We've been doing this work across the southwest suburbs for decades. No subs, no surprises — we send our own crew, do the work right, and stand behind it.
 
 ## What Tuckpointing Actually Is
 

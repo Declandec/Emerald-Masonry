@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Masonry Caulking & Joint Sealant in Hinsdale, IL | Emerald"
 metaDescription: "Masonry caulking and joint sealant in Hinsdale, IL — non-staining products on limestone, correct backer rod and bead geometry. Free estimates: (708) 288-1696."
 excerpt: "Most sealant mistakes are fixable. Putting the wrong chemistry against Hinsdale limestone is not — it leaves a dark halo along every joint that does not clean off."
-aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant work in Hinsdale, IL — replacing failed expansion, control and window perimeter joints using backer rod and non-staining sealants selected for limestone, brick and cast stone on historic and modern homes. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant work in Hinsdale, IL — replacing failed expansion, control and window perimeter joints using backer rod and non-staining sealants selected for limestone, brick and cast stone on historic and modern homes. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "Replaced perimeter sealant joint at a stone-trimmed window opening in Hinsdale, Illinois"
 faqs:
   - q: "How much does masonry caulking cost in Hinsdale, IL?"
@@ -43,13 +43,13 @@ faqs:
   - q: "How long should exterior sealant last?"
     a: "Treat it as a maintenance cycle, not a permanent installation. A correctly installed joint performs for years, and exposure decides where in that range you land — south and west elevations taking sun and driving rain fail first."
   - q: "Do you work on Hinsdale's historic homes?"
-    a: "Yes. Historic masonry needs a lighter hand throughout — non-staining products on stone, no sealant in mortar joints, and repair in kind. Emerald has worked on Chicagoland's older housing stock for 40+ years."
+    a: "Yes. Historic masonry needs a lighter hand throughout — non-staining products on stone, no sealant in mortar joints, and repair in kind. Emerald has worked on Chicagoland's older housing stock for career masons."
 competitorInformed: false
 ---
 
 ## Masonry Caulking & Joint Sealant in Hinsdale, IL
 
-Masonry caulking in Hinsdale, IL carries a risk that most sealant work does not: **on limestone and cast stone, the wrong product leaves a permanent dark halo along every joint it touches.** Emerald Masonry LLC replaces failed sealant joints on historic and modern homes, downtown buildings and multi-tenant properties throughout Hinsdale and DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Masonry caulking in Hinsdale, IL carries a risk that most sealant work does not: **on limestone and cast stone, the wrong product leaves a permanent dark halo along every joint it touches.** Emerald Masonry LLC replaces failed sealant joints on historic and modern homes, downtown buildings and multi-tenant properties throughout Hinsdale and DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Most sealant errors are annoying and fixable. This one is not, which is why product selection deserves more attention here than anywhere else in the trade.
 
@@ -112,7 +112,7 @@ All of it sits in DuPage County's climate: wide temperature swings, dozens of fr
 
 Linear footage of joint · removal difficulty of the existing material · height and access · **substrate mix, since stone requires non-staining products and more careful preparation** · priming requirements · masonry repairs needed first · season, because sealants have temperature and moisture limits for proper cure. The assessment is free and written, with a $5,000 project minimum.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Hinsdale and DuPage County
 
@@ -120,6 +120,6 @@ We handle sealant and caulking work throughout Hinsdale's 60521 — the historic
 
 ## Why Hinsdale Homeowners Call Emerald
 
-We identify every substrate before we open a tube, we specify non-staining products on stone as a rule rather than an upgrade, and we tell you which joints should be sealed and which should be repointed. On older masonry we repair in kind. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We identify every substrate before we open a tube, we specify non-staining products on stone as a rule rather than an upgrade, and we tell you which joints should be sealed and which should be repointed. On older masonry we repair in kind. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 If your sealant joints are split, pulled away or staining the stone around them, [request a free on-site estimate](/#contact) or call **(708) 288-1696**.

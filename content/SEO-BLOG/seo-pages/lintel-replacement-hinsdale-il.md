@@ -18,16 +18,11 @@ service: "Lintel Replacement"
 metaTitle: "Lintel Replacement in Hinsdale, IL | Emerald Masonry LLC"
 metaDescription: "Corroded steel lintels crack bricks above windows and doors. Emerald Masonry replaces lintels in Hinsdale, IL — licensed, bonded & insured. Free estimates."
 excerpt: "When steel lintels corrode inside a Hinsdale brick wall, the expanding rust pushes mortar joints apart and cracks the brick above windows and doors. This is one of the most common — and commonly misread — masonry problems in Hinsdale's older brick housing stock. Emerald Masonry LLC replaces corroded lintels and rebuilds the affected masonry to stop the damage cycle."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Lintel replacement and brick repair above commercial window in Hinsdale, IL"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: steel lintel replacement Hinsdale IL masonry contractor
-Why this page is better: This page explains the lintel failure mechanism specific to Hinsdale's older brick building stock, provides lintel-specific FAQ answers (not generic tuckpointing topics), addresses cost and timeline factors, and includes specific guidance on what property owners should evaluate before hiring a contractor. The competitor page's FAQ covers generic tuckpointing and does not address lintel-specific questions at all.
-Gaps filled: Lintel-specific FAQ (replacement timeline, when to replace vs. repair, cost factors), Hinsdale building stock context, clearer explanation of rust expansion mechanism, stronger CTA, guidance on what the repair scope actually involves
--->
 
 Hinsdale sits in one of the densest concentrations of high-quality older brick construction in the Chicago suburbs. Many of the homes and commercial buildings along the village's historic corridors were built between 1910 and 1955, with brick facades that have aged gracefully — until a hidden steel component begins to fail.
 
@@ -123,7 +118,7 @@ Emerald Masonry maintains a $5,000 project minimum. Single-lintel replacements o
 
 ## Service Area
 
-Emerald Masonry LLC serves Hinsdale and the surrounding DuPage and Cook County communities from our base in Palos Heights, IL. We work throughout Clarendon Hills, Westmont, Darien, Burr Ridge, Willowbrook, Oak Brook, and the broader southwest and west suburban Chicago area. Our 40+ years in the Chicagoland market means we've worked on the full range of brick construction that defines these communities — from 1920s bungalows to mid-century commercial buildings.
+Emerald Masonry LLC serves Hinsdale and the surrounding DuPage and Cook County communities from our base in Palos Heights, IL. We work throughout Clarendon Hills, Westmont, Darien, Burr Ridge, Willowbrook, Oak Brook, and the broader southwest and west suburban Chicago area. Our career masons in the Chicagoland market means we've worked on the full range of brick construction that defines these communities — from 1920s bungalows to mid-century commercial buildings.
 
 Need a lintel inspection or replacement estimate in Hinsdale? [Contact us online](/#contact) or call **(708) 288-1696** for a free on-site evaluation. We'll assess every opening, document the condition honestly, and tell you what needs to be replaced now versus what can be monitored.
 

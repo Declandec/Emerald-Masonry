@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "The salt that keeps your steps from icing over is quietly eating the brick and mortar underneath it. Here's how de-icing chemicals attack masonry in Illinois, which parts of your home are most at risk, and how to protect — or repair — brick steps, stoops, and foundation walls."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 keywords:
   - road salt brick damage Illinois
   - de-icer masonry damage
@@ -89,7 +89,7 @@ Skipping step 4 is the most common mistake — replacing brick without changing 
 
 Salt keeps your family on their feet through an Illinois winter, but it's quietly working against the brick steps, stoops, and foundation it lands on. Shovel before you salt, switch to a masonry-friendlier de-icer, keep water moving away from the wall, and seal sound brick — and you get the safety without the slow demolition. When the damage is already showing, catch it while it's localized.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If salt has been working on your steps or foundation, [contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. If salt has been working on your steps or foundation, [contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

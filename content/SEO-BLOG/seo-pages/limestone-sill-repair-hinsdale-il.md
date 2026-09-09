@@ -18,10 +18,10 @@ service: "Limestone / Sill Repair"
 serviceSlug: "limestone-sill-repair"
 pageType: "location"
 metaTitle: "Limestone Sill Repair in Hinsdale, IL | Emerald Masonry"
-metaDescription: "Limestone sill repair in Hinsdale, IL by Emerald Masonry LLC. Spalled, cracked & delaminating Indiana limestone restored. 40+ years. Call (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and restores Indiana limestone sills, lintels, and stone detailing on Hinsdale's older brick and stone homes. With 40+ years of Chicagoland experience, we preserve original stone wherever possible. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides limestone sill repair in Hinsdale, IL — restoring spalled, cracked, and delaminating Indiana limestone sills, lintels, and stone trim, preserving original stone with Dutchman repairs wherever possible. Family-owned, licensed and insured, with 40+ years of experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+metaDescription: "Limestone sill repair in Hinsdale, IL by Emerald Masonry LLC. Spalled, cracked & delaminating Indiana limestone restored. career masons. Call (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs and restores Indiana limestone sills, lintels, and stone detailing on Hinsdale's older brick and stone homes. With career masons on every crew, we preserve original stone wherever possible. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides limestone sill repair in Hinsdale, IL — restoring spalled, cracked, and delaminating Indiana limestone sills, lintels, and stone trim, preserving original stone with Dutchman repairs wherever possible. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored Indiana limestone window sill on a historic brick home in Hinsdale, IL after Emerald Masonry stone repair"
 faqs:
   - q: "How much does limestone sill repair cost in Hinsdale, IL?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 # Limestone Sill Repair in Hinsdale, IL
 
-If the limestone sills on your Hinsdale home are flaking, cracking, or streaking rust down the brick below, **Emerald Masonry LLC** provides expert limestone sill repair in Hinsdale, IL — restoring the stone that gives these homes their character rather than tearing it out. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and we preserve original Indiana limestone wherever it's sound enough to save. For a free on-site estimate, call **(708) 288-1696**.
+If the limestone sills on your Hinsdale home are flaking, cracking, or streaking rust down the brick below, **Emerald Masonry LLC** provides expert limestone sill repair in Hinsdale, IL — restoring the stone that gives these homes their character rather than tearing it out. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we preserve original Indiana limestone wherever it's sound enough to save. For a free on-site estimate, call **(708) 288-1696**.
 
 Hinsdale is a village built on stone. Its historic districts and tree-lined streets are full of stately Georgians, Tudors, and Colonials — plus grand newer custom homes — and nearly all of them wear Indiana limestone: window sills, lintels and headers, water tables, porch caps, coping, quoins, and carved banding. That stone is exactly what fails first, and it's exactly what a careful limestone sill repair in Hinsdale, IL is meant to protect.
 
@@ -75,7 +75,7 @@ We tell you honestly which one your sills call for during the free estimate — 
 
 A limestone repair only looks right if it disappears into the original. We source close-matching **Indiana limestone** and match the color, grain, and finish of your existing stone. We **recut the drip edge** on the underside so the repaired sill sheds water the way it was designed to. And we set the ends in **soft, flexible sealant joints rather than hard mortar**, so the stone can expand and contract with temperature without cracking at the ends — a detail that's easy to skip and expensive to get wrong.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Hinsdale and the Chicagoland suburbs with 40+ years of experience in limestone and sill repair, tuckpointing, brick repair and replacement, lintel and parapet work, foundation masonry, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Hinsdale and the Chicagoland suburbs led by career masons with decades of hands-on experience in limestone and sill repair, tuckpointing, brick repair and replacement, lintel and parapet work, foundation masonry, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## What Drives the Cost of Limestone Sill Repair in Hinsdale
 
@@ -102,4 +102,4 @@ Nearby, we do the same stone work on the older homes of **[Clarendon Hills](/loc
 
 Failing limestone doesn't heal — it delaminates further every winter, and a sill you could have saved this year may need full replacement in a few. If your Hinsdale home's sills, lintels, or stone trim are spalling, cracking, or streaking the brick, have them looked at now. Emerald Masonry LLC will inspect the stone, tell you honestly whether it can be saved, and give you a clear plan to protect it.
 
-**Call Emerald Masonry LLC at (708) 288-1696 or [request your free on-site estimate](/#contact).** Family-owned, licensed, bonded, and insured — 40+ years restoring Chicagoland's brick and stone.
+**Call Emerald Masonry LLC at (708) 288-1696 or [request your free on-site estimate](/#contact).** Family-owned, licensed, bonded, and insured — career masons restoring Chicagoland's brick and stone.

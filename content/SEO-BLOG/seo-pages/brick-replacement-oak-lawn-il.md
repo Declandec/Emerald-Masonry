@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Oak Lawn, IL | Emerald Masonry LLC"
 metaDescription: "Brick replacement in Oak Lawn, IL — failed sections cut out and rebuilt with matched brick and mortar, and the cause corrected. Free estimates: (708) 288-1696."
 excerpt: "There is a point where replacing brick one at a time costs more than rebuilding the section properly — and on Oak Lawn's postwar walls, that point arrives faster than most homeowners expect."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Oak Lawn, IL — cutting out spalled, cracked and displaced brick and rebuilding failed sections with matched units and matched mortar, after correcting the water path or steel that caused the failure. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Oak Lawn, IL — cutting out spalled, cracked and displaced brick and rebuilding failed sections with matched units and matched mortar, after correcting the water path or steel that caused the failure. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Rebuilt brick wall section with matched replacement brick on a home in Oak Lawn, Illinois"
 faqs:
   - q: "How much does brick replacement cost in Oak Lawn, IL?"
@@ -47,7 +47,7 @@ competitorInformed: false
 
 ## Brick Replacement in Oak Lawn, IL
 
-Brick replacement in Oak Lawn, IL becomes the right answer at a specific point: when cutting in one more individual brick stops being cheaper than rebuilding the section around it. Emerald Masonry LLC replaces failed brick throughout Oak Lawn and the southwest suburbs — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick replacement in Oak Lawn, IL becomes the right answer at a specific point: when cutting in one more individual brick stops being cheaper than rebuilding the section around it. Emerald Masonry LLC replaces failed brick throughout Oak Lawn and the southwest suburbs — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Most homeowners arrive at this question the same way. A few brick faces flaked off. Then a few more. Then the mason points at the wall and says the damage runs further than the part that looks bad.
 
@@ -99,7 +99,7 @@ Where a run is genuinely gone, the professional answer is salvage: take sound br
 
 The size of the failed section · veneer versus structural masonry · height and access, from a grade-level wall to a second story or chimney needing staging · brick-match difficulty · underlying corrections such as lintels, sills, flashing or drainage · season and curing conditions. Emerald Masonry does not quote brick work over the phone; the on-site assessment is free and written, with a $5,000 project minimum.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Oak Lawn and the Southwest Suburbs
 
@@ -107,6 +107,6 @@ We rebuild brick throughout Oak Lawn's 60453 — the ranch streets off Cicero an
 
 ## Why Oak Lawn Homeowners Call Emerald
 
-We tell you which repair the wall actually needs before we price it — and we would rather talk you out of a rebuild than sell you one you do not need. We correct what caused the failure instead of building over it, and we lay the brick match up against your wall so there are no surprises when the staging comes down. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We tell you which repair the wall actually needs before we price it — and we would rather talk you out of a rebuild than sell you one you do not need. We correct what caused the failure instead of building over it, and we lay the brick match up against your wall so there are no surprises when the staging comes down. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 If a section of your Oak Lawn home has spalled through, cracked across, or started to bulge, [request a free on-site estimate](/#contact) or call **(708) 288-1696**.

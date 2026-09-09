@@ -18,10 +18,10 @@ service: "Tuckpointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Oak Park, IL | Emerald Masonry LLC"
-metaDescription: "Tuckpointing in Oak Park, IL by Emerald Masonry LLC. Historic soft-brick mortar matched by lime content, color & joint profile. 40+ years. Call (708) 288-1696."
-excerpt: "Emerald Masonry LLC tuckpoints Oak Park's historic brick homes with mortar matched to the original — by composition, color, and joint profile — so repairs protect the soft brick instead of destroying it. Family-owned, licensed and insured, 40+ years. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Oak Park, IL, restoring failing mortar joints on the village's historic Prairie, Victorian, and bungalow brick using mortar matched to the original by lime content, color, and joint profile. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential.jpg"
+metaDescription: "Tuckpointing in Oak Park, IL by Emerald Masonry LLC. Historic soft-brick mortar matched by lime content, color & joint profile. career masons. Call (708) 288-1696."
+excerpt: "Emerald Masonry LLC tuckpoints Oak Park's historic brick homes with mortar matched to the original — by composition, color, and joint profile — so repairs protect the soft brick instead of destroying it. Family-owned, licensed and insured, career masons. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Oak Park, IL, restoring failing mortar joints on the village's historic Prairie, Victorian, and bungalow brick using mortar matched to the original by lime content, color, and joint profile. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Repointed historic brick wall on an Oak Park, IL home after Emerald Masonry tuckpointing"
 faqs:
   - q: "How much does tuckpointing cost in Oak Park, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "How do I know my Oak Park home needs tuckpointing?"
     a: "Look for mortar joints that have receded behind the brick face, mortar you can rake out with a screwdriver or that crumbles to sand, white efflorescence, flaking brick, or small piles of mortar grit at the base of the wall. Any of these means water is getting into the joints and it's time to have the mortar looked at."
   - q: "Are you licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Oak Park and the surrounding Chicagoland suburbs with 40+ years of experience."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Oak Park and the surrounding Chicagoland suburbs led by career masons with decades of hands-on experience."
 competitorInformed: false
 ---
 
 # Tuckpointing in Oak Park, IL
 
-If you own a brick home in Oak Park, IL, the single most important thing to get right about **tuckpointing Oak Park IL** work is the mortar — and Emerald Masonry LLC matches it to your home's original by composition, color, and joint profile. We restore failing mortar joints on Oak Park's Prairie School homes, Victorians, American Foursquares, and brick bungalows so the repair protects the historic brick instead of quietly destroying it. Family-owned, licensed and insured, with 40+ years of Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
+If you own a brick home in Oak Park, IL, the single most important thing to get right about **tuckpointing Oak Park IL** work is the mortar — and Emerald Masonry LLC matches it to your home's original by composition, color, and joint profile. We restore failing mortar joints on Oak Park's Prairie School homes, Victorians, American Foursquares, and brick bungalows so the repair protects the historic brick instead of quietly destroying it. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
 
 ## Why Oak Park Brick Is Different — and Why Mortar Matching Is the Whole Job
 
@@ -87,7 +87,7 @@ Failing mortar is a water problem before it's a cosmetic one. Once the joints st
 
 Matching mortar means choosing the right mix, not the strongest one. On Oak Park's pre-1930 masonry that usually means a **softer, lime-rich mortar** (in the family of Type N or a lime-dominant blend) rather than a hard **Type S**, so the mortar stays more forgiving than the brick around it. We match color with the right sand and pigment and finish the joints to the original tooled profile.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Oak Park and the Chicagoland suburbs with 40+ years of experience in tuckpointing and repointing, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill work, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Oak Park and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing and repointing, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill work, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Drives the Cost of Tuckpointing in Oak Park
 

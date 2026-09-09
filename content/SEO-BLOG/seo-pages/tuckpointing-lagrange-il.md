@@ -18,18 +18,13 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in La Grange, IL | Emerald Masonry LLC"
 metaDescription: "Licensed tuckpointing contractor serving La Grange IL. Mortar joint repair for commercial & residential brick buildings. Free estimates. Call (708) 288-1696."
 excerpt: "La Grange's older brick buildings — many built in the early-to-mid 20th century — need periodic mortar maintenance to stay structurally sound and water-tight. Emerald Masonry LLC provides licensed tuckpointing and repointing for commercial and residential properties throughout La Grange and the western suburbs."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Tuckpointing mortar joint repair on commercial brick building in La Grange Illinois"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing La Grange IL contractor brick repointing
-Why this page is better: Competitor page has no heading structure, no local context, no FAQ, and no explanation of what tuckpointing actually involves or why it matters for La Grange's specific building stock. This page covers the process in detail, addresses the local architectural and climate context, includes a full FAQ, and provides clear internal links to related services.
-Gaps filled: H2/H3 structure throughout; local context (La Grange building ages, Cook County climate); detailed process explanation; 4-question FAQ with specific answers; strong CTA; internal links to related service pages
--->
 
-La Grange is one of the better-preserved historic suburbs on Chicago's western edge. The downtown district and surrounding residential blocks are thick with brick construction from the 1910s through the 1950s — buildings that were built to last but that now need mortar maintenance to keep doing it. Mortar is the first thing to go. It's softer than brick by design, and after 20–40 years of Illinois freeze-thaw cycles, it recesses, cracks, and eventually fails entirely. That's where tuckpointing comes in.
+La Grange is one of the better-preserved historic suburbs on Chicago's western edge. The downtown district and surrounding residential blocks are thick with brick construction from the 1910s through the 1950s — buildings that were built to last but that now need mortar maintenance to keep doing it. Mortar is the first thing to go. It's softer than brick by design, and after 20–decades of Illinois freeze-thaw cycles, it recesses, cracks, and eventually fails entirely. That's where tuckpointing comes in.
 
 Emerald Masonry LLC provides professional tuckpointing and repointing for commercial and residential brick properties throughout La Grange, La Grange Park, Western Springs, and the surrounding Cook and DuPage County area.
 

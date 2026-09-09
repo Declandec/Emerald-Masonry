@@ -5,7 +5,7 @@ excerpt: "Masonry landing on the ground is the one thing in this trade that is g
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Fallen brick and mortar debris at the base of a Chicagoland masonry wall after a freeze"
 keywords:
   - brick fell off my house
@@ -38,7 +38,7 @@ keywords:
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "If masonry has fallen from your building, keep people away from the area beneath it immediately, photograph everything before moving anything, and get a licensed masonry contractor to assess it — because whatever released that piece is still holding the units around it. Leaning chimneys, bulging walls and material above entrances or sidewalks are safety issues, not maintenance. Emerald Masonry LLC assesses urgent masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "If masonry has fallen from your building, keep people away from the area beneath it immediately, photograph everything before moving anything, and get a licensed masonry contractor to assess it — because whatever released that piece is still holding the units around it. Leaning chimneys, bulging walls and material above entrances or sidewalks are safety issues, not maintenance. Emerald Masonry LLC assesses urgent masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "transactional"
 faqs:
   - q: "A brick fell off my house — is that an emergency?"
@@ -63,7 +63,7 @@ faqs:
 
 ## A Brick Fell Off Your House. Do This First.
 
-**Keep people away from the area beneath it, photograph everything before moving anything, and get a licensed masonry contractor out to assess it — because whatever released that piece is still holding the units around it.** Fallen masonry is the one thing in this trade that is genuinely time-sensitive. Emerald Masonry LLC assesses urgent masonry across Chicago and the Chicagoland suburbs — family-owned, licensed, bonded and insured, 40+ years of experience. Call **(708) 288-1696**.
+**Keep people away from the area beneath it, photograph everything before moving anything, and get a licensed masonry contractor out to assess it — because whatever released that piece is still holding the units around it.** Fallen masonry is the one thing in this trade that is genuinely time-sensitive. Emerald Masonry LLC assesses urgent masonry across Chicago and the Chicagoland suburbs — family-owned, licensed, bonded and insured, career masons with decades of experience. Call **(708) 288-1696**.
 
 Most masonry problems can wait for the right season. This one cannot, and the reason is simple: **a brick does not fall by itself.** Something failed — a joint, a tie, a lintel, an anchor — and that same failure is present in the masonry immediately around the piece that came down.
 
@@ -199,6 +199,6 @@ Clear the ground below. Photograph everything. Keep the pieces. Call somebody li
 
 Then, once it is safe, get the whole elevation looked at rather than the hole patched. The brick on your lawn is not the problem. It is the notification.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, churches and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with homeowners, property managers, HOAs, churches and insurance companies.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

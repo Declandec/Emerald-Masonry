@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Beverly, Chicago | Emerald"
 metaDescription: "Limestone and sill repair in Beverly, Chicago — greystone facades, sills and stoops repaired without cement patches. Free estimates: call (708) 288-1696 now."
 excerpt: "Beverly's greystones are faced in Bedford limestone that was tooled by hand a century ago. When that stone starts to sugar, delaminate or spall, the damage is almost always in the outer inch — and what you do to that inch decides whether the stone lasts another hundred years or gets destroyed in a weekend."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Beverly, Chicago — repairing sugaring, delaminating and spalling greystone facades, window sills, water tables, stone lintels and stoops using dutchman repairs, matched stone and soft lime mortar rather than cement patching. Family-owned, licensed and insured, 40+ years of experience. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Beverly, Chicago — repairing sugaring, delaminating and spalling greystone facades, window sills, water tables, stone lintels and stoops using dutchman repairs, matched stone and soft lime mortar rather than cement patching. Family-owned, licensed and insured, career masons with decades of experience. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Repaired limestone sill and greystone facade on a home in Beverly, Chicago, Illinois"
 faqs:
   - q: "How much does limestone sill repair cost in Beverly, Chicago?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Limestone & Sill Repair in Beverly, Chicago
 
-Limestone and sill repair in Beverly, Chicago is a conservation problem disguised as a repair problem. Emerald Masonry LLC repairs greystone facades, window sills, water tables, stone lintels, stoops and steps across the 60643 area and the Southwest Side. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Beverly, Chicago is a conservation problem disguised as a repair problem. Emerald Masonry LLC repairs greystone facades, window sills, water tables, stone lintels, stoops and steps across the 60643 area and the Southwest Side. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Walk Longwood Drive or any of the streets running off the Ridge and the housing stock announces itself: grey limestone facades, hand-tooled faces, deep window reveals, heavy stone stoops. Beverly has one of the densest concentrations of intact **greystones** anywhere in Chicago.
 
@@ -137,7 +137,7 @@ We do not quote stone work over the phone. Estimates are free, on site and writt
 
 ## Serving Beverly and Chicago's Southwest Side
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Beverly and neighbouring [Mount Greenwood](/locations/tuckpointing-mount-greenwood-chicago-il), [Evergreen Park](/locations/brick-repair-evergreen-park-il), [Oak Lawn](/locations/tuckpointing-oak-lawn-il) and [Palos Heights](/locations/tuckpointing-palos-heights-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

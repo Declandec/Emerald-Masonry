@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Residential Masonry Restoration Elmwood Park, IL"
 metaDescription: "Residential masonry restoration in Elmwood Park, IL — brick homes, bungalows and two-flats, scoped by elevation. Insured. Free estimates: (708) 288-1696."
 excerpt: "Your south and west walls are years ahead of your north and east walls in deterioration, because they get different weather. Pricing your house as one number ignores that — and usually means paying for work that didn't need doing yet."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Elmwood Park, IL — tuckpointing, brick repair and replacement, lintel and sill work, and chimney restoration on brick homes, bungalows and two-flats, scoped and phased by elevation. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Elmwood Park, IL — tuckpointing, brick repair and replacement, lintel and sill work, and chimney restoration on brick homes, bungalows and two-flats, scoped and phased by elevation. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored brick facade on a Chicago-style brick home in Elmwood Park Illinois"
 faqs:
   - q: "Do I have to restore my whole house at once?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Residential Masonry Restoration in Elmwood Park, IL
 
-Residential masonry restoration in Elmwood Park, IL covers tuckpointing and repointing, brick repair and replacement, lintel and sill work, chimney restoration and water management on brick homes, bungalows and two-flats. Emerald Masonry LLC is family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Elmwood Park, IL covers tuckpointing and repointing, brick repair and replacement, lintel and sill work, chimney restoration and water management on brick homes, bungalows and two-flats. Emerald Masonry LLC is family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call **(708) 288-1696**.
 
 Most homeowners ask what it costs to do the house. That is the wrong unit.
 
@@ -125,7 +125,7 @@ Exposure is the standard hard Chicagoland pattern: dozens of freeze-thaw crossin
 
 We serve 60707 and the surrounding near-west communities, including [River Forest](/locations/historic-masonry-restoration-river-forest-il), [Oak Park](/locations/tuckpointing-oak-park-il), [Forest Park](/locations/brick-replacement-forest-park-il) and [Berwyn](/locations/tuckpointing-berwyn-il). Homeowners here frequently pair restoration with [chimney repair](/services/chimney-repair) on the same visit, since the chimney is usually the most exposed masonry on the house.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Request a Free Masonry Assessment in Elmwood Park
 

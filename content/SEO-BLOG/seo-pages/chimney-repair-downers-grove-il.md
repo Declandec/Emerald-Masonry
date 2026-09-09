@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Downers Grove, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Downers Grove, IL — crowns, caps, flashing, repointing and rebuilds on true masonry chimneys and brick chases. Free estimates: (708) 288-1696."
 excerpt: "Half the brick chimneys in Downers Grove's newer subdivisions are not masonry chimneys at all — they are brick veneer wrapped around a factory-built metal fireplace. They fail differently, they get repaired differently, and knowing which one you own is the first thing an honest estimate establishes."
-aiSummary: "Emerald Masonry LLC repairs chimneys in Downers Grove, IL — crowns, caps, flashing, repointing, rebuilds above and below the roofline, and brick chase veneer on factory-built fireplaces. We identify whether you own a true masonry chimney or a veneer chase first, because they fail differently. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC repairs chimneys in Downers Grove, IL — crowns, caps, flashing, repointing, rebuilds above and below the roofline, and brick chase veneer on factory-built fireplaces. We identify whether you own a true masonry chimney or a veneer chase first, because they fail differently. Family-owned, licensed and insured, career masons. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Rebuilt brick chimney with a new cast crown and cap on a Downers Grove, Illinois home"
 faqs:
   - q: "How do I know if my chimney is real masonry or a brick chase?"
@@ -43,7 +43,7 @@ competitorInformed: false
 
 ## Chimney Repair in Downers Grove, IL
 
-Chimney repair in Downers Grove, IL covers crowns, caps, flashing, repointing, brick replacement and full rebuilds — but the first thing a competent estimate establishes is **what kind of chimney you actually own.** Emerald Masonry LLC serves DuPage County: family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Chimney repair in Downers Grove, IL covers crowns, caps, flashing, repointing, brick replacement and full rebuilds — but the first thing a competent estimate establishes is **what kind of chimney you actually own.** Emerald Masonry LLC serves DuPage County: family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Downers Grove is unusual because it contains two entirely different chimney populations, and homeowners rarely know which one is on their roof.
 
@@ -135,7 +135,7 @@ A chimney is the most exposed masonry on your house — four sides to the weathe
 
 **Chimney problems are cheap early and expensive late, and the curve is steep.**
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Downers Grove and DuPage County
 

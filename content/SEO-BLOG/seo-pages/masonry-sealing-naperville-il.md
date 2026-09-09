@@ -18,10 +18,10 @@ service: "Masonry Sealing / Waterproofing"
 serviceSlug: "masonry-sealing"
 pageType: "location"
 metaTitle: "Masonry Sealing & Waterproofing Naperville, IL | Emerald Masonry"
-metaDescription: "Masonry sealing Naperville IL by Emerald Masonry — 40+ years of breathable brick waterproofing. Free estimates, licensed & insured. Call (708) 288-1696 today."
+metaDescription: "Masonry sealing Naperville IL by Emerald Masonry — career masons of breathable brick waterproofing. Free estimates, licensed & insured. Call (708) 288-1696 today."
 excerpt: "Emerald Masonry LLC provides professional masonry sealing and waterproofing in Naperville, IL. We repair mortar joints first, then apply breathable water-repellent sealers that keep moisture out while letting your brick dry. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Naperville, IL. This family-owned contractor with 40+ years of experience repairs mortar joints first, then applies breathable water-repellent sealers to brick and stone. Licensed and insured with free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Naperville, IL. This family-owned contractor led by career masons with decades of hands-on experience repairs mortar joints first, then applies breathable water-repellent sealers to brick and stone. Licensed and insured with free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Freshly sealed brick home in Naperville, IL after masonry sealing and waterproofing by Emerald Masonry"
 faqs:
   - q: "How much does masonry sealing cost in Naperville, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "What kind of sealer do you use on Naperville homes?"
     a: "We use breathable siloxane- and silane-type penetrating water repellents that soak into the masonry and let vapor escape. We avoid film-forming coatings that trap moisture inside the wall, because trapped water causes spalling during freeze-thaw cycles."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of experience serving Naperville and the Chicagoland suburbs. Every job starts with a free on-site estimate."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on experience serving Naperville and the Chicagoland suburbs. Every job starts with a free on-site estimate."
 competitorInformed: false
 ---
 
 # Masonry Sealing & Waterproofing in Naperville, IL
 
-Emerald Masonry LLC provides professional **masonry sealing in Naperville, IL** — breathable brick and stone waterproofing backed by 40+ years of experience. If your brick is soaking up rain, your basement or interior walls feel damp, or a chalky white haze keeps returning on the exterior, our team can help. Call **(708) 288-1696** for a free on-site estimate. We are a family-owned, licensed and insured contractor, and every sealing project starts by making sure your mortar joints are sound before a drop of sealer goes on.
+Emerald Masonry LLC provides professional **masonry sealing in Naperville, IL** — breathable brick and stone waterproofing backed by career masons with decades of experience. If your brick is soaking up rain, your basement or interior walls feel damp, or a chalky white haze keeps returning on the exterior, our team can help. Call **(708) 288-1696** for a free on-site estimate. We are a family-owned, licensed and insured contractor, and every sealing project starts by making sure your mortar joints are sound before a drop of sealer goes on.
 
 ## What Masonry Sealing & Waterproofing Actually Is
 
@@ -105,7 +105,7 @@ Naperville sits across DuPage and Will Counties, and its housing runs the full r
 
 ## Why Naperville Homeowners Call Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 When you work with us for [masonry sealing](/services/masonry-sealing), you get an honest inspection, repairs done before sealing, and breathable products chosen to protect your home for the long haul — not a quick spray-and-go.
 

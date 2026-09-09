@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair in Lockport, IL | Emerald Masonry"
 metaDescription: "Foundation masonry repair in Lockport, IL — brick and CMU block foundation repair, repointing, parging, and crack repair. Licensed, insured, free estimates. Call (708) 288-1696."
 excerpt: "Lockport's older brick and block foundations take a beating from Will County clay soils and freeze-thaw. Emerald Masonry LLC repairs deteriorated foundation mortar joints, cracked block, spalled brick, and failing parge coats so water stays out and the wall holds."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Lockport, IL — repointing deteriorated foundation mortar joints, replacing cracked or spalled brick and CMU block, and re-parging foundation walls to keep water out. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Lockport, IL — repointing deteriorated foundation mortar joints, replacing cracked or spalled brick and CMU block, and re-parging foundation walls to keep water out. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Repaired brick and block foundation masonry on an older Lockport, IL home in Will County"
 faqs:
   - q: "How much does foundation masonry repair cost in Lockport, IL?"
@@ -37,7 +37,7 @@ competitorInformed: false
 
 ## Foundation Masonry Repair in Lockport, IL, Done Right
 
-If the brick or block foundation on your Lockport home has crumbling mortar, step cracks, spalling below grade, or a flaking parge coat, **foundation masonry repair in Lockport, IL** from Emerald Masonry LLC is what fixes it — before the water finds its way in. We rake out and repoint failed foundation joints, replace cracked or spalled brick and CMU block, and re-parge the wall so it sheds water instead of soaking it up. We're family-owned, licensed and insured, with 40+ years of Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
+If the brick or block foundation on your Lockport home has crumbling mortar, step cracks, spalling below grade, or a flaking parge coat, **foundation masonry repair in Lockport, IL** from Emerald Masonry LLC is what fixes it — before the water finds its way in. We rake out and repoint failed foundation joints, replace cracked or spalled brick and CMU block, and re-parge the wall so it sheds water instead of soaking it up. We're family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
 
 Foundations are the part of a masonry home that homeowners see least and worry about most. The good news for most Lockport homes is that what looks alarming — a receding mortar joint, a stair-step crack in the block, a chalky white bloom near grade — is usually a **masonry repair**, not a structural emergency. The key is dealing with it while it's still small.
 
@@ -50,7 +50,7 @@ Foundation masonry repair in Lockport, IL addresses the brick, block, mortar, an
 - **Re-parging** — restoring the smooth cement parge coat that protects the exposed portion of a block or brick foundation and helps it shed water.
 - **Step-crack repair** — addressing the stair-step cracks that run through mortar joints in block and brick foundations.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Lockport and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Lockport and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Signs You Need Foundation Masonry Repair in Lockport
 
@@ -93,4 +93,4 @@ We repair foundations across Lockport and the neighboring towns — from [Homer 
 
 ## Talk to a Real Masonry Contractor
 
-If something on your Lockport foundation has you worried, the fastest way to know what you're dealing with is to have a mason look at it. Emerald Masonry LLC is family-owned, licensed, bonded, and insured, with 40+ years of Chicagoland experience and free on-site estimates. Head to our [contact page](/#contact) or call **(708) 288-1696** — we'll tell you straight whether it's a simple repointing or something more, and exactly what it takes to fix it.
+If something on your Lockport foundation has you worried, the fastest way to know what you're dealing with is to have a mason look at it. Emerald Masonry LLC is family-owned, licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Head to our [contact page](/#contact) or call **(708) 288-1696** — we'll tell you straight whether it's a simple repointing or something more, and exactly what it takes to fix it.

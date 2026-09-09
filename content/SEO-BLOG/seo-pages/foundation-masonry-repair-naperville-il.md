@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair in Naperville, IL | Emerald Masonry"
 metaDescription: "Brick and block foundation masonry repair in Naperville, IL. Emerald Masonry fixes step cracks, water entry, and crumbling joints. Free estimate — (708) 288-1696."
 excerpt: "Naperville homes span historic brick foundations downtown and concrete-block walls under decades of subdivisions. Emerald Masonry LLC repoints and rebuilds foundation masonry, seals cracks, and stops water from getting into the basement."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Naperville, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Naperville, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repointed brick and block foundation wall on a home in Naperville, IL"
 faqs:
   - q: "How do I know if my Naperville foundation needs masonry repair?"
@@ -80,7 +80,7 @@ We don't quote exact prices online because every foundation is different. Cost d
 
 Naperville is one of the largest cities in the Chicago area, spanning DuPage and Will Counties, with housing that ranges from 19th-century brick and stone near the historic downtown and the DuPage River Riverwalk to vast subdivisions built from the 1970s through the 2000s on the south and west sides. The older core sits on brick or stone foundations laid in lime mortar; the newer neighborhoods sit overwhelmingly on concrete-block foundations. DuPage County's clay-heavy soils and freeze-thaw cycling work on all of it the same way: soils expand and contract with moisture, pushing laterally on basement walls and opening step cracks, while winter freezes whatever water has gotten into the joints. We address the same patterns across neighboring Aurora, Lisle, Wheaton, Bolingbrook, and Plainfield.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -98,4 +98,4 @@ Yes. Naperville has both — older brick or stone foundation walls near the hist
 
 ## Get a Free Foundation Estimate in Naperville
 
-If your basement walls are cracking, crumbling, or letting water in, have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Naperville, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured. Related work: [foundation masonry repair](/services/foundation-masonry-repair), [brick replacement](/services/brick-replacement), and [waterproofing](/services/waterproofing).
+If your basement walls are cracking, crumbling, or letting water in, have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Naperville, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Related work: [foundation masonry repair](/services/foundation-masonry-repair), [brick replacement](/services/brick-replacement), and [waterproofing](/services/waterproofing).

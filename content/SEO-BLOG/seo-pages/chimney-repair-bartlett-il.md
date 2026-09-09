@@ -16,7 +16,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Bartlett, IL | Emerald Masonry LLC"
 metaDescription: "Expert chimney repair in Bartlett, IL — crown replacement, repointing, and full masonry rebuilds for DuPage and Kane County residential properties. Free estimates."
 excerpt: "Bartlett's large-lot subdivision homes — most built between 1985 and 2005 — have chimneys that are now hitting their first major maintenance window. Emerald Masonry LLC handles crown repair, repointing, flashing, and full masonry rebuilds for brick chimneys throughout the Bartlett area."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Brick chimney repair and repointing on a residential home in Bartlett Illinois DuPage County"
 competitorInformed: false
 ---

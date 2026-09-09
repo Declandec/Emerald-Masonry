@@ -21,7 +21,7 @@ secondaryKeywords:
   - "limestone sill replacement"
 service: "Limestone & Sill Repair"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 faqs:
   - q: "Can a cracked limestone sill be repaired or does it need replacement?"
     a: "It depends on the severity. Minor cracks and surface loss can usually be repaired with a Dutchman stone piece or matched stone-repair mortar, while a sill that is deeply fractured, hollow, or crumbling typically needs full replacement. A mason can tell you which applies after a close inspection."
@@ -31,7 +31,7 @@ faqs:
     a: "Limestone should breathe, so a hard film-forming sealer often traps moisture and accelerates damage. If sealing is appropriate, only a breathable masonry-grade product should be used, and only after any cracks and joints are properly repaired. We'll recommend what's right for your specific stone."
 ---
 
-Limestone sills and lintels fail because the stone is porous and soaks up water, which then freezes, expands, and breaks the surface apart — and because the steel buried beneath many lintels rusts and pushes the stone outward until it cracks. The good news is that stone trim can almost always be restored rather than torn out. At **Emerald Masonry LLC**, our family-owned crew has restored limestone trim on Chicago-area brick homes and greystones for over 40 years, and most sills and lintels we see are repairable. If you have flaking, cracked, or sagging stone, call **(708) 288-1696** for a free estimate.
+Limestone sills and lintels fail because the stone is porous and soaks up water, which then freezes, expands, and breaks the surface apart — and because the steel buried beneath many lintels rusts and pushes the stone outward until it cracks. The good news is that stone trim can almost always be restored rather than torn out. At **Emerald Masonry LLC**, our family-owned crew has restored limestone trim on Chicago-area brick homes and greystones for decades, and most sills and lintels we see are repairable. If you have flaking, cracked, or sagging stone, call **(708) 288-1696** for a free estimate.
 
 Below is what's actually happening to your stone, the warning signs to watch for, and how a proper restoration is done.
 
@@ -140,7 +140,7 @@ Limestone should breathe, so a hard film-forming sealer often traps moisture and
 
 ## Restore Your Stone Trim Before Winter
 
-If your limestone sills, lintels, or trim are cracking, flaking, or staining, the smartest move is to have them looked at before the next freeze-thaw season makes it worse. **Emerald Masonry LLC** is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years restoring stone trim on brick homes and greystones across Chicagoland. We offer free estimates and honest recommendations — repair when we can, replace only when we must.
+If your limestone sills, lintels, or trim are cracking, flaking, or staining, the smartest move is to have them looked at before the next freeze-thaw season makes it worse. **Emerald Masonry LLC** is a family-owned, licensed, bonded, and insured masonry contractor with career masons restoring stone trim on brick homes and greystones across Chicagoland. We offer free estimates and honest recommendations — repair when we can, replace only when we must.
 
 Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com** today.
 

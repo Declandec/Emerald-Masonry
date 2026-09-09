@@ -18,22 +18,17 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Aurora, IL | Emerald Masonry LLC"
 metaDescription: "Licensed brick repair contractor serving Aurora IL. Spalled brick, cracked facades, partial replacement, and full restoration for commercial and residential buildings. Free estimates."
 excerpt: "Aurora's dense inventory of older brick buildings demands repair contractors who understand how Chicago-area masonry ages — not just how to patch it. Emerald Masonry LLC provides structural brick repair, spalling remediation, and selective replacement for commercial and residential properties throughout Aurora and Kane County."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired brick facade on a commercial building in Aurora Illinois after professional brick replacement and repointing"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: brick repair Aurora IL — commercial and residential intent
-Why this page is better: Goes beyond generic service categories to explain the actual causes of brick failure in Aurora's building stock, the decision between selective repair vs. full replacement, and what a proper repair scope includes — with specific FAQ answers about timing, permits, brick sourcing, and freeze-thaw scheduling in Kane County.
-Gaps filled: Local building context (Aurora's age and density of brick construction), step-by-step repair process, detailed FAQ on material sourcing and cost drivers, internal links, stronger CTA with urgency framing for structural issues.
--->
 
 Aurora has more brick buildings per square mile than most cities its size in the Chicago metro. The downtown core along Galena Boulevard and New York Street dates to the 1870s through 1920s. The residential blocks east and west of downtown filled in heavily through the 1940s and 1950s. The result is a city with a large, aging brick inventory — and a corresponding demand for contractors who can repair it correctly.
 
 Not all brick damage is the same. Cosmetic cracking looks alarming but may be stable. Spalling that exposes the brick's interior, on the other hand, accelerates rapidly once freeze-thaw cycles begin. Getting the diagnosis right determines whether you spend a few thousand dollars or significantly more.
 
-Emerald Masonry LLC has been repairing brick buildings throughout Chicagoland for over 40 years. We work on commercial facades, residential two-flats, institutional buildings, and industrial properties throughout Aurora and the broader Kane County area.
+Emerald Masonry LLC has been repairing brick buildings throughout Chicagoland for decades. We work on commercial facades, residential two-flats, institutional buildings, and industrial properties throughout Aurora and the broader Kane County area.
 
 ## Why Brick Fails in Aurora Buildings
 

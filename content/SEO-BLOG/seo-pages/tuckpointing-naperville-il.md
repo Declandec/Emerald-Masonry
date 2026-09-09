@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Naperville, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Naperville, IL. We identify solid masonry vs brick veneer before repointing, so the wall drains. Licensed & insured. Call (708) 288-1696."
 excerpt: "Most Naperville homes are brick veneer, not solid masonry — a thin brick skin over a drained air cavity. Repointing a veneer wall without restoring its drainage seals water in. The first question on a Naperville estimate is not what era your house is. It is what kind of wall you actually own."
-aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Naperville, IL, grinding out failed mortar joints and repacking them with matched mortar — after first identifying whether the wall is solid masonry or brick veneer, because veneer walls must be allowed to drain. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Naperville, IL, grinding out failed mortar joints and repacking them with matched mortar — after first identifying whether the wall is solid masonry or brick veneer, because veneer walls must be allowed to drain. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repointed mortar joints and clear weep holes on a brick veneer home in Naperville, Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Naperville, IL?"
@@ -43,16 +43,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Naperville IL" / "brick repointing Naperville" — a DuPage homeowner, HOA board member or downtown building owner with open mortar joints deciding who to call.
-Competitor pattern observed: this is the strongest Naperville SERP analyzed to date. The leading result is a genuinely good location page: a six-question FAQ, an explicit Type S / Type N / Type O mortar comparison that correctly explains hard-mortar-on-soft-brick spalling, published cost bands ($8-$18/sq ft residential, $2,500-$14,000 typical project, $12-$22/sq ft downtown commercial), six ZIP codes, twelve named neighborhoods (Riverwalk, Cress Creek, Eagle Chase, Ashbury), an era breakdown from 1880s commercial through 2000s east-side construction, named commercial corridors, a DuPage freeze-thaw cycle count, and hard trust signals (since 1994, 100+ five-star reviews, BBB, no subcontracting). A second strong contender leans on 20+ years and 100+ reviews. Directory aggregators (HomeAdvisor) and exact-match template pages fill the rest. Documented gaps across the set: NO step-by-step process anywhere, NO JSON-LD schema, no answer-first summary, no project timelines, thin warranty language, no urgency triage.
-Why this page is better: it attacks the leading competitor at its strongest point. Segmenting Naperville by build era and publishing a per-square-foot band looks like real expertise, but era is the wrong primary variable and square footage is the wrong unit — because the single largest fact about Naperville's housing stock is that the overwhelming majority of it is BRICK VENEER, a thin drained rain screen, not solid masonry. On a veneer wall the mortar joints are the visible symptom and the cavity drainage system (weep holes, flashing, wall ties) is the actual mechanism. Repointing a veneer wall while mortaring its weep holes shut — which happens constantly — makes the wall worse, and no competitor page mentions weep holes, flashing or wall ties at all. We publish the wall-type diagnostic first, then the mortar hardness rule, then the drainage rule.
-Gaps filled: answer-first Quick Answer; seven AI-phrased FAQs with FAQPage schema; the solid-masonry-vs-veneer diagnostic absent from the entire SERP; weep holes, through-wall flashing and corroded wall ties as the real failure mechanism on post-1960 Naperville stock; a genuine step-by-step process (missing from every competitor); where joints actually fail first on a veneer wall; the downtown/Naper Settlement soft-lime-mortar contrast; per-elevation scoping for HOA phasing; and full Service/FAQPage/Breadcrumb schema. Deliberately distinct from the Elmwood Park tuckpointing page (two brick types on one solid building) and the Plainfield brick replacement page (irrigation-line spalling).
--->
 
 ## Tuckpointing in Naperville, IL
 
-Tuckpointing in Naperville, IL means grinding out deteriorated mortar joints and repacking them with mortar matched to your brick — but before any of that, someone has to answer a question most estimates skip entirely: **is your wall solid masonry, or is it brick veneer?** Emerald Masonry LLC has been answering that question on Chicagoland walls for 40+ years. Family-owned, licensed, bonded and insured, free on-site estimates. Call **(708) 288-1696**.
+Tuckpointing in Naperville, IL means grinding out deteriorated mortar joints and repacking them with mortar matched to your brick — but before any of that, someone has to answer a question most estimates skip entirely: **is your wall solid masonry, or is it brick veneer?** Emerald Masonry LLC has been answering that question on Chicagoland walls for career masons. Family-owned, licensed, bonded and insured, free on-site estimates. Call **(708) 288-1696**.
 
 The answer changes the job completely.
 
@@ -136,7 +130,7 @@ We do not quote masonry over the phone, and we do not promise a price per foot b
 
 ## Naperville Specifics
 
-Naperville sits in DuPage County with a slice in Will, and its masonry takes a beating from the same thing every Chicagoland wall does: repeated freeze-thaw cycling, often dozens of times a winter, on brick that is already holding water. What is distinctive here is the **breadth of the housing stock in a single town** — an 1880s downtown core, post-war ranches, four decades of subdivision veneer, and large newer homes with substantial masonry chimneys and front elevations. Two houses three miles apart can need entirely different mortar.
+Naperville sits in DuPage County with a slice in Will, and its masonry takes a beating from the same thing every Chicagoland wall does: repeated freeze-thaw cycling, often dozens of times a winter, on brick that is already holding water. What is distinctive here is the **breadth of the housing stock in a single town** — an 1880s downtown core, post-war ranches, decades of subdivision veneer, and large newer homes with substantial masonry chimneys and front elevations. Two houses three miles apart can need entirely different mortar.
 
 Add irrigation. Naperville is a heavily irrigated town, and lawn systems that spray a brick wall several mornings a week will open the bottom courses faster than weather ever would. Mulch piled over the weep-hole course does the same thing more quietly.
 
@@ -144,7 +138,7 @@ We work throughout Naperville and the surrounding DuPage and Will County communi
 
 ## Why Homeowners and Boards Call Emerald
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work for homeowners, property managers, HOAs, churches and insurance companies across Cook, DuPage, Will, Kane, Lake and McHenry counties. There is a $5,000 project minimum.
 

@@ -20,7 +20,7 @@ metaTitle: "Tuckpointing in Joliet, IL | Emerald Masonry LLC"
 metaDescription: "Licensed tuckpointing contractor serving Joliet, IL & Will County. Mortar repair for older brick and historic limestone. Free estimates: (708) 288-1696."
 excerpt: "Joliet's older East Side homes, Cathedral Area brick, and downtown limestone buildings all depend on sound mortar joints to stay weathertight. Emerald Masonry LLC provides professional tuckpointing and repointing for residential, commercial, and historic masonry throughout Joliet and Will County."
 aiSummary: "Emerald Masonry LLC provides professional tuckpointing and repointing in Joliet, IL and across Will County — removing failed mortar from brick homes, commercial facades, and historic Joliet limestone, then repacking with properly matched mortar to stop water intrusion. Family-owned, licensed and insured, with free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Completed tuckpointing and mortar joint repair on an older brick home in Joliet Illinois Will County"
 faqs:
   - q: "How much does tuckpointing cost in Joliet, IL?"
@@ -86,7 +86,7 @@ We never quote masonry by phone, but the factors that move the price are consist
 
 Joliet's masonry is unusually varied for one city: turn-of-the-century brick two-flats and bungalows on the East Side and in the Cathedral Area, locally quarried limestone landmarks downtown, mid-century Will County brick ranches, and commercial blocks that have stood for generations. Each needs a slightly different mortar approach, which is exactly why phone quotes don't work and why the wrong mortar does so much harm here.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 We handle straightforward residential [tuckpointing and repointing](/services/tuckpointing), specialized [limestone and sill repair](/services/limestone-sill-repair) for Joliet's historic stone, and [brick repair and replacement](/services/brick-repair) where units have already failed. Based in Palos Heights, we work throughout Will County — Joliet, Lockport, Crest Hill, Shorewood, New Lenox, and the surrounding communities.
 

@@ -5,7 +5,7 @@ excerpt: "A brick arch carries the wall above your window without any steel at a
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Rebuilt brick jack arch over a window opening on a historic Chicago masonry building"
 keywords:
   - brick arch repair
@@ -39,7 +39,7 @@ keywords:
   - brick mason near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "A brick arch over a window or door carries the load above it by transferring thrust sideways into the masonry on each side, with no steel involved. Arches sag when that side support weakens, when mortar joints erode and let the wedge-shaped bricks slip, when a hidden steel arch bar rusts and expands, or when the wall below settles. Rebuilding one requires shoring, a temporary form, and joint-by-joint reconstruction. Emerald Masonry LLC repairs and rebuilds masonry arches across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A brick arch over a window or door carries the load above it by transferring thrust sideways into the masonry on each side, with no steel involved. Arches sag when that side support weakens, when mortar joints erode and let the wedge-shaped bricks slip, when a hidden steel arch bar rusts and expands, or when the wall below settles. Rebuilding one requires shoring, a temporary form, and joint-by-joint reconstruction. Emerald Masonry LLC repairs and rebuilds masonry arches across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Is a sagging brick arch over my window dangerous?"
@@ -74,7 +74,7 @@ It does that by a trick of geometry. Each brick is effectively a wedge. Load pre
 
 But that balance has a condition attached: **the sideways push has to be resisted.** Weaken what the arch pushes against, or let the wedges slip against each other, and the arch loses its geometry — and once it loses geometry, it loses capacity.
 
-Emerald Masonry LLC repairs and rebuilds masonry arches on homes, two-flats, greystones, churches and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+Emerald Masonry LLC repairs and rebuilds masonry arches on homes, two-flats, greystones, churches and commercial buildings across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## The Arch Types You Will See in Chicagoland
 
@@ -219,4 +219,4 @@ An arch is the most elegant piece of engineering in your building and the most d
 
 When it starts to sag, the geometry has already changed — and geometry is the thing that cannot be repointed back.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696** or [request an estimate online](/#contact).

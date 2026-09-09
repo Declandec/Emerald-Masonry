@@ -19,7 +19,7 @@ metaTitle: "Lintel Repair Evergreen Park, IL | Emerald Masonry"
 metaDescription: "Rusted steel lintels above your Evergreen Park windows or garage? Emerald Masonry repairs and replaces failing lintels before the brick cracks. Call (708) 288-1696."
 excerpt: "Rusting steel lintels lift and crack the brick above your Evergreen Park windows, doors, and garage openings. Emerald Masonry replaces failing lintels and rebuilds the brick course before the damage spreads."
 aiSummary: "Emerald Masonry LLC repairs and replaces rusted, failing steel lintels in Evergreen Park, IL. As a rusting lintel expands it lifts and cracks the brick above windows, doors, and garage openings. We shore the opening, swap or treat the lintel, and rebuild the masonry. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Repaired brick and replaced steel lintel above an opening on an Evergreen Park, IL building by Emerald Masonry"
 faqs:
   - q: "How do I know if my lintel needs repair in Evergreen Park?"
@@ -83,11 +83,11 @@ Every Evergreen Park lintel job is priced from what we find on site. The biggest
 
 Evergreen Park's housing stock leans heavily toward solid brick bungalows, Georgians, and two-flats from the mid-20th century, plus a steady line of brick-front storefronts along 95th Street. That era relied on bare or lightly painted steel lintels, which is exactly why we see so much rust jacking here today. Combine that aging steel with Chicagoland's hard freeze-thaw winters and the road salt thrown off nearby arterials, and lintels in Evergreen Park corrode faster than in many milder climates. We know these homes and storefronts and repair them with details suited to local exposure.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why homeowners and managers choose Emerald
 
-Family-owned with 40+ years of Chicagoland masonry experience, licensed, bonded, and insured, and trusted by homeowners, property managers, HOAs, churches, and insurance companies. We diagnose the real cause — the lintel, not just the crack — and fix it so it stays fixed, with free on-site estimates and honest, cost-driver-based pricing.
+Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured, and trusted by homeowners, property managers, HOAs, churches, and insurance companies. We diagnose the real cause — the lintel, not just the crack — and fix it so it stays fixed, with free on-site estimates and honest, cost-driver-based pricing.
 
 ## Related services
 

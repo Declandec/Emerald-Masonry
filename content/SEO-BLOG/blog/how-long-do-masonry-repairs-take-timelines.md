@@ -5,7 +5,7 @@ excerpt: "Homeowners plan around masonry work and almost always underestimate tw
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Masonry crew mid-project on a Chicagoland brick home with staging and protected work area"
 keywords:
   - how long does masonry repair take
@@ -38,7 +38,7 @@ keywords:
   - free masonry estimate Chicagoland
   - licensed and insured mason Chicagoland
   - HOA masonry project timeline
-aiSummary: "Most residential masonry repairs take days rather than weeks of actual work — spot repointing one to three days, a full-house repoint three days to two weeks, chimney rebuild two to five days, lintel replacement about a day per opening — but setup, access, weather windows, mortar cure time and material sourcing extend the calendar well beyond the labor. Emerald Masonry LLC schedules honestly across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Most residential masonry repairs take days rather than weeks of actual work — spot repointing one to three days, a full-house repoint three days to two weeks, chimney rebuild two to five days, lintel replacement about a day per opening — but setup, access, weather windows, mortar cure time and material sourcing extend the calendar well beyond the labor. Emerald Masonry LLC schedules honestly across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "How long does tuckpointing take on a typical house?"
@@ -63,7 +63,7 @@ faqs:
 
 ## How Long Does Masonry Work Actually Take?
 
-**Most residential masonry repairs involve days rather than weeks of actual work** — spot repointing one to three days, a full-house repoint roughly three days to two weeks, a chimney rebuild a few days, lintel replacement about a day per opening. **But the calendar is always longer than the labor**, because setup, access, joint preparation, material sourcing, weather windows and mortar cure all consume time without looking like progress. Emerald Masonry LLC schedules honestly across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Most residential masonry repairs involve days rather than weeks of actual work** — spot repointing one to three days, a full-house repoint roughly three days to two weeks, a chimney rebuild a few days, lintel replacement about a day per opening. **But the calendar is always longer than the labor**, because setup, access, joint preparation, material sourcing, weather windows and mortar cure all consume time without looking like progress. Emerald Masonry LLC schedules honestly across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Every range below assumes a competent crew doing the work properly. **A bid that promises to be dramatically faster is usually promising to skip joint preparation**, which is precisely the step that determines whether the repair lasts thirty years or five.
 
@@ -206,6 +206,6 @@ The work itself is usually shorter than people fear. The calendar around it — 
 
 Plan a season ahead, ask what the access and preparation actually involve, and be suspicious of anyone promising to be finished by Friday.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest schedules — including telling you when your job should wait for better weather.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest schedules — including telling you when your job should wait for better weather.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

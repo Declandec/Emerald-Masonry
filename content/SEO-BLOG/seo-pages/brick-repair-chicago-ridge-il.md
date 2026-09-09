@@ -16,7 +16,7 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Chicago Ridge, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair and replacement in Chicago Ridge, IL — spalling, cracked, and failing brick repaired for homes and commercial buildings in southwest Cook County. Free estimates."
 excerpt: "Chicago Ridge's mid-century brick homes and its commercial corridor are now old enough that brick — not just mortar — is starting to fail. Emerald Masonry LLC replaces spalled and cracked brick and matches it to the existing wall so the repair disappears into the building."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Brick repair and replacement on a mid-century brick building in Chicago Ridge Illinois southwest Cook County"
 competitorInformed: false
 ---
@@ -92,6 +92,6 @@ Yes. We work on commercial and mixed-use buildings along the Chicago Ridge corri
 
 ## Serving Chicago Ridge and Southwest Cook County
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, churches, and commercial owners across Chicago Ridge and the neighboring southwest suburbs — Oak Lawn, Worth, Alsip, Bridgeview, Palos Heights, and Hometown. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, churches, and commercial owners across Chicago Ridge and the neighboring southwest suburbs — Oak Lawn, Worth, Alsip, Bridgeview, Palos Heights, and Hometown. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If brick on your Chicago Ridge home or building is spalling, cracking through, or coming loose, the unit damage won't reverse on its own — and it spreads. **[Contact Emerald Masonry](/#contact)** for a free on-site brick repair estimate. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

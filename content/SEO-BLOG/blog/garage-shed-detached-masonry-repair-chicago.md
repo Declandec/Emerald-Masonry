@@ -5,7 +5,7 @@ excerpt: "Brick garages, coach houses, sheds, and garden walls deteriorate befor
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Detached brick garage masonry repair in a Chicago alley, spalled brick and open mortar joints restored"
 keywords:
   - detached garage masonry repair Chicago
@@ -76,7 +76,7 @@ Where the brick has spalled or crumbled, we handle [brick repair](/services/bric
 
 Done correctly, a repaired brick garage, coach house, or wall can stand for another generation. **The key is catching it before spalling and joint failure spread — a small repointing job today is far cheaper than rebuilding a leaning wall tomorrow.**
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get your detached structure assessed
 

@@ -20,9 +20,9 @@ serviceSlug: "limestone-sill-repair"
 pageType: "location"
 metaTitle: "Limestone & Sill Repair in Sugar Grove, IL | Emerald Masonry"
 metaDescription: "Limestone sill repair in Sugar Grove, IL. Emerald Masonry repairs cracked, spalling stone sills, lintels & trim. Free estimate — call (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs and restores cracked, spalling, and water-damaged limestone sills, lintels, and stone trim throughout Sugar Grove and Kane County. Family-owned, licensed and insured, with 40+ years of masonry experience and free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Sugar Grove, IL, restoring cracked or spalling window sills, door sills, lintels, and stone trim. Family-owned, licensed and insured, with 40+ years of experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+excerpt: "Emerald Masonry LLC repairs and restores cracked, spalling, and water-damaged limestone sills, lintels, and stone trim throughout Sugar Grove and Kane County. Family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience and free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Sugar Grove, IL, restoring cracked or spalling window sills, door sills, lintels, and stone trim. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored limestone window sill on a Sugar Grove, IL home after limestone sill repair by Emerald Masonry"
 faqs:
   - q: "Who repairs limestone window sills in Sugar Grove, IL?"
@@ -34,13 +34,13 @@ faqs:
   - q: "How much does limestone sill repair cost in Sugar Grove?"
     a: "Cost depends on the number of sills, the extent of the damage, whether the stone can be patched or must be replaced, and access to the work area. Because every home is different, we provide a free on-site estimate rather than a phone quote — call (708) 288-1696."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with more than 40 years of experience serving Chicago and the Chicagoland suburbs, including Sugar Grove and the Fox Valley."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on experience serving Chicago and the Chicagoland suburbs, including Sugar Grove and the Fox Valley."
 competitorInformed: false
 ---
 
 ## Who repairs limestone sills in Sugar Grove, IL?
 
-Emerald Masonry LLC repairs and restores limestone and stone sills throughout Sugar Grove, IL and the surrounding Kane County / Fox Valley area. We repair or replace cracked, spalling, and water-damaged limestone window sills, door sills, lintels, and decorative stone trim — and we back every job with 40+ years of masonry experience, a licensed and insured crew, and free on-site estimates. To have your sills looked at, call **(708) 288-1696**.
+Emerald Masonry LLC repairs and restores limestone and stone sills throughout Sugar Grove, IL and the surrounding Kane County / Fox Valley area. We repair or replace cracked, spalling, and water-damaged limestone window sills, door sills, lintels, and decorative stone trim — and we back every job led by career masons with decades of hands-on masonry experience, a licensed and insured crew, and free on-site estimates. To have your sills looked at, call **(708) 288-1696**.
 
 If you've noticed a flaking window sill, an open joint under a stone cap, or staining on the brick below a window, those are early signs of stone and moisture trouble that only get worse through Sugar Grove's freeze-thaw winters. The good news is that most limestone sill problems can be repaired long before they turn into brick or structural damage.
 
@@ -132,12 +132,12 @@ Because we work throughout Sugar Grove, Aurora, Batavia, Geneva, and the wider F
 ## Why Sugar Grove homeowners choose Emerald Masonry
 
 - **Family-owned and non-union**, so you deal directly with the people doing the work
-- **40+ years** of masonry and stone-restoration experience
+- **career masons** of masonry and stone-restoration experience
 - **Licensed, bonded, and insured**
 - **Matched, lasting repairs** — not quick cosmetic patches that fail in a season
 - **Free on-site estimates** with clear, honest scopes
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Get your Sugar Grove sills inspected
 

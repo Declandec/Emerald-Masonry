@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Oak Park, IL | Emerald Masonry"
 metaDescription: "Limestone and stone sill repair in Oak Park, IL. Emerald Masonry restores sills, bands, and greystone with Dutchman repairs. Free estimate — (708) 288-1696."
 excerpt: "Oak Park's historic homes and greystones rely on cut limestone sills and bands to shed water away from the masonry. When that stone cracks, spalls, or erodes, water finds its way in. Emerald Masonry LLC repairs and restores limestone sills with Dutchman repairs and stone-matched solutions."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Oak Park, IL — restoring cracked, spalling, and eroded stone sills and band courses on historic homes and greystones using Dutchman repairs and careful stone matching. Family-owned, 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Oak Park, IL — restoring cracked, spalling, and eroded stone sills and band courses on historic homes and greystones using Dutchman repairs and careful stone matching. Family-owned, career masons with decades of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored limestone window sill on a historic greystone home in Oak Park, IL"
 faqs:
   - q: "What is a Dutchman repair on a limestone sill?"
@@ -100,4 +100,4 @@ Yes. Matching color, texture, and stone type is central to restoration work on O
 
 ## Get a Free Limestone & Sill Estimate in Oak Park
 
-If your stone sills are cracked, spalling, or no longer shedding water, having them looked at now protects both the masonry below and the character of the home. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Park, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we treat historic stone with the care it deserves.
+If your stone sills are cracked, spalling, or no longer shedding water, having them looked at now protects both the masonry below and the character of the home. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Park, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we treat historic stone with the care it deserves.

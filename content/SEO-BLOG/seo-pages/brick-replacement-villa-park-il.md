@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Villa Park, IL | Emerald Masonry LLC"
 metaDescription: "Brick replacement in Villa Park, IL — cutting out spalled units cleanly and matching new brick to your wall. Insured. Free estimates: (708) 288-1696."
 excerpt: "The hardest part of replacing brick is not setting the new unit — it is getting the old one out without damaging the four around it. A rushed removal turns a twelve-brick job into a twenty-brick job, and you pay for the difference."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Villa Park, IL — cutting out spalled, cracked and failed brick units without disturbing sound surrounding masonry, and replacing them with brick matched for size, color, texture and absorption. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Villa Park, IL — cutting out spalled, cracked and failed brick units without disturbing sound surrounding masonry, and replacing them with brick matched for size, color, texture and absorption. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Matched replacement brick set into a repaired wall on a Villa Park Illinois home"
 faqs:
   - q: "How much does brick replacement cost in Villa Park, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Replacement in Villa Park, IL
 
-Brick replacement in Villa Park, IL means cutting out spalled, cracked or failed units and setting matched brick in their place — without damaging the sound masonry around them. Emerald Masonry LLC does this work across DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick replacement in Villa Park, IL means cutting out spalled, cracked or failed units and setting matched brick in their place — without damaging the sound masonry around them. Emerald Masonry LLC does this work across DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners assume the skill in this job is setting the new brick. It is not — **any competent mason can lay a unit.**
 
@@ -129,7 +129,7 @@ Mature tree canopy over the older streets keeps shaded elevations damp long afte
 
 We work throughout 60181, and also serve neighboring [Lombard](/locations/chimney-repair-lombard-il), [Elmhurst](/locations/efflorescence-waterproofing-elmhurst-il), [Addison](/locations/brick-repair-addison-il) and [Glen Ellyn](/locations/brick-repair-glen-ellyn-il). Villa Park owners frequently pair replacement with [chimney repair](/locations/chimney-repair-villa-park-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

@@ -4,7 +4,7 @@ date: "2026-06-06"
 excerpt: "Not every crack in a brick wall means trouble, and not every harmless-looking crack is harmless. Knowing how to read a crack — its width, direction, location, and whether it's moving — is the difference between a note in next year's budget and a call you should make today."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 keywords:
   - cracks in brick wall
   - hairline crack vs structural crack
@@ -79,4 +79,4 @@ If the answers point to "narrow, stable, in the joints, not at a sensitive spot,
 
 Reading cracks well takes experience, and there's no shame in not being sure — the cost of guessing wrong runs in both directions. If a crack in one of your buildings has you wondering whether it's a budget note or a problem, have someone who repairs masonry for a living look at it.
 
-Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights, with more than 40 years of experience diagnosing and repairing brick across Chicagoland. We'll tell you honestly whether a crack is cosmetic, a maintenance item, or a structural issue that needs attention — and what it will take to fix. **[Contact us](/#contact)** for a free on-site assessment, or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights, led by career masons with decades of hands-on experience diagnosing and repairing brick across Chicagoland. We'll tell you honestly whether a crack is cosmetic, a maintenance item, or a structural issue that needs attention — and what it will take to fix. **[Contact us](/#contact)** for a free on-site assessment, or call **(708) 288-1696**.

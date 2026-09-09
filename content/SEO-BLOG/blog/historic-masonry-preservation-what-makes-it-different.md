@@ -4,7 +4,7 @@ date: "2026-04-24"
 excerpt: "Historic masonry repair is not just regular masonry repair on old buildings. The materials, techniques, and decision-making framework are fundamentally different — and getting them wrong causes irreversible damage to building fabric that can't be reproduced. This guide explains what distinguishes historic preservation work from standard commercial masonry repair and how building owners can evaluate whether a contractor is qualified to do it correctly."
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - historic masonry preservation Chicago
   - historic brick repair Illinois
@@ -112,7 +112,7 @@ For most property owners dealing with aging brick construction, "rehabilitation"
 
 ---
 
-Emerald Masonry LLC has worked on historic brick construction throughout Chicagoland for 40+ years. We use lime-compatible mortars for pre-war building stock, perform test patches before full repointing, and source matching brick from regional salvage suppliers when brick replacement is required.
+Emerald Masonry LLC has worked on historic brick construction throughout Chicagoland for career masons. We use lime-compatible mortars for pre-war building stock, perform test patches before full repointing, and source matching brick from regional salvage suppliers when brick replacement is required.
 
 Historic masonry questions? [Contact us online](/#contact) or call **(708) 288-1696**. We provide free on-site assessments with honest recommendations about what needs intervention now and what can be left alone.
 

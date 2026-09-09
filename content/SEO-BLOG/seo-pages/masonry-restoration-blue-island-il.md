@@ -18,7 +18,7 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Blue Island, IL | Emerald Masonry LLC"
 metaDescription: "Full-scope masonry restoration in Blue Island, IL — tuckpointing, brick repair, parapet, and facade work for south Cook County commercial and residential buildings."
 excerpt: "Blue Island's downtown commercial corridor and surrounding residential neighborhoods represent some of the oldest continuously occupied built environment in south Cook County — much of it brick construction from the late 19th and early 20th centuries. Masonry restoration in Blue Island means working with pre-war building stock, historic brick, and the full range of deterioration that comes with 80-130 years of Illinois winters. Emerald Masonry LLC provides comprehensive masonry restoration for Blue Island's commercial, institutional, and residential properties."
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Masonry restoration and brick repair completed on a historic commercial building in Blue Island, IL south Cook County"
 competitorInformed: false
 ---
@@ -99,7 +99,7 @@ Tuckpointing addresses mortar joints. Masonry restoration addresses the full mas
 
 ## Service Area
 
-Emerald Masonry LLC serves Blue Island and the surrounding south Cook County communities from our base in Palos Heights. We work regularly in Calumet Park, Alsip, Midlothian, Oak Forest, Harvey, Calumet City, and throughout the south suburban region. With 40+ years of Chicagoland masonry experience, we're familiar with the full range of south Cook County's building stock — from late 19th century commercial brick to postwar residential construction.
+Emerald Masonry LLC serves Blue Island and the surrounding south Cook County communities from our base in Palos Heights. We work regularly in Calumet Park, Alsip, Midlothian, Oak Forest, Harvey, Calumet City, and throughout the south suburban region. With career masons of Chicagoland masonry experience, we're familiar with the full range of south Cook County's building stock — from late 19th century commercial brick to postwar residential construction.
 
 [Contact us online](/#contact) or call **(708) 288-1696** for a free on-site assessment. We document findings systematically, photograph all deficiencies, and provide a complete prioritized scope.
 

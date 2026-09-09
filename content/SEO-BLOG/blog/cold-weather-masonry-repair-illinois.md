@@ -4,7 +4,7 @@ date: "2026-04-25"
 excerpt: "Property managers in Chicagoland often discover masonry problems in fall and need to know whether repairs can be made before winter. The answer depends on what kind of work is needed, what temperatures are forecast, and what measures the contractor takes. Some masonry work is genuinely fine in cold weather. Some isn't. Understanding the difference prevents both unnecessary delays and failed repairs."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 keywords:
   - cold weather masonry repair Illinois
   - winter tuckpointing Chicago

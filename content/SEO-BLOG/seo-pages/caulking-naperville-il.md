@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Masonry Caulking & Joint Sealant in Naperville, IL | Emerald"
 metaDescription: "Masonry caulking and joint sealant in Naperville, IL — expansion, control and window perimeter joints sealed on a real cycle. Free estimates: (708) 288-1696."
 excerpt: "Sealant is the only part of a masonry wall with a scheduled service life. Naperville has a lot of buildings whose joints are well past it — and a lot of walls where caulk was used to hide something it should never have touched."
-aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant work in Naperville, IL — replacing failed expansion, control and window perimeter joints with backer rod and the correct sealant for each substrate on homes, office buildings and multi-tenant properties. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry caulking and joint sealant work in Naperville, IL — replacing failed expansion, control and window perimeter joints with backer rod and the correct sealant for each substrate on homes, office buildings and multi-tenant properties. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Replaced perimeter sealant joint at a window in a brick wall in Naperville, Illinois"
 faqs:
   - q: "How much does masonry caulking cost in Naperville, IL?"
@@ -49,7 +49,7 @@ competitorInformed: false
 
 ## Masonry Caulking & Joint Sealant in Naperville, IL
 
-Masonry caulking in Naperville, IL is the one part of a masonry wall with an honest service life — it is a maintenance item on a cycle, not a permanent installation. Emerald Masonry LLC replaces failed sealant joints on homes, office buildings and multi-tenant properties throughout Naperville and DuPage County. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Masonry caulking in Naperville, IL is the one part of a masonry wall with an honest service life — it is a maintenance item on a cycle, not a permanent installation. Emerald Masonry LLC replaces failed sealant joints on homes, office buildings and multi-tenant properties throughout Naperville and DuPage County. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Two things bring us to Naperville walls. Sealant that has simply reached the end of its life — and caulk that was used to cover a problem it should never have been asked to solve.
 
@@ -114,7 +114,7 @@ All of it sits in the same DuPage County climate: wide temperature swings, dozen
 
 Linear footage of joint · removal difficulty of the existing material · height and access, from ground-floor windows to an upper elevation or a full commercial facade · sealant type, including non-staining products where stone is involved · substrate preparation and priming · masonry repairs needed first · season, since sealants have temperature and moisture limits for proper cure. The on-site assessment is free and written.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Naperville and DuPage County
 
@@ -122,6 +122,6 @@ We handle sealant and caulking work throughout Naperville's 60540, 60563, 60564 
 
 ## Why Naperville Owners Call Emerald
 
-We tell you which joints on your building should be sealed and which should be repointed — getting that backwards is how walls end up holding water. We use backer rod, we match sealant chemistry to the substrate, we leave weep holes open, and we find the leak before we seal anything. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We tell you which joints on your building should be sealed and which should be repointed — getting that backwards is how walls end up holding water. We use backer rod, we match sealant chemistry to the substrate, we leave weep holes open, and we find the leak before we seal anything. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 If your sealant joints are split, pulled away, chalky or leaking around windows, [request a free on-site estimate](/#contact) or call **(708) 288-1696**.

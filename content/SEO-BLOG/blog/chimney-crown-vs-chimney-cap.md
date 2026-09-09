@@ -4,7 +4,7 @@ date: "2026-06-28"
 excerpt: "People mix up the chimney crown and the chimney cap all the time, but they're two different parts doing two different jobs. Here's what each one is, how each fails, and why a cracked crown is the quiet cause of so much Chicagoland chimney damage."
 service: "Chimney Repair"
 location: "Chicagoland, IL"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 keywords:
   - chimney crown vs chimney cap
   - what is a chimney crown
@@ -76,7 +76,7 @@ After a crown repair, we often recommend a **breathable masonry sealer** on the 
 ## The Chicagoland angle
 This isn't a minor detail in our climate. Chicago swings between thaws and hard freezes all winter, and each cycle drives water deeper into any crack and then expands it. A crown crack that might sit harmlessly for years in a dry climate can take a chimney apart in a handful of Illinois winters. North- and west-facing chimneys, which dry slowly and take the brunt of weather, tend to go first.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Bottom line
 The **cap** keeps water and critters out of the flue; replace it the moment it's rusted or missing. The **crown** keeps water out of the masonry, and when it cracks, it's the hidden engine behind spalling brick, crumbling joints, and leaning stacks. If you can see cracks at the top of your chimney, white staining on the brick, or water in the firebox, have the crown looked at before another winter works on it.

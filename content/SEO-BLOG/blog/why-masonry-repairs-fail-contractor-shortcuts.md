@@ -5,7 +5,7 @@ excerpt: "Most premature masonry failures aren't caused by old brick — they're
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Hiring a Contractor"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "High-quality masonry repair on a Chicago brick home showing color-matched mortar and properly repointed joints"
 keywords:
   - "why masonry repairs fail"
@@ -115,7 +115,7 @@ Every shortcut above is avoidable when you hire carefully. Before signing:
 
 If a bid is dramatically cheaper than the others, ask exactly which of those steps it leaves out — because a lowball price is usually a shortcut with a delayed invoice.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a Repair That Actually Lasts
 

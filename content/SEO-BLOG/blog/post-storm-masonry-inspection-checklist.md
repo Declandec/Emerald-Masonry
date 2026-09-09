@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "High winds, hail, and driving rain stress masonry in ways that aren't always obvious from the ground. This checklist walks property managers through what to inspect after a significant storm — and what to document before calling a contractor or filing an insurance claim."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 keywords:
   - post-storm masonry inspection checklist
   - storm damage masonry commercial building

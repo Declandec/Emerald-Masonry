@@ -5,7 +5,7 @@ excerpt: "The masonry on a commercial storefront takes more weather, more deferr
 service: "Commercial Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 keywords:
   - commercial storefront masonry repair Chicago
   - commercial masonry restoration Chicago
@@ -31,7 +31,7 @@ keywords:
   - commercial building tuckpointing cost
   - occupied building masonry repair
   - storefront cornice repair
-aiSummary: "Commercial storefront masonry repair covers facade brick and tuckpointing, parapet walls, lintels over storefront openings, cornices, sills, and sealing on occupied commercial buildings. Emerald Masonry LLC restores storefronts and commercial facades across Chicagoland for property managers, HOAs, and building owners — phased to minimize business disruption. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Commercial storefront masonry repair covers facade brick and tuckpointing, parapet walls, lintels over storefront openings, cornices, sills, and sealing on occupied commercial buildings. Emerald Masonry LLC restores storefronts and commercial facades across Chicagoland for property managers, HOAs, and building owners — phased to minimize business disruption. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "What does commercial storefront masonry repair include?"
@@ -147,8 +147,8 @@ Chicago and its inner suburbs are built on masonry commercial corridors — bric
 - **Address rust staining promptly** — it's the visible warning of a lintel or shelf angle beginning to fail.
 - **Budget proactively** — phased maintenance is far cheaper than emergency repair and the liability of falling masonry.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Scope Your Storefront With a Free Assessment
 
-If you manage or own a Chicagoland commercial building, the smartest money in masonry is spent early — on an assessment that catches the parapet, the lintel, and the open joints before they become a leak, a claim, or a liability. Emerald Masonry LLC brings 40+ years of Chicagoland experience, works directly with property managers, HOAs, churches, and insurers, and phases the work to keep your business running. We're family-owned, licensed, bonded, and insured. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site commercial masonry assessment.
+If you manage or own a Chicagoland commercial building, the smartest money in masonry is spent early — on an assessment that catches the parapet, the lintel, and the open joints before they become a leak, a claim, or a liability. Emerald Masonry LLC brings career masons with decades of Chicagoland experience, works directly with property managers, HOAs, churches, and insurers, and phases the work to keep your business running. We're family-owned, licensed, bonded, and insured. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site commercial masonry assessment.

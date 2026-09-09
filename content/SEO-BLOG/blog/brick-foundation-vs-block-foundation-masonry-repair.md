@@ -21,7 +21,7 @@ secondaryKeywords:
   - hollow core block water seepage
 service: "Foundation Masonry Repair"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 faqs:
   - q: "Is a brick foundation or a block foundation better?"
     a: "Neither is universally better — both are durable when built and maintained correctly. Solid brick foundations are common on older Chicago homes and rely on healthy mortar joints, while concrete block (CMU) foundations are faster to build and stronger in compression but more vulnerable to lateral soil pressure. The right one depends on the era and design of the house."
@@ -106,7 +106,7 @@ When we evaluate a foundation, we first confirm what we're working with — soli
 
 Then we match the repair to the failure: repointing and brick replacement for deteriorated brick, crack sealing and parging for block, and a structural path when a wall is actually moving. We don't apply a one-size-fits-all patch, because the two materials don't respond to it the same way.
 
-Emerald Masonry LLC is family-owned with 40+ years of masonry experience, fully licensed, bonded, and insured. We work throughout Chicagoland — Palos Heights, Oak Lawn, Tinley Park, Orland Park, and the surrounding suburbs — and we'll tell you honestly whether your foundation needs a real repair or just a little maintenance.
+Emerald Masonry LLC is family-owned, led by career masons with decades of hands-on masonry experience, fully licensed, bonded, and insured. We work throughout Chicagoland — Palos Heights, Oak Lawn, Tinley Park, Orland Park, and the surrounding suburbs — and we'll tell you honestly whether your foundation needs a real repair or just a little maintenance.
 
 ## Frequently Asked Questions
 
@@ -124,6 +124,6 @@ Yes. Emerald Masonry LLC repairs both solid brick and concrete-block (CMU) found
 
 ## Get a Straight Answer on Your Foundation
 
-Whether your home sits on an old solid-brick foundation or a mid-century concrete-block wall, the fix depends on knowing exactly how it's failing — and matching the repair to it. Emerald Masonry LLC has handled both for over 40 years across the south and southwest suburbs.
+Whether your home sits on an old solid-brick foundation or a mid-century concrete-block wall, the fix depends on knowing exactly how it's failing — and matching the repair to it. Emerald Masonry LLC has handled both for decades across the south and southwest suburbs.
 
 Call **(708) 288-1696** or email emeraldmasonryil@gmail.com for a free estimate. Emerald Masonry LLC · 7156 W. 126th St. Suite 136, Palos Heights, IL 60464 · https://emeraldmasonryil.com

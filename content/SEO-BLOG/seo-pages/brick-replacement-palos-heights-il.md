@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Brick Replacement in Palos Heights, IL | Emerald Masonry"
 metaDescription: "Brick replacement in Palos Heights, IL — failed sections rebuilt with matched or salvaged brick, and the cause corrected. Free estimates: call (708) 288-1696."
 excerpt: "A lot of Palos Heights homes are brick on the front and siding everywhere else — which quietly removes the mason's best trick for matching an out-of-production blend."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Palos Heights, IL — cutting out spalled, cracked and displaced brick and rebuilding failed sections with matched or salvaged units and matched mortar, after correcting the water path or steel that caused it. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides brick replacement in Palos Heights, IL — cutting out spalled, cracked and displaced brick and rebuilding failed sections with matched or salvaged units and matched mortar, after correcting the water path or steel that caused it. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Rebuilt brick section with matched replacement brick on a split-level home in Palos Heights, Illinois"
 faqs:
   - q: "How much does brick replacement cost in Palos Heights, IL?"
@@ -47,7 +47,7 @@ competitorInformed: false
 
 ## Brick Replacement in Palos Heights, IL
 
-Brick replacement in Palos Heights, IL has a local wrinkle that catches homeowners out: a large share of the village's houses are **brick on the front elevation and siding on the sides and rear** — and that quietly removes a mason's most reliable trick for matching an out-of-production blend. Emerald Masonry LLC is based in Palos Heights and replaces failed brick throughout the village and the southwest suburbs. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick replacement in Palos Heights, IL has a local wrinkle that catches homeowners out: a large share of the village's houses are **brick on the front elevation and siding on the sides and rear** — and that quietly removes a mason's most reliable trick for matching an out-of-production blend. Emerald Masonry LLC is based in Palos Heights and replaces failed brick throughout the village and the southwest suburbs. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 ## The Matching Problem, Explained Properly
 
@@ -101,7 +101,7 @@ The village built out largely through the **1950s to 1980s** — brick ranches, 
 
 Size of the failed section · veneer versus structural masonry · height and access, from a grade-level wall to a chimney or upper story needing staging · **match difficulty, which a partial-brick elevation increases** · underlying corrections such as lintels, sills, flashing or drainage · season and curing conditions. Emerald Masonry does not quote brick work over the phone; the on-site assessment is free and written, with a $5,000 project minimum.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving Palos Heights and the Southwest Suburbs
 
@@ -109,6 +109,6 @@ Palos Heights is home for us — our office is at 7156 W. 126th St., Suite 136 �
 
 ## Why Palos Heights Homeowners Call Emerald
 
-We tell you what the match is actually going to involve before you commit, we correct what caused the failure instead of building over it, and we dry-lay the replacement against your wall so there are no surprises. We would rather talk a homeowner out of a rebuild than sell one that is not needed. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We tell you what the match is actually going to involve before you commit, we correct what caused the failure instead of building over it, and we dry-lay the replacement against your wall so there are no surprises. We would rather talk a homeowner out of a rebuild than sell one that is not needed. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 If a section of your Palos Heights home has spalled through, cracked across or started to bulge, [request a free on-site estimate](/#contact) or call **(708) 288-1696**.

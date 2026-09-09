@@ -17,17 +17,12 @@ city: "Oak Park, IL"
 service: "Historic Masonry Restoration"
 metaTitle: "Historic Masonry Restoration in Oak Park, IL | Emerald Masonry LLC"
 metaDescription: "Historic masonry restoration in Oak Park, IL. Emerald Masonry specializes in pre-war brick repair, lime mortar repointing, and facade preservation. Free estimates."
-excerpt: "Oak Park contains one of the most concentrated collections of historically significant architecture in the Chicago suburbs — including the world's largest collection of Frank Lloyd Wright buildings and thousands of pre-war brick residences and commercial buildings. Masonry restoration in Oak Park isn't just maintenance; it's preservation work that requires specific expertise in pre-1930 materials and methods. Emerald Masonry LLC brings 40+ years of Chicagoland experience to historic masonry restoration in Oak Park and the surrounding near-west suburbs."
-image: "/images/after-residential.jpg"
+excerpt: "Oak Park contains one of the most concentrated collections of historically significant architecture in the Chicago suburbs — including the world's largest collection of Frank Lloyd Wright buildings and thousands of pre-war brick residences and commercial buildings. Masonry restoration in Oak Park isn't just maintenance; it's preservation work that requires specific expertise in pre-1930 materials and methods. Emerald Masonry LLC brings career masons with decades of Chicagoland experience to historic masonry restoration in Oak Park and the surrounding near-west suburbs."
+image: "/images/after-residential.webp"
 imageAlt: "Historic masonry restoration and lime mortar tuckpointing on a pre-war brick home in Oak Park, IL"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: masonry contractor Oak Park IL historic restoration tuckpointing
-Why this page is better: This page provides specific guidance on Oak Park's unique historic building stock — the architectural eras represented, mortar compatibility requirements for soft pre-war brick, preservation principles, and what distinguishes qualified historic masonry work from standard commercial repair. The competitor page is generic, uses "part of our greater Chicago service area" language that undermines Oak Park focus, has a thin FAQ with no depth on cost/timeline/materials, and includes no Oak Park-specific architectural or neighborhood context.
-Gaps filled: Prairie-era and pre-war brick construction context, mortar specification for Oak Park's soft historic brick, preservation principles (minimum intervention, test patches), historic district and landmark considerations, contractor qualification criteria specific to historic work, stronger FAQ with depth on materials and compatibility, specific service area and neighborhood context
--->
 
 Oak Park is not a typical masonry market. The village's building stock represents a specific intersection of architectural history and materials science that shapes every masonry restoration decision made here. Any contractor working in Oak Park's historic neighborhoods — and particularly on any of the community's designated landmarks — needs to understand what makes this building stock different and what that requires of the repair approach.
 
@@ -102,7 +97,7 @@ If the repointing was recently completed with hard mortar and you're seeing earl
 
 ## Service Area
 
-Emerald Masonry LLC serves Oak Park and the surrounding near-west communities from our base in Palos Heights, IL. We work throughout River Forest, Forest Park, Berwyn, Cicero, Elmhurst, Maywood, and the full range of Cook and DuPage County inner-ring suburbs. Our 40+ years in the Chicagoland market includes sustained work on the full spectrum of pre-war brick construction that characterizes this part of the region.
+Emerald Masonry LLC serves Oak Park and the surrounding near-west communities from our base in Palos Heights, IL. We work throughout River Forest, Forest Park, Berwyn, Cicero, Elmhurst, Maywood, and the full range of Cook and DuPage County inner-ring suburbs. Our career masons in the Chicagoland market includes sustained work on the full spectrum of pre-war brick construction that characterizes this part of the region.
 
 Call **(708) 288-1696** or [contact us online](/#contact). Free on-site estimates with written documentation. We'll identify the mortar specification, document the condition, and give you a clear picture of what the restoration scope requires.
 

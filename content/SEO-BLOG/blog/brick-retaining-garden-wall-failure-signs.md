@@ -5,7 +5,7 @@ excerpt: "A leaning garden wall or a bulging brick retaining wall isn't just a c
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Repaired brick garden wall with sound mortar joints and capstones on a Chicagoland property"
 aiSummary: "A brick retaining or garden wall is failing when it leans, bulges, cracks in a stair-step pattern, sheds its caps, or holds water behind it. These point to drainage and frost-heave problems. Emerald Masonry LLC repairs and rebuilds freestanding brick and block walls across Chicagoland. Free on-site estimates — call (708) 288-1696."
 intent: "informational"
@@ -37,7 +37,7 @@ faqs:
 
 A brick garden wall that has started to lean, or a retaining wall with a belly bulging out of its middle, is telling you something important: water and frost are winning. **A freestanding brick or block wall is failing when it leans, bulges, cracks in a stair-step pattern, sheds its capstones, or holds water behind it — and in Chicagoland, the cause is almost always drainage and freeze-thaw, not just worn-out mortar.** Catching the signs early is the difference between a targeted repair and a full rebuild. If your wall is moving, call Emerald Masonry LLC at (708) 288-1696 for a free on-site assessment.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Freestanding Walls Fail Differently Than House Walls
 

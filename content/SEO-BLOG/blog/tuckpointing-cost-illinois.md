@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "There's no flat per-foot number that honestly answers what tuckpointing costs in Illinois — the price is driven by linear footage, access, scope, mortar matching, and the condition of your brick. Here's how each factor moves the number, and how to read an estimate so you know exactly what you're paying for."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 keywords:
   - tuckpointing cost Illinois
   - how much does tuckpointing cost

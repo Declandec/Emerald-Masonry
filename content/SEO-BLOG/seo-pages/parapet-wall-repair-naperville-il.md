@@ -18,7 +18,7 @@ service: "Parapet Wall Repair"
 metaTitle: "Parapet Wall Repair in Naperville, IL | Emerald Masonry LLC"
 metaDescription: "Commercial parapet wall repair in Naperville, IL. Coping replacement, mortar restoration & structural parapet repair. Licensed contractor, free estimates."
 excerpt: "Parapet walls take more weather exposure than any other part of a building's masonry system — open to rain, UV, and freeze-thaw from above, below, and all sides. For commercial property owners in Naperville and DuPage County, parapet failure is one of the most common and costly masonry problems we see."
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 imageAlt: "Parapet wall repair on commercial building in Naperville, IL"
 competitorInformed: false
 ---

@@ -18,7 +18,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Shorewood, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing and mortar joint repair in Shorewood, IL. Emerald Masonry serves Will County brick homes and commercial buildings. Free estimates."
 excerpt: "Shorewood developed rapidly through the 1990s and 2000s as Will County's population expanded, producing a building stock with a concentrated age range that is now hitting the 25-35 year tuckpointing threshold. Emerald Masonry LLC serves Shorewood homeowners and commercial property owners with professional mortar joint repair, repointing, and masonry assessment."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair completed on a brick residential building in Shorewood, IL Will County"
 competitorInformed: false
 ---
@@ -93,7 +93,7 @@ Ask for the mortar specification before agreeing to anything. A contractor doing
 
 ## Service Area
 
-Emerald Masonry LLC serves Shorewood and the surrounding Will County communities from our base in Palos Heights. We work throughout Joliet, Plainfield, Channahon, Crest Hill, Romeoville, Lockport, and the full I-55 corridor in Will County. With 40+ years of Chicagoland masonry experience, we understand the specific maintenance needs of Will County's rapidly developed suburban building stock.
+Emerald Masonry LLC serves Shorewood and the surrounding Will County communities from our base in Palos Heights. We work throughout Joliet, Plainfield, Channahon, Crest Hill, Romeoville, Lockport, and the full I-55 corridor in Will County. With career masons of Chicagoland masonry experience, we understand the specific maintenance needs of Will County's rapidly developed suburban building stock.
 
 [Contact us online](/#contact) or call **(708) 288-1696** for a free on-site estimate.
 

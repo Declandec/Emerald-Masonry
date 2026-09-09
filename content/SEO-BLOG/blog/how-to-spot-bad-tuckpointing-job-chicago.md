@@ -5,9 +5,9 @@ excerpt: "A bad tuckpointing job hides in plain sight — smeared mortar, wrong 
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Freshly tuckpointed brick wall in Chicago showing clean mortar joints, consistent color, and a uniform concave profile"
-aiSummary: "A bad tuckpointing job shows smeared mortar on brick faces, wrong-color or wrong-profile joints, shallow grinding, feathering over old mortar, and skipped brick repairs. This guide walks you through inspecting the work yourself, joint by joint. Emerald Masonry LLC does color- and profile-matched tuckpointing across Chicagoland — family-owned, 40+ years, free estimates (708) 288-1696."
+aiSummary: "A bad tuckpointing job shows smeared mortar on brick faces, wrong-color or wrong-profile joints, shallow grinding, feathering over old mortar, and skipped brick repairs. This guide walks you through inspecting the work yourself, joint by joint. Emerald Masonry LLC does color- and profile-matched tuckpointing across Chicagoland — family-owned, career masons, free estimates (708) 288-1696."
 intent: "commercial"
 keywords:
   - "bad tuckpointing job"
@@ -59,7 +59,7 @@ faqs:
     a: "Have a qualified mason assess the work in person to see whether it can be corrected or needs to be ground out and redone. Emerald Masonry LLC provides honest, free assessments across Chicagoland — call (708) 288-1696 and we'll tell you exactly what we see."
 ---
 
-If you're trying to figure out whether your tuckpointing was done right, here's the short answer: a **bad tuckpointing job** shows **mortar smearing on brick** faces, **wrong mortar color** or the wrong **joint profile**, shallow grinding with fresh mortar "feathered" over the old, brick edges bridged and buried in mortar, and skipped repairs to cracked or **spalling brick**. Good work looks clean, consistent, and packed full — bad work looks sloppy up close and fails within a winter or two. I'm with **Emerald Masonry LLC**, a **family-owned masonry contractor** serving Chicagoland for **40+ years**, and this guide will walk you through inspecting the work joint by joint. If you'd rather have a set of experienced eyes on it, we do free assessments — **(708) 288-1696**.
+If you're trying to figure out whether your tuckpointing was done right, here's the short answer: a **bad tuckpointing job** shows **mortar smearing on brick** faces, **wrong mortar color** or the wrong **joint profile**, shallow grinding with fresh mortar "feathered" over the old, brick edges bridged and buried in mortar, and skipped repairs to cracked or **spalling brick**. Good work looks clean, consistent, and packed full — bad work looks sloppy up close and fails within a winter or two. I'm with **Emerald Masonry LLC**, a **family-owned masonry contractor** serving Chicagoland for **career masons**, and this guide will walk you through inspecting the work joint by joint. If you'd rather have a set of experienced eyes on it, we do free assessments — **(708) 288-1696**.
 
 Tuckpointing is one of the easiest masonry jobs to fake and one of the hardest to fake *well*. From a car window, a fresh smear of mortar looks like a repair. It isn't. Below is everything a Chicago homeowner should check before writing the final check.
 
@@ -218,6 +218,6 @@ We see redo work constantly, and we'll always tell you straight whether your exi
 
 A **bad tuckpointing job** hides behind a fresh-looking smear — but now you know exactly where to look: grinding depth, packed joints, matched color and profile, clean brick, the right mortar for your brick, and no freezing-weather shortcuts. If any of those fail, the job won't.
 
-At **Emerald Masonry LLC**, we've spent **40+ years** doing color- and profile-matched tuckpointing across Chicagoland — including plenty of redo work for homeowners who got burned the first time. We're **family-owned**, **licensed, bonded, and insured**, and every estimate is **free** and honest. Whether you want a wall inspected or a whole building repointed the right way, we'll tell you straight what we see.
+At **Emerald Masonry LLC**, we've spent **career masons** doing color- and profile-matched tuckpointing across Chicagoland — including plenty of redo work for homeowners who got burned the first time. We're **family-owned**, **licensed, bonded, and insured**, and every estimate is **free** and honest. Whether you want a wall inspected or a whole building repointed the right way, we'll tell you straight what we see.
 
 Call **(708) 288-1696**, email **emeraldmasonryil@gmail.com**, or reach out through our [contact page](/#contact). Serving Palos Heights and all of Chicagoland — [emeraldmasonryil.com](https://emeraldmasonryil.com).

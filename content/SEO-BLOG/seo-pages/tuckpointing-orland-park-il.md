@@ -18,7 +18,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Orland Park, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing and mortar joint restoration in Orland Park, IL. Emerald Masonry LLC serves commercial properties, HOAs, and churches across the southwest suburbs. Free estimates."
 excerpt: "Deteriorated mortar joints are the leading cause of water intrusion in brick buildings across Orland Park. Emerald Masonry LLC provides professional tuckpointing and repointing for commercial properties, HOAs, and churches throughout the southwest suburbs."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Commercial tuckpointing work on brick building in Orland Park Illinois"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Running bond, common bond, soldier courses, rowlocks and headers are n
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Brick wall showing common bond with header courses and a soldier course above a window on a Chicagoland home"
 keywords:
   - brick bonds and patterns
@@ -38,7 +38,7 @@ keywords:
   - brick coursing alignment
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "A brick wall's bond pattern — running bond, common bond, Flemish bond, soldier and rowlock courses — tells a mason whether the wall is solid multi-wythe masonry or veneer, where its structural ties are, and how a repair must be rebuilt to disappear. Header courses in older Chicagoland walls are structural, not decorative. Emerald Masonry LLC matches bond, coursing and joint profile on every repair. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A brick wall's bond pattern — running bond, common bond, Flemish bond, soldier and rowlock courses — tells a mason whether the wall is solid multi-wythe masonry or veneer, where its structural ties are, and how a repair must be rebuilt to disappear. Header courses in older Chicagoland walls are structural, not decorative. Emerald Masonry LLC matches bond, coursing and joint profile on every repair. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "What is a brick bond?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Brick Bonds: Why Your Wall's Pattern Governs Its Repair
 
-**The bond pattern in a brick wall — running bond, common bond, Flemish bond, soldier and rowlock courses — is not decoration. It tells a mason whether the wall is solid multi-wythe masonry or a veneer skin, where its structural ties are, and how a repair has to be rebuilt so it disappears.** In older Chicagoland walls, header courses are load-carrying, not ornamental. Emerald Masonry LLC matches bond, coursing and joint profile on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**The bond pattern in a brick wall — running bond, common bond, Flemish bond, soldier and rowlock courses — is not decoration. It tells a mason whether the wall is solid multi-wythe masonry or a veneer skin, where its structural ties are, and how a repair has to be rebuilt so it disappears.** In older Chicagoland walls, header courses are load-carrying, not ornamental. Emerald Masonry LLC matches bond, coursing and joint profile on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners rarely think about this until they see a finished repair that is technically sound and visually obvious — right color, right mortar, wrong pattern. Once the coursing breaks, the eye finds it every time.
 
@@ -208,6 +208,6 @@ Your wall's pattern is a set of instructions written by whoever built it. Header
 
 A mason who reads those instructions produces a repair you cannot find afterward. One who does not produces a patch you will notice every time you pull into the driveway.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

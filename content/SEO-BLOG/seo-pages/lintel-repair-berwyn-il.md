@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Lintel Repair in Berwyn, IL | Emerald Masonry LLC"
 metaDescription: "Steel lintel repair in Berwyn, IL. Emerald Masonry fixes rusting lintels, rust jacking, and cracked brick above windows. Free estimate — (708) 288-1696."
 excerpt: "Berwyn's brick bungalows and two-flats almost all rely on steel lintels over their windows and doors — and after decades those lintels rust, expand, and crack the brick above them. Emerald Masonry LLC repairs and replaces failing lintels and rebuilds the masonry around them."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Berwyn, IL — replacing rusted steel lintels over windows and doors, addressing rust jacking, and rebuilding the cracked brick above on bungalows and two-flats. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-commercial-3.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Berwyn, IL — replacing rusted steel lintels over windows and doors, addressing rust jacking, and rebuilding the cracked brick above on bungalows and two-flats. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-commercial-3.webp"
 imageAlt: "Repaired steel lintel and rebuilt brick above a window on a Berwyn, IL bungalow"
 faqs:
   - q: "How do I know if my Berwyn lintel is failing?"
@@ -96,4 +96,4 @@ Yes. Replacing a lintel almost always means temporarily supporting and removing 
 
 ## Get a Free Lintel Repair Estimate in Berwyn
 
-If you're seeing a horizontal crack, rust stains, or sagging steel above your windows, the time to act is before the rust takes the brick with it. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Berwyn, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we'll tell you straight whether your lintels need treating, replacing, or just a careful eye.
+If you're seeing a horizontal crack, rust stains, or sagging steel above your windows, the time to act is before the rust takes the brick with it. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Berwyn, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we'll tell you straight whether your lintels need treating, replacing, or just a careful eye.

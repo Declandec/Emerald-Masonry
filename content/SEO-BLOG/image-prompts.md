@@ -1536,67 +1536,67 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 > A brick Chicagoland home mid-repair with one elevation freshly tuckpointed and repaired while another awaits work, showing phased restoration, clear daylight, documentary photo, photorealistic, no text or logos
 
 ## Tuckpointing in Hickory Hills, IL
-**File:** `/images/after-residential.jpg` (existing)
+**File:** `/images/after-residential.webp` (existing)
 **Alt:** Freshly tuckpointed brick home in Hickory Hills, IL by Emerald Masonry
 **Prompt:** > Photorealistic daytime jobsite photo of a mid-century brick ranch in Hickory Hills, IL after tuckpointing — crisp color-matched mortar joints, clean workmanship, no text/logos, no CGI.
 
 ## Chimney Repair in Country Club Hills, IL
-**File:** `/images/after-chimney.jpg` (existing)
+**File:** `/images/after-chimney.webp` (existing)
 **Alt:** Repaired masonry chimney in Country Club Hills, IL
 **Prompt:** > Photorealistic photo of a repaired brick chimney on a south-suburban split-level in Country Club Hills, IL — new crown, fresh flashing, repointed top courses, blue sky, no text/logos, no CGI.
 
 ## Brick Repair & Replacement in Bolingbrook, IL
-**File:** `/images/after-brick-repair.jpg` (existing)
+**File:** `/images/after-brick-repair.webp` (existing)
 **Alt:** Seamless brick repair on a Bolingbrook, IL home
 **Prompt:** > Photorealistic photo of a brick wall on a Bolingbrook, IL subdivision home after brick repair — replacement bricks matched in size/color/texture, blended mortar, no visible patch, no text/logos, no CGI.
 
 ## Foundation Masonry Repair in Glendale Heights, IL
-**File:** `/images/after-residential-2.jpg` (existing)
+**File:** `/images/after-residential-2.webp` (existing)
 **Alt:** Repaired brick/block foundation courses on a Glendale Heights, IL home
 **Prompt:** > Photorealistic photo of a repaired block/brick foundation at grade on a Glendale Heights, IL home — repointed lower courses, parged surface, clean landscaping transition, no text/logos, no CGI.
 
 ## Lintel Repair in Batavia, IL
-**File:** `/images/after-commercial.jpg` (existing)
+**File:** `/images/after-commercial.webp` (existing)
 **Alt:** Replaced steel lintel over a window on a Batavia, IL brick building
 **Prompt:** > Photorealistic photo of a repaired masonry opening on a Batavia, IL brick facade — new steel lintel installed, brick course above rebuilt and repointed, no rust staining, no text/logos, no CGI.
 
 ## Blog: Why Masonry Repairs Fail
-**File:** `/images/after-residential-3.jpg` (existing)
+**File:** `/images/after-residential-3.webp` (existing)
 **Alt:** High-quality masonry repair with color-matched mortar on a Chicago brick home
 **Prompt:** > Photorealistic close photo contrasting properly repointed, color-matched mortar joints with a botched smeared repair on a Chicago-area brick wall, no text/logos, no CGI.
 
 ## Blog: Failing Brick Retaining Walls & Planters
-**File:** `/images/after-mailbox.jpg` (existing)
+**File:** `/images/after-mailbox.webp` (existing)
 **Alt:** Rebuilt brick retaining/garden wall with proper drainage in Chicagoland
 **Prompt:** > Photorealistic photo of a sturdy rebuilt brick garden/retaining wall in a Chicagoland yard with visible weep holes and clean capstones, no text/logos, no CGI.
 
 ## Blog: Garage, Shed & Detached-Structure Masonry
-**File:** `/images/after-commercial-2.jpg` (existing)
+**File:** `/images/after-commercial-2.webp` (existing)
 **Alt:** Repaired brick detached garage / coach house in a Chicago suburb
 **Prompt:** > Photorealistic photo of a restored brick detached garage / alley coach house in a Chicago suburb — repointed joints, replaced spalled brick, sound lintel over the door, no text/logos, no CGI.
 
 ## AI page: Why Choose Emerald Masonry
-**File:** `/images/after-residential.jpg` (existing)
+**File:** `/images/after-residential.webp` (existing)
 **Alt:** Emerald Masonry crew's finished residential brickwork in the Chicago suburbs
 **Prompt:** > Photorealistic photo of a beautifully restored Chicagoland brick home exterior — crisp repointed joints, clean brickwork — conveying trusted craftsmanship, no text/logos, no CGI.
 
 ## AI page: Professional Mason vs Handyman
-**File:** `/images/after-brick-repair.jpg` (existing)
+**File:** `/images/after-brick-repair.webp` (existing)
 **Alt:** Professional-grade brick repair vs amateur patch comparison, Chicagoland
 **Prompt:** > Photorealistic close photo of expertly repaired brick with color-matched mortar next to a rough amateur patch, illustrating pro vs handyman quality, no text/logos, no CGI.
 
 ## AI page: Masonry Repair vs Full Restoration
-**File:** `/images/after-commercial.jpg` (existing)
+**File:** `/images/after-commercial.webp` (existing)
 **Alt:** Fully restored Chicagoland commercial masonry facade
 **Prompt:** > Photorealistic photo of a fully restored older Chicago-area commercial brick facade — extensive repointing and cleaning complete — versus a spot-repaired section, no text/logos, no CGI.
 
 ## AI page: What a Professional Masonry Estimate Should Include
-**File:** `/images/after-residential-2.jpg` (existing)
+**File:** `/images/after-residential-2.webp` (existing)
 **Alt:** Emerald Masonry assessing a Chicago brick home for a detailed estimate
 **Prompt:** > Photorealistic photo of a well-kept Chicagoland brick home exterior being assessed for masonry work, conveying a thorough professional estimate, no text/logos, no CGI.
 
 ## AI page: Do You Need Waterproofing After Tuckpointing?
-**File:** `/images/after-chimney-2.jpg` (existing)
+**File:** `/images/after-chimney-2.webp` (existing)
 **Alt:** Freshly tuckpointed Chicago brick wall shedding water
 **Prompt:** > Photorealistic photo of a freshly tuckpointed Chicago-area brick wall with tight new mortar joints beading water, conveying restored weather resistance, no text/logos, no CGI.
 
@@ -1828,42 +1828,42 @@ All worker images must show appropriate PPE: hard hats, gloves, eye protection w
 > A tall older Chicago commercial brick-and-terracotta building with a suspended swing-stage scaffold on the facade, a mason in a hard hat and harness examining and repairing deteriorated mortar joints and spalled masonry high up, city street below, overcast daylight, photorealistic documentary photo, no text or logos
 
 ## Tuckpointing in Berwyn, IL (location)
-**File:** `/images/after-residential.jpg` (existing real after-photo reused)
+**File:** `/images/after-residential.webp` (existing real after-photo reused)
 **Alt:** Tuckpointing and brick repointing on a Berwyn Illinois brick bungalow, Cook County
 **Prompt:** Photorealistic daytime photo of a freshly tuckpointed 1920s Chicago-style brick bungalow in Berwyn, IL — crisp new mortar joints, clean face brick, mason's tools staged on drop cloths, no visible faces; documentary jobsite realism, natural overcast light, no CGI, no text.
 
 ## Chimney Repair in Elmhurst, IL (location)
-**File:** `/images/after-chimney.jpg`
+**File:** `/images/after-chimney.webp`
 **Alt:** Rebuilt brick chimney with new crown and flashing on an Elmhurst Illinois home
 **Prompt:** Photorealistic photo of a repaired brick chimney on an older DuPage County home — new poured crown, fresh flashing at the roofline, repointed brick, blue sky; realistic residential rooftop, workers in PPE if shown, no CGI, no text.
 
 ## Brick Repair in Naperville, IL (location)
-**File:** `/images/after-brick-repair.jpg`
+**File:** `/images/after-brick-repair.webp`
 **Alt:** Completed brick repair on a spalled and cracked brick wall of a Naperville Illinois home
 **Prompt:** Photorealistic close-up of a repaired brick wall section — replacement brick color-matched into the field, tooled mortar joints, spalling remediated; sharp jobsite detail, natural light, no CGI, no text.
 
 ## Lintel Repair in Tinley Park, IL (location)
-**File:** `/images/after-residential-2.jpg`
+**File:** `/images/after-residential-2.webp`
 **Alt:** Repaired steel lintel and rebuilt brick course above a window on a Tinley Park brick home
 **Prompt:** Photorealistic photo of a rebuilt brick course above a window opening after steel lintel replacement — clean new lintel, matched brick, tooled joints, rust staining gone; documentary realism, natural light, no CGI, no text.
 
 ## Foundation Masonry Repair in Lockport, IL (location)
-**File:** `/images/after-residential-3.jpg`
+**File:** `/images/after-residential-3.webp`
 **Alt:** Repointed brick and block foundation with fresh parge coat on a Lockport Illinois home
 **Prompt:** Photorealistic photo of a repaired masonry foundation at grade — repointed mortar joints, replaced block/brick, fresh parge coat, tidy excavation line; realistic jobsite, overcast light, no CGI, no text.
 
 ## Blog: Step Cracks in Brick Walls
-**File:** `/images/after-brick-repair.jpg`
+**File:** `/images/after-brick-repair.webp`
 **Alt:** Repaired stair-step crack in a brick wall following the mortar joints
 **Prompt:** Photorealistic close-up of a brick wall where a stair-step mortar crack has been raked and repointed — matched mortar, clean tooled joints, faint trace of the former crack line; sharp documentary detail, natural light, no CGI, no text.
 
 ## Blog: Greystone Facade Restoration in Chicago
-**File:** `/images/after-commercial-2.jpg`
+**File:** `/images/after-commercial-2.webp`
 **Alt:** Restored Chicago greystone limestone facade with repointed joints and pieced-in stone
 **Prompt:** Photorealistic photo of a restored Chicago greystone facade — cleaned limestone, soft lime-mortar repointing, a subtly pieced-in Dutchman stone repair, carved sills intact; dignified historic street realism, natural light, no CGI, no text.
 
 ## Blog: Commercial Storefront Masonry Repair in Chicago
-**File:** `/images/after-commercial.jpg`
+**File:** `/images/after-commercial.webp`
 **Alt:** Restored brick storefront facade and parapet on a Chicago commercial building
 **Prompt:** Photorealistic photo of a repaired masonry storefront facade on an older Chicago-area commercial building — repointed brick, restored parapet, new lintel above large display windows, scaffolding partially struck; documentary commercial jobsite, natural light, PPE if workers shown, no CGI, no text.
 
@@ -2434,3 +2434,177 @@ Photorealistic photograph of a century-old Chicago brick side wall newly exposed
 
 **Prompt:**
 > Documentary photo of a vacant early-1900s Chicago brick building, boarded ground-floor openings fitted into the frames rather than fastened to the brick, a long dark staining track running down the elevation from a blocked scupper above, white efflorescence blooming across the lower courses, small plants growing from the gutter and from open joints in the parapet, mortar debris scattered on the sidewalk below and a caution barrier around it, flat grey winter light, photorealistic, no text or logos
+
+## Commercial Tuckpointing Oak Lawn (location) — 2026-08-27
+**Intended path:** `/images/seo/commercial-tuckpointing-oak-lawn-il.jpg`
+**Alt:** Commercial brick building with freshly repointed mortar joints in Oak Lawn, Illinois
+*(No Fire Protection District building; no PLM-branded lift, truck, scaffold or signage in frame.)*
+
+**Prompt:**
+> Documentary photo of a three-storey brick apartment building in Oak Lawn, Illinois mid-repointing, pipe staging with dust screening erected across one elevation only while the adjacent elevations remain untouched and occupied, a protected covered walkway at the main entrance, masons in hard hats and safety glasses grinding and repointing joints, the untouched elevation showing visibly eroded sandy mortar for contrast, unbranded equipment, bright overcast morning light, photorealistic, no text or logos
+
+## HOA & Condo Masonry Repair Orland Park (location) — 2026-08-27
+**Intended path:** `/images/seo/hoa-masonry-repair-orland-park-il.jpg`
+**Alt:** Townhome association brick building with restored masonry and repointed joints in Orland Park, Illinois
+*(No PLM branding; no identifiable association signage or unit numbers.)*
+
+**Prompt:**
+> Documentary photo of a 1980s brick townhome association building in Orland Park, Illinois during a phased masonry repair, one building under pipe staging while the neighbouring buildings are untouched, residents' patios cleared and protected with covering, a rebuilt chimney crown visible on the roof, a clipboard condition survey and marked-up site plan resting on a tailgate in the foreground, unbranded truck and equipment, warm late-afternoon light, photorealistic, no text or logos
+
+## Commercial Façade Repair Downers Grove (location) — 2026-08-27
+**Intended path:** `/images/seo/facade-repair-downers-grove-il.jpg`
+**Alt:** Restored commercial brick façade with repointed joints and rebuilt parapet in Downers Grove, Illinois
+*(No Fire Protection District building; no client signage identifying a tenant.)*
+
+**Prompt:**
+> Documentary photo of a multi-storey commercial brick and precast office building in Downers Grove, Illinois undergoing façade repair, a mason on a boom lift close to the parapet sounding the masonry with a hammer while photographing a finding, a protected walkway over the ground-floor entrance keeping it open, precast panel sealant joints partially cut out on one bay, clear early-morning light, unbranded lift, photorealistic, no text or logos
+
+## CMU Block Repair Bridgeview (location) — 2026-08-27
+**Intended path:** `/images/seo/cmu-block-repair-bridgeview-il.jpg`
+**Alt:** Repaired concrete block wall at an industrial loading dock in Bridgeview, Illinois
+*(No PLM branding on lift, truck or scaffold; no tenant or client signage.)*
+
+**Prompt:**
+> Documentary photo of an industrial concrete block wall beside an overhead loading dock door in Bridgeview, Illinois mid-repair, a vertical control joint cleanly cut out and being refilled with backer rod and sealant rather than mortar, cracked block units removed in a neat rectangular section with matched replacement units stacked ready, a newly set steel pipe bollard and a fresh dock bumper in the foreground, mason in hard hat and hi-vis, overcast industrial daylight, unbranded equipment, photorealistic, no text or logos
+
+## Church Masonry Restoration Chicago (location) — 2026-08-27
+**Intended path:** `/images/seo/church-masonry-restoration-chicago-il.jpg`
+**Alt:** Restored church brick and limestone masonry with repointed joints in Chicago, Illinois
+*(Generic parish building; no identifiable church name, dedication plaque or signage. No PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a century-old Chicago brick and limestone church mid-restoration, pipe staging erected around the bell tower only while the nave elevation stands untouched, masons in hard hats and harnesses repointing tower courses in lime-rich mortar, restored limestone banding and a repaired stone window surround visible below, the main entrance kept clear and protected with overhead cover, no identifying signage or dedication lettering in frame, warm morning light, photorealistic, no text or logos
+
+## HOA vs Unit Owner: Who Pays (blog) — 2026-08-27
+**Intended path:** `/images/seo/hoa-vs-unit-owner-who-pays-masonry-repair.jpg`
+**Alt:** Property manager and mason reviewing a masonry condition survey at a townhome association
+
+**Prompt:**
+> Documentary photo of a property manager and a mason in a hard hat standing at the base of a brick townhome building reviewing a marked-up condition survey and site plan on a clipboard, pointing up toward a deteriorated chimney serving a single unit, a second untouched building visible behind them for comparison, patios cleared, unbranded work truck at the kerb, flat overcast daylight, photorealistic, no text or logos
+
+## How to Write a Masonry Scope for Bid (blog) — 2026-08-27
+**Intended path:** `/images/seo/how-to-write-masonry-scope-for-bid.jpg`
+**Alt:** Marked-up masonry condition record and quantity takeoff on a commercial elevation
+
+**Prompt:**
+> Instructional documentary photo of a masonry scope document and elevation drawing spread on a tailgate, areas of a brick elevation outlined and annotated with approximate percentages and unit counts, a joint depth gauge and a mortar sample board weighted on top of the pages, the actual building elevation visible in soft focus behind matching the drawing, flat even daylight, sharp detail on the documents, photorealistic, no text legible, no logos
+
+## Storm Damage vs Pre-Existing Deterioration (blog) — 2026-08-27
+**Intended path:** `/images/seo/storm-damage-vs-pre-existing-deterioration-masonry-claim.jpg`
+**Alt:** Fresh storm fracture beside long-weathered mortar erosion on a Chicago chimney
+
+**Prompt:**
+> Instructional close documentary comparison on a single storm-damaged Chicago brick chimney, the upper courses freshly broken away showing clean sharp unweathered fracture faces and bright interior brick, while the courses immediately below show rounded eroded sandy mortar joints, white efflorescence and spalled weathered faces, a mason's gloved hand holding a scale rule against the break, toppled brick lying in the roof valley below, flat grey post-storm light, high detail, photorealistic, no text or logos
+
+## Parapet Wall Repair Tinley Park (location) — 2026-08-29
+**Intended path:** `/images/seo/parapet-wall-repair-tinley-park-il.jpg`
+**Alt:** Rebuilt brick parapet wall with reset coping and new through-wall flashing in Tinley Park, Illinois
+*(No Fire Protection District building; no PLM branding on lift, truck, scaffold or clothing; no tenant signage.)*
+
+**Prompt:**
+> Rooftop-level documentary photo of a brick parapet on a flat-roofed suburban commercial building being rebuilt, limestone coping stones lifted and set aside in order on the roof deck, new through-wall flashing turned up under the coping bed, the roof-side back face of the parapet visibly far more deteriorated than the street face, a mason in hard hat laying matched brick to a line, roofing membrane terminated neatly against the parapet base beside the work, overhead protection visible on the sidewalk far below, unbranded equipment, clear late-morning light, photorealistic, no text or logos
+
+## Commercial Tuckpointing Naperville (location) — 2026-08-29
+**Intended path:** `/images/seo/commercial-tuckpointing-naperville-il.jpg`
+**Alt:** Commercial office building façade being repointed from a lift in Naperville, Illinois
+*(No PLM branding; no identifiable tenant or corporate signage.)*
+
+**Prompt:**
+> Documentary photo of a four-storey brick and precast office building being repointed, an unbranded boom lift positioned on the parking lot with its basket at the third-floor elevation and a mason in hard hat and harness grinding a mortar joint, a protected covered walkway over the ground-floor entrance keeping it open, cones and taped-off stalls marking the lift footprint, the untouched adjacent elevation showing eroded joints for contrast, bright overcast morning, photorealistic, no text or logos
+
+## Commercial Lintel Repair Frankfort (location) — 2026-08-29
+**Intended path:** `/images/seo/commercial-lintel-repair-frankfort-il.jpg`
+**Alt:** Replaced steel lintel and rebuilt brick course above a commercial opening in Frankfort, Illinois
+*(No PLM branding; no storefront name or business signage in frame.)*
+
+**Prompt:**
+> Close documentary photo of a storefront opening on a brick commercial building mid-repair, temporary shoring supporting the masonry above the opening, a corroded steel angle lintel removed and lying on the sidewalk with visible orange scale and swelling, a new protected steel angle set with through-wall flashing turned up at the head, salvaged brick stacked in course order, orange rust staining still visible on the untouched masonry of the neighbouring opening, mason in PPE, protected walkway alongside, sharp raking morning light, photorealistic, no text or logos
+
+## School Masonry Repair Evergreen Park (location) — 2026-08-29
+**Intended path:** `/images/seo/school-masonry-repair-evergreen-park-il.jpg`
+**Alt:** Institutional brick school building with restored masonry and repointed joints in Evergreen Park, Illinois
+*(Generic institutional building — no school name, crest, mascot or district signage. No PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a mid-century institutional brick school building during summer masonry work, pipe staging erected across one elevation only with dust screening, an empty asphalt play area cordoned with barriers and cones well clear of the work, masons in hard hats repointing above a bank of corridor windows, a cold joint where a later brick addition meets the original building visible at the edge of frame, no signage or lettering anywhere on the building, bright July light, photorealistic, no text or logos
+
+## Brick Replacement Homer Glen (location) — 2026-08-29
+**Intended path:** `/images/seo/brick-replacement-homer-glen-il.jpg`
+**Alt:** Rebuilt brick pillar with matched replacement brick at a Homer Glen, Illinois property
+*(No house number, family name or address visible. No PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a freestanding brick driveway pillar on a suburban Will County property being rebuilt, the cracked original cap removed and set aside, spalled and salt-damaged brick visible in the lower courses, matched replacement brick dry-laid on a board beside the work for colour approval, a mason in gloves setting a course to a line, a new properly sloped cap ready to set, the second untouched pillar across the drive showing the original deterioration for contrast, warm late-afternoon light, photorealistic, no text or logos
+
+## Masonry Leak Triage for Property Managers (blog) — 2026-08-29
+**Intended path:** `/images/seo/masonry-leak-triage-property-manager.jpg`
+**Alt:** Controlled water testing on a commercial brick elevation to locate a leak path
+
+**Prompt:**
+> Instructional documentary photo of controlled water testing on a commercial brick elevation, a technician in PPE directing a low-pressure spray at a single masked-off window perimeter joint while adjacent areas are covered in plastic sheeting, a second person visible inside the window watching the interior wall, a clipboard test log and stopwatch on the sill, an unbranded lift basket at the working height, flat overcast daylight, sharp detail, photorealistic, no text or logos
+
+## Masonry Work in Occupied Buildings (blog) — 2026-08-29
+**Intended path:** `/images/seo/masonry-work-in-occupied-buildings-tenant-communication.jpg`
+**Alt:** Protected walkway and phased staging at an occupied multi-tenant building during masonry work
+
+**Prompt:**
+> Documentary photo of an occupied multi-tenant brick building mid-masonry-project, a clean well-lit covered walkway protecting the main entrance with pedestrians walking through normally, pipe staging with dust screening on one elevation only while the adjacent elevation is untouched, cones marking a small cordoned parking area, a printed resident notice taped inside the lobby glass with no legible text, unbranded work truck at the kerb, bright overcast morning, photorealistic, no text or logos
+
+## What GCs Need From a Masonry Subcontractor (blog) — 2026-08-29
+**Intended path:** `/images/seo/what-general-contractors-need-from-masonry-subcontractor.jpg`
+**Alt:** Masonry mockup panel and submittal samples reviewed on a commercial jobsite
+
+**Prompt:**
+> Documentary photo of a freestanding masonry mockup panel on a commercial jobsite, roughly four feet square, built with the specified brick and three trial mortar colours tooled to different joint profiles for approval, a hard-hatted foreman and a general contractor's superintendent standing beside it comparing it to a sample board and a set of drawings on a folding table, staging and stacked banded brick in the background, flat even daylight, photorealistic, no text or logos
+
+## Batch — 2026-08-31
+
+### 1. Commercial Tuckpointing — Palos Hills, IL
+Photorealistic photograph of a three-story brick veneer walk-up apartment building with an open exterior stair tower, taken from the parking lot so a horizontal crack running level across the elevation at the second-floor line is clearly readable. A mason in hard hat and safety glasses on a scissor lift probing the crack at the shelf angle, with balcony slab edges and railing penetrations visible in the same frame. Flat overcast daylight, straight-on elevation framing. No CGI, no text, no logos, no readable signage.
+
+### 2. Façade Repair — Hinsdale, IL
+Photorealistic photograph of a downtown brick-and-limestone storefront façade mid-repair, with a small mortar sample panel of three cured test patches mounted on the wall beside freshly repointed joints for match comparison. A mason in PPE hand-tooling a joint from a rolling scaffold, overhead protection planking above the shop entrance, sidewalk swept clean and open. Warm late-afternoon side light. No CGI, no text, no readable signage, no logos.
+
+### 3. Church & Parish Masonry — Oak Lawn, IL
+Photorealistic photograph of a post-war parish campus in summer with the church and the attached school building visible in one frame, scaffold erected against the school elevation and the yard empty. A mason in PPE cutting out mortar joints in a base course showing heavy salt-line spalling near a school entrance. Bright clear summer light, wide documentary framing. No CGI, no text, no readable signage, no logos.
+
+### 4. Tuckpointing — Worth, IL
+Photorealistic close photograph of the lowest three courses of a post-war brick house on a flat lot, showing a sharp horizontal band of soft crumbling mortar, spalled faces and white efflorescence, with sound tight brick above it. A mason in PPE raking a joint in the failed band while a downspout extension runs away from the foundation in the same frame. Bright overcast light, low camera angle at ground level. No CGI, no text, no logos.
+
+### 5. Limestone & Sill Repair — La Grange, IL
+Photorealistic close photograph of a limestone window sill on an older home, shown from below and to the side so the underside is visible: an old mortar patch filling the drip groove on one half, and a freshly cut clean drip edge on the other, with visibly worse spalled brick in the courses directly beneath the patched half. A mason in PPE cutting the drip groove with a hand tool. Raking side light, macro-sharp. No CGI, no text, no logos.
+
+### 6. Blog — Landlord vs Tenant, Commercial Lease
+Photorealistic photograph of a multi-tenant brick commercial building where a tenant-installed sign bracket has been removed, exposing unsealed anchor holes through the veneer with staining trailing down beneath them. A mason in PPE probing one anchor hole while a property manager in business clothes and a hard hat looks on with a clipboard. Even overcast daylight, documentary framing. No CGI, no text, no readable signage, no logos.
+
+### 7. Blog — Access Agreements and Scaffolding
+Photorealistic photograph looking down a narrow Chicago gangway between two masonry buildings, scaffold erected tight in the slot with plywood laid to protect the neighbor's paving, the shaded party-wall elevation visibly darker, damper and more deteriorated than the sunlit street face. A mason in PPE working from the scaffold. Deep shade with a bright strip of sky above, tall vertical framing. No CGI, no text, no logos.
+
+### 8. Blog — Public Works Masonry Bidding
+Photorealistic photograph of a public school building façade in early summer with scaffold up and the site fenced, a mason in full PPE repointing a long parapet run above classroom windows, protected walkway routed beneath. Materials palletized and staged neatly on the empty blacktop. Clear morning light, wide framing that reads as an organized, documented jobsite. No CGI, no text, no readable signage, no logos.
+
+## Batch — 2026-09-08
+
+### 1. Commercial Masonry Restoration — Chicago, IL
+Photorealistic photograph of a four-story mixed-use brick building on a Chicago commercial corridor, mid-restoration: a scaffold section against one bay, overhead protection planking over the ground-floor entrance keeping it open, and a mason in full PPE repointing joints at the third floor. A level horizontal crack visible along the floor line on the untouched bay beside him. Flat overcast daylight, straight-on elevation framing. No CGI, no text, no readable signage, no logos.
+
+### 2. Parapet Wall Repair — Chicago Ridge, IL
+Photorealistic photograph taken from the roof of a single-story multi-tenant retail building, looking along a long brick parapet with the coping partially lifted for reset, an open coping joint clearly visible, and a mason in PPE and fall protection probing the parapet core. Overhead protection canopy visible below at the storefront entrance, parking field beyond. Bright overcast light, low along the parapet line. No CGI, no text, no readable signage, no logos.
+
+### 3. HOA & Condo Masonry Repair — Palos Heights, IL
+Photorealistic photograph of a townhome association courtyard with three identical brick buildings visible in one frame, scaffold on the nearest one and the other two untouched — the cohort condition readable in a single image. A mason in PPE repointing while patios and landscaping below are covered with protection boards. Bright natural daylight, wide documentary framing. No CGI, no text, no logos, no house numbers legible.
+
+### 4. Brick Repair — Palos Park, IL
+Photorealistic photograph of a house elevation under heavy mature oak canopy, the brick visibly darker with green algae film and moss in the shaded lower courses and several spalled units chalk-marked for replacement, while a sunlit corner of the same wall reads clean and sound. A mason in PPE cutting out a failed unit. Deep dappled shade with a bright patch of sun, late summer foliage. No CGI, no text, no logos.
+
+### 5. Residential Masonry Restoration — New Lenox, IL
+Photorealistic photograph of a late-1990s brick veneer suburban home elevation, showing a level horizontal crack running across the wall at the second-floor line with a mason in PPE on a ladder probing it, and in the foreground a base course where mulch has been pulled back to expose weep holes — one clearly mortared shut, one freshly re-drilled open. Clear morning light, straight-on framing. No CGI, no text, no logos.
+
+### 6. Blog — Commercial Property Condition Assessment
+Photorealistic photograph of a mason in PPE on a boom lift alongside a commercial brick façade at a floor line, one hand sounding the wall with a hammer handle and a clipboard of elevation sketches braced against the rail, with rust staining weeping down the brick from a lintel just above. A second person at grade photographing the same location. Even overcast daylight, documentary framing. No CGI, no text, no readable signage, no logos.
+
+### 7. Blog — Lien Waivers and Documentation
+Photorealistic photograph of a jobsite trailer table with a masonry payment application, a certificate of insurance and signed waiver forms laid out beside a hard hat and a set of dated elevation photographs, a property manager and a mason in PPE reviewing them together. Shallow depth of field on the documents, scaffold and brick wall soft-focused through the window behind. Natural daylight. No CGI, no legible text on the documents, no logos.
+
+### 8. Blog — Drone vs Hands-On Façade Inspection
+Photorealistic photograph composed to contain both methods at once: a small survey drone hovering at parapet height alongside a commercial brick building, and in the same frame a mason in PPE and fall protection on the roof edge below it, tapping the parapet with a sounding hammer and lifting a coping stone. Late-afternoon side light raking the wall, wide framing. No CGI, no text, no readable signage, no logos.

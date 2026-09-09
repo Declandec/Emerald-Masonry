@@ -17,7 +17,7 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Matteson, IL | Emerald Masonry LLC"
 metaDescription: "Full-scope masonry restoration for commercial properties in Matteson IL. Tuckpointing, brick repair, parapet work, and facade restoration. Call (708) 288-1696."
 excerpt: "Masonry restoration goes beyond tuckpointing or individual brick replacement — it's the process of returning a deteriorated masonry wall to full structural and weather-resistant function. Emerald Masonry LLC provides full-scope commercial masonry restoration for properties throughout Matteson and south Cook County."
-image: "/images/restoration-facade.jpg"
+image: "/images/restoration-facade.webp"
 imageAlt: "Commercial brick masonry restoration in progress on building facade in Matteson Illinois south Cook County"
 competitorInformed: false
 ---

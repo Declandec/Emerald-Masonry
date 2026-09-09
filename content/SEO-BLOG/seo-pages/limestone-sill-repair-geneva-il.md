@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Geneva, IL | Emerald Masonry"
 metaDescription: "Limestone and sill repair in Geneva, IL — restoring cracked stone sills, lintels and trim on historic Fox Valley homes. Free estimates: (708) 288-1696."
 excerpt: "Geneva's historic district is built of Fox Valley limestone — sills, lintels, water tables and full stone facades that have stood since the 1800s. Emerald Masonry LLC repairs that stone rather than defaulting to tearing it out and replacing it."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Geneva, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables, steps and ornamental trim on historic homes and downtown buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Geneva, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables, steps and ornamental trim on historic homes and downtown buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored limestone window sill and stone trim on a historic home in Geneva Illinois"
 faqs:
   - q: "Can a cracked limestone sill be repaired or does it need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone and Sill Repair in Geneva, IL
 
-Limestone and sill repair in Geneva, IL is the restoration of the stone elements on a masonry building — window and door sills, lintels, water tables, coping, steps and carved trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs these units rather than defaulting to wholesale replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Geneva, IL is the restoration of the stone elements on a masonry building — window and door sills, lintels, water tables, coping, steps and carved trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs these units rather than defaulting to wholesale replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Geneva is a stone town. The Fox River valley held workable limestone, and the quarries along the river supplied material for the city's 19th-century downtown, its churches and civic buildings, and the sills, lintels, foundations and full stone facades of homes throughout what is now the **Geneva Historic District**. Walk Third Street or the residential blocks east and west of the river and the stonework is everywhere — heavy sills, carved lintels, water tables, and limestone that has stood for well over a century and a half.
 
@@ -114,7 +114,7 @@ Geneva sits on the Fox River in a stretch of Kane County with hard freeze-thaw e
 
 We work throughout 60134 — the Geneva Historic District and the residential streets east and west of the river, the 19th-century stone and brick buildings along Third Street and State, the churches and civic buildings, and the newer construction toward Randall Road. We also serve neighboring [St. Charles](/locations/brick-repair-st-charles-il), [Batavia](/locations/masonry-sealing-batavia-il), [North Aurora](/locations/foundation-masonry-repair-north-aurora-il) and [Aurora](/locations/limestone-sill-repair-aurora-il). Geneva owners frequently pair stone work with [brick repair](/locations/brick-repair-geneva-il) or [historic masonry restoration](/locations/historic-masonry-restoration-geneva-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Waiting Costs More on Stone
 

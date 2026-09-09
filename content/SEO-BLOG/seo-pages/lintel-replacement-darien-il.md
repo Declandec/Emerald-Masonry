@@ -18,7 +18,7 @@ service: "Lintel Replacement"
 metaTitle: "Lintel Replacement in Darien, IL | Emerald Masonry LLC"
 metaDescription: "Licensed lintel replacement contractor in Darien IL. Corroded steel angle repair and replacement for brick commercial and residential buildings in DuPage County. Free estimates."
 excerpt: "Corroded steel lintels are one of the most common sources of progressive brick cracking in Darien's commercial and residential buildings. Emerald Masonry LLC specializes in lintel replacement with proper shoring, brick stabilization, and complete mortar restoration — stopping damage before it compounds."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Commercial brick building in Darien Illinois after lintel replacement and brick repair above window opening"
 competitorInformed: false
 ---

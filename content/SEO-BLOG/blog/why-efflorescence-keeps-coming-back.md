@@ -4,7 +4,7 @@ date: "2026-05-20"
 excerpt: "Efflorescence on brick buildings is one of the most commonly misunderstood masonry problems — property owners clean it off repeatedly without realizing that the cleaning itself changes nothing. Understanding why it comes back is the first step toward actually stopping it."
 service: "Efflorescence & Waterproofing"
 location: "Chicagoland, IL"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 keywords:
   - efflorescence recurring brick building Illinois
   - why efflorescence keeps coming back

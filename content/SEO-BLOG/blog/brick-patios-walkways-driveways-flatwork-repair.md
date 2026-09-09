@@ -5,7 +5,7 @@ excerpt: "A brick wall sheds water sideways and dries in air. Brick laid flat ho
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-mailbox.jpg"
+image: "/images/after-mailbox.webp"
 imageAlt: "Repaired brick walkway and steps with resettled pavers on a Chicagoland property"
 keywords:
   - brick patio repair Chicagoland
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
   - Chicago bungalow front steps
-aiSummary: "Brick flatwork — patios, walkways, steps and stoops — fails differently than walls because it holds standing water, freezes from above and below, absorbs road salt, and carries traffic loads. Most failures trace to the base and drainage rather than the brick, which is why relaying on a corrected base usually outlasts patching. Emerald Masonry LLC repairs brick flatwork across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Brick flatwork — patios, walkways, steps and stoops — fails differently than walls because it holds standing water, freezes from above and below, absorbs road salt, and carries traffic loads. Most failures trace to the base and drainage rather than the brick, which is why relaying on a corrected base usually outlasts patching. Emerald Masonry LLC repairs brick flatwork across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why is my brick patio sinking in one spot?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Brick Flatwork Fails on a Different Clock
 
-**Brick laid flat — patios, walkways, steps, stoops and drives — fails differently than brick laid in a wall, because it holds standing water, freezes from above and below, absorbs road salt all winter, and carries traffic.** Most flatwork failures trace to the **base and drainage** rather than to the brick itself, which is why relaying on a corrected base usually outlasts patching. Emerald Masonry LLC repairs brick flatwork across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Brick laid flat — patios, walkways, steps, stoops and drives — fails differently than brick laid in a wall, because it holds standing water, freezes from above and below, absorbs road salt all winter, and carries traffic.** Most flatwork failures trace to the **base and drainage** rather than to the brick itself, which is why relaying on a corrected base usually outlasts patching. Emerald Masonry LLC repairs brick flatwork across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners often assume that because their walls are fine, their walk should be too. It is the same brick. It is not remotely the same job.
 
@@ -199,6 +199,6 @@ If your patio is sinking, your walk is uneven or your steps are crumbling, the b
 
 The good news: brick flatwork is one of the few masonry assemblies that is genuinely designed to come apart. Lift it, fix what is underneath, and most of the original material goes right back down.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

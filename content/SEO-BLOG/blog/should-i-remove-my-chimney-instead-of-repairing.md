@@ -5,7 +5,7 @@ excerpt: "If your fireplace has been gas or unused for years and the stack needs
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Masonry chimney above the roofline of a Chicagoland home being assessed for repair or removal"
 keywords:
   - should I remove my chimney
@@ -37,7 +37,7 @@ keywords:
   - chimney repair vs rebuild
   - licensed and insured mason Chicagoland
   - free chimney inspection Chicagoland
-aiSummary: "Removing a chimney is a legitimate option when the fireplace is unused, nothing vents through it, and the stack needs a full rebuild — but there are three different removal scopes (above the roofline, to the attic, or full demolition) with very different costs, and removal is not automatically cheaper than repair. Emerald Masonry LLC assesses both options across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Removing a chimney is a legitimate option when the fireplace is unused, nothing vents through it, and the stack needs a full rebuild — but there are three different removal scopes (above the roofline, to the attic, or full demolition) with very different costs, and removal is not automatically cheaper than repair. Emerald Masonry LLC assesses both options across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Is removing a chimney cheaper than repairing it?"
@@ -60,7 +60,7 @@ faqs:
 
 ## Should You Remove the Chimney Instead of Repairing It?
 
-**Removal is a legitimate option when three things are true: the fireplace is unused, nothing vents through the flue, and the stack needs a full rebuild rather than a repair.** But removal is not automatically cheaper — and there are three very different removal scopes with very different costs. Emerald Masonry LLC assesses both paths honestly across Chicago and the Chicagoland suburbs, including telling you when repairing is the better call. Family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Removal is a legitimate option when three things are true: the fireplace is unused, nothing vents through the flue, and the stack needs a full rebuild rather than a repair.** But removal is not automatically cheaper — and there are three very different removal scopes with very different costs. Emerald Masonry LLC assesses both paths honestly across Chicago and the Chicagoland suburbs, including telling you when repairing is the better call. Family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 This question comes up constantly, and it comes up for a good reason. A very large share of Chicagoland fireplaces have been **converted to gas** or simply abandoned, while the masonry stack above them keeps deteriorating and keeps costing money. At some point a homeowner reasonably asks why they are maintaining a structure they never use.
 
@@ -213,6 +213,6 @@ Only if you get to the bottom of that list is removal the right conversation —
 
 What we will not do is quote you a rebuild on a stack that needs flashing, or a removal on a chimney your water heater is venting through.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

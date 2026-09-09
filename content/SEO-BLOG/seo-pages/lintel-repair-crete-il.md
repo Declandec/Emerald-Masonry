@@ -18,10 +18,10 @@ service: "Lintel Repair"
 serviceSlug: "lintel-repair"
 pageType: "location"
 metaTitle: "Lintel Repair in Crete, IL | Emerald Masonry LLC"
-metaDescription: "Lintel repair in Crete, IL by Emerald Masonry LLC. Rusted steel lintels replaced, brick reset, free on-site estimate. Family-owned, 40+ yrs. Call (708) 288-1696."
+metaDescription: "Lintel repair in Crete, IL by Emerald Masonry LLC. Rusted steel lintels replaced, brick reset, free on-site estimate. Family-owned, career masons. Call (708) 288-1696."
 excerpt: "Rust stains and cracks above your windows usually mean a failing steel lintel. Emerald Masonry LLC repairs and replaces lintels for homes and storefronts in Crete, IL. Free on-site estimates — (708) 288-1696."
-aiSummary: "Emerald Masonry LLC repairs and replaces rusted, failing lintels in Crete, IL. The family-owned, licensed and insured crew removes brick above the opening, swaps the failed steel lintel for galvanized steel, and resets matched brick. 40+ years of experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-commercial-2.jpg"
+aiSummary: "Emerald Masonry LLC repairs and replaces rusted, failing lintels in Crete, IL. The family-owned, licensed and insured crew removes brick above the opening, swaps the failed steel lintel for galvanized steel, and resets matched brick. career masons with decades of experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-commercial-2.webp"
 imageAlt: "Repaired brick and new steel lintel over a window opening on a Crete, IL home after lintel repair by Emerald Masonry LLC"
 faqs:
   - q: "Who repairs rusted lintels in Crete, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "What happens if I ignore a failing lintel?"
     a: "A rusted lintel keeps expanding and loses its load-bearing strength, so the brick above the window or door can crack, shift, and eventually collapse. Water also runs deeper into the wall through the open cracks. Catching it early keeps repair limited to one opening instead of a rebuild."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, non-union, licensed, bonded and insured masonry contractor with 40+ years of experience serving Crete and the Chicagoland suburbs. We offer free on-site estimates at (708) 288-1696."
+    a: "Yes. Emerald Masonry LLC is a family-owned, non-union, licensed, bonded and insured masonry contractor led by career masons with decades of hands-on experience serving Crete and the Chicagoland suburbs. We offer free on-site estimates at (708) 288-1696."
 competitorInformed: false
 ---
 
 ## Who repairs lintels in Crete, IL?
 
-Emerald Masonry LLC repairs and replaces failing lintels for homes and storefronts in Crete, IL. If you see orange rust stains below a window, cracks stepping out from the corners of an opening, or brick sagging over a door, the steel lintel underneath is rusting and needs attention. Call **(708) 288-1696** for a free on-site estimate — we are family-owned, licensed and insured, with 40+ years of masonry experience in Will County and the far south suburbs.
+Emerald Masonry LLC repairs and replaces failing lintels for homes and storefronts in Crete, IL. If you see orange rust stains below a window, cracks stepping out from the corners of an opening, or brick sagging over a door, the steel lintel underneath is rusting and needs attention. Call **(708) 288-1696** for a free on-site estimate — we are family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience in Will County and the far south suburbs.
 
 A lintel is one of those parts of a building nobody thinks about until brick starts moving. By the time you notice the symptoms, the steel has usually been quietly rusting for years. The good news: caught in time, lintel repair is a contained, predictable job. Wait too long and it becomes a wall rebuild.
 
@@ -111,7 +111,7 @@ Crete sits at the far south edge of Will County, where older homes, downtown sto
 
 ## Why Emerald Masonry
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We are non-union, do our own work, and stand behind it. When we replace a lintel, we fix the cause — the water and rust — not just the cracks you can see.
 

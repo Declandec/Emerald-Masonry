@@ -5,7 +5,7 @@ excerpt: "Ask a roofer for a ballpark and you'll often get one. Ask a mason and 
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Mason inspecting mortar joints on a Chicagoland brick wall during an on-site estimate"
 keywords:
   - masonry quote over the phone
@@ -38,7 +38,7 @@ keywords:
   - property manager masonry bid
   - masonry contractor near me Chicago
   - free masonry estimate Chicago
-aiSummary: "Masonry contractors decline phone quotes because the three biggest cost drivers — how deep the damage actually goes, what mortar and brick the wall needs, and how crews will access the work — cannot be judged from a description. A firm phone price usually means the number is padded to cover unknowns or will be renegotiated on site. Emerald Masonry LLC gives free written on-site estimates across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Masonry contractors decline phone quotes because the three biggest cost drivers — how deep the damage actually goes, what mortar and brick the wall needs, and how crews will access the work — cannot be judged from a description. A firm phone price usually means the number is padded to cover unknowns or will be renegotiated on site. Emerald Masonry LLC gives free written on-site estimates across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "Why won't a masonry contractor give me a price over the phone?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Why You Can't Get a Masonry Price Over the Phone
 
-**Because the three things that determine the cost are all invisible from a description: how deep the damage actually goes, what mortar and brick the wall requires, and how crews will physically reach the work.** A contractor who commits to a firm number without seeing those has either padded it heavily to protect themselves, or intends to revise it once work is underway. Emerald Masonry LLC gives free written on-site estimates across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience. Call **(708) 288-1696**.
+**Because the three things that determine the cost are all invisible from a description: how deep the damage actually goes, what mortar and brick the wall requires, and how crews will physically reach the work.** A contractor who commits to a firm number without seeing those has either padded it heavily to protect themselves, or intends to revise it once work is underway. Emerald Masonry LLC gives free written on-site estimates across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience. Call **(708) 288-1696**.
 
 This frustrates people, understandably. You can get a ballpark on a roof, a driveway, a furnace. Masonry is genuinely different, and it is worth understanding why rather than assuming the trade is being cagey.
 
@@ -205,6 +205,6 @@ What you should insist on is that the visit produces something real — a **writ
 
 A number without it is just a guess with a signature line.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We write itemized scopes so you can compare them honestly — including against ours.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We write itemized scopes so you can compare them honestly — including against ours.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

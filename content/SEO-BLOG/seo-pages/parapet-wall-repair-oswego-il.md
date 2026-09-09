@@ -16,7 +16,7 @@ service: "Parapet Wall Repair"
 metaTitle: "Parapet Wall Repair in Oswego, IL | Emerald Masonry LLC"
 metaDescription: "Parapet wall repair in Oswego, IL — coping joint sealing, brick tuckpointing, and structural repairs for flat-roof commercial buildings in Kendall County. Free estimates."
 excerpt: "Oswego's commercial buildings — built primarily during the 2000s and 2010s boom along Route 34 and Route 71 — are hitting the first major parapet maintenance window. Emerald Masonry LLC repairs coping failure, open joints, and deteriorating brick at the roof edge for commercial properties throughout Kendall County."
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Parapet wall repair and coping joint repointing on a commercial building in Oswego Illinois Kendall County"
 competitorInformed: false
 ---

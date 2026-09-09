@@ -18,10 +18,10 @@ service: "Brick Repair"
 serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Evergreen Park, IL | Emerald Masonry"
-metaDescription: "Brick repair in Evergreen Park, IL by Emerald Masonry LLC. Repointing, spalled brick, step cracks & chimney brickwork. 40+ years. Free estimate: (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs deteriorated brickwork on Evergreen Park's brick bungalows and Georgians — repointing failed mortar, resetting loose brick, and patching spalled faces. Family-owned, 40+ years of Chicagoland experience. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides brick repair in Evergreen Park, IL — repointing crumbling mortar joints, resetting loose brick, patching spalled faces, and fixing step cracks on brick bungalows and chimneys. Family-owned, licensed and insured, with 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+metaDescription: "Brick repair in Evergreen Park, IL by Emerald Masonry LLC. Repointing, spalled brick, step cracks & chimney brickwork. career masons. Free estimate: (708) 288-1696."
+excerpt: "Emerald Masonry LLC repairs deteriorated brickwork on Evergreen Park's brick bungalows and Georgians — repointing failed mortar, resetting loose brick, and patching spalled faces. Family-owned, career masons with decades of Chicagoland experience. Free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides brick repair in Evergreen Park, IL — repointing crumbling mortar joints, resetting loose brick, patching spalled faces, and fixing step cracks on brick bungalows and chimneys. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired brick and repointed mortar joints on an Evergreen Park, IL brick bungalow after Emerald Masonry brick repair"
 faqs:
   - q: "How much does brick repair cost in Evergreen Park, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "Can you match the brick and mortar on an older Evergreen Park home?"
     a: "Yes. We color-match new mortar to your existing joints and source close-matching brick for any units we replace, so repairs blend into the original 1940s–50s brickwork rather than standing out. Mortar matching — getting the color and the hardness right — is the part that makes a repair last and look correct."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Evergreen Park and the surrounding Chicagoland suburbs with 40+ years of experience."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Evergreen Park and the surrounding Chicagoland suburbs led by career masons with decades of hands-on experience."
 competitorInformed: true
 ---
 
 # Brick Repair in Evergreen Park, IL
 
-Emerald Masonry LLC provides **brick repair in Evergreen Park, IL** — repointing crumbling mortar, resetting loose brick, patching spalled faces, and fixing step cracks on the village's brick bungalows, Georgians, and chimneys. We're a family-owned, licensed and insured masonry contractor with 40+ years of Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
+Emerald Masonry LLC provides **brick repair in Evergreen Park, IL** — repointing crumbling mortar, resetting loose brick, patching spalled faces, and fixing step cracks on the village's brick bungalows, Georgians, and chimneys. We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and every job starts with a free on-site estimate. Call **(708) 288-1696**.
 
 Most of the brick repair we do in Evergreen Park isn't dramatic — it's the steady deterioration that shows up on a 70- or 80-year-old brick home: joints that have gone soft, a few bricks that have started to flake, a chimney that's shedding sand into the gutters. Caught early, it's a straightforward repair. Left alone, it turns into water in the wall and a much bigger bill.
 
@@ -90,7 +90,7 @@ A failing mortar joint is an open door for water. Once moisture is moving throug
 
 The heart of a lasting brick repair is **mortar matching**. Evergreen Park's mid-century homes were laid in relatively soft mortar, and matching that — often a **Type N** rather than a hard, high-strength **Type S** — matters, because too-hard mortar on older brick doesn't flex and ends up spalling the brick face instead of protecting it. We match mortar color to your existing joints, source close-matching brick for replacements, and tool joints to the original profile. Where appropriate we finish with a breathable masonry sealer that sheds water without trapping moisture in the wall.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Evergreen Park and the Chicagoland suburbs with 40+ years of experience in brick repair, [tuckpointing](/services/tuckpointing), brick replacement, [chimney repair](/services/chimney-repair), lintel and parapet work, and full masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Evergreen Park and the Chicagoland suburbs led by career masons with decades of hands-on experience in brick repair, [tuckpointing](/services/tuckpointing), brick replacement, [chimney repair](/services/chimney-repair), lintel and parapet work, and full masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Drives the Cost of Brick Repair in Evergreen Park
 
@@ -110,4 +110,4 @@ We repair brickwork throughout Evergreen Park — the bungalow blocks off Kedzie
 
 ## Get a Free Brick Repair Estimate in Evergreen Park, IL
 
-If your Evergreen Park bungalow is shedding mortar, showing step cracks, or spalling on the chimney, have it looked at before winter drives more water into the wall. Emerald Masonry LLC — family-owned, 40+ years, licensed, bonded, and insured — will give you a straight answer and a free on-site estimate. [Contact us](/#contact) or call **(708) 288-1696**.
+If your Evergreen Park bungalow is shedding mortar, showing step cracks, or spalling on the chimney, have it looked at before winter drives more water into the wall. Emerald Masonry LLC — family-owned, career masons, licensed, bonded, and insured — will give you a straight answer and a free on-site estimate. [Contact us](/#contact) or call **(708) 288-1696**.

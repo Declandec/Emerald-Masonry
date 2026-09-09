@@ -18,7 +18,7 @@ service: "Efflorescence & Waterproofing"
 metaTitle: "Efflorescence & Masonry Waterproofing in Downers Grove, IL | Emerald Masonry LLC"
 metaDescription: "Efflorescence removal and masonry waterproofing in Downers Grove, IL. Stop white staining and water intrusion on commercial brick. Free estimates."
 excerpt: "White staining on brick is never just cosmetic — efflorescence is a symptom of water moving through masonry. In Downers Grove's commercial corridors, unaddressed water infiltration is one of the most predictable sources of long-term building damage."
-image: "/images/work-efflorescence.jpg"
+image: "/images/work-efflorescence.webp"
 imageAlt: "Efflorescence removal and waterproofing on commercial brick building in Downers Grove, IL"
 competitorInformed: false
 ---

@@ -18,7 +18,7 @@ service: "Commercial Masonry"
 metaTitle: "Commercial Masonry Contractor in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Commercial masonry contractor serving Tinley Park, IL. Tuckpointing, brick repair, restoration, and CMU work for property managers, HOAs, and building owners. Free estimates."
 excerpt: "Commercial masonry in Tinley Park requires a contractor who understands large-building scopes, works around tenants, and delivers consistent results. Emerald Masonry LLC handles tuckpointing, brick repair, and full-scale restoration for commercial properties throughout the southwest suburbs."
-image: "/images/work-commercial.jpg"
+image: "/images/work-commercial.webp"
 imageAlt: "Commercial masonry restoration on brick building in Tinley Park Illinois southwest suburbs"
 ---
 

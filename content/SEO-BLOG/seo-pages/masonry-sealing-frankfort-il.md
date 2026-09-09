@@ -18,10 +18,10 @@ service: "Masonry Sealing / Waterproofing"
 serviceSlug: "masonry-sealing"
 pageType: "location"
 metaTitle: "Masonry Sealing in Frankfort, IL | Emerald Masonry"
-metaDescription: "Masonry sealing in Frankfort, IL by Emerald Masonry LLC — breathable water-repellent on sound brick, repairs first. 40+ years. Free estimate: (708) 288-1696."
-excerpt: "Emerald Masonry LLC seals and waterproofs brick and stone masonry across Frankfort, IL using breathable penetrating repellents — after any needed repairs, never as a cover-up. Family-owned, 40+ years, free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides masonry sealing in Frankfort, IL, applying breathable, penetrating water-repellent to sound brick and stone so walls shed water while still drying out. We tuckpoint and repair defects first — sealing only works on sound masonry. Family-owned, licensed and insured, 40+ years. Free estimates — call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+metaDescription: "Masonry sealing in Frankfort, IL by Emerald Masonry LLC — breathable water-repellent on sound brick, repairs first. career masons. Free estimate: (708) 288-1696."
+excerpt: "Emerald Masonry LLC seals and waterproofs brick and stone masonry across Frankfort, IL using breathable penetrating repellents — after any needed repairs, never as a cover-up. Family-owned, career masons, free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides masonry sealing in Frankfort, IL, applying breathable, penetrating water-repellent to sound brick and stone so walls shed water while still drying out. We tuckpoint and repair defects first — sealing only works on sound masonry. Family-owned, licensed and insured, career masons. Free estimates — call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Freshly sealed brick facade on a Frankfort, IL home after Emerald Masonry waterproofing"
 faqs:
   - q: "How much does masonry sealing cost in Frankfort, IL?"
@@ -33,15 +33,15 @@ faqs:
   - q: "How often should brick be resealed?"
     a: "A quality penetrating repellent on sound Frankfort brick typically lasts several years to roughly a decade depending on exposure, the product, and how weather-beaten the elevation is. South and west walls and chimneys wear faster. We'll tell you honestly whether your walls even need sealing yet during the free estimate."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Frankfort and the surrounding Will County and Chicagoland suburbs with 40+ years of experience."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Frankfort and the surrounding Will County and Chicagoland suburbs led by career masons with decades of hands-on experience."
 competitorInformed: false
 ---
 
 # Masonry Sealing in Frankfort, IL
 
-The honest answer most Frankfort homeowners never hear: **masonry sealing in Frankfort, IL only works on sound brick.** A breathable water-repellent helps a healthy wall shed water — it is not a fix for open mortar joints or cracked brick. Emerald Masonry LLC seals and waterproofs brick and stone the right way, tuckpointing and repairing any defects first, then applying a penetrating repellent that lets the wall keep breathing. Family-owned, licensed and insured, 40+ years in Chicagoland. Free on-site estimates — call **(708) 288-1696**.
+The honest answer most Frankfort homeowners never hear: **masonry sealing in Frankfort, IL only works on sound brick.** A breathable water-repellent helps a healthy wall shed water — it is not a fix for open mortar joints or cracked brick. Emerald Masonry LLC seals and waterproofs brick and stone the right way, tuckpointing and repairing any defects first, then applying a penetrating repellent that lets the wall keep breathing. Family-owned, licensed and insured, career masons in Chicagoland. Free on-site estimates — call **(708) 288-1696**.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Frankfort and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Frankfort and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration.
 
 ## What Masonry Sealing Actually Is
 
@@ -90,4 +90,4 @@ Frankfort's freeze-thaw cycles are hard on masonry: water absorbed in fall freez
 
 ## Get a Free Masonry Sealing Estimate in Frankfort, IL
 
-If your Frankfort brick is drinking up water or blooming efflorescence, Emerald Masonry LLC will tell you honestly whether sealing helps — and repair anything that needs it first. Family-owned, licensed and insured, 40+ years protecting Chicagoland masonry. [Contact us](/#contact) or call **(708) 288-1696** for your free on-site estimate.
+If your Frankfort brick is drinking up water or blooming efflorescence, Emerald Masonry LLC will tell you honestly whether sealing helps — and repair anything that needs it first. Family-owned, licensed and insured, career masons protecting Chicagoland masonry. [Contact us](/#contact) or call **(708) 288-1696** for your free on-site estimate.

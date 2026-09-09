@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair Western Springs | Emerald Masonry"
 metaDescription: "Limestone and sill repair in Western Springs, IL — restoring cracked stone sills, lintels and trim on century homes. Insured. Free estimates: (708) 288-1696."
 excerpt: "A stone sill has one job: shed water away from the wall. When it cracks, tilts or loses its slope it starts holding water instead — and everything below it begins to fail. Emerald Masonry LLC repairs Western Springs stone rather than tearing it out."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Western Springs, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables and trim on century-old homes. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Western Springs, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables and trim on century-old homes. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored limestone window sill and stone trim on a century-old home in Western Springs Illinois"
 faqs:
   - q: "Can a cracked limestone sill be repaired or does it need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone and Sill Repair in Western Springs, IL
 
-Limestone and sill repair in Western Springs, IL is the restoration of the stone elements on a house — window and door sills, lintels, water tables, steps and trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs those units rather than defaulting to replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Western Springs, IL is the restoration of the stone elements on a house — window and door sills, lintels, water tables, steps and trim — when they crack, spall, erode or shift out of place. Emerald Masonry LLC repairs those units rather than defaulting to replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the thing about a stone sill: **it has exactly one job, and when it stops doing that job the damage shows up somewhere else.**
 
@@ -126,7 +126,7 @@ Western Springs sits in Cook County with no lake buffer and dozens of freeze-tha
 
 We work throughout 60558 — the Old Town streets, the blocks around the historic Water Tower and the BNSF station, the residential grid off Hillgrove and Wolf, and the churches and institutional properties in the village. We also serve neighboring [La Grange](/locations/chimney-repair-la-grange-il), [La Grange Park](/locations/limestone-sill-repair-la-grange-park-il), [Hinsdale](/locations/limestone-sill-repair-hinsdale-il) and [Burr Ridge](/locations/chimney-repair-burr-ridge-il). Western Springs owners frequently pair stone work with [tuckpointing](/locations/tuckpointing-western-springs-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Waiting Costs More
 

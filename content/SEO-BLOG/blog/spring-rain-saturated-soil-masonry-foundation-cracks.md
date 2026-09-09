@@ -15,8 +15,8 @@ intent: "informational"
 metaTitle: "How Spring Rain Cracks Masonry Foundations | Emerald Masonry"
 metaDescription: "Wet clay soil and hydrostatic pressure crack Chicagoland masonry foundations every spring. A mason explains why, the warning signs, and how walls are repaired. (708) 288-1696."
 excerpt: "Every spring, saturated clay soil swells and presses on foundation walls — and Chicagoland's block and brick foundations crack, bow, and leak. Here's the mechanism, the warning signs, and what repair involves."
-aiSummary: "In Chicagoland, spring rain saturates the region's heavy clay soil, which swells and presses against foundation walls (hydrostatic and lateral soil pressure). On masonry foundations this shows up as horizontal cracks, stair-step cracks along mortar joints, bowing block walls, and water and efflorescence on interior walls. Repair ranges from sealing and repointing stable cracks to rebuilding damaged sections and correcting drainage; severe bowing may need structural reinforcement. Emerald Masonry LLC, family-owned, 40+ years; free estimates at (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "In Chicagoland, spring rain saturates the region's heavy clay soil, which swells and presses against foundation walls (hydrostatic and lateral soil pressure). On masonry foundations this shows up as horizontal cracks, stair-step cracks along mortar joints, bowing block walls, and water and efflorescence on interior walls. Repair ranges from sealing and repointing stable cracks to rebuilding damaged sections and correcting drainage; severe bowing may need structural reinforcement. Emerald Masonry LLC, family-owned, career masons; free estimates at (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Stair-step cracking in a concrete block foundation wall caused by soil movement"
 faqs:
   - q: "Why does my foundation crack more in spring?"
@@ -79,7 +79,7 @@ The right repair depends on what the wall is doing:
 
 You cannot change Chicagoland's clay, but you can manage how wet it gets against your foundation. Keep gutters clean and working, **extend downspouts well away from the house**, make sure the grade slopes away from the foundation rather than toward it, and watch for cracks that are widening, going horizontal, or accompanied by bowing — those are the ones to get looked at quickly. Sealing a crack from inside without addressing the water outside is a temporary patch on a recurring problem.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We repair brick and block foundation walls and address the drainage driving the damage. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We repair brick and block foundation walls and address the drainage driving the damage. Free on-site estimates — call (708) 288-1696.
 
 For related reading and services, see our [foundation masonry repair](/services/foundation-masonry-repair) service, and our guides to [brick foundation vs. block foundation repair](/blog/brick-foundation-vs-block-foundation-masonry-repair) and [why brick walls bow and bulge](/blog/why-brick-walls-bow-and-bulge).
 

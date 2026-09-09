@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "If you've never hired a masonry contractor, the process can feel like a black box. Here's a step-by-step walkthrough of a residential masonry repair project — what happens at the estimate, how the work unfolds day to day, what the disruption is really like, and how a good contractor leaves your home."
 service: "Residential Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - what to expect masonry repair
   - residential masonry repair process
@@ -104,7 +104,7 @@ If a contractor checks those boxes, the project itself tends to go smoothly. If 
 
 A residential masonry repair isn't a mystery once you can see the stages: a thorough estimate, weather-aware scheduling, careful matching, the repair itself, and a clean finish with a walkthrough. Knowing the sequence lets you plan around the work — mostly exterior, mostly low-disruption — and gives you a real standard to hold your contractor to.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. [Contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. [Contact us](/#contact) for a free on-site estimate — or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

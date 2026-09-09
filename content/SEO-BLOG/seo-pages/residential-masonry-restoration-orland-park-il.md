@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Residential Masonry Restoration Orland Park, IL | Emerald"
 metaDescription: "Residential masonry restoration in Orland Park, IL — coordinated whole-envelope brick, chimney, lintel and sill repair. Free estimates: (708) 288-1696."
 excerpt: "Most Orland Park homes do not need one masonry repair — they need four, in the right order. Emerald Masonry LLC scopes the whole envelope, tells you what is urgent versus what can wait a season, and phases the work so you are not paying to mobilize four separate times."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Orland Park, IL — a coordinated whole-envelope scope covering tuckpointing, brick replacement, chimney, lintel, sill and sealing work rather than one-off patches. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Orland Park, IL — a coordinated whole-envelope scope covering tuckpointing, brick replacement, chimney, lintel, sill and sealing work rather than one-off patches. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored brick facade, chimney and window sills on a home in Orland Park Illinois"
 faqs:
   - q: "What is residential masonry restoration, and how is it different from a repair?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "residential masonry restoration Orland Park IL" — homeowner looking for whole-house masonry work rather than a single repair.
-Competitor pattern observed: this SERP is unusually directory-dominated — Porch "10 Best", Procore, Yelp, Thumbtack, Angi and chamberofcommerce.com occupy most of the visible results, so the "who should I hire" intent is largely owned by aggregators rather than contractor pages. The contractor pages that do rank are service-area template clones: a single page duplicated across dozens of suburbs with a services list, no FAQ, no cost guidance, no process, no mortar-matching content, no schema, and no Orland Park specificity beyond the town name in the H1.
-Why this page is better: it does not compete as another "we do masonry in Orland Park" page. It takes the position that separates restoration from repair — that most homes here need four things done in the right ORDER, not one thing done well — and gives the homeowner an actual prioritization framework (water sources first, then water damage, then cosmetic). That is decision content the directories cannot supply and the template pages do not attempt.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; a restoration-vs-repair distinction; an explicit repair-priority order; phasing guidance for homeowners who want to spread cost across seasons; veneer-specific failure points for Orland Park's 1970s–2000s stock; the Old Orland historic-core mortar distinction; qualitative cost drivers; and internal links to related services.
--->
 
 ## Residential Masonry Restoration in Orland Park, IL
 
-Residential masonry restoration in Orland Park, IL means scoping the **entire masonry envelope of your house at once** — joints, brick, chimney, lintels, sills and sealing — rather than fixing one visible problem and discovering three more next spring. Emerald Masonry LLC assesses the whole exterior, tells you what is urgent versus what can wait, and sequences the work in the order that actually protects the house. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Orland Park, IL means scoping the **entire masonry envelope of your house at once** — joints, brick, chimney, lintels, sills and sealing — rather than fixing one visible problem and discovering three more next spring. Emerald Masonry LLC assesses the whole exterior, tells you what is urgent versus what can wait, and sequences the work in the order that actually protects the house. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the pattern we see constantly in Orland Park: a homeowner calls about a chimney. We get on the roof and the chimney does need work — but so do two lintels, the sills on the south elevation, and a section of joints under a gutter that has been overflowing for years. All of it is connected, and most of it is the same water.
 
@@ -142,7 +136,7 @@ Orland Park sits in Cook County with no lake buffer, taking the full regional fr
 
 We work throughout 60462 and 60467 — the subdivisions off 143rd, 151st and 159th, the older homes around Old Orland, the neighborhoods near Centennial Park and Lake Sedgewick, and the properties along the LaGrange Road corridor. We also serve neighboring [Tinley Park](/locations/masonry-sealing-tinley-park-il), [Homer Glen](/locations/tuckpointing-homer-glen-il), [Palos Heights](/locations/brick-repair-palos-heights-il) and [Oak Forest](/locations/chimney-repair-oak-forest-il). Orland Park owners frequently start with [tuckpointing](/locations/tuckpointing-orland-park-il), [chimney repair](/locations/chimney-repair-orland-park-il) or [brick repair](/locations/brick-repair-orland-park-il) and expand from there.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

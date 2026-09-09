@@ -5,7 +5,7 @@ excerpt: "Leaning, bulging, or cracking brick retaining and garden walls in Chic
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-mailbox.jpg"
+image: "/images/after-mailbox.webp"
 imageAlt: "Repaired brick retaining wall in Chicago after masonry restoration"
 keywords:
   - "brick retaining wall repair Chicago"
@@ -102,6 +102,6 @@ The takeaway for any Chicagoland homeowner: **if your retaining wall repair does
 
 ## Talk to a Chicagoland masonry contractor
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 If your brick retaining wall, garden wall, or planter is leaning, bulging, or cracking, don't wait for another freeze-thaw season to make it worse. Reach out through our [contact page](/#contact) or call **(708) 288-1696** for a free on-site estimate, and we'll tell you honestly whether your wall needs a targeted repair or a full rebuild — with the drainage to make it last.

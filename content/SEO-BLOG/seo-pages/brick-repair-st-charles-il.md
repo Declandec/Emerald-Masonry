@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in St. Charles, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in St. Charles, IL — spalled brick replacement, step cracks and mortar repair on homes and Fox River buildings. Free estimates: (708) 288-1696."
 excerpt: "St. Charles sits on the Fox River, where humidity keeps masonry wet longer and freeze-thaw does the rest. Emerald Masonry LLC repairs spalled brick, step cracks and failing walls on everything from downtown's 19th-century stone-and-brick buildings to riverside homes."
-aiSummary: "Emerald Masonry LLC provides brick repair in St. Charles, IL — replacing spalled and cracked brick, repairing step cracks, matching brick and mortar, and restoring failing walls on homes and Fox River-area buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair in St. Charles, IL — replacing spalled and cracked brick, repairing step cracks, matching brick and mortar, and restoring failing walls on homes and Fox River-area buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Replaced and repaired brick blended into a wall on a St. Charles Illinois home"
 faqs:
   - q: "How much does brick repair cost in St. Charles, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in St. Charles, IL
 
-Brick repair in St. Charles, IL covers replacing spalled and cracked brick, repairing step cracks, correcting the water problem that caused the damage, and matching new masonry into the existing wall so the repair disappears. Emerald Masonry LLC does this work across Kane County — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or coming loose, call **(708) 288-1696**.
+Brick repair in St. Charles, IL covers replacing spalled and cracked brick, repairing step cracks, correcting the water problem that caused the damage, and matching new masonry into the existing wall so the repair disappears. Emerald Masonry LLC does this work across Kane County — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your brick is flaking, cracking or coming loose, call **(708) 288-1696**.
 
 St. Charles is a river town, and that shapes its masonry problems. The Fox River runs straight through the middle of the city, carrying humidity into the surrounding blocks, and the mature tree canopy over the older neighborhoods keeps shaded elevations damp for days after a storm. Wet masonry going into a Kane County freeze is exactly the condition that destroys brick.
 
@@ -108,7 +108,7 @@ We work throughout 60174 and 60175 — the historic downtown district and the br
 
 We also work in neighboring [Geneva](/locations/historic-masonry-restoration-geneva-il), [Batavia](/locations/masonry-sealing-batavia-il), [North Aurora](/locations/foundation-masonry-repair-north-aurora-il) and [Aurora](/locations/limestone-sill-repair-aurora-il). St. Charles owners frequently pair brick work with [foundation masonry repair](/locations/foundation-masonry-repair-st-charles-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

@@ -18,10 +18,10 @@ service: "Foundation Masonry Repair"
 serviceSlug: "foundation-masonry-repair"
 pageType: "location"
 metaTitle: "Foundation Masonry Repair in Berwyn, IL | Emerald"
-metaDescription: "Foundation masonry repair in Berwyn, IL by Emerald Masonry LLC. We repoint, rebuild, and parge brick and block foundations. 40+ years. Call (708) 288-1696."
+metaDescription: "Foundation masonry repair in Berwyn, IL by Emerald Masonry LLC. We repoint, rebuild, and parge brick and block foundations. career masons. Call (708) 288-1696."
 excerpt: "Emerald Masonry LLC repairs and restores brick, block, and stone foundations across Berwyn, IL — repointing washed-out mortar, replacing spalled foundation units, and parging exposed walls before water reaches the basement. Free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Berwyn, IL — repointing failing mortar, replacing spalled foundation brick and block, parging exposed walls, and rebuilding deteriorated sections on the city's 1920s bungalows and two-flats. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in Berwyn, IL — repointing failing mortar, replacing spalled foundation brick and block, parging exposed walls, and rebuilding deteriorated sections on the city's 1920s bungalows and two-flats. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored brick-and-block foundation at grade on a Berwyn, IL bungalow after Emerald Masonry foundation repair"
 faqs:
   - q: "How much does foundation masonry repair cost in Berwyn, IL?"
@@ -39,7 +39,7 @@ competitorInformed: false
 
 # Foundation Masonry Repair in Berwyn, IL
 
-If the mortar at the base of your house is turning to sand, the foundation brick is flaking, or your basement has gone damp, you need **foundation masonry repair in Berwyn, IL** — and Emerald Masonry LLC has restored brick, block, and stone foundations across Berwyn for 40+ years. We repoint washed-out joints, replace spalled foundation units, parge exposed walls, and rebuild failed sections before water works its way inside. Family-owned, licensed and insured, with free on-site estimates — call **(708) 288-1696**.
+If the mortar at the base of your house is turning to sand, the foundation brick is flaking, or your basement has gone damp, you need **foundation masonry repair in Berwyn, IL** — and Emerald Masonry LLC has restored brick, block, and stone foundations across Berwyn for career masons. We repoint washed-out joints, replace spalled foundation units, parge exposed walls, and rebuild failed sections before water works its way inside. Family-owned, licensed and insured, with free on-site estimates — call **(708) 288-1696**.
 
 Your foundation is the one part of the house that never gets a break from water. On Berwyn's tightly-packed 1920s bungalows and two-flats, the lowest course of masonry takes rain, snowmelt, splash-back, and downspout runoff year-round, and it's usually the first masonry on the whole building to fail. Catching it early is the difference between a morning of repointing and a rebuilt wall.
 
@@ -103,7 +103,7 @@ Every Berwyn foundation is different, so the price follows the work. The biggest
 
 ## Serving Berwyn's Bungalow Belt
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Berwyn and the Chicagoland suburbs with 40+ years of experience in foundation masonry repair, tuckpointing, brick repair and replacement, lintel and parapet work, limestone and sill repair, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Berwyn and the Chicagoland suburbs led by career masons with decades of hands-on experience in foundation masonry repair, tuckpointing, brick repair and replacement, lintel and parapet work, limestone and sill repair, caulking, sealing, and residential, commercial, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 We work throughout Berwyn's bungalow belt and the surrounding near-west suburbs, on single-family homes, two-flats, and multi-unit buildings for owners and property managers alike. If you've also noticed rusting **[lintels above your windows and doors](/locations/lintel-repair-berwyn-il)**, wider **[masonry restoration needs across the building](/locations/masonry-restoration-berwyn-il)**, or foundation and wall issues on a property over in **[Cicero](/locations/tuckpointing-cicero-il)**, we handle those too. Learn more about our **[foundation masonry repair](/services/foundation-masonry-repair)**, **[tuckpointing and repointing](/services/tuckpointing)**, **[brick repair](/services/brick-repair)**, and **[masonry sealing](/services/masonry-sealing)** services.
 

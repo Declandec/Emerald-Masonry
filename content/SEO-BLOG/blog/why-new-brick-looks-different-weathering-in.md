@@ -5,7 +5,7 @@ excerpt: "Almost every brick repair looks obvious the week it's finished. Some o
 service: "Brick Replacement"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Newly replaced brick and fresh mortar beside weathered original brick on a Chicagoland wall"
 keywords:
   - new brick looks different
@@ -38,7 +38,7 @@ keywords:
   - freeze-thaw brick damage Illinois
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Fresh mortar always dries lighter than it cures and typically takes weeks to months to settle toward its final color, so a repair that looks pale at completion often improves. What does not improve is a genuine mismatch in brick size, texture or coursing, or a joint tooled to the wrong profile — those stay visible permanently. Emerald Masonry LLC matches brick and mortar across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Fresh mortar always dries lighter than it cures and typically takes weeks to months to settle toward its final color, so a repair that looks pale at completion often improves. What does not improve is a genuine mismatch in brick size, texture or coursing, or a joint tooled to the wrong profile — those stay visible permanently. Emerald Masonry LLC matches brick and mortar across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Will my new mortar darken to match the old?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Why Your New Brick Looks Wrong Right Now
 
-**Fresh mortar always looks lighter than it will end up, and it keeps changing color for weeks to months as it cures and begins weathering — so a repair that looks pale the day the crew leaves often improves considerably.** What does not improve with time is a genuine mismatch in **brick size, texture or coursing**, or a joint tooled to the wrong profile. Those stay visible permanently. Emerald Masonry LLC matches brick and mortar on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Fresh mortar always looks lighter than it will end up, and it keeps changing color for weeks to months as it cures and begins weathering — so a repair that looks pale the day the crew leaves often improves considerably.** What does not improve with time is a genuine mismatch in **brick size, texture or coursing**, or a joint tooled to the wrong profile. Those stay visible permanently. Emerald Masonry LLC matches brick and mortar on every repair across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 This is one of the most common calls we get after somebody else's job: *the repair looks obvious, is it supposed to look like that?*
 
@@ -208,6 +208,6 @@ Give a fresh repair a season before you judge it. Mortar darkens, haze clears, a
 
 But look now, while it is fixable, at the things that will not change: **is the coursing right, is the joint profile right, are the units the right size and texture, and is any off-tone material distributed rather than clustered?** Those are decisions, not aging — and they are the difference between a repair that disappears and one you notice every day.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

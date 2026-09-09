@@ -5,7 +5,7 @@ excerpt: "Two masonry estimates for the same house routinely differ by a factor 
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Homeowner reviewing a written masonry estimate against a repaired brick wall in Chicagoland"
 keywords:
   - what a masonry estimate should include
@@ -38,7 +38,7 @@ keywords:
   - spalling brick repair scope
   - masonry contractor near me Chicago
   - weep holes veneer
-aiSummary: "A real masonry estimate should name the specific elevations and elements in scope, the mortar type and how it was matched, joint preparation depth and method, brick sourcing and matching, what happens to water sources like sills and flashing, access and staging, cleanup, insurance, warranty terms and payment schedule. Bids that differ wildly usually differ in scope, not price. Emerald Masonry LLC gives free written estimates across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "A real masonry estimate should name the specific elevations and elements in scope, the mortar type and how it was matched, joint preparation depth and method, brick sourcing and matching, what happens to water sources like sills and flashing, access and staging, cleanup, insurance, warranty terms and payment schedule. Bids that differ wildly usually differ in scope, not price. Emerald Masonry LLC gives free written estimates across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "Why do masonry estimates vary so much for the same house?"
@@ -63,7 +63,7 @@ faqs:
 
 ## What a Masonry Estimate Should Include
 
-**A real masonry estimate names the specific elevations and elements in scope, the mortar type and how it was matched, the joint preparation depth and method, how replacement brick will be sourced and matched, what is being done about the water sources causing the damage, access and staging, protection and cleanup, insurance, warranty terms and a payment schedule.** If a proposal is one line and a number, it is not an estimate — it is a placeholder. Emerald Masonry LLC provides free written estimates across Chicago and the Chicagoland suburbs, itemized so you can actually compare them. Family-owned, licensed and insured, 40+ years of experience. Call **(708) 288-1696**.
+**A real masonry estimate names the specific elevations and elements in scope, the mortar type and how it was matched, the joint preparation depth and method, how replacement brick will be sourced and matched, what is being done about the water sources causing the damage, access and staging, protection and cleanup, insurance, warranty terms and a payment schedule.** If a proposal is one line and a number, it is not an estimate — it is a placeholder. Emerald Masonry LLC provides free written estimates across Chicago and the Chicagoland suburbs, itemized so you can actually compare them. Family-owned, licensed and insured, career masons with decades of experience. Call **(708) 288-1696**.
 
 Homeowners routinely get three masonry bids that differ by a factor of three and assume somebody is trying to take advantage of them. Usually nobody is. **The contractors scoped different work**, and the proposals are too vague to reveal it.
 
@@ -208,6 +208,6 @@ The number at the bottom of a masonry proposal is the least informative thing on
 
 Get those three things in writing from every contractor you are considering. The bids will start making sense immediately — and quite often the expensive one turns out to be the only one that priced the actual job.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We write itemized scopes so you can compare them honestly — including against ours.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We write itemized scopes so you can compare them honestly — including against ours.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

@@ -5,7 +5,7 @@ excerpt: "There is no single price for chimney repair, because \"chimney repair\
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Rebuilt brick chimney above the roofline with a new cast crown and cap on a Chicagoland home after Emerald Masonry chimney repair"
 aiSummary: "Chimney repair cost in Illinois has no single number because the work spans a ladder of very different jobs — chimney cap, crown repair, flashing, tuckpointing the stack, rebuild above the roofline, or full rebuild. Price is driven by chimney height, roof pitch and access, how much of the stack has failed, and brick and mortar matching. Emerald Masonry LLC gives free on-site chimney estimates across Chicagoland — call (708) 288-1696."
 intent: "commercial"
@@ -65,7 +65,7 @@ faqs:
   - q: "Should I waterproof my chimney after the repair?"
     a: "In most cases yes, once the masonry is sound. A breathable masonry sealer lets trapped vapor escape while shedding liquid water, which slows the freeze-thaw cycle that caused the damage in the first place. Never seal a chimney with a film-forming coating over failing joints — that traps moisture inside the brick and accelerates spalling."
   - q: "Do you offer free chimney estimates?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience, and we provide free on-site estimates. Call (708) 288-1696 and we will look at the chimney, tell you what it actually needs, and put it in writing."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, and we provide free on-site estimates. Call (708) 288-1696 and we will look at the chimney, tell you what it actually needs, and put it in writing."
 ---
 
 # How Much Does Chimney Repair Cost in Illinois? What Actually Drives the Price
@@ -198,6 +198,6 @@ If your chimney assessment turns up related masonry issues — and it often does
 
 **Chimney repair cost in Illinois is a range, not a number, and the range is honest.** A cap install and a structural rebuild are both "chimney repair," and the difference between them is tens of thousands of percent, not tens of dollars. What determines where you land is the height of the stack, how we have to reach it, how much of it has genuinely failed, and how carefully the brick and mortar have to be matched. Any contractor who can tell you the price without looking at the roof is not telling you the price.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, churches, and insurance companies — and we will tell you when a chimney needs a rebuild and when it honestly does not.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, churches, and insurance companies — and we will tell you when a chimney needs a rebuild and when it honestly does not.
 
 **Get a free on-site chimney estimate.** Call **(708) 288-1696** or [request an estimate here](/#contact), and we will climb up, look at the crown, the flashing, and the stack, and give you a written scope you can actually compare.

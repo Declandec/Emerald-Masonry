@@ -4,7 +4,7 @@ date: "2026-05-11"
 excerpt: "Repointing is one of the most misused terms in masonry contracting — done correctly it's a 20–30 year repair, done as a shortcut it fails within a few years. Understanding what the process should look like gives property owners the tools to evaluate contractor quality before they sign anything."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 keywords:
   - repointing masonry Chicago
   - tuckpointing vs repointing Illinois

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Efflorescence & Waterproofing in Elmhurst, IL | Emerald"
 metaDescription: "Efflorescence and waterproofing in Elmhurst, IL — tracing the water source and sealing only where it helps. Licensed. Free estimates: (708) 288-1696."
 excerpt: "Efflorescence is not a stain problem. It is a receipt — proof that water is moving through your wall and evaporating out. Cleaning it off without finding the source just means you get another one next spring."
-aiSummary: "Emerald Masonry LLC handles efflorescence and waterproofing in Elmhurst, IL — identifying the water source behind white mineral staining, correcting it, and applying breathable vapor-permeable sealers only where they help. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC handles efflorescence and waterproofing in Elmhurst, IL — identifying the water source behind white mineral staining, correcting it, and applying breathable vapor-permeable sealers only where they help. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick wall in Elmhurst Illinois after efflorescence treatment and water source correction"
 faqs:
   - q: "What is efflorescence and is it harmful?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Efflorescence and Waterproofing in Elmhurst, IL
 
-Efflorescence and waterproofing in Elmhurst, IL starts with a reframe: **the white staining on your brick is not the problem — it is the evidence.** Emerald Masonry LLC traces the water path behind it, corrects the source, and applies breathable, vapor-permeable sealer only where it genuinely helps. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Efflorescence and waterproofing in Elmhurst, IL starts with a reframe: **the white staining on your brick is not the problem — it is the evidence.** Emerald Masonry LLC traces the water path behind it, corrects the source, and applies breathable, vapor-permeable sealer only where it genuinely helps. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the useful way to think about it.
 
@@ -133,7 +133,7 @@ DuPage has no lake moderation, so freeze-thaw cycling is aggressive. Elmhurst's 
 
 We work throughout 60126 — the older residential streets around Wilder Park and the Metra line, the neighborhoods near Elmhurst University, the post-war blocks, and the churches and commercial buildings downtown. We also serve neighboring [Villa Park](/locations/chimney-repair-villa-park-il), [Lombard](/locations/chimney-repair-lombard-il), [Oak Brook](/locations/caulking-oak-brook-il) and [Bensenville](/locations/lintel-repair-bensenville-il). Elmhurst owners frequently pair this with [tuckpointing](/locations/tuckpointing-elmhurst-il), [chimney repair](/locations/chimney-repair-elmhurst-il) or [historic masonry restoration](/locations/historic-masonry-restoration-elmhurst-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Prevention
 

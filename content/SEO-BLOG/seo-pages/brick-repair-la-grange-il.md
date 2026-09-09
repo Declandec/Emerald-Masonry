@@ -16,7 +16,7 @@ service: "Brick Repair"
 metaTitle: "Brick Repair in La Grange, IL | Emerald Masonry, LLC"
 metaDescription: "Spalling, cracking, or deteriorating brick in La Grange? Emerald Masonry, LLC repairs and restores brick on homes and buildings throughout La Grange, IL. Free estimates."
 excerpt: "La Grange has some of the most character-rich residential architecture in the southwest suburbs — and a lot of brick construction that's been around for decades. Emerald Masonry, LLC repairs and restores brick on homes and buildings throughout La Grange, preserving what's there for the long haul."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Brick repair and masonry restoration on older home in La Grange Illinois"
 ---
 

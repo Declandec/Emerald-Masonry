@@ -5,7 +5,7 @@ excerpt: "Same builder, same year, same brick, same weather — and one house ne
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Two similar brick homes on a Chicagoland block showing different degrees of masonry weathering"
 keywords:
   - why is my brick worse than my neighbor's
@@ -38,7 +38,7 @@ keywords:
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Two identical houses age differently because of six variables: how much sun each elevation gets and therefore how fast it dries, gutter and downspout condition, grade and splash exposure, tree canopy, prior repair history including wrong mortar, and small detail failures like a sill or chimney crown. Drying time is the dominant factor. Emerald Masonry LLC assesses these across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Two identical houses age differently because of six variables: how much sun each elevation gets and therefore how fast it dries, gutter and downspout condition, grade and splash exposure, tree canopy, prior repair history including wrong mortar, and small detail failures like a sill or chimney crown. Drying time is the dominant factor. Emerald Masonry LLC assesses these across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why is my brick worse than my neighbor's identical house?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Same Block, Same Builder, Different Outcome
 
-**Two identical houses age differently because of six variables — and drying time is the dominant one.** How much sun an elevation gets, whether the gutters work, how water behaves at grade, how much tree canopy is overhead, what previous contractors did to the mortar, and whether small details like a sill or chimney crown have failed. None of it is luck, and most of it is visible from the sidewalk once you know what to look at. Emerald Masonry LLC assesses these factors on every job across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Two identical houses age differently because of six variables — and drying time is the dominant one.** How much sun an elevation gets, whether the gutters work, how water behaves at grade, how much tree canopy is overhead, what previous contractors did to the mortar, and whether small details like a sill or chimney crown have failed. None of it is luck, and most of it is visible from the sidewalk once you know what to look at. Emerald Masonry LLC assesses these factors on every job across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Homeowners bring this up constantly. *The house next door is the same age, same builder, same brick — why does mine look like this?*
 
@@ -193,6 +193,6 @@ Your neighbor's wall is not a control group. Their orientation, gutters, grade, 
 
 Use the comparison as a prompt, not a verdict: **go check your own joints, on the shaded side, with a screwdriver.** Then go look at your gutters. Between those two, you will have most of the answer for free.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We tell homeowners when their masonry is genuinely fine.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We tell homeowners when their masonry is genuinely fine.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

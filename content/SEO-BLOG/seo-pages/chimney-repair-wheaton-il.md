@@ -17,7 +17,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Wheaton, IL | Emerald Masonry LLC"
 metaDescription: "Licensed chimney repair contractor in Wheaton IL. Tuckpointing, crown repair, brick replacement, and full masonry restoration. Free estimates. (708) 288-1696."
 excerpt: "Wheaton's established residential and commercial properties include thousands of brick chimneys that face the same enemy every winter: water. Emerald Masonry LLC provides chimney tuckpointing, crown repair, and full masonry chimney restoration for properties throughout Wheaton and DuPage County."
-image: "/images/work-chimney-rebuild.jpg"
+image: "/images/work-chimney-rebuild.webp"
 imageAlt: "Brick chimney repair and tuckpointing on residential property in Wheaton Illinois DuPage County"
 competitorInformed: false
 ---
@@ -94,7 +94,7 @@ Yes. Masonry chimney repair addresses the exterior — mortar joints, crown, and
 
 ## Serving Wheaton and Surrounding DuPage County Communities
 
-Emerald Masonry LLC is based in Palos Heights and serves Wheaton, Glen Ellyn, Carol Stream, Winfield, Warrenville, Naperville, and surrounding DuPage County communities. We've worked in the western suburbs for 40+ years.
+Emerald Masonry LLC is based in Palos Heights and serves Wheaton, Glen Ellyn, Carol Stream, Winfield, Warrenville, Naperville, and surrounding DuPage County communities. We've worked in the western suburbs for career masons.
 
 Call **(708) 288-1696** or [request a free estimate](/#contact) for your Wheaton chimney repair.
 

@@ -5,7 +5,7 @@ excerpt: "A standard home inspection gives masonry a few lines and a photograph.
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Buyer inspecting deteriorated mortar joints and spalled brick on a Chicagoland home before purchase"
 keywords:
   - buying a home with masonry problems
@@ -38,7 +38,7 @@ keywords:
   - negotiating repairs after inspection
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Before closing on a Chicagoland home, check the mortar joints with a screwdriver, look for spalled or flaking brick, rust staining above windows, step cracks, bowing walls, chimney crown and flashing condition, and foundation cracking — these are the masonry findings that turn into the largest surprise repair bills. Emerald Masonry LLC provides pre-purchase masonry assessments across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Before closing on a Chicagoland home, check the mortar joints with a screwdriver, look for spalled or flaking brick, rust staining above windows, step cracks, bowing walls, chimney crown and flashing condition, and foundation cracking — these are the masonry findings that turn into the largest surprise repair bills. Emerald Masonry LLC provides pre-purchase masonry assessments across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Does a standard home inspection cover masonry properly?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Buying a Home with Masonry Problems: What to Check Before You Close
 
-**Before you close on a Chicagoland house, check the mortar joints with a screwdriver, look for spalled or flaking brick, rust staining above windows and doors, step cracks, any bowing in the wall plane, chimney crown and flashing condition, and cracking in the foundation.** Those seven things account for most of the expensive masonry surprises buyers hit in the first two years of ownership — and nearly all of them are visible from the ground if you know what you are looking at. Emerald Masonry LLC provides pre-purchase masonry assessments and free on-site estimates across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, 40+ years of experience. Call **(708) 288-1696**.
+**Before you close on a Chicagoland house, check the mortar joints with a screwdriver, look for spalled or flaking brick, rust staining above windows and doors, step cracks, any bowing in the wall plane, chimney crown and flashing condition, and cracking in the foundation.** Those seven things account for most of the expensive masonry surprises buyers hit in the first two years of ownership — and nearly all of them are visible from the ground if you know what you are looking at. Emerald Masonry LLC provides pre-purchase masonry assessments and free on-site estimates across Chicago and the Chicagoland suburbs. Family-owned, licensed and insured, career masons with decades of experience. Call **(708) 288-1696**.
 
 Here is the situation buyers are actually in. A general home inspector is covering an entire house — roof, electrical, plumbing, HVAC, structure, appliances — in a few hours. Masonry usually gets a paragraph and a photograph, and language like "mortar joints show wear, recommend evaluation by a qualified contractor."
 
@@ -199,6 +199,6 @@ What ends badly is not knowing. The buyer who reads "mortar joints show wear" an
 
 Two findings genuinely warrant slowing down before you waive anything: **a bowing or bulging wall**, and **a chimney that leans**. Everything else is a price conversation.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling buyers when a wall is in better shape than the inspection report implied.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We give honest assessments — including telling buyers when a wall is in better shape than the inspection report implied.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

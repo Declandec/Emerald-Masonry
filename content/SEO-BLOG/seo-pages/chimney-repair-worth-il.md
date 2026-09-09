@@ -16,7 +16,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Worth, IL | Emerald Masonry LLC"
 metaDescription: "Chimney repair in Worth, IL — crown repair, repointing, flashing, and full rebuilds for brick chimneys across southwest Cook County. Free on-site estimates."
 excerpt: "On the post-war brick homes that make up most of Worth, the chimney is usually the first masonry to fail — it stands fully exposed above the roof with nothing to protect it. Emerald Masonry LLC repairs crowns, repoints joints, addresses flashing, and rebuilds brick chimneys before the water gets into the house."
-image: "/images/after-chimney.jpg"
+image: "/images/after-chimney.webp"
 imageAlt: "Brick chimney repair and crown work on a home in Worth Illinois southwest Cook County"
 competitorInformed: false
 ---
@@ -98,6 +98,6 @@ We schedule chimney masonry for conditions where the mortar and crown materials 
 
 ## Serving Worth and Southwest Cook County
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across Worth and the surrounding southwest suburbs — Palos Heights, Chicago Ridge, Alsip, Crestwood, Oak Lawn, and Palos Hills. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, property managers, HOAs, and churches across Worth and the surrounding southwest suburbs — Palos Heights, Chicago Ridge, Alsip, Crestwood, Oak Lawn, and Palos Hills. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If your Worth chimney is shedding crown debris, showing white staining, or leaning even slightly, get it looked at before the next freeze drives the damage deeper. **[Contact Emerald Masonry](/#contact)** for a free on-site chimney assessment — we'll tell you honestly whether it's a crown repair, a repoint, or a rebuild. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

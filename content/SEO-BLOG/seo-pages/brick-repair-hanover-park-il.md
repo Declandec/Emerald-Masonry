@@ -16,7 +16,7 @@ service: "Brick Repair & Replacement"
 metaTitle: "Brick Repair in Hanover Park, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Hanover Park, IL — spalling, cracked, and failing brick replacement for 1970s–1990s homes, townhomes, and commercial buildings. Free estimates."
 excerpt: "Hanover Park's housing and commercial stock is largely brick-veneer construction from the 1970s through the 1990s — the era now reaching the age where lintels rust, veneer ties fail, and brick faces start spalling. Emerald Masonry LLC replaces failed brick and fixes the underlying cause so the new brick doesn't fail the same way."
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Brick repair and replacement on a 1980s brick-veneer home in Hanover Park Illinois"
 competitorInformed: false
 ---
@@ -102,6 +102,6 @@ Yes — single-family homes, townhome associations, and commercial buildings. We
 
 ## Serving Hanover Park and the Northwest Suburbs
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, townhome and condo associations, property managers, and commercial owners across the northwest and west suburbs — Hanover Park, Streamwood, Bartlett, Schaumburg, Roselle, and the surrounding communities in Cook and DuPage County. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we serve homeowners, townhome and condo associations, property managers, and commercial owners across the northwest and west suburbs — Hanover Park, Streamwood, Bartlett, Schaumburg, Roselle, and the surrounding communities in Cook and DuPage County. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If your Hanover Park home or building has spalling, cracked, or loose brick — or a crack that keeps reopening above a window — **[contact Emerald Masonry](/#contact)** for a free on-site assessment. We'll find the cause, match the brick, and quote a repair that lasts. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

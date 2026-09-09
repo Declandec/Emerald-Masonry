@@ -5,7 +5,7 @@ excerpt: "Many of Chicago's pre-1930 greystones, two-flats, and bungalows sit on
 service: "Foundation Masonry Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Repointed stone and greystone foundation wall after masonry repair in Chicago, IL"
 aiSummary: "Old Chicago stone, greystone, and rubble-stone foundations deteriorate when their soft lime mortar washes out from water intrusion, freeze-thaw cycles, and lost parging, leaving sandy, crumbling joints. Emerald Masonry LLC rakes out failed joints and repoints these foundations with compatible mortar — never hard Portland patches — across Chicagoland. Free estimates: (708) 288-1696."
 intent: "informational"
@@ -35,7 +35,7 @@ faqs:
 
 If you own a pre-1930 home on the South Side or in one of Chicago's older neighborhoods, there's a good chance you're standing on history. Greystones, two-flats, and brick bungalows from that era almost always sit on foundations built from limestone or rubble stone — irregular chunks of quarried rock laid up by hand and bedded in soft lime mortar. That lime mortar is the part that ages. Over decades it slowly washes out, turns sandy, and crumbles, and when it does the right answer is repointing with a compatible, breathable mortar — never a hard Portland patch. Get the mortar wrong and you can do more harm than the original problem.
 
-We've been repairing these foundations across Chicagoland for over 40 years, and the same patterns show up basement after basement. Here's what's actually happening down there, how to read the warning signs, and how a stone foundation should be repaired.
+We've been repairing these foundations across Chicagoland for decades, and the same patterns show up basement after basement. Here's what's actually happening down there, how to read the warning signs, and how a stone foundation should be repaired.
 
 ## How Chicago's stone foundations were built
 
@@ -91,6 +91,6 @@ For homeowners who want the character and integrity of an older home preserved e
 
 Hairline cosmetic gaps in an otherwise solid wall can wait. But if you can scrape out joints by hand, see gaps between stones, have a chronically wet basement, spot efflorescence, or notice any bowing, it's time for a professional assessment. Stone foundation work isn't a weekend project — matching the right mortar, raking joints without dislodging stones, and reading whether a wall is merely worn or genuinely moving all take experience. Guessing wrong with the wrong materials is how good foundations get ruined.
 
-Emerald Masonry LLC has spent over 40 years on Chicagoland foundations, and we treat your old greystone or rubble-stone wall with the materials and care it was built to have. We're a non-union, family-owned company, licensed, bonded, and insured, based right here in Palos Heights. If your basement is telling you something, let us take a look — our [foundation masonry repair](/services/foundation-masonry-repair) team will give you a straight answer and a free on-site estimate.
+Emerald Masonry LLC has spent decades on Chicagoland foundations, and we treat your old greystone or rubble-stone wall with the materials and care it was built to have. We're a non-union, family-owned company, licensed, bonded, and insured, based right here in Palos Heights. If your basement is telling you something, let us take a look — our [foundation masonry repair](/services/foundation-masonry-repair) team will give you a straight answer and a free on-site estimate.
 
 Call us at **(708) 288-1696** or [reach out through our site](/#contact). We'll tell you honestly whether you need a simple repointing or something more — and we'll do it right the first time.

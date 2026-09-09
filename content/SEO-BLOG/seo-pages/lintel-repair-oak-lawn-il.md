@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Lintel Repair in Oak Lawn, IL | Emerald Masonry LLC"
 metaDescription: "Lintel repair in Oak Lawn, IL — rusted steel lintel replacement and cracked brick above windows and garage doors. Licensed. Free estimates: (708) 288-1696."
 excerpt: "Rust stains running down from a window and a crack in the joint right above it mean the steel lintel inside the wall is corroding and expanding. Emerald Masonry LLC replaces failing lintels across Oak Lawn before the brick above them drops."
-aiSummary: "Emerald Masonry LLC provides lintel repair in Oak Lawn, IL — replacing corroded steel lintels above windows, doors and garage openings, rebuilding the cracked brick above them, and stopping the rust jacking that lifts masonry. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel repair in Oak Lawn, IL — replacing corroded steel lintels above windows, doors and garage openings, rebuilding the cracked brick above them, and stopping the rust jacking that lifts masonry. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "New steel lintel installed above a window with rebuilt brick on an Oak Lawn Illinois home"
 faqs:
   - q: "How much does lintel repair cost in Oak Lawn, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Lintel Repair in Oak Lawn, IL
 
-Lintel repair in Oak Lawn, IL means replacing the corroded steel beam spanning a window, door or garage opening and rebuilding the brick it has lifted. Emerald Masonry LLC does this work throughout the southwest suburbs — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If you have rust stains running down your brick or a crack above a window, call **(708) 288-1696**.
+Lintel repair in Oak Lawn, IL means replacing the corroded steel beam spanning a window, door or garage opening and rebuilding the brick it has lifted. Emerald Masonry LLC does this work throughout the southwest suburbs — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If you have rust stains running down your brick or a crack above a window, call **(708) 288-1696**.
 
 This is the masonry problem homeowners most often miss, because it does not look like a masonry problem. It looks like a stain.
 
@@ -120,7 +120,7 @@ We work throughout 60453 — the residential grid north and south of 95th Street
 
 We also serve neighboring [Evergreen Park](/locations/chimney-repair-evergreen-park-il), [Burbank](/locations/tuckpointing-burbank-il), [Chicago Ridge](/locations/brick-repair-chicago-ridge-il) and [Worth](/locations/chimney-repair-worth-il). Oak Lawn owners frequently pair lintel work with [tuckpointing](/locations/tuckpointing-oak-lawn-il) or [chimney repair](/locations/chimney-repair-oak-lawn-il) in the same mobilization.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Waiting
 

@@ -18,8 +18,8 @@ pageType: "location"
 metaTitle: "Chimney Repair in Orland Park, IL | Emerald Masonry LLC"
 metaDescription: "Brick chimney repair in Orland Park, IL — crown repair, repointing, flashing, and rebuilds. Emerald Masonry stops leaks at the source. Free estimate — (708) 288-1696."
 excerpt: "Orland Park's brick homes are topped by chimneys that take the worst of the weather. Emerald Masonry LLC repairs chimney crowns, repoints failing joints, fixes flashing, and rebuilds deteriorated stacks so water stops finding its way in."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Orland Park, IL — repairing cracked crowns, repointing failed mortar, addressing flashing, and rebuilding deteriorated brick chimneys. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Orland Park, IL — repairing cracked crowns, repointing failed mortar, addressing flashing, and rebuilding deteriorated brick chimneys. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and repointed joints on a home in Orland Park, IL"
 faqs:
   - q: "How do I know if my Orland Park chimney needs repair or a full rebuild?"
@@ -82,7 +82,7 @@ Cost depends on the scope (crown-and-repoint versus partial or full rebuild), th
 
 Orland Park is one of the largest southwest-suburb communities, with brick homes built heavily from the 1960s through the 2000s — ranches, split-levels, and two-story homes across its many subdivisions, plus newer construction toward 143rd, 159th, and 179th Streets. Most of those masonry chimneys are now decades old, well into the window where crowns crack and mortar joints give out. Orland Park sits in the same flat, open exposure zone as neighboring Tinley Park, Oak Forest, Palos Park, and Homer Glen, where freeze-thaw swings punish anything standing above a roofline. We fix the same chimney failures across all of them.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -100,4 +100,4 @@ Yes, and it's one of the most cost-effective repairs we do. The crown is the con
 
 ## Get a Free Chimney Inspection in Orland Park
 
-If your chimney is shedding mortar, showing a cracked crown, or leaking near the fireplace, have it inspected before water turns a small repair into a full rebuild. [Contact Emerald Masonry](/#contact) for a free on-site chimney inspection in Orland Park, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured. Related work: [chimney repair](/services/chimney-repair), [tuckpointing & repointing](/services/tuckpointing), and [brick repair](/services/brick-repair).
+If your chimney is shedding mortar, showing a cracked crown, or leaking near the fireplace, have it inspected before water turns a small repair into a full rebuild. [Contact Emerald Masonry](/#contact) for a free on-site chimney inspection in Orland Park, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Related work: [chimney repair](/services/chimney-repair), [tuckpointing & repointing](/services/tuckpointing), and [brick repair](/services/brick-repair).

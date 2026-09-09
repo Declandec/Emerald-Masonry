@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Not all masonry bids are measuring the same thing. Understanding what separates a real scope from a lowball estimate can save a property manager from costly mistakes, repeated repairs, and contractor disputes."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - masonry contractor bid evaluation
   - how to compare masonry estimates
@@ -96,7 +96,7 @@ The completed work documentation matters more than most property managers realiz
 
 Warranties on masonry work range from none (a red flag) to 2–5 years on labor and materials for commercial repointing. Understand what's covered: labor warranty means if the mortar fails prematurely, the contractor comes back. Material warranty means the product itself was defective.
 
-Longer isn't always better if the language is vague. A 10-year warranty from a contractor who won't be in business in three years is worthless. A clear 3-year labor warranty from an established firm with 40+ years in the market is worth more.
+Longer isn't always better if the language is vague. A 10-year warranty from a contractor who won't be in business in three years is worthless. A clear 3-year labor warranty from an established firm with career masons in the market is worth more.
 
 ## Comparing Bids Accurately
 

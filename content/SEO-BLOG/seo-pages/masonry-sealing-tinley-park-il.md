@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Masonry Sealing in Tinley Park, IL | Emerald Masonry LLC"
 metaDescription: "Masonry sealing in Tinley Park, IL — breathable brick waterproofing applied after joints are sound. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Sealing a brick wall with open mortar joints does not waterproof it — it seals the water in. Emerald Masonry LLC repairs first, then applies breathable, vapor-permeable sealer where it actually helps, and tells Tinley Park homeowners when they do not need sealing at all."
-aiSummary: "Emerald Masonry LLC provides masonry sealing in Tinley Park, IL — breathable, vapor-permeable water repellents applied to brick and stone after mortar joints are repaired, never film-forming coatings that trap moisture. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing in Tinley Park, IL — breathable, vapor-permeable water repellents applied to brick and stone after mortar joints are repaired, never film-forming coatings that trap moisture. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Brick wall treated with breathable masonry sealer after repointing in Tinley Park Illinois"
 faqs:
   - q: "Does sealing brick actually stop water getting in?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Masonry Sealing in Tinley Park, IL
 
-Masonry sealing in Tinley Park, IL means applying a **breathable, vapor-permeable water repellent** to brick or stone — after the mortar joints are sound, and only where it genuinely helps. Emerald Masonry LLC repairs first and seals second, and we will tell you when a wall does not need sealing at all. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Masonry sealing in Tinley Park, IL means applying a **breathable, vapor-permeable water repellent** to brick or stone — after the mortar joints are sound, and only where it genuinely helps. Emerald Masonry LLC repairs first and seals second, and we will tell you when a wall does not need sealing at all. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 We should be direct about something, because this is the service most often sold to people who do not need it.
 
@@ -122,7 +122,7 @@ That mix matters for sealing: **older solid masonry can genuinely benefit; moder
 
 We work throughout 60477 and 60487, and also serve neighboring [Orland Park](/locations/residential-masonry-restoration-orland-park-il), [Mokena](/locations/masonry-restoration-mokena-il), [Oak Forest](/locations/chimney-repair-oak-forest-il) and [New Lenox](/locations/chimney-repair-new-lenox-il). Tinley Park owners frequently pair sealing with [tuckpointing](/locations/tuckpointing-tinley-park-il), [lintel repair](/locations/lintel-repair-tinley-park-il) or [chimney repair](/locations/chimney-repair-tinley-park-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Honest Summary
 

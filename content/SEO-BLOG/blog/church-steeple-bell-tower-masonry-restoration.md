@@ -5,7 +5,7 @@ excerpt: "A church tower is the tallest, most exposed, most ornamental masonry m
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Commercial"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Restored brick and stone church bell tower with repointed joints and repaired cornice in Chicagoland"
 keywords:
   - church steeple masonry restoration
@@ -38,7 +38,7 @@ keywords:
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Church steeples and bell towers fail before the rest of the building because they are the tallest and most exposed masonry, with open belfry louvers admitting driven rain, ornamental ledges that hold water, and embedded anchors that corrode and crack the stone from within. Restoration is scoped from the top down and access is often the largest cost. Emerald Masonry LLC restores church masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Church steeples and bell towers fail before the rest of the building because they are the tallest and most exposed masonry, with open belfry louvers admitting driven rain, ornamental ledges that hold water, and embedded anchors that corrode and crack the stone from within. Restoration is scoped from the top down and access is often the largest cost. Emerald Masonry LLC restores church masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "Why does the tower always need work before the rest of the church?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Why Church Towers Fail First
 
-**A steeple or bell tower is the tallest, most exposed and most ornamental masonry a congregation will ever own, and it concentrates every failure mode at once** — open belfry louvers admitting wind-driven rain, cornices and string courses that hold water instead of shedding it, embedded steel anchors corroding behind stone, and access costs that frequently exceed the repair itself. Emerald Masonry LLC restores church and institutional masonry across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+**A steeple or bell tower is the tallest, most exposed and most ornamental masonry a congregation will ever own, and it concentrates every failure mode at once** — open belfry louvers admitting wind-driven rain, cornices and string courses that hold water instead of shedding it, embedded steel anchors corroding behind stone, and access costs that frequently exceed the repair itself. Emerald Masonry LLC restores church and institutional masonry across Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 Almost every congregation we work with discovers the tower the same way: a leak inside, or a piece of masonry on the walk after a hard freeze. By then the tower has usually been deteriorating for a decade, because nobody can see the top of it.
 
@@ -198,6 +198,6 @@ A church tower is a hundred-year-old structure doing the hardest weather job on 
 
 The congregations that handle this well do two things: they get somebody up there on a schedule, and they fix the top of the tower first. Everything below the leak is downstream of it.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with churches, property managers, HOAs, building owners and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with churches, property managers, HOAs, building owners and insurance companies.
 
 **Free on-site assessments. Call (708) 288-1696 or [request an estimate](/#contact).**

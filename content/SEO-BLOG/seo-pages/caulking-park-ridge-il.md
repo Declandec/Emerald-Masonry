@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Caulking & Joint Sealant in Park Ridge, IL | Emerald"
 metaDescription: "Caulking and joint sealant in Park Ridge, IL — window perimeters, control joints and transitions. Licensed and insured. Free estimates: (708) 288-1696."
 excerpt: "Sealant is the right answer for perimeters, control joints and material transitions. It is the wrong answer for a failing mortar joint — and a bead of caulk smeared into brickwork is one of the most common cover-ups we find on Park Ridge homes."
-aiSummary: "Emerald Masonry LLC provides caulking and joint sealant work in Park Ridge, IL — window and door perimeters, control and expansion joints, and transitions between masonry and other materials, installed with proper backer rod and an hourglass profile. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides caulking and joint sealant work in Park Ridge, IL — window and door perimeters, control and expansion joints, and transitions between masonry and other materials, installed with proper backer rod and an hourglass profile. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "New sealant joint at a window perimeter on a brick home in Park Ridge Illinois"
 faqs:
   - q: "What is the difference between caulking and tuckpointing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Caulking & Joint Sealant in Park Ridge, IL
 
-Caulking in Park Ridge, IL means sealing the joints in your exterior that are designed to move — window and door perimeters, control and expansion joints, and the transitions where masonry meets a different material. Emerald Masonry LLC does this work throughout the northwest Cook County suburbs with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site estimates. Call **(708) 288-1696**.
+Caulking in Park Ridge, IL means sealing the joints in your exterior that are designed to move — window and door perimeters, control and expansion joints, and the transitions where masonry meets a different material. Emerald Masonry LLC does this work throughout the northwest Cook County suburbs led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site estimates. Call **(708) 288-1696**.
 
 The important thing about sealant is knowing what it is *not*.
 
@@ -127,7 +127,7 @@ Exposure here is standard hard Chicagoland: dozens of freeze-thaw crossings each
 
 We serve 60068 and the surrounding northwest and near-west communities. Park Ridge owners frequently pair sealant renewal with [tuckpointing](/services/tuckpointing) or [lintel repair](/services/lintel-repair) so the whole water path gets addressed on one visit rather than in pieces.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Request a Free Caulking Estimate in Park Ridge
 

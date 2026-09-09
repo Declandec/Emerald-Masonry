@@ -19,9 +19,9 @@ serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Westchester, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Westchester, IL from Emerald Masonry LLC — spalled, cracked & loose brick fixed, color-matched. Licensed & insured. Free estimate (708) 288-1696."
-excerpt: "Emerald Masonry LLC repairs spalled, cracked, and loose brick on Westchester homes with color- and texture-matched replacements and clean repointing. Family-owned, licensed and insured, with 40+ years of masonry experience across west-suburban Cook County."
-aiSummary: "Emerald Masonry LLC provides brick repair in Westchester, IL — repairing spalled, cracked, and loose brick with color-matched replacement and repointing on mid-century ranches and Georgians. Family-owned, licensed and insured, with 40+ years of experience. Free on-site estimates: (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+excerpt: "Emerald Masonry LLC repairs spalled, cracked, and loose brick on Westchester homes with color- and texture-matched replacements and clean repointing. Family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience across west-suburban Cook County."
+aiSummary: "Emerald Masonry LLC provides brick repair in Westchester, IL — repairing spalled, cracked, and loose brick with color-matched replacement and repointing on mid-century ranches and Georgians. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Free on-site estimates: (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Color-matched brick repair on a Westchester, IL mid-century brick ranch by Emerald Masonry LLC"
 faqs:
   - q: "Who does brick repair in Westchester, IL?"
@@ -39,7 +39,7 @@ competitorInformed: true
 
 ## Brick Repair in Westchester, IL
 
-**Emerald Masonry LLC repairs brick in Westchester, IL** — spalled, cracked, and loose brick fixed with color- and texture-matched replacements and clean repointing that blends into your existing wall. We are a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of experience, and we work throughout Westchester and west-suburban Cook County. For a free on-site estimate, call **(708) 288-1696**.
+**Emerald Masonry LLC repairs brick in Westchester, IL** — spalled, cracked, and loose brick fixed with color- and texture-matched replacements and clean repointing that blends into your existing wall. We are a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on experience, and we work throughout Westchester and west-suburban Cook County. For a free on-site estimate, call **(708) 288-1696**.
 
 Most Westchester homes are mid-century brick — ranches, Georgians, and Cape Cods built between the 1950s and 1970s — and that brick is now old enough to show its age. If you are seeing flaking faces, a crack stepping through the mortar, or brick that shifts when you press it, that is exactly what we fix.
 
@@ -108,11 +108,11 @@ We will walk you through all of it on-site so you understand exactly what you ar
 
 Westchester sits in Proviso Township in west-suburban Cook County, minutes from Oak Brook and Oak Park, and its housing stock is overwhelmingly mid-century masonry — 1950s-70s brick ranches, Georgians, and Cape Cods. That brick has weathered decades of Chicago-area freeze-thaw, and it shows up first on the walls that stay wet longest: **north- and west-facing elevations** and the **courses closest to grade**, where snowmelt and splashback keep moisture in the brick. We know these homes and how their brick fails, so we repair for the way Westchester weather actually works on them.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Westchester Homeowners Choose Emerald
 
-- **40+ years** of hands-on masonry experience
+- **career masons** of hands-on masonry experience
 - **Family-owned**, non-union, and locally rooted in Chicagoland
 - **Licensed, bonded, and insured** on every job
 - **Free on-site estimates** — we look before we quote

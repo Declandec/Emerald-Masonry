@@ -5,7 +5,7 @@ excerpt: "Masonry survives fires that destroy everything around it, which is exa
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Masonry Restoration"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 intent: "informational"
 aiSummary: "Fire damages masonry in three ways: thermal spalling that pops brick faces off, calcination that turns mortar and limestone chalky and structurally weak, and soot and smoke staining that is cosmetic. Brick often survives high heat while mortar and limestone do not, so post-fire assessment means sounding the wall and testing joint depth rather than judging by appearance. Emerald Masonry LLC restores fire-damaged masonry across Chicagoland — (708) 288-1696."
 keywords:
@@ -63,7 +63,7 @@ Masonry is what tends to be left standing. Fire takes the framing, the roof and 
 
 **A brick wall that looks sound after a fire can have mortar you can rake out with a finger. A wall that looks catastrophic can be nothing worse than soot.** Telling those apart is the entire assessment, and it cannot be done from a photograph.
 
-Emerald Masonry LLC restores fire-damaged masonry on homes, multi-family buildings, churches and commercial properties throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, 40+ years of experience, free written on-site assessments. Call **(708) 288-1696**.
+Emerald Masonry LLC restores fire-damaged masonry on homes, multi-family buildings, churches and commercial properties throughout Chicago and the Chicagoland suburbs. Family-owned, licensed, bonded and insured, career masons with decades of experience, free written on-site assessments. Call **(708) 288-1696**.
 
 ## The Building Science: Three Different Kinds of Damage
 
@@ -201,6 +201,6 @@ Fire damages masonry in three ways, and only one of them is visible. Soot is cos
 
 That means the assessment is not a visual one. It is sounding the wall, probing the joints, checking the steel, and finding where sound masonry actually begins — which is always further out than the char line suggests.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 If you are dealing with a fire-damaged building — as an owner, a property manager or an adjuster — we will assess the masonry, document it in writing, and tell you what genuinely has to come down. [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

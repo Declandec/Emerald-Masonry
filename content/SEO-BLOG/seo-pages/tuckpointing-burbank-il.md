@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Burbank, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Burbank, IL — mortar joint repair and brick repointing for ranches, bungalows and garages. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Burbank is a compact, almost entirely brick community built in a single post-war wave — which means its mortar is all reaching the end of its service life at once. Emerald Masonry LLC repoints Burbank homes, chimneys and brick garages with correctly matched mortar."
-aiSummary: "Emerald Masonry LLC provides tuckpointing in Burbank, IL — grinding out failed mortar joints and repointing brick ranches, bungalows, chimneys and detached garages with color- and hardness-matched mortar. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides tuckpointing in Burbank, IL — grinding out failed mortar joints and repointing brick ranches, bungalows, chimneys and detached garages with color- and hardness-matched mortar. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Tuckpointing and brick repointing on a post-war brick home in Burbank Illinois"
 faqs:
   - q: "How much does tuckpointing cost in Burbank, IL?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Tuckpointing in Burbank, IL
 
-Tuckpointing in Burbank, IL is the repair that removes deteriorated mortar from your brick joints and replaces it with fresh mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work throughout Burbank and the surrounding southwest suburbs — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your mortar is sandy, receded or crumbling, call **(708) 288-1696**.
+Tuckpointing in Burbank, IL is the repair that removes deteriorated mortar from your brick joints and replaces it with fresh mortar matched to the color and hardness of your original masonry. Emerald Masonry LLC does this work throughout Burbank and the surrounding southwest suburbs — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your mortar is sandy, receded or crumbling, call **(708) 288-1696**.
 
 Burbank is a small, dense, almost entirely brick community, and it went up fast. The village grew through the 1950s and 60s on what had been farmland and truck gardens along 79th and Cicero, and the housing that filled it — brick ranches, Cape Cods, Georgians, story-and-a-halfs, and an unusually high density of detached brick garages off the alleys — is largely the same age.
 
@@ -101,7 +101,7 @@ Burbank sits in southwest Cook County with no lake buffer, so it takes the full 
 
 We work throughout 60459 — the residential grid between 77th and 87th, the blocks running off Cicero and Central, the neighborhoods near Reavis High School and around Burbank's parks, and the commercial corridors where [commercial masonry restoration](/services/commercial-masonry-restoration) is more often the need. We also serve neighboring [Oak Lawn](/locations/tuckpointing-oak-lawn-il), [Bridgeview](/locations/tuckpointing-bridgeview-il), [Justice](/locations/tuckpointing-justice-il) and [Hickory Hills](/locations/tuckpointing-hickory-hills-il), and Burbank homeowners frequently pair repointing with [chimney repair](/locations/chimney-repair-burbank-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a Free Tuckpointing Estimate in Burbank
 

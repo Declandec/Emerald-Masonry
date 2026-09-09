@@ -16,7 +16,7 @@ service: "Chimney Repair"
 metaTitle: "Chimney Repair in Burr Ridge, IL | Emerald Masonry, LLC"
 metaDescription: "Chimney cracking, spalling, or leaking in Burr Ridge? Emerald Masonry, LLC handles chimney tuckpointing, crown repair, and full rebuilds. Free estimates."
 excerpt: "Chimney problems rarely announce themselves loudly — but by the time you notice them inside, the damage has usually been building for years. Emerald Masonry, LLC provides full chimney repair services for Burr Ridge homeowners, from mortar joint tuckpointing to complete above-roofline rebuilds."
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 imageAlt: "Chimney masonry repair and tuckpointing on brick home in Burr Ridge Illinois"
 ---
 

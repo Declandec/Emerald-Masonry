@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "Some masonry work needs a permit and some doesn't — and getting it wrong can stall a sale, void insurance, or trigger a stop-work order. Here's a plain-language guide to when tuckpointing, brick repair, and chimney work require permits in Chicago and the Chicagoland suburbs, and how a good contractor handles it."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - masonry repair permit Chicago
   - do I need a permit for tuckpointing
@@ -101,7 +101,7 @@ Two red flags: a contractor who waves off a permit on clearly structural work to
 
 For the everyday masonry most homeowners need — tuckpointing, a few replacement bricks, a crown repair — you're generally in maintenance territory with no permit required. The moment the work becomes structural (chimney rebuilds, lintels, parapets, wall and foundation rebuilds) or your building is landmarked or tall-commercial, permits and inspections come into play. The safe move is simple: let a licensed contractor make the call and handle the paperwork, and confirm anything uncertain with your municipality.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. We confirm permit requirements with your local building department and handle what's needed. [Contact us](/#contact) for a free on-site estimate, or call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. We confirm permit requirements with your local building department and handle what's needed. [Contact us](/#contact) for a free on-site estimate, or call **(708) 288-1696**.
 
 ## Frequently Asked Questions
 

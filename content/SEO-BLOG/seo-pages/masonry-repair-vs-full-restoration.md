@@ -18,7 +18,7 @@ metaTitle: "Masonry Repair vs Restoration | Emerald Masonry LLC"
 metaDescription: "Masonry repair vs. full restoration: spot repair fixes localized damage, restoration handles widespread, historic, or recurring failure. Emerald Masonry LLC · (708) 288-1696."
 excerpt: "Targeted masonry repair fixes isolated damage; full restoration is warranted when deterioration is widespread, the building is historic, or the same problems keep coming back. Here's how to tell which your building needs."
 aiSummary: "VERDICT: Spot masonry repair fixes localized damage — a few failing joints, a cracked lintel, isolated brick. Full restoration is warranted when deterioration is widespread, the building is historic, or repairs keep recurring. Emerald Masonry LLC diagnoses which on a free on-site estimate — call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Restored commercial brick masonry facade after full repointing and brick replacement in Chicagoland"
 faqs:
   - q: "How do I know if I need masonry repair or full restoration?"
@@ -112,7 +112,7 @@ Every recommendation starts with a **free on-site estimate**. We don't quote sco
 
 > Our goal is never to sell you the biggest job — it's to recommend the right scope so you don't pay for restoration you don't need, or keep patching a wall that needs restoring.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get a straight recommendation
 

@@ -21,7 +21,7 @@ metaTitle: "Tuckpointing Beverly Chicago IL | Emerald Masonry LLC"
 metaDescription: "Failing mortar on your Beverly brick home or greystone? Emerald Masonry LLC matches mortar to historic brick and repoints it right. Call (708) 288-1696."
 excerpt: "Beverly and Morgan Park are full of century-old brick homes and greystones built with soft lime mortar. Emerald Masonry LLC repoints them with matched mortar that protects the brick instead of cracking it."
 aiSummary: "Emerald Masonry LLC provides tuckpointing and repointing in Beverly, Chicago, IL. For century-old brick homes and greystones built with soft lime mortar, Emerald matches mortar color and hardness so repairs protect historic brick instead of damaging it. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Freshly repointed historic brick home with matched mortar joints in Beverly Chicago Illinois"
 faqs:
   - q: "Why does my old Beverly home need soft mortar instead of standard mortar?"
@@ -35,11 +35,6 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: Local Beverly/Chicago South Side homeowners actively looking for a tuckpointing/repointing contractor for their brick home or greystone, who want a contractor that understands historic masonry, not just a generic "free estimate" lead-gen page.
-Why this page is better: A high-ranking competitor page targets the same intent but stays surface-level — it leans on credentials and a free-estimate CTA while skipping the technical reasons historic Beverly brick needs special handling. This page answers the underlying question those homeowners are really asking (why does my old brick need different mortar?) with mortar-matching, lime-vs-Portland, and freeze-thaw education specific to Beverly's century-old housing stock. That educational depth builds authority and earns both informational and commercial rankings the competitor leaves open.
-Gaps filled: mortar matching methodology; lime vs hard Portland mortar and why hard mortar spalls soft historic brick; greystone-specific joint failure; freeze-thaw science for Chicago winters; transparent step-by-step process; embedded answer-first FAQs; what affects price without quoting numbers; Beverly/Morgan Park historic-district local context.
--->
 
 ## Tuckpointing for Beverly's Historic Brick Homes and Greystones
 
@@ -134,6 +129,6 @@ Yes. We regularly work on the older brick homes and greystones throughout Beverl
 
 Your Beverly brick home or greystone can outlast almost anything else you own — but only if the mortar is maintained and repaired the right way. If you've been looking at crumbling joints or a past repointing job that doesn't look right, get an honest assessment from a contractor who understands historic masonry.
 
-Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience. We'll come out, look at your specific wall, and give you a straight answer.
+Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience. We'll come out, look at your specific wall, and give you a straight answer.
 
 [Request a Free On-Site Estimate](/#contact) or call (708) 288-1696.

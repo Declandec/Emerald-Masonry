@@ -19,7 +19,7 @@ secondaryKeywords:
   - "water behind brick wall"
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 faqs:
   - q: "What is through-wall flashing in a brick wall?"
     a: "Through-wall flashing is a concealed waterproof layer built horizontally into a masonry wall — at the base, over windows and doors, at shelf angles, and under copings. It catches water that gets inside the wall and redirects it back to the outside through weep holes, instead of letting it travel down into the structure."
@@ -86,7 +86,7 @@ Flashing is not something you can spray on or seal over from the outside — it 
 
 If your brick wall leaks, shows efflorescence, or keeps spalling despite looking solid, the problem is often not the brick at all — it's the hidden flashing and weep system that is supposed to drain the wall. Diagnosing that correctly is the difference between a lasting repair and chasing the same leak for years.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696.**
 
 For related reading and services, see our [parapet wall repair](/services/parapet-wall-repair), [lintel repair](/services/lintel-repair), [masonry sealing and waterproofing](/services/masonry-sealing), and [commercial masonry restoration](/services/commercial-masonry-restoration).
 

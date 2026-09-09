@@ -19,8 +19,8 @@ pageType: "location"
 metaTitle: "Tuckpointing in Berwyn, IL | Emerald Masonry LLC"
 metaDescription: "Tuckpointing in Berwyn, IL — expert mortar joint repair and brick repointing for bungalows and two-flats. Licensed, insured, family-owned. Free estimates: (708) 288-1696."
 excerpt: "Berwyn is a city of brick bungalows and 1920s two-flats whose original mortar is now well past its service life. Emerald Masonry LLC repoints these homes with mortar matched to their age and hardness, so the repair protects the brick instead of quietly destroying it."
-aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Berwyn, IL — grinding out failed mortar joints and repointing brick bungalows, two-flats, and chimneys with color- and hardness-matched mortar. Family-owned, licensed and insured, with 40+ years of Chicagoland experience and free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides professional tuckpointing in Berwyn, IL — grinding out failed mortar joints and repointing brick bungalows, two-flats, and chimneys with color- and hardness-matched mortar. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Tuckpointing and brick repointing on a brick bungalow in Berwyn Illinois Cook County"
 faqs:
   - q: "How much does tuckpointing cost in Berwyn, IL?"
@@ -36,15 +36,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "tuckpointing Berwyn IL" / "brick repointing Berwyn" — local residential tuckpointing intent
-Why this page is better: The ranking competitor service-area page is trust-signal heavy but geographically thin — it names Berwyn repeatedly but includes no bungalow/two-flat architectural detail, no cost-factor guidance, and only a generic three-step process. This page leads with Berwyn's actual brick stock (the Bungalow Belt, 1920s two-flats), explains why mortar-to-brick hardness matching matters on that specific soft older brick, and adds real cost and process depth plus a longer, locally grounded FAQ.
-Gaps filled: real Berwyn architecture (Bungalow Belt brick bungalows, 1920s two-flats and Chicago-style flats, the Depot District, older Cook County housing stock); mortar-hardness matching explanation the competitor omits; signs-of-failure section; qualitative cost-factor detail; multiple internal service links; a specific, phone-forward CTA.
--->
 
 ## Tuckpointing in Berwyn, IL Starts With the Right Mortar
 
-Tuckpointing in Berwyn, IL is the repair that keeps the city's brick bungalows and two-flats standing straight for another generation — and Emerald Masonry LLC does it the way Berwyn's older brick actually requires. We grind out the failed mortar joints, repoint with mortar matched to the color and hardness of your original masonry, and tool the joints to match the profile the house was built with. Family-owned, licensed and insured, with 40+ years of Chicagoland experience and free on-site estimates, we're a call away at (708) 288-1696.
+Tuckpointing in Berwyn, IL is the repair that keeps the city's brick bungalows and two-flats standing straight for another generation — and Emerald Masonry LLC does it the way Berwyn's older brick actually requires. We grind out the failed mortar joints, repoint with mortar matched to the color and hardness of your original masonry, and tool the joints to match the profile the house was built with. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates, we're a call away at (708) 288-1696.
 
 Berwyn is one of the most brick-dense cities in the Chicago area, and almost all of that brick was laid in the 1910s, 1920s, and 1930s. That means the mortar holding it together is, in most cases, original — and mortar simply does not last a hundred years. When it fails, the fix is tuckpointing. Done right, it's invisible and lasts decades. Done wrong, it can quietly wreck the very brick it was supposed to protect.
 
@@ -88,7 +83,7 @@ The single most important decision in a Berwyn tuckpointing job is the mortar mi
 
 Every wall is different, so we don't quote flat rates. The factors that drive a tuckpointing price are the amount of wall that needs repointing, the height and access (ground-level versus a full two-story two-flat elevation requiring scaffolding), the condition of the brick, and whether chimneys, parapets, or lintels are involved. We give free on-site estimates in Berwyn so the number reflects your actual masonry — not a template.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Tuckpointing for Berwyn's Brick Housing Stock
 
@@ -98,4 +93,4 @@ Repointing these homes is not generic work. A Berwyn bungalow needs a softer, ma
 
 ## Talk to a Berwyn Tuckpointing Specialist
 
-Emerald Masonry LLC is family-owned, non-union, and licensed, bonded, and insured, with 40+ years of Chicagoland masonry experience and a straightforward promise: we repoint your Berwyn brick the way it was meant to be repaired, with matched mortar and honest work. If your bungalow, two-flat, or chimney is showing crumbling joints, spalling brick, or step cracks, don't wait for the brick itself to fail. Get a free on-site estimate — reach us through [our contact page](/#contact) or call **(708) 288-1696** today.
+Emerald Masonry LLC is family-owned, non-union, and licensed, bonded, and insured, led by career masons with decades of hands-on Chicagoland experience and a straightforward promise: we repoint your Berwyn brick the way it was meant to be repaired, with matched mortar and honest work. If your bungalow, two-flat, or chimney is showing crumbling joints, spalling brick, or step cracks, don't wait for the brick itself to fail. Get a free on-site estimate — reach us through [our contact page](/#contact) or call **(708) 288-1696** today.

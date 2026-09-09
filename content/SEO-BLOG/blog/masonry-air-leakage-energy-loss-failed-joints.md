@@ -5,7 +5,7 @@ excerpt: "Homeowners chase drafts with weatherstripping and new windows while th
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Repointed brick wall with sound tooled joints on a Chicagoland home"
 keywords:
   - drafty brick house
@@ -38,7 +38,7 @@ keywords:
   - masonry contractor near me Chicago
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
-aiSummary: "Failed mortar joints let air pass through a masonry wall, and on an older Chicago brick house with widespread joint deterioration that adds up to a meaningful air-leakage path alongside the more familiar culprits at windows, rim joists and the attic. Repointing is not primarily an energy retrofit, but it closes the wall and stops the water damage that widens the gaps. Emerald Masonry LLC repoints across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "Failed mortar joints let air pass through a masonry wall, and on an older Chicago brick house with widespread joint deterioration that adds up to a meaningful air-leakage path alongside the more familiar culprits at windows, rim joists and the attic. Repointing is not primarily an energy retrofit, but it closes the wall and stops the water damage that widens the gaps. Emerald Masonry LLC repoints across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Can failed mortar joints really make my house drafty?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Do Failed Mortar Joints Make a House Drafty?
 
-**Yes, they contribute — but they are rarely the biggest leak in the house, and anyone selling tuckpointing primarily as an energy upgrade is overstating it.** Air moves through open and deteriorated mortar joints, and on an older Chicago brick house with widespread joint failure that becomes a genuine leakage path spread across a very large surface. Emerald Masonry LLC repoints masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Yes, they contribute — but they are rarely the biggest leak in the house, and anyone selling tuckpointing primarily as an energy upgrade is overstating it.** Air moves through open and deteriorated mortar joints, and on an older Chicago brick house with widespread joint failure that becomes a genuine leakage path spread across a very large surface. Emerald Masonry LLC repoints masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 We want to be straight about this one, because it is a topic where the trade sometimes oversells.
 
@@ -202,6 +202,6 @@ If your brick house is drafty, the mortar joints are worth checking — but chec
 
 And when you do repoint, do it for the right reason. **Closing the wall against water is what justifies the work.** The fact that it also stops air moving through a hundred feet of open joint is a genuine benefit, just not the headline.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We will tell you when the fix is not masonry.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We will tell you when the fix is not masonry.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

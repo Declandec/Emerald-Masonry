@@ -20,10 +20,10 @@ service: "Tuckpointing & Repointing"
 serviceSlug: "tuckpointing"
 pageType: "location"
 metaTitle: "Tuckpointing in Palos Heights, IL | Emerald Masonry"
-metaDescription: "Tuckpointing & brick repointing in Palos Heights, IL by Emerald Masonry — family-owned, 40+ yrs, licensed, bonded & insured. Free on-site estimate (708) 288-1696."
+metaDescription: "Tuckpointing & brick repointing in Palos Heights, IL by Emerald Masonry — family-owned, career masons, licensed, bonded & insured. Free on-site estimate (708) 288-1696."
 excerpt: "Crumbling, sandy, or cracked mortar joints on your Palos Heights brick? Emerald Masonry LLC is the local, family-owned crew that grinds out failed joints and repoints with color-matched mortar. Free on-site estimates — call (708) 288-1696."
-aiSummary: "Emerald Masonry LLC provides professional tuckpointing and brick repointing in Palos Heights, IL — grinding out failed mortar joints and repointing with color-matched type N or type O mortar. Family-owned and based in Palos Heights with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides professional tuckpointing and brick repointing in Palos Heights, IL — grinding out failed mortar joints and repointing with color-matched type N or type O mortar. Family-owned and based in Palos Heights led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly repointed brick wall on a Palos Heights, IL home after professional tuckpointing"
 faqs:
   - q: "How much does tuckpointing cost in Palos Heights, IL?"
@@ -33,19 +33,14 @@ faqs:
   - q: "How long does tuckpointing last?"
     a: "When the joints are ground out to the proper depth and repointed with the correct mortar type, quality tuckpointing commonly lasts 25 years or more. Longevity depends heavily on matching the mortar to the brick — too hard a mortar on soft, older brick can cause damage over time. Our southwest Cook County freeze-thaw winters make correct depth and proper tooling especially important."
   - q: "Are you local to Palos Heights, and are you licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company with 40+ years of Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing / masonry licensed contractor Palos Park–Palos Heights southwest suburbs — a top-ranking local service-authority lead-gen page with NO FAQ, NO step-by-step process explanation, NO price-factor education, no FAQ/Service schema, repetitive duplicated copy, and only generic Palos Park + "Cook/DuPage/Will counties" mentions with no neighborhood or housing-stock detail.
-Why this page is better: It is answer-first and genuinely local to Palos Heights (Emerald's home base) — naming local housing stock (post-war brick ranches and bungalows, the Cal-Sag/Lake Katherine area, southwest Cook County), a concrete step-by-step tuckpointing process, honest price-factor guidance, a real 4-question FAQ that becomes FAQPage schema, and clear trust signals.
-Gaps filled: FAQ + FAQPage schema, process breakdown, price-factor education, local specificity, internal links, answer-first Quick Answer.
--->
 
 ## Quick Answer
 
-**Emerald Masonry LLC** is your local provider of **tuckpointing and brick repointing in Palos Heights, IL** — we grind out failed mortar joints and repoint them with color-matched mortar so your brick is sealed and structurally sound again. We are based right here in Palos Heights, family-owned, with 40+ years of Chicagoland experience, and we are licensed, bonded, and insured. For a **free on-site estimate, call (708) 288-1696.**
+**Emerald Masonry LLC** is your local provider of **tuckpointing and brick repointing in Palos Heights, IL** — we grind out failed mortar joints and repoint them with color-matched mortar so your brick is sealed and structurally sound again. We are based right here in Palos Heights, family-owned, led by career masons with decades of hands-on Chicagoland experience, and we are licensed, bonded, and insured. For a **free on-site estimate, call (708) 288-1696.**
 
 Because our shop is in Palos Heights — not a far-off suburb that drives in — we already know how the brick ranches, bungalows, and chimneys around here weather, and we can usually get out to look at your joints quickly.
 
@@ -111,7 +106,7 @@ This is our home turf. Emerald Masonry is based in Palos Heights, and we work th
 
 Because we live with the same freeze-thaw winters your house does, we build joints to handle them. Being local also means quicker scheduling and a contractor who answers the phone — not a call center.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 If your tuckpointing project turns up other issues, we handle the related work too — see our [tuckpointing and repointing services](/services/tuckpointing), [brick repair and replacement](/services/brick-repair), [chimney repair and rebuilding](/services/chimney-repair), [masonry sealing and waterproofing](/services/masonry-sealing), and [lintel repair](/services/lintel-repair).
 
@@ -131,7 +126,7 @@ When the joints are ground out to the proper depth and repointed with the correc
 
 **Are you local to Palos Heights, and are you licensed and insured?**
 
-Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company with 40+ years of Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate.
+Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Tuckpointing Estimate in Palos Heights
 

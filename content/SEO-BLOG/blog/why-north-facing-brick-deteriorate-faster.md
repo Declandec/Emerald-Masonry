@@ -4,7 +4,7 @@ date: "2026-05-11"
 excerpt: "North-facing brick walls in Illinois stay wet longer and cycle through more freeze-thaw events per season than their south-facing counterparts. Understanding this exposure asymmetry helps property owners prioritize masonry maintenance before the most damaged elevation becomes a structural problem."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 keywords:
   - north-facing brick wall deterioration Illinois
   - freeze-thaw masonry damage Chicago

@@ -20,12 +20,12 @@ pageType: "location"
 metaTitle: "Masonry Sealing & Waterproofing in Wilmington, IL | Emerald"
 metaDescription: "Masonry sealing Wilmington IL by Emerald Masonry LLC. Breathable brick waterproofing that stops water damage. Free on-site estimate — call (708) 288-1696."
 excerpt: "Emerald Masonry LLC seals and waterproofs brick homes and buildings in Wilmington, IL with breathable water repellents that keep water out while letting the wall dry. We repair mortar joints first, then apply the sealer — and always offer a free on-site estimate."
-aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Wilmington, IL. We apply breathable water-repellent sealers to brick homes and buildings, after repairing mortar joints first. Family-owned, licensed and insured, with 40+ years of experience. Call (708) 288-1696 for a free on-site estimate."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides masonry sealing and waterproofing in Wilmington, IL. We apply breathable water-repellent sealers to brick homes and buildings, after repairing mortar joints first. Family-owned, licensed and insured, led by career masons with decades of hands-on experience. Call (708) 288-1696 for a free on-site estimate."
+image: "/images/after-residential.webp"
 imageAlt: "Freshly sealed and waterproofed brick home in Wilmington, IL by Emerald Masonry LLC"
 faqs:
   - q: "Who does masonry sealing and brick waterproofing in Wilmington, IL?"
-    a: "Emerald Masonry LLC seals and waterproofs brick homes, chimneys, and commercial buildings throughout Wilmington and Will County. We are family-owned, licensed and insured, with 40+ years of masonry experience. Call (708) 288-1696 for a free on-site estimate."
+    a: "Emerald Masonry LLC seals and waterproofs brick homes, chimneys, and commercial buildings throughout Wilmington and Will County. We are family-owned, licensed and insured, led by career masons with decades of hands-on masonry experience. Call (708) 288-1696 for a free on-site estimate."
   - q: "Does sealing brick trap moisture inside the wall?"
     a: "Not when it's done correctly. We use breathable siloxane- and silane-type water repellents that stop liquid water from entering while still letting water vapor escape. Film-forming coatings that seal the surface can trap moisture and cause damage, so we never use them on brick."
   - q: "Do I need tuckpointing before my brick can be sealed?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 Emerald Masonry LLC seals and waterproofs brick in Wilmington, IL — call **(708) 288-1696** for a free on-site estimate. We apply breathable water-repellent sealers to brick homes, chimneys, and downtown buildings so rain and river-valley moisture stay out of the wall. Because Wilmington sits right on the Kankakee River, its older brick homes and storefronts take on a lot of moisture, and proper masonry sealing is one of the most cost-effective ways to protect them.
 
-We're a family-owned, licensed and insured masonry contractor with 40+ years of experience, and every sealing job starts with an honest inspection — not a sales pitch.
+We're a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience, and every sealing job starts with an honest inspection — not a sales pitch.
 
 ## What masonry sealing and waterproofing actually is
 
@@ -118,9 +118,9 @@ Many of Wilmington's brick homes and commercial buildings are older, with masonr
 
 ## Trust signals
 
-Emerald Masonry LLC is family-owned and **non-union**, with **40+ years** of masonry experience. We're **licensed, bonded and insured**, and we back every recommendation with an honest on-site inspection. We won't upsell you into sealing a wall that needs repair first — we'll fix what needs fixing and seal what's ready to be sealed.
+Emerald Masonry LLC is family-owned and **non-union**, with **career masons** of masonry experience. We're **licensed, bonded and insured**, and we back every recommendation with an honest on-site inspection. We won't upsell you into sealing a wall that needs repair first — we'll fix what needs fixing and seal what's ready to be sealed.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 ## Get a free masonry sealing estimate in Wilmington
 

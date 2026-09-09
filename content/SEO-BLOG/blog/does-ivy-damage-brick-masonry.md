@@ -5,7 +5,7 @@ excerpt: "Ivy on a brick wall looks timeless — but whether it's harmless or sl
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Climbing ivy on the brick wall of an older Chicagoland home, with holdfasts gripping the mortar joints"
 aiSummary: "Ivy on sound, well-pointed brick with intact mortar usually causes little structural harm, but on older Chicagoland brick with soft lime mortar and existing cracks it is genuinely destructive — the holdfasts pry open failing joints, trap moisture, and accelerate freeze-thaw spalling. Emerald Masonry LLC inspects and repairs brick and mortar after ivy removal across Chicago and the suburbs. Free estimates — call (708) 288-1696."
 intent: "informational"
@@ -135,7 +135,7 @@ That last point is where a masonry contractor earns their keep. Pulling the ivy 
 
 Chicago-area housing stock is precisely the housing stock where ivy does the most harm. Our **brick bungalows**, **greystones**, and **two-flats** are largely a century old, built with soft lime mortar and softer brick than modern construction. Add our brutal **freeze-thaw** climate — repeated freezing and thawing on any wall that can't dry — and lake-effect humidity, and you have the ideal conditions for ivy to turn a small maintenance issue into real deterioration. Older churches and historic masonry buildings, often draped in decades-old ivy, face the same risk on a larger and more expensive scale.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. When ivy comes down, we're often the ones who make the wall whole again. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. When ivy comes down, we're often the ones who make the wall whole again. Free on-site estimates — call **(708) 288-1696**.
 
 ## When to Call a Masonry Professional
 
@@ -165,4 +165,4 @@ If your masonry is genuinely sound and you love the look, you can keep ivy in ch
 
 Does ivy damage brick? On a tight, modern, well-pointed wall, not much. On the soft-mortar, century-old brick that defines Chicagoland's neighborhoods, **yes — it pries open failing joints, traps moisture, feeds freeze-thaw spalling, and hides the deterioration while it happens.** The plant is only ever as damaging as the wall lets it be, and most old Chicago brick lets it be plenty.
 
-If you're pulling ivy off an older brick home — or you've just taken it down and don't like what you see underneath — have the wall inspected before the next winter drives water into those open joints. Emerald Masonry LLC is family-owned, licensed, bonded and insured, with 40+ years of Chicagoland masonry experience. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site estimate.
+If you're pulling ivy off an older brick home — or you've just taken it down and don't like what you see underneath — have the wall inspected before the next winter drives water into those open joints. Emerald Masonry LLC is family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience. Call **(708) 288-1696** or reach us through our [contact page](/#contact) for a free on-site estimate.

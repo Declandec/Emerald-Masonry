@@ -18,7 +18,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "Commercial Masonry Contractor in Alsip, IL | Emerald Masonry LLC"
 metaDescription: "Commercial masonry repair for Alsip, IL industrial and commercial properties. Brick, CMU block, tuckpointing, and facade restoration. Licensed, bonded & insured."
 excerpt: "Alsip's industrial corridor between the Calumet Expressway and Cicero Avenue contains some of the densest concentration of commercial and light-industrial brick and block construction in the south Cook County area. Many of these buildings date from the postwar industrial buildout of the 1950s through 1970s, and their masonry envelopes are reaching the point where deferred maintenance becomes structural risk. Emerald Masonry LLC provides commercial masonry repair, tuckpointing, and facade restoration for Alsip's commercial and industrial property owners and managers."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Commercial masonry repair and brick facade restoration on industrial building in Alsip, IL"
 competitorInformed: false
 ---
@@ -88,7 +88,7 @@ Documented, completed masonry repair positively affects both. Insurance carriers
 
 ## Service Area
 
-Emerald Masonry LLC serves Alsip and the south Cook County industrial corridor from our base in Palos Heights, IL — just a few miles from Alsip's commercial districts. We work throughout Blue Island, Midlothian, Oak Forest, Robbins, Calumet Park, and the full range of south suburban Cook County communities. With 40+ years of Chicagoland experience and a client base that includes property managers, HOAs, insurance companies, and industrial owners, we understand commercial masonry from a building owner's perspective.
+Emerald Masonry LLC serves Alsip and the south Cook County industrial corridor from our base in Palos Heights, IL — just a few miles from Alsip's commercial districts. We work throughout Blue Island, Midlothian, Oak Forest, Robbins, Calumet Park, and the full range of south suburban Cook County communities. With career masons on every crew and a client base that includes property managers, HOAs, insurance companies, and industrial owners, we understand commercial masonry from a building owner's perspective.
 
 $5,000 project minimum. Free on-site estimates with written documentation. [Contact us online](/#contact) or call **(708) 288-1696**.
 

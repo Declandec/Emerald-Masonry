@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Chimney Repair Mount Greenwood, Chicago IL | Emerald Masonry"
 metaDescription: "Chimney repair in Mount Greenwood, Chicago, IL — crowns, caps, flashing, repointing and rebuilds in 60655. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Mount Greenwood's chimneys are post-war stacks on 1950s and 60s brick bungalows, ranches and Georgians — and a great many of them now serve gas appliances or nothing at all, which quietly accelerates how fast they fail. Emerald Masonry LLC repairs and rebuilds them."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Mount Greenwood, Chicago, IL (60655) — crown rebuilding, chimney caps, flashing, repointing, brick replacement and rebuilds above the roofline on post-war bungalows, ranches and Georgians. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-chimney.jpg"
+aiSummary: "Emerald Masonry LLC provides chimney repair in Mount Greenwood, Chicago, IL (60655) — crown rebuilding, chimney caps, flashing, repointing, brick replacement and rebuilds above the roofline on post-war bungalows, ranches and Georgians. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-chimney.webp"
 imageAlt: "Repaired brick chimney with new crown and cap on a post-war home in Mount Greenwood Chicago Illinois"
 faqs:
   - q: "How much does chimney repair cost in Mount Greenwood, Chicago?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "chimney repair Mount Greenwood Chicago IL" / "chimney repair 60655" — local residential chimney repair intent on Chicago's far southwest side.
-Competitor pattern observed: the ranking set is dominated by Yelp/BBB directory pages plus regional tuckpointing shops running one templated service-area page cloned across dozens of neighborhoods. The strongest of those carries genuine trust signals (30+ years, a Chicago Masons License number, a workmanship warranty, free estimates) and does include a short FAQ — but only three generic questions ("what is masonry", "can you color match"), with NO cost guidance, NO step-by-step process, NO explanation of what a crown or cap actually does or how it fails, no case detail, no schema markup, and zero Mount Greenwood specificity — the opening copy would read identically for any town.
-Why this page is better: it is written for Mount Greenwood's actual chimneys, which are post-war stacks on 1950s–60s bungalows, ranches and Georgians, not the tall pre-1930 corbelled chimneys of neighboring Beverly. It leads with the gas-conversion and orphaned-flue problem specific to this housing stock — the single most underserved chimney issue in 60655 — and explains why post-war Portland-based mortar needs a different mix from historic lime mortar.
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema; a cap/crown/flashing/repoint/rebuild repair ladder with plain explanations of what each component does; the gas-conversion and unused-chimney deterioration mechanism; era-specific mortar-hardness matching; qualitative cost drivers; real 60655 geography (111th Street corridor, the cemetery district, Beverly and Evergreen Park borders); and internal links to related services.
--->
 
 ## Chimney Repair in Mount Greenwood, Chicago, IL
 
-Chimney repair in Mount Greenwood, Chicago, IL covers the full range from adding a cap and rebuilding a cracked crown to repointing the stack and rebuilding it above the roofline. Emerald Masonry LLC does all of it across 60655 — family-owned, licensed, bonded and insured, with 40+ years of Chicagoland experience and free on-site estimates. If your chimney is staining, flaking, or letting water into the house, call **(708) 288-1696**.
+Chimney repair in Mount Greenwood, Chicago, IL covers the full range from adding a cap and rebuilding a cracked crown to repointing the stack and rebuilding it above the roofline. Emerald Masonry LLC does all of it across 60655 — family-owned, licensed, bonded and insured, led by career masons with decades of hands-on Chicagoland experience and free on-site estimates. If your chimney is staining, flaking, or letting water into the house, call **(708) 288-1696**.
 
 Mount Greenwood is a neighborhood with a very consistent building stock. It filled in through the 1950s and 60s on the far southwest side, and the housing is overwhelmingly **post-war brick** — bungalows, ranches, Georgians, Cape Cods and story-and-a-halfs, most with full brick fronts and a single masonry chimney.
 
@@ -137,7 +131,7 @@ Mount Greenwood sits on high ground at the far southwest corner of the city, wit
 
 We also serve neighboring [Beverly](/locations/chimney-repair-beverly-chicago-il), [Evergreen Park](/locations/brick-repair-evergreen-park-il), [Oak Lawn](/locations/chimney-repair-oak-lawn-il) and [Palos Heights](/locations/chimney-repair-palos-heights-il). Mount Greenwood homeowners frequently pair chimney work with [tuckpointing](/locations/tuckpointing-mount-greenwood-chicago-il) on the house itself.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## What Waiting Costs
 

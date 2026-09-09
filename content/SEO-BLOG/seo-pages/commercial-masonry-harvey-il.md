@@ -16,7 +16,7 @@ service: "Commercial & Industrial Masonry"
 metaTitle: "Commercial Masonry in Harvey, IL | Emerald Masonry LLC"
 metaDescription: "Commercial and industrial masonry in Harvey, IL — brick, CMU block, facade, and loading dock repair for warehouses, institutions, and churches. Free estimates."
 excerpt: "Harvey's commercial and industrial building stock is among the oldest in south Cook County, and most of it is brick and block that has been working hard for sixty to a hundred years. Emerald Masonry LLC repairs facades, loading docks, parapets, and block walls for the warehouses, institutions, and churches that keep the city running."
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 imageAlt: "Commercial and industrial masonry facade repair on a brick and block building in Harvey Illinois south Cook County"
 competitorInformed: false
 ---
@@ -93,6 +93,6 @@ Treat it as urgent. A parapet that's pulling away is both an active leak path an
 
 ## Serving Harvey and South Cook County
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights, with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we work with property managers, building owners, institutions, churches, and insurance companies across Harvey and the surrounding south suburbs — Markham, Dixmoor, Phoenix, Dolton, Riverdale, Hazel Crest, and the rest of south Cook County. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights, led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we work with property managers, building owners, institutions, churches, and insurance companies across Harvey and the surrounding south suburbs — Markham, Dixmoor, Phoenix, Dolton, Riverdale, Hazel Crest, and the rest of south Cook County. We carry a $5,000 project minimum and provide free on-site estimates.
 
 If you manage or own a commercial or industrial building in Harvey with eroded joints, spalling brick, a failing parapet, or a block wall taking on water, get it assessed before the next freeze-thaw season makes it worse. **[Contact Emerald Masonry](/#contact)** for a free on-site evaluation. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

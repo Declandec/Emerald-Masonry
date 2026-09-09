@@ -4,7 +4,7 @@ date: "2026-04-26"
 excerpt: "Multi-family brick buildings in Chicagoland face a specific masonry maintenance challenge: the cost is shared, the decision-making is distributed, and the consequences of deferred maintenance fall on residents rather than an absent owner. Whether you're managing a two-flat, a 12-unit six-flat, or a larger condo association, the maintenance framework for the building's masonry needs to account for ownership structure, budget constraints, and the reality that brick buildings in Cook, DuPage, and Will Counties are now aging into their maintenance windows simultaneously."
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
-image: "/images/after-commercial.jpg"
+image: "/images/after-commercial.webp"
 keywords:
   - masonry maintenance multi-family building Chicago
   - tuckpointing two-flat Chicago
@@ -104,7 +104,7 @@ The two-flats and six-flats built across Chicago and its inner suburbs from 1900
 
 ---
 
-Emerald Masonry LLC works with two-flat owners, multi-unit landlords, and condominium associations throughout Chicagoland. We provide detailed written scopes, phase work to match budget cycles, and explain options clearly so boards and owners can make informed decisions. Licensed, bonded, and insured with 40+ years of experience.
+Emerald Masonry LLC works with two-flat owners, multi-unit landlords, and condominium associations throughout Chicagoland. We provide detailed written scopes, phase work to match budget cycles, and explain options clearly so boards and owners can make informed decisions. Licensed, bonded, and insured led by career masons with decades of hands-on experience.
 
 Call **(708) 288-1696** or [contact us online](/#contact) for a free on-site assessment.
 

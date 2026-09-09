@@ -5,7 +5,7 @@ excerpt: "Painting brick feels like a fresh start, but the wrong coating seals w
 service: "Tuckpointing & Repointing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Repaired and repointed painted brick wall on a Chicagoland residential home"
 aiSummary: "Painted brick traps moisture because most paints seal the brick's pores so absorbed water can't escape; when that trapped water freezes in Chicagoland winters it spalls the brick face. Emerald Masonry LLC repairs, repoints, and replaces painted brick across Chicagoland with breathable methods — free on-site estimates at (708) 288-1696."
 intent: "informational"

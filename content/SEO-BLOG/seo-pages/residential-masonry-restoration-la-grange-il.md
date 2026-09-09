@@ -24,8 +24,8 @@ pageType: "location"
 metaTitle: "Residential Masonry Restoration in La Grange, IL | Emerald"
 metaDescription: "Residential masonry restoration in La Grange, IL — whole-house survey, ranked repairs, matched brick, stone and mortar. Free estimates: call (708) 288-1696."
 excerpt: "Restoration on a hundred-year-old La Grange home is not one repair — it is a plan. The most valuable thing a mason can hand you is an honest ranking of what is urgent and what can wait two seasons."
-aiSummary: "Emerald Masonry LLC provides residential masonry restoration in La Grange, IL — surveying the whole home's brick, stone and chimney, ranking repairs by urgency, then repointing, replacing failed units, and restoring lintels, sills and chimneys with matched materials. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides residential masonry restoration in La Grange, IL — surveying the whole home's brick, stone and chimney, ranking repairs by urgency, then repointing, replacing failed units, and restoring lintels, sills and chimneys with matched materials. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored brick and limestone home exterior with repointed joints in La Grange, Illinois"
 faqs:
   - q: "How much does residential masonry restoration cost in La Grange, IL?"
@@ -47,7 +47,7 @@ competitorInformed: false
 
 ## Residential Masonry Restoration in La Grange, IL
 
-Residential masonry restoration in La Grange, IL should begin with somebody walking the entire house, telling you everything that is wrong with the brick and stone, and then telling you what order to fix it in. Emerald Masonry LLC restores homes throughout La Grange and the West Suburbs — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in La Grange, IL should begin with somebody walking the entire house, telling you everything that is wrong with the brick and stone, and then telling you what order to fix it in. Emerald Masonry LLC restores homes throughout La Grange and the West Suburbs — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Most homeowners here do not need everything done this year. What they need is an honest ranking — and a mason who will say out loud which items can wait two seasons.
 
@@ -105,7 +105,7 @@ Add a mature tree canopy that keeps north and east elevations damp, decades of g
 
 The scope you choose for phase one versus the full plan · wall area and number of elevations · the true percentage of joints and units that have failed · chimney work and roof access · staging requirements · match difficulty for brick, limestone and mortar · water-management corrections folded into the job · season and curing conditions. We do not quote older homes over the phone; the assessment is free and written.
 
-> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+> Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Serving La Grange and the West Suburbs
 
@@ -113,6 +113,6 @@ We restore residential masonry throughout La Grange's 60525 — the historic dis
 
 ## Why La Grange Homeowners Call Emerald
 
-We survey before we quote, we rank the work honestly — including telling you what can wait — and we match materials to what your house is actually built of rather than to whatever is fastest. On this housing stock that means soft mortar, gentle cleaning and repair in kind. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience.
+We survey before we quote, we rank the work honestly — including telling you what can wait — and we match materials to what your house is actually built of rather than to whatever is fastest. On this housing stock that means soft mortar, gentle cleaning and repair in kind. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience.
 
 Want a straight, written assessment of your La Grange home's brick and stone, with a plan you can phase? [Request a free on-site estimate](/#contact) or call **(708) 288-1696**.

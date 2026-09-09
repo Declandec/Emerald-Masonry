@@ -18,7 +18,7 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Elmhurst, IL | Emerald Masonry LLC"
 metaDescription: "Licensed tuckpointing contractor serving Elmhurst IL. Mortar joint repair for brick homes and commercial buildings throughout DuPage County. Free estimates. (708) 288-1696."
 excerpt: "Elmhurst's older residential neighborhoods and Route 83 commercial corridor include a dense concentration of brick buildings that require periodic tuckpointing to remain weathertight. Emerald Masonry LLC provides professional mortar joint repair for homes, commercial facades, and institutional buildings throughout Elmhurst and DuPage County."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Completed tuckpointing work on a commercial brick building in Elmhurst Illinois DuPage County"
 competitorInformed: false
 ---

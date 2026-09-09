@@ -19,9 +19,9 @@ serviceSlug: "chimney-repair"
 pageType: "location"
 metaTitle: "Chimney Repair in Oak Forest, IL | Emerald Masonry"
 metaDescription: "Masonry chimney repair in Oak Forest, IL — crown repair, repointing, and rebuilds by Emerald Masonry. Family-owned, licensed & insured. Call (708) 288-1696."
-excerpt: "Emerald Masonry LLC provides masonry chimney repair in Oak Forest, IL — crown repair, repointing, flashing, and partial or full rebuilds. Family-owned with 40+ years of experience, licensed, bonded, and insured, with free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides chimney repair in Oak Forest, IL — crown repair, repointing, flashing seals, and partial or full rebuilds. Family-owned with 40+ years of experience, licensed, bonded, and insured, we offer free on-site estimates. Call (708) 288-1696 to schedule an inspection of your chimney."
-image: "/images/after-chimney.jpg"
+excerpt: "Emerald Masonry LLC provides masonry chimney repair in Oak Forest, IL — crown repair, repointing, flashing, and partial or full rebuilds. Family-owned, led by career masons with decades of hands-on experience, licensed, bonded, and insured, with free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides chimney repair in Oak Forest, IL — crown repair, repointing, flashing seals, and partial or full rebuilds. Family-owned, led by career masons with decades of hands-on experience, licensed, bonded, and insured, we offer free on-site estimates. Call (708) 288-1696 to schedule an inspection of your chimney."
+image: "/images/after-chimney.webp"
 imageAlt: "Rebuilt and repointed brick chimney on an Oak Forest, IL home"
 faqs:
   - q: "How much does chimney repair cost in Oak Forest, IL?"
@@ -35,7 +35,7 @@ faqs:
 competitorInformed: false
 ---
 
-Emerald Masonry LLC provides masonry chimney repair in Oak Forest, IL, including crown repair, repointing, flashing seals, and partial or full rebuilds. We are a family-owned, licensed and insured masonry contractor with 40+ years of experience, and every job starts with a free on-site inspection. To schedule yours, call (708) 288-1696.
+Emerald Masonry LLC provides masonry chimney repair in Oak Forest, IL, including crown repair, repointing, flashing seals, and partial or full rebuilds. We are a family-owned, licensed and insured masonry contractor led by career masons with decades of hands-on experience, and every job starts with a free on-site inspection. To schedule yours, call (708) 288-1696.
 
 If your Oak Forest chimney shows crumbling mortar, flaking brick, or water in the firebox, the right fix depends on how far the damage has spread — and on getting it diagnosed before another freeze-thaw winter makes it worse. Below is exactly what masonry chimney repair covers, how to recognize when you need it, and how we approach the work.
 
@@ -98,7 +98,7 @@ After a free on-site inspection, we give you a clear written estimate for your s
 
 Oak Forest's housing stock includes many mid-century brick homes, and brick chimneys of that era are now decades into the freeze-thaw cycle that defines south and southwest Cook County winters. The combination of older mortar, repeated freeze-thaw exposure, and crowns that were never resealed is exactly why we see so many chimney calls in this area. We work throughout Oak Forest and the surrounding southwest suburbs, and we understand how the local climate and the typical brick construction here drive chimney wear.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Chimney work often overlaps with related masonry. If your chimney needs more than the crown, our [chimney repair services](/services/chimney-repair) and [tuckpointing work](/services/tuckpointing) cover the full range of crown, joint, and rebuild repairs. When brick faces are spalling, our [brick repair and replacement](/services/brick-repair) restores the structure, and finishing with [masonry sealing](/services/masonry-sealing) helps protect the repair from future water entry. Not sure which direction your chimney needs? Our guide on [chimney rebuild vs. repair](/locations/chimney-rebuild-vs-chimney-repair) walks through how to tell the difference.
 

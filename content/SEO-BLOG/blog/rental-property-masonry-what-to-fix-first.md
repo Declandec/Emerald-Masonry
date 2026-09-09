@@ -5,7 +5,7 @@ excerpt: "On a rental, masonry competes with roofs, furnaces and turnover costs 
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
 category: "Property Managers"
-image: "/images/after-commercial-3.jpg"
+image: "/images/after-commercial-3.webp"
 imageAlt: "Masonry restoration in progress on a Chicagoland brick two-flat rental property"
 keywords:
   - rental property masonry repair
@@ -38,7 +38,7 @@ keywords:
   - family owned masonry contractor Chicago
   - masonry repair vs rebuild cost
   - water damage brick wall rental
-aiSummary: "On rental property, masonry priorities should follow the water path and the cost curve, not appearance. Fix anything at the top of the building first — parapets, coping, chimney crowns and flashing — then corroding lintels, then open joints, then grade-level damage. Cosmetic staining and efflorescence can wait. Emerald Masonry LLC scopes and phases rental masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "On rental property, masonry priorities should follow the water path and the cost curve, not appearance. Fix anything at the top of the building first — parapets, coping, chimney crowns and flashing — then corroding lintels, then open joints, then grade-level damage. Cosmetic staining and efflorescence can wait. Emerald Masonry LLC scopes and phases rental masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "commercial"
 faqs:
   - q: "What masonry problem should a landlord fix first?"
@@ -67,7 +67,7 @@ On a rental, masonry competes for dollars with the roof, the furnace, the turnov
 
 **Which masonry problems get dramatically more expensive if I wait, and which genuinely hold for a few more years?**
 
-Those are answerable, and the ranking follows two things: **the path water takes through a building**, and **the shape of each problem's cost curve.** Emerald Masonry LLC scopes and phases masonry for owners, landlords, property managers and HOAs throughout Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site assessments. Call **(708) 288-1696**.
+Those are answerable, and the ranking follows two things: **the path water takes through a building**, and **the shape of each problem's cost curve.** Emerald Masonry LLC scopes and phases masonry for owners, landlords, property managers and HOAs throughout Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site assessments. Call **(708) 288-1696**.
 
 ## Priority 1: Anything at the Top
 
@@ -211,6 +211,6 @@ Rental and multi-unit work usually spans [parapet wall repair](/services/parapet
 
 Get every building scoped by elevation with quantities, rank the line items across the whole portfolio rather than building by building, and phase from the top of that list. That approach funds what protects the asset instead of what happens to be visible from the street.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, landlords, HOAs, churches and insurance companies.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. We work with property managers, landlords, HOAs, churches and insurance companies.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

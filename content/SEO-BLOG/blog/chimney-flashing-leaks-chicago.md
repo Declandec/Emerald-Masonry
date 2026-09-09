@@ -5,7 +5,7 @@ excerpt: "If your chimney only leaks when it rains, the problem is almost always
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-chimney-2.jpg"
+image: "/images/after-chimney-2.webp"
 imageAlt: "Repaired masonry chimney with new counterflashing and crown where it meets the roof in Chicago"
 aiSummary: "Most chimney leaks start at the flashing where the chimney meets the roof — failed step or counterflashing, a cracked crown, or open mortar joints let water in. Emerald Masonry LLC repairs chimney masonry, crowns, and flashing across Chicagoland — free estimates, (708) 288-1696."
 intent: "informational"
@@ -56,7 +56,7 @@ faqs:
     a: "Once a year is ideal in the Chicago area, ideally in fall before the freeze-thaw season, plus after any major storm. An annual look catches receding mortar joints, early crown cracks, and lifting flashing before they become interior leaks. Emerald Masonry LLC offers free estimates and inspections throughout Chicagoland."
 ---
 
-If your chimney leaks only when it rains, the culprit is almost always where the brick meets the roof — the flashing, the crown, or the mortar joints. That's the short answer, and it's the one we give homeowners across Chicagoland every week. At **Emerald Masonry LLC**, a family-owned, licensed, bonded, and insured masonry company with **40+ years** of hands-on chimney work, we've traced hundreds of "mystery" ceiling stains back to a two-inch gap in a piece of counterflashing. If water is finding its way into your home through the chimney, call us for a free estimate at **(708) 288-1696** — we repair chimney masonry, crowns, and flashing throughout the Chicago suburbs.
+If your chimney leaks only when it rains, the culprit is almost always where the brick meets the roof — the flashing, the crown, or the mortar joints. That's the short answer, and it's the one we give homeowners across Chicagoland every week. At **Emerald Masonry LLC**, a family-owned, licensed, bonded, and insured masonry company with **career masons** of hands-on chimney work, we've traced hundreds of "mystery" ceiling stains back to a two-inch gap in a piece of counterflashing. If water is finding its way into your home through the chimney, call us for a free estimate at **(708) 288-1696** — we repair chimney masonry, crowns, and flashing throughout the Chicago suburbs.
 
 A **chimney flashing leak** is one of the most misdiagnosed problems in a house. People assume the roof is bad, or the flue is cracked, or there's condensation. Usually the truth is simpler and more fixable: the seal between a masonry chimney and the roof around it has failed. This guide walks through the anatomy of that connection, why chimneys leak, how a mason actually finds the source, and what a real repair looks like — so you know exactly what you're dealing with before anyone climbs a ladder.
 
@@ -201,6 +201,6 @@ Catch a receding joint or an early **chimney crown crack** now, and it's a modes
 
 ## The Bottom Line
 
-If your chimney leaks when it rains, don't smear on more tar and hope. The problem is almost certainly at the flashing, the crown, or the mortar joints — and every one of those is a fixable masonry job when it's done right. As a **family-owned masonry contractor** with **40+ years** of chimney experience, **Emerald Masonry LLC** is a **licensed, bonded, and insured** team that diagnoses the real source, repairs the masonry side the right way, and tells you honestly when a roofer needs to handle the shingles.
+If your chimney leaks when it rains, don't smear on more tar and hope. The problem is almost certainly at the flashing, the crown, or the mortar joints — and every one of those is a fixable masonry job when it's done right. As a **family-owned masonry contractor** with **career masons** of chimney experience, **Emerald Masonry LLC** is a **licensed, bonded, and insured** team that diagnoses the real source, repairs the masonry side the right way, and tells you honestly when a roofer needs to handle the shingles.
 
 We serve Palos Heights and all of Chicagoland, from **Oak Lawn** to **Tinley Park** and beyond. Get a **free estimate** today: call **(708) 288-1696**, email emeraldmasonryil@gmail.com, or reach us at [our contact page](/#contact). Let's stop the leak before another Chicago winter makes it worse.

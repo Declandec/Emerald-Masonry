@@ -16,16 +16,11 @@ service: "Masonry Restoration"
 metaTitle: "Masonry Restoration in Yorkville, IL | Emerald Masonry LLC"
 metaDescription: "Masonry restoration in Yorkville, IL — historic brick and stone repair downtown plus brick veneer repair in Fox River subdivisions. Serving Kendall County. Free estimates."
 excerpt: "Yorkville is two masonry towns in one — a 19th-century limestone-and-brick downtown along the Fox River, and decades of newer brick-veneer subdivisions that grew up around it. Emerald Masonry LLC restores both, from landmark-sensitive repointing to modern veneer repair, across Kendall County."
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 imageAlt: "Masonry restoration of brick and stone on a building in Yorkville Illinois Kendall County along the Fox River"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: masonry restoration contractor Yorkville IL Kendall County (brick/stone restoration, tuckpointing)
-Why this page is better: The competitor pages ranking for this intent are Chicago-city homepages that list services generically, carry no Kendall County or Yorkville local relevance (suburbs appear only inside testimonials), have no FAQ, and use a thin two-heading structure. This page is built specifically around Yorkville's split building stock — historic Fox River downtown masonry versus newer subdivision brick veneer — explains why those two wall types fail and get restored differently, and includes a full FAQ and a real Kendall County service area.
-Gaps filled: local building-stock specificity (downtown limestone/brick vs. veneer subdivisions); distinction between solid historic masonry restoration and modern veneer restoration; lime vs. Portland mortar relevance for 1800s buildings; structured FAQ; clear Kendall County service area; stronger problem explanation and CTA.
--->
 
 ## One Town, Two Kinds of Masonry
 
@@ -105,6 +100,6 @@ That's the standard we work to. On historic buildings that means matching mortar
 
 ## Serving Yorkville and Kendall County
 
-Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights with more than 40 years of Chicagoland experience. We're licensed, bonded, and insured, and we restore masonry for homeowners, property managers, HOAs, churches, commercial owners, and institutions across Yorkville and the wider Kendall County and Fox Valley area — Oswego, Montgomery, Plano, Sugar Grove, Plainfield, and the surrounding communities. We carry a $5,000 project minimum and provide free on-site estimates.
+Emerald Masonry LLC is a family-owned, non-union masonry contractor based in Palos Heights led by career masons with decades of hands-on Chicagoland experience. We're licensed, bonded, and insured, and we restore masonry for homeowners, property managers, HOAs, churches, commercial owners, and institutions across Yorkville and the wider Kendall County and Fox Valley area — Oswego, Montgomery, Plano, Sugar Grove, Plainfield, and the surrounding communities. We carry a $5,000 project minimum and provide free on-site estimates.
 
 Whether you own a 19th-century building in downtown Yorkville or a newer brick home in one of the Fox River subdivisions, the right restoration starts with correctly reading the wall. **[Contact Emerald Masonry](/#contact)** for a free on-site masonry restoration assessment — we'll tell you what your building actually needs and why. Call **(708) 288-1696** or email **emeraldmasonryil@gmail.com**.

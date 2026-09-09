@@ -18,16 +18,11 @@ service: "Tuckpointing & Repointing"
 metaTitle: "Tuckpointing in Cicero, IL | Emerald Masonry LLC"
 metaDescription: "Professional tuckpointing and mortar joint repair in Cicero, IL. Emerald Masonry serves Cook County brick homes, two-flats, and commercial buildings. Free estimates."
 excerpt: "Cicero is one of the most brick-dense communities in Cook County — block after block of two-flats, three-flats, and bungalows built between 1910 and 1950, all with the mortar joint wear patterns that come with 70-100 years in Chicagoland's climate. Emerald Masonry LLC provides professional tuckpointing and repointing for Cicero's residential, commercial, and institutional properties."
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 imageAlt: "Tuckpointing and mortar joint repair on a brick two-flat in Cicero, IL Cook County"
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: tuckpointing Cicero IL brick repointing residential commercial
-Why this page is better: This page addresses Cicero's specific building stock — dense pre-war brick construction including two-flats, three-flats, and bungalows with soft historic brick — explaining why mortar specification matters for this era of construction. The competitor page gives three generic step-by-step H2s with no Cicero-specific context, no building stock discussion, no FAQ specific to Cicero's architecture, and a weak CTA.
-Gaps filled: Cicero building stock context (1910-1950 brick density, Czech heritage construction era), mortar compatibility for pre-war brick, local climate and exposure factors, building-type specific guidance, stronger FAQ, stronger CTA
--->
 
 Few Chicago-area communities have as much brick per square mile as Cicero. Drive through the town's residential blocks along 16th Street, 22nd Street, or the numbered avenues heading north, and you're looking at block after block of brick construction — almost entirely built between 1910 and 1950, largely by immigrant craftsmen who knew brick and built it to last. That construction did last. It's also been accumulating mortar wear for 75 to 100 years.
 
@@ -107,7 +102,7 @@ Sections are fine and often the right approach for phasing cost. Priority order:
 
 ## Service Area
 
-Emerald Masonry LLC serves Cicero and the surrounding Cook County communities from our base in Palos Heights, IL. We work throughout Berwyn, Oak Park, River Forest, Stickney, Forest Park, and the near-west suburbs, as well as south Cook County and the broader Chicagoland area. Our 40+ years in the region means we've worked on the full range of Cook County brick — from 1910 two-flats to 1960s commercial facades.
+Emerald Masonry LLC serves Cicero and the surrounding Cook County communities from our base in Palos Heights, IL. We work throughout Berwyn, Oak Park, River Forest, Stickney, Forest Park, and the near-west suburbs, as well as south Cook County and the broader Chicagoland area. Our career masons in the region means we've worked on the full range of Cook County brick — from 1910 two-flats to 1960s commercial facades.
 
 [Contact us online](/#contact) or call **(708) 288-1696** for a free on-site estimate. We'll assess the mortar condition, identify the right specification for your building's brick, and give you an honest scope.
 

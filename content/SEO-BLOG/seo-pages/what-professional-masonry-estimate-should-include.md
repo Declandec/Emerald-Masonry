@@ -19,7 +19,7 @@ metaTitle: "What a Masonry Estimate Should Include | Emerald Masonry LLC"
 metaDescription: "A professional masonry estimate itemizes scope, mortar type, access, exclusions, timeline, warranty, and proof of insurance. See the must-have checklist and red flags to avoid before you sign."
 excerpt: "A proper masonry estimate is more than one number. Here is exactly what a professional written estimate should itemize — and the red flags of a bad one."
 aiSummary: "A proper masonry estimate itemizes detailed scope, materials and mortar type (Type N/S, color match), the access/scaffolding plan, clear exclusions, timeline, cleanup, a written workmanship warranty, and proof of license and insurance — never one vague number. Emerald Masonry LLC provides free, itemized on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Restored residential masonry wall after professional tuckpointing by Emerald Masonry LLC in Chicagoland"
 faqs:
   - q: "What should a professional masonry estimate include?"
@@ -120,7 +120,7 @@ A **free on-site estimate** means a masonry professional inspects the job, measu
 
 ## About Emerald Masonry LLC
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Get an itemized estimate you can trust
 

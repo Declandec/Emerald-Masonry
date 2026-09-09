@@ -4,7 +4,7 @@ date: "2026-04-02"
 excerpt: "Chicago's climate is unusually hard on masonry. Understanding the freeze-thaw mechanism — how it works, what it damages, and in what order — is the foundation for making smart repair and maintenance decisions."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/work-tuckpointing.jpg"
+image: "/images/work-tuckpointing.webp"
 keywords:
   - freeze-thaw masonry damage Chicago
   - how freeze-thaw cycles damage brick

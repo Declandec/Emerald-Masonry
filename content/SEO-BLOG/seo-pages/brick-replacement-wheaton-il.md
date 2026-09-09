@@ -18,10 +18,10 @@ service: "Brick Replacement"
 serviceSlug: "brick-replacement"
 pageType: "location"
 metaTitle: "Brick Replacement in Wheaton, IL | Emerald Masonry LLC"
-metaDescription: "Brick replacement in Wheaton, IL by Emerald Masonry LLC. We cut out spalled and cracked brick and match veneer or solid-masonry units. 40+ yrs. (708) 288-1696."
-excerpt: "Emerald Masonry LLC cuts out and replaces failed brick on Wheaton homes — spalled, cracked, and crumbling units matched to older solid masonry or newer brick veneer. Family-owned, 40+ years, free on-site estimates."
-aiSummary: "Emerald Masonry LLC provides brick replacement in Wheaton, IL, cutting out spalled, cracked, and crumbling brick and matching new units to your home — whether it's older solid masonry or a 1980s brick-veneer subdivision. Family-owned, licensed and insured, 40+ years of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+metaDescription: "Brick replacement in Wheaton, IL by Emerald Masonry LLC. We cut out spalled and cracked brick and match veneer or solid-masonry units. career masons. (708) 288-1696."
+excerpt: "Emerald Masonry LLC cuts out and replaces failed brick on Wheaton homes — spalled, cracked, and crumbling units matched to older solid masonry or newer brick veneer. Family-owned, career masons, free on-site estimates."
+aiSummary: "Emerald Masonry LLC provides brick replacement in Wheaton, IL, cutting out spalled, cracked, and crumbling brick and matching new units to your home — whether it's older solid masonry or a 1980s brick-veneer subdivision. Family-owned, licensed and insured, career masons with decades of Chicagoland experience. Free on-site estimates — call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Replacement brick set and matched into a Wheaton, IL home wall after Emerald Masonry brick replacement"
 faqs:
   - q: "How much does brick replacement cost in Wheaton, IL?"
@@ -33,13 +33,13 @@ faqs:
   - q: "What's the difference between brick veneer and solid masonry, and why does it matter?"
     a: "Brick veneer is a single outer layer of brick over a framed, sheathed wall — common on newer Wheaton homes. Solid masonry is multiple structural layers of brick, common on older homes. The repair approach and the way water moves behind the brick differ, so we identify which you have before we start."
   - q: "Are you licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Wheaton and the surrounding DuPage County and Chicagoland suburbs with 40+ years of experience."
+    a: "Yes — Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor serving Wheaton and the surrounding DuPage County and Chicagoland suburbs led by career masons with decades of hands-on experience."
 competitorInformed: false
 ---
 
 # Brick Replacement in Wheaton, IL
 
-**Emerald Masonry LLC provides brick replacement in Wheaton, IL — cutting out spalled, cracked, and crumbling brick and setting matched replacement units back into the wall.** Whether your home is an older solid-masonry house near downtown and Wheaton College or a 1980s brick-veneer home in one of the west-side subdivisions, we replace failed brick and blend the repair into the surrounding wall. We're family-owned, licensed and insured, with 40+ years of Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
+**Emerald Masonry LLC provides brick replacement in Wheaton, IL — cutting out spalled, cracked, and crumbling brick and setting matched replacement units back into the wall.** Whether your home is an older solid-masonry house near downtown and Wheaton College or a 1980s brick-veneer home in one of the west-side subdivisions, we replace failed brick and blend the repair into the surrounding wall. We're family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. For a free on-site estimate, call **(708) 288-1696**.
 
 Wheaton, the DuPage County seat, has two very different kinds of brick homes — and brick replacement means something a little different on each. That's the first thing we sort out when we look at your wall.
 
@@ -98,7 +98,7 @@ We put an exact, itemized number in front of you after a free on-site look — n
 
 Watch for **spalled brick faces** (flaking or popped-off fronts), **cracked-through bricks**, **loose or shifted bricks**, and a few **crumbling bricks** sitting among otherwise sound ones. DuPage County's **freeze-thaw cycles** are the usual driver: water works into a brick, freezes, and pushes the face off over successive winters. The longer a failed brick stays in the wall, the more water reaches the structure behind it — so early replacement is the cheaper fix.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Wheaton and the Chicagoland suburbs with 40+ years of experience in brick replacement, brick repair, tuckpointing, chimney and lintel repair, and full masonry restoration — residential and commercial. Free on-site estimates, always.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Wheaton and the Chicagoland suburbs led by career masons with decades of hands-on experience in brick replacement, brick repair, tuckpointing, chimney and lintel repair, and full masonry restoration — residential and commercial. Free on-site estimates, always.
 
 Brick replacement often goes hand in hand with related work. If your mortar joints are failing across the wall, see our [tuckpointing and repointing services](/services/tuckpointing); for damaged-but-not-failed brick and mortar, our [brick repair services](/services/brick-repair) cover it; and if the brick above a window or door is cracked and sagging, that's often a [lintel repair](/services/lintel-repair) issue. Full details on this service are on our [brick replacement page](/services/brick-replacement).
 

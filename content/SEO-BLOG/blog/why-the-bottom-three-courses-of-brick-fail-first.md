@@ -5,7 +5,7 @@ excerpt: "Walk any older Chicagoland block in March and the damage is at ankle h
 service: "Brick Repair"
 location: "Chicagoland, IL"
 category: "Homeowner Education"
-image: "/images/after-brick-repair.jpg"
+image: "/images/after-brick-repair.webp"
 imageAlt: "Spalling brick and salt deposits in the lowest courses of a Chicagoland masonry wall at grade"
 keywords:
   - brick spalling at grade
@@ -38,7 +38,7 @@ keywords:
   - licensed and insured mason Chicagoland
   - free masonry estimate Chicago
   - brick repair near grade
-aiSummary: "The lowest courses of a brick wall fail first because five forces converge there — splash-back from hard surfaces, snow banked against the wall for weeks, road salt and de-icer crystallizing inside the masonry, moisture wicking up from wet soil, and grade or mulch holding water against the brick. Four of the five are correctable. Emerald Masonry LLC repairs at-grade masonry across Chicagoland. Family-owned, 40+ years, licensed and insured. Call (708) 288-1696."
+aiSummary: "The lowest courses of a brick wall fail first because five forces converge there — splash-back from hard surfaces, snow banked against the wall for weeks, road salt and de-icer crystallizing inside the masonry, moisture wicking up from wet soil, and grade or mulch holding water against the brick. Four of the five are correctable. Emerald Masonry LLC repairs at-grade masonry across Chicagoland. Family-owned, career masons, licensed and insured. Call (708) 288-1696."
 intent: "informational"
 faqs:
   - q: "Why is only the bottom of my brick wall crumbling?"
@@ -63,7 +63,7 @@ faqs:
 
 ## Why the Damage Is Always at Ankle Height
 
-**Because five separate forces converge in the lowest eighteen inches of a masonry wall** — splash-back off hard surfaces, snow banked against the wall for weeks, road salt crystallizing inside the pores, moisture wicking up from wet soil, and grade or mulch holding water directly against the brick. **Four of those five are correctable.** Emerald Masonry LLC repairs at-grade masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, 40+ years of experience, free on-site estimates. Call **(708) 288-1696**.
+**Because five separate forces converge in the lowest eighteen inches of a masonry wall** — splash-back off hard surfaces, snow banked against the wall for weeks, road salt crystallizing inside the pores, moisture wicking up from wet soil, and grade or mulch holding water directly against the brick. **Four of those five are correctable.** Emerald Masonry LLC repairs at-grade masonry across Chicago and the Chicagoland suburbs — family-owned, licensed and insured, career masons with decades of experience, free on-site estimates. Call **(708) 288-1696**.
 
 Walk any older Chicagoland block in March and you will see the same thing on house after house: **sound brick from the windows up, and a band of spalled faces, crumbling joints and crusty white deposits at the bottom.**
 
@@ -212,6 +212,6 @@ Your bottom courses are not defective. They are doing the hardest job on the bui
 
 **Four of the five forces damaging them are things you can change this weekend**: where the snow goes, where the mulch sits, where the downspout ends, and which way the ground slopes. Do those, and then repair the masonry knowing the repair will actually last.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration.
 
 **Free on-site estimates. Call (708) 288-1696 or [request an estimate](/#contact).**

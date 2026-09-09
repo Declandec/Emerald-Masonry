@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Brick Repair in Oak Brook, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair and replacement in Oak Brook, IL — spalling, cracking, and structural brick repair for estate homes and commercial buildings. Free estimate — (708) 288-1696."
 excerpt: "Oak Brook's executive homes and corporate buildings showcase brick and stone that's expected to look flawless. Emerald Masonry LLC repairs and replaces spalled, cracked, and failing brick with careful matching so the repair is invisible and the wall is sound."
-aiSummary: "Emerald Masonry LLC provides brick repair and replacement in Oak Brook, IL — fixing spalled, cracked, and failing brick on estate homes and commercial buildings, with careful brick and mortar matching. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides brick repair and replacement in Oak Brook, IL — fixing spalled, cracked, and failing brick on estate homes and commercial buildings, with careful brick and mortar matching. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "Repaired and color-matched brick wall section on an estate home in Oak Brook, IL"
 faqs:
   - q: "Can you match the brick on my Oak Brook home so the repair isn't obvious?"
@@ -77,7 +77,7 @@ Matching is the craft in this work. We source replacement brick to match the ori
 
 Oak Brook's housing stock leans toward larger executive and estate homes built from the 1960s onward, many with extensive brick and natural stone, set among mature landscaping. Alongside them is a substantial commercial base — corporate offices, the Oak Brook retail corridor, and institutional buildings — much of it brick-and-stone construction now decades into its service life. DuPage County's freeze-thaw climate works on all of it the same way: water finds the weak point, and winter does the rest. North-facing walls, parapets, chimneys, and masonry under failed flashing or downspouts tend to show damage first. We do the same matched, root-cause repair work across neighboring Hinsdale, Oak Brook Terrace, Westmont, and Downers Grove, where the building stock and exposure are much alike.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -95,4 +95,4 @@ Yes. Oak Brook has both executive homes and a large base of corporate and retail
 
 ## Get a Free Brick Repair Estimate in Oak Brook
 
-If your brick is spalling, cracking, or has bricks that have failed outright, have it assessed before water spreads the damage across the wall. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Brook, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we match brick and mortar so the repair disappears. Related work: [brick repair](/services/brick-repair), [brick replacement](/services/brick-replacement), and [lintel repair](/services/lintel-repair).
+If your brick is spalling, cracking, or has bricks that have failed outright, have it assessed before water spreads the damage across the wall. [Contact Emerald Masonry](/#contact) for a free on-site estimate in Oak Brook, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we match brick and mortar so the repair disappears. Related work: [brick repair](/services/brick-repair), [brick replacement](/services/brick-replacement), and [lintel repair](/services/lintel-repair).

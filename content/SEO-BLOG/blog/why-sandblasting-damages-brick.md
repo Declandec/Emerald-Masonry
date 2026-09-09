@@ -4,7 +4,7 @@ date: "2026-06-06"
 excerpt: "Aggressive cleaning is one of the most common and most permanent forms of damage done to brick buildings — and it's almost always done with good intentions. Here's what abrasive blasting and high-pressure washing actually do to masonry, and what a careful contractor does instead."
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 keywords:
   - sandblasting brick damage
   - power washing brick mistakes
@@ -70,4 +70,4 @@ Cleaning is also usually a step inside a larger restoration, not a standalone ev
 
 A brick building can be cleaned safely — gently, with the right method tested first, by someone who understands that the fired skin on the brick is the only one it gets. What it can't survive is the fast, aggressive version: sandblasting, abrasive media, or high-pressure water that strips the surface, opens the joints, and saturates the wall. That kind of "cleaning" trades one good afternoon for a decade of accelerated decay.
 
-If you're considering cleaning or restoring a brick building anywhere in Chicagoland and you want it done without damaging the masonry, Emerald Masonry LLC can assess the building and recommend the right approach. We're a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights with more than 40 years of experience on Chicago-area brick and stone. **[Contact us](/#contact)** for a free on-site evaluation, or call **(708) 288-1696**.
+If you're considering cleaning or restoring a brick building anywhere in Chicagoland and you want it done without damaging the masonry, Emerald Masonry LLC can assess the building and recommend the right approach. We're a family-owned, licensed, bonded, and insured masonry contractor based in Palos Heights led by career masons with decades of hands-on experience on Chicago-area brick and stone. **[Contact us](/#contact)** for a free on-site evaluation, or call **(708) 288-1696**.

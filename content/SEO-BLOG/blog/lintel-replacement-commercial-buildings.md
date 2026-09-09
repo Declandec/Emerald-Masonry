@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "Steel lintels above windows and doors are one of the most overlooked structural elements in commercial brick buildings — until they fail. By the time a lintel announces itself through cracked brick or a sagging arch, the repair is already more complex than it needed to be. Here's what property owners and managers should know before the problem becomes urgent."
 service: "Brick Repair & Replacement"
 location: "Chicagoland, IL"
-image: "/images/after-commercial-2.jpg"
+image: "/images/after-commercial-2.webp"
 keywords:
   - lintel replacement commercial building Illinois
   - steel lintel repair brick building Chicago

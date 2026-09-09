@@ -5,7 +5,7 @@ excerpt: "Water coming through a brick wall almost never means the brick itself 
 service: "Masonry Sealing"
 location: "Chicagoland, IL"
 category: "Masonry Education"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Water-stained interior brick wall in a Chicagoland home showing efflorescence and damp mortar joints from a masonry leak"
 aiSummary: "Water coming through a brick wall is almost never the brick 'leaking' — brick and mortar are porous by design, and the wall stays dry by draining water back out through flashing, weep holes, and sound mortar joints. Interior leaks appear when that system fails: cracked mortar, spalled brick, failed flashing or caulking, or a bad crown. Emerald Masonry LLC diagnoses and repairs masonry water problems across Chicagoland — call (708) 288-1696."
 intent: "informational"
@@ -194,4 +194,4 @@ You can dramatically cut your odds of a leaking brick wall with a few habits:
 
 Water coming through a brick wall is a symptom, not a diagnosis. The brick is doing what brick does; something in the wall's drainage-and-drying system has failed, and the fix is to find that entry point and repair it with the right materials — then, and only then, protect the wall with a breathable sealer. Guessing, sealing over the symptom, or trapping moisture behind paint just buys a bigger repair later.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, with 40+ years of experience in tuckpointing, brick repair and replacement, chimney repair, lintel and parapet work, foundation and limestone/sill repair, caulking, and breathable masonry sealing for homeowners, property managers, HOAs, and churches. If your brick wall is leaking, don't wait for freeze-thaw to turn it into a rebuild — [reach out through our contact page](/#contact) or call **(708) 288-1696** for a free on-site assessment, and we'll find where the water is really getting in.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs, led by career masons with decades of hands-on experience in tuckpointing, brick repair and replacement, chimney repair, lintel and parapet work, foundation and limestone/sill repair, caulking, and breathable masonry sealing for homeowners, property managers, HOAs, and churches. If your brick wall is leaking, don't wait for freeze-thaw to turn it into a rebuild — [reach out through our contact page](/#contact) or call **(708) 288-1696** for a free on-site assessment, and we'll find where the water is really getting in.

@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Aurora, IL | Emerald Masonry LLC"
 metaDescription: "Limestone and sill repair in Aurora, IL — restoring cracked stone sills, lintels and trim. Family-owned, licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Aurora built itself out of stone — and the sills, lintels and trim on its older homes and downtown buildings are now the first elements to fail. Emerald Masonry LLC repairs and restores limestone rather than defaulting to replacement."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Aurora, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables, steps and ornamental trim on homes and commercial buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Aurora, IL — restoring cracked, spalled and eroded stone window sills, lintels, water tables, steps and ornamental trim on homes and commercial buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored limestone window sill and stone trim on a historic building in Aurora Illinois"
 faqs:
   - q: "Can a cracked limestone sill be repaired, or does it have to be replaced?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Limestone and Sill Repair in Aurora, IL
 
-Limestone and sill repair in Aurora, IL is the restoration of the stone elements on a masonry building — window and door sills, lintels, water tables, coping, steps and ornamental trim — when they crack, spall, erode or shift. Emerald Masonry LLC repairs these units rather than defaulting to wholesale replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Aurora, IL is the restoration of the stone elements on a masonry building — window and door sills, lintels, water tables, coping, steps and ornamental trim — when they crack, spall, erode or shift. Emerald Masonry LLC repairs these units rather than defaulting to wholesale replacement, using dutchman inserts, matched patching and correctly matched stone. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Aurora has a deep relationship with stone. The city's quarries along the Fox River supplied the limestone that built much of its 19th-century downtown, its churches, its institutional buildings and the sills, lintels and foundations of thousands of its homes. Walk the Near East Side or the downtown historic district and the stonework is everywhere — carved lintels, heavy sills, water tables, and full stone facades that have stood for well over a century.
 
@@ -113,7 +113,7 @@ Aurora sits on the Fox River in a part of Kane County with hard freeze-thaw expo
 
 We work throughout Aurora and across the Fox Valley, and also serve neighboring [North Aurora](/locations/foundation-masonry-repair-north-aurora-il), [Batavia](/locations/masonry-sealing-batavia-il), [Montgomery](/locations/chimney-repair-montgomery-il) and [Oswego](/locations/parapet-wall-repair-oswego-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Waiting Costs More on Stone
 

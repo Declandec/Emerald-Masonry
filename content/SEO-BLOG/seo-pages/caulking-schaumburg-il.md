@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Caulking & Joint Sealant in Schaumburg, IL | Emerald Masonry"
 metaDescription: "Caulking and joint sealant in Schaumburg, IL — expansion joints, panel joints and window perimeters. Licensed, insured. Free estimates: (708) 288-1696."
 excerpt: "Schaumburg is one of the largest suburban office and retail markets in the country, built almost entirely in precast, EIFS and curtain wall — assemblies where the sealed joints are the weather barrier and the sealant is decades past its service life."
-aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Schaumburg, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-commercial.jpg"
+aiSummary: "Emerald Masonry LLC provides caulking and joint sealant services in Schaumburg, IL — replacing failed sealant at expansion joints, precast and panel joints, window and door perimeters, and control joints on commercial and residential buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-commercial.webp"
 imageAlt: "New joint sealant installed at precast panel joints on an office building in Schaumburg Illinois"
 faqs:
   - q: "How often does commercial caulking need replacing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Caulking and Joint Sealant in Schaumburg, IL
 
-Caulking and joint sealant work in Schaumburg, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. Across Schaumburg's commercial stock, **those joints are the weather barrier**. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs sealant that will move with the building. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Caulking and joint sealant work in Schaumburg, IL is the replacement of the flexible sealant in a building's moving joints — expansion joints, control joints, precast and panel joints, and window and door perimeters. Across Schaumburg's commercial stock, **those joints are the weather barrier**. Emerald Masonry LLC removes failed sealant, prepares the joint properly, and installs sealant that will move with the building. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Schaumburg is one of the largest suburban office and retail markets in the country, and almost none of it is traditional masonry.
 
@@ -140,7 +140,7 @@ Schaumburg takes the full northwest-suburban climate load: no lake moderation, d
 
 We work throughout 60173, 60193 and 60194 — the office corridors and corporate campuses, the Woodfield-area retail envelope, medical and professional buildings, hotels, HOA and condominium properties, and the village's residential neighborhoods. We also serve neighboring [Hanover Park](/locations/brick-repair-hanover-park-il), [Bartlett](/locations/chimney-repair-bartlett-il), [Streamwood](/locations/lintel-replacement-streamwood-il) and [Carol Stream](/locations/caulking-carol-stream-il). Schaumburg owners frequently pair sealant work with [brick repair](/locations/brick-repair-schaumburg-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferred Sealant Gets Expensive
 

@@ -4,7 +4,7 @@ date: "2026-04-12"
 excerpt: "Tuckpointing fixes mortar joints. But when brick units are failing, parapets are deteriorating, and lintels are corroding, mortar joint repair alone won't solve the problem. Here's how to recognize when a building needs full masonry restoration — and what that work actually includes."
 service: "Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/restoration-facade.jpg"
+image: "/images/restoration-facade.webp"
 keywords:
   - when tuckpointing is not enough
   - masonry restoration vs tuckpointing

@@ -19,10 +19,10 @@ service: "Historic Masonry Restoration"
 serviceSlug: "historic-masonry-restoration"
 pageType: "location"
 metaTitle: "Historic Masonry Restoration in Geneva, IL | Emerald Masonry"
-metaDescription: "Historic masonry restoration in Geneva, IL — lime mortar repointing, sensitive brick & stone repair. Emerald Masonry, family-owned, 40+ yrs. Call (708) 288-1696."
+metaDescription: "Historic masonry restoration in Geneva, IL — lime mortar repointing, sensitive brick & stone repair. Emerald Masonry, family-owned, career masons. Call (708) 288-1696."
 excerpt: "Emerald Masonry LLC restores historic brick and stone buildings in Geneva, IL using soft, breathable lime mortar matched to the original composition, color, and joint profile. We protect older masonry from the spalling damage that hard modern Portland cement causes."
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Geneva, IL — lime mortar repointing, mortar matching, and sensitive brick and stone repair. Family-owned with 40+ years of experience, licensed, bonded and insured, we restore older brick and limestone buildings using breathable lime mortar instead of damaging Portland cement. Free on-site estimates: call (708) 288-1696."
-image: "/images/after-residential-3.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in Geneva, IL — lime mortar repointing, mortar matching, and sensitive brick and stone repair. Family-owned, led by career masons with decades of hands-on experience, licensed, bonded and insured, we restore older brick and limestone buildings using breathable lime mortar instead of damaging Portland cement. Free on-site estimates: call (708) 288-1696."
+image: "/images/after-residential-3.webp"
 imageAlt: "Restored historic brick and limestone facade on an older building in downtown Geneva, IL"
 faqs:
   - q: "How much does historic masonry restoration cost in Geneva, IL?"
@@ -112,7 +112,7 @@ Geneva is one of the most architecturally rich towns in the Fox River Valley, wi
 
 We serve Geneva and the surrounding Fox Valley and Kane County communities with restoration that respects how these buildings were built. Whether it is a historic downtown storefront or an older residential facade, our goal is in-kind repair that protects the original brick and stone for the long term.
 
-Emerald Masonry LLC is a family-owned, licensed, bonded and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed, bonded and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 Learn more about our [historic masonry restoration services](/services/historic-masonry-restoration), [tuckpointing and repointing](/services/tuckpointing), [limestone and sill repair](/services/limestone-sill-repair), and [brick repair and replacement](/services/brick-repair). It's also worth reading why [sandblasting and power-washing ruin brick](/blog/why-sandblasting-damages-brick) and the difference between [lime mortar vs. Portland cement mortar](/blog/lime-vs-portland-mortar) before any work on an older building.
 

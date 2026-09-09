@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Historic Masonry Restoration St. Charles, IL | Emerald"
 metaDescription: "Historic masonry restoration in St. Charles, IL — lime mortar repointing and stone repair on century buildings. Insured. Free estimates: (708) 288-1696."
 excerpt: "St. Charles built itself out of the limestone under the Fox River valley, then spent a century adding brick on top. Restoring either one starts with the same question nobody asks: what mortar is actually in this wall right now?"
-aiSummary: "Emerald Masonry LLC provides historic masonry restoration in St. Charles, IL — lime-mortar repointing, limestone and brick repair, chimney restoration and facade work on century-old homes, churches and downtown buildings. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides historic masonry restoration in St. Charles, IL — lime-mortar repointing, limestone and brick repair, chimney restoration and facade work on century-old homes, churches and downtown buildings. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Restored historic limestone and brick facade on a century-old building in St. Charles Illinois"
 faqs:
   - q: "What makes historic masonry restoration different from ordinary repointing?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Historic Masonry Restoration in St. Charles, IL
 
-Historic masonry restoration in St. Charles, IL means repairing century-old brick and limestone the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand, and matched units where masonry must be replaced. Emerald Masonry LLC restores St. Charles's older homes, churches and downtown buildings with 40+ years of Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
+Historic masonry restoration in St. Charles, IL means repairing century-old brick and limestone the way it was originally built — with soft, lime-based mortar matched to the wall, joints raked by hand, and matched units where masonry must be replaced. Emerald Masonry LLC restores St. Charles's older homes, churches and downtown buildings led by career masons with decades of hands-on Chicagoland experience. Family-owned, licensed, bonded and insured, free on-site assessments. Call **(708) 288-1696**.
 
 Every restoration job starts with a question that ordinary repointing skips entirely:
 
@@ -120,7 +120,7 @@ St. Charles sits on the Fox River in Kane County with hard freeze-thaw exposure 
 
 We work throughout 60174 and 60175 — the historic downtown district and the 19th-century stone and brick buildings along Main Street and the riverfront, the older residential streets on both banks, the churches and civic properties, and the century homes near Pottawatomie Park and Baker Memorial. We also serve neighboring [Geneva](/locations/historic-masonry-restoration-geneva-il), [Batavia](/locations/chimney-repair-batavia-il), [Elgin](/locations/commercial-masonry-restoration-elgin-il) and [North Aurora](/locations/foundation-masonry-repair-north-aurora-il). St. Charles owners frequently pair restoration with [brick repair](/locations/brick-repair-st-charles-il) or [foundation masonry repair](/locations/foundation-masonry-repair-st-charles-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Why Deferring Costs More on an Old Building
 

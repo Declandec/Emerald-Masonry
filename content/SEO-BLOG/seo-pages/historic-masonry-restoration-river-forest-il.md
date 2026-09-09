@@ -16,7 +16,7 @@ service: "Historic Masonry Restoration"
 metaTitle: "Historic Masonry Restoration in River Forest, IL | Emerald Masonry LLC"
 metaDescription: "Historic masonry restoration in River Forest, IL — lime mortar repointing and landmark-sensitive brick repair for Prairie-era estates and institutional buildings. Free estimates."
 excerpt: "River Forest's built environment includes Prairie-style estates, early 20th century masonry at Dominican University, and dense historic residential blocks — some of the most architecturally significant brick construction in the Chicago suburbs. Emerald Masonry LLC provides sensitive masonry restoration that preserves the original character of River Forest's historic structures."
-image: "/images/after-residential-2.jpg"
+image: "/images/after-residential-2.webp"
 imageAlt: "Historic masonry restoration on a Prairie-era brick estate in River Forest Illinois Cook County"
 competitorInformed: false
 ---

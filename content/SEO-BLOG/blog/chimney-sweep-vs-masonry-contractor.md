@@ -5,9 +5,9 @@ excerpt: "A chimney sweep works inside the flue. A masonry contractor works on t
 service: "Chimney Repair"
 location: "Chicagoland, IL"
 category: "Hiring a Contractor"
-image: "/images/after-residential-3.jpg"
+image: "/images/after-residential-3.webp"
 imageAlt: "Rebuilt brick chimney above the roofline of a Chicagoland home after masonry repair by Emerald Masonry LLC"
-aiSummary: "A chimney sweep works on the inside of the chimney — the flue, creosote, draft, and liner. A masonry contractor works on the structure — brick, mortar, crown, flashing, and rebuilds. The rule: if the problem is smoke, smell, draft, or soot, call a sweep; if it's water, brick, mortar, or a leaning chimney, call a mason. Emerald Masonry LLC handles the masonry side across Chicagoland — free estimates, family-owned, 40+ years, (708) 288-1696."
+aiSummary: "A chimney sweep works on the inside of the chimney — the flue, creosote, draft, and liner. A masonry contractor works on the structure — brick, mortar, crown, flashing, and rebuilds. The rule: if the problem is smoke, smell, draft, or soot, call a sweep; if it's water, brick, mortar, or a leaning chimney, call a mason. Emerald Masonry LLC handles the masonry side across Chicagoland — free estimates, family-owned, career masons, (708) 288-1696."
 intent: "commercial"
 keywords:
   - "chimney sweep vs masonry contractor"
@@ -62,7 +62,7 @@ faqs:
   - q: "Why do Chicago-area chimneys fail so fast?"
     a: "Above the roofline, a chimney is exposed on all four sides and the top, so it soaks up water and freeze-thaw cycles from every direction while the rest of your house is only exposed on one face. Chicagoland's repeated freeze-thaw swings work that saturated masonry apart faster than any other part of the building."
   - q: "Is Emerald Masonry licensed and insured?"
-    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor with 40+ years of Chicagoland experience, serving homeowners, property managers, HOAs, and churches. Free on-site estimates — call (708) 288-1696."
+    a: "Yes. Emerald Masonry LLC is a family-owned, licensed, bonded, and insured masonry contractor led by career masons with decades of hands-on Chicagoland experience, serving homeowners, property managers, HOAs, and churches. Free on-site estimates — call (708) 288-1696."
 ---
 
 # Chimney Sweep vs. Masonry Contractor: Who Do You Actually Call?
@@ -200,7 +200,7 @@ We give you an itemized number after a **free on-site estimate**, and we'll tell
 
 **Smoke, smell, draft, soot → chimney sweep. Water, brick, mortar, lean → masonry contractor.** Caps and flue liners are a sweep's world. Crowns, joints, brick, flashing, and rebuilds are ours. And in Chicagoland, where freeze-thaw attacks a stack that's exposed on every side, the structural side is where most chimney problems actually live.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in [chimney repair](/services/chimney-repair), tuckpointing, [brick repair](/services/brick-repair) and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, and churches across Cook, DuPage, Will, Kane, Lake, and McHenry counties.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in [chimney repair](/services/chimney-repair), tuckpointing, [brick repair](/services/brick-repair) and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. We work for homeowners, property managers, HOAs, and churches across Cook, DuPage, Will, Kane, Lake, and McHenry counties.
 
 If your chimney is crumbling, leaking, leaning, or dropping pieces into the yard, that's a masonry call — and we'll come look at it for free.
 

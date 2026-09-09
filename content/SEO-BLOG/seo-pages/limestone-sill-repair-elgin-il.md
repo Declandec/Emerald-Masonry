@@ -22,8 +22,8 @@ pageType: "location"
 metaTitle: "Limestone & Sill Repair in Elgin, IL | Emerald Masonry LLC"
 metaDescription: "Limestone and window sill repair in Elgin, IL — cracked, spalling and delaminating stone repaired or replaced. Free estimates: call (708) 288-1696 now."
 excerpt: "On Elgin's Victorian and early-1900s homes, the limestone sills, water tables and steps fail long before the brick around them. The reason is simple: they are the only horizontal stone on the building, and every wrong repair made to them — caulk, cement patches, hard mortar — makes them fail faster."
-aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Elgin, IL — repairing cracked, spalling and delaminating window sills, water tables, lintels, steps and stone trim on Victorian and early-1900s homes and commercial buildings using dutchman repairs, matched replacement stone and compatible lime mortar. Family-owned, licensed and insured, 40+ years of experience. Call (708) 288-1696."
-image: "/images/after-residential.jpg"
+aiSummary: "Emerald Masonry LLC provides limestone and sill repair in Elgin, IL — repairing cracked, spalling and delaminating window sills, water tables, lintels, steps and stone trim on Victorian and early-1900s homes and commercial buildings using dutchman repairs, matched replacement stone and compatible lime mortar. Family-owned, licensed and insured, career masons with decades of experience. Call (708) 288-1696."
+image: "/images/after-residential.webp"
 imageAlt: "Repaired limestone window sill and stone trim on a Victorian home in Elgin, Illinois"
 faqs:
   - q: "How much does limestone sill repair cost in Elgin, IL?"
@@ -45,7 +45,7 @@ competitorInformed: false
 
 ## Limestone & Sill Repair in Elgin, IL
 
-Limestone and sill repair in Elgin, IL is a stone problem, not a brick problem — and it needs to be treated as one. Emerald Masonry LLC repairs and replaces window sills, water tables, lintels, steps, porch stone and decorative trim on Elgin's Victorian, early-1900s and commercial masonry. Family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Limestone and sill repair in Elgin, IL is a stone problem, not a brick problem — and it needs to be treated as one. Emerald Masonry LLC repairs and replaces window sills, water tables, lintels, steps, porch stone and decorative trim on Elgin's Victorian, early-1900s and commercial masonry. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Walk any older street off Elgin's Fox River bluff and you will see the same thing repeatedly: brick that has held up reasonably well for a hundred and twenty years, and stone sills under the windows that are cracked, crumbling, patched with grey cement, or sagging. That is not bad luck. It is physics.
 
@@ -123,7 +123,7 @@ We do not quote stone work over the phone. Estimates are free, on-site and writt
 
 ## Serving Elgin and Kane County
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call **(708) 288-1696**.
 
 We work throughout Elgin and neighbouring [St. Charles](/locations/historic-masonry-restoration-st-charles-il), [Geneva](/locations/limestone-sill-repair-geneva-il), [Bartlett](/locations/chimney-repair-bartlett-il) and [Streamwood](/locations/lintel-replacement-streamwood-il), for homeowners, property managers, HOAs, churches and insurance companies. $5,000 project minimum.
 

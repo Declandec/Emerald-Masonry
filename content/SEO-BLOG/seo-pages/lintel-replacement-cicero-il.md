@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Lintel Replacement in Cicero, IL | Emerald Masonry LLC"
 metaDescription: "Lintel replacement in Cicero, IL — rusted steel replaced with proper flashing above it. Licensed, bonded, insured. Free estimates: (708) 288-1696."
 excerpt: "Replacing a rusted lintel is straightforward. Replacing it without installing flashing above the new steel means you have bought fifteen years instead of forty — and almost nobody mentions that part."
-aiSummary: "Emerald Masonry LLC provides lintel replacement in Cicero, IL — removing corroded steel lintels above windows, doors and storefronts, installing new primed steel with proper through-wall flashing above it, and rebuilding the brick. Family-owned, licensed and insured, 40+ years of Chicagoland experience, free estimates. Call (708) 288-1696."
-image: "/images/after-brick-repair.jpg"
+aiSummary: "Emerald Masonry LLC provides lintel replacement in Cicero, IL — removing corroded steel lintels above windows, doors and storefronts, installing new primed steel with proper through-wall flashing above it, and rebuilding the brick. Family-owned, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
+image: "/images/after-brick-repair.webp"
 imageAlt: "New steel lintel with flashing installed above a window and rebuilt brick on a Cicero Illinois two-flat"
 faqs:
   - q: "Why does a new lintel need flashing above it?"
@@ -39,16 +39,10 @@ faqs:
 competitorInformed: true
 ---
 
-<!-- COMPETITOR INTELLIGENCE
-Search intent matched: "lintel replacement Cicero IL" / "steel lintel replacement Cicero" — owner or landlord of dense pre-1930 Cicero masonry with rust staining or cracked brick above openings.
-Competitor pattern observed: the ranking page is a dedicated Cicero steel-lintel page from an established firm (since 1985, BBB/Google/Yelp trust signals) and it does correctly identify the core mechanism — severe steel corrosion causing expansion, mortar-line cracking and displacement. But it is templated across many municipalities with only generic "Chicagoland" context and no Cicero housing detail; it has NO answer-first summary, NO cost guidance, NO step-by-step replacement process, NO temporary shoring detail, NO schema markup, and — most tellingly — its FAQ section is a TUCKPOINTING Q&A sitting on a lintel page, so it answers questions the visitor did not ask. Critically, across this entire SERP, no page explains FLASHING OVER THE NEW LINTEL.
-Why this page is better: it leads with the detail that actually determines service life. The old lintel rusted because water was reaching it; installing new steel without through-wall flashing above it recreates the exact condition that caused the failure. That single point is the difference between a repair that lasts decades and one that repeats — and it is absent from every competing result. The page also supplies the shoring and rebuild sequence, real cost drivers priced per opening, and Cicero-specific context (dense pre-1930 two-flats and worker cottages, 25-foot lots, gangway access, a large landlord/multi-family audience).
-Gaps filled: answer-first Quick Answer; six AI-phrased FAQs with FAQPage schema, all actually about lintels; the flashing-above-the-lintel argument; temporary shoring and rebuild sequence; per-opening cost drivers and the multiple-opening efficiency point; tenant and landlord coordination; gangway access planning; and internal links. Deliberately distinct from the Oak Lawn lintel page (post-war picture windows and garage spans) and the Bridgeview page (rust-jacking mechanism explainer).
--->
 
 ## Lintel Replacement in Cicero, IL
 
-Lintel replacement in Cicero, IL means removing the corroded steel spanning a window, door or storefront opening, installing new primed steel, **installing flashing above it**, and rebuilding the brick it lifted. Emerald Masonry LLC does this work throughout Cook County — family-owned, licensed, bonded and insured, 40+ years of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Lintel replacement in Cicero, IL means removing the corroded steel spanning a window, door or storefront opening, installing new primed steel, **installing flashing above it**, and rebuilding the brick it lifted. Emerald Masonry LLC does this work throughout Cook County — family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 Here is the part almost nobody mentions, and it is the part that decides whether you do this again in fifteen years.
 
@@ -146,7 +140,7 @@ It is **exterior work**, staged per opening, and interior access is rarely neede
 
 We work throughout 60804 — the residential blocks north and south of Cermak, the two-flat and worker-cottage streets, the mixed-use buildings along the commercial corridors, and the churches and institutional properties in the town. We also serve neighboring [Berwyn](/locations/lintel-repair-berwyn-il), [Riverside](/locations/limestone-sill-repair-riverside-il), [Brookfield](/locations/tuckpointing-brookfield-il) and [Forest Park](/locations/brick-replacement-forest-park-il). Cicero owners frequently pair lintel work with [tuckpointing](/locations/tuckpointing-cicero-il) or [parapet repair](/locations/parapet-wall-repair-cicero-il).
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## The Cost of Waiting
 

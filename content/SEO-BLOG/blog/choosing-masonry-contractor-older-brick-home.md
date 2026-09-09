@@ -4,7 +4,7 @@ date: "2026-06-18"
 excerpt: "An older brick home doesn't need the cheapest mason — it needs one who understands soft brick, lime mortar, and why the wrong materials can do more harm than the weather ever would. Here's what to ask, what to look for, and the red flags that should end the conversation."
 service: "Historic Masonry Restoration"
 location: "Chicagoland, IL"
-image: "/images/after-residential.jpg"
+image: "/images/after-residential.webp"
 keywords:
   - choosing a masonry contractor
   - masonry contractor older brick home

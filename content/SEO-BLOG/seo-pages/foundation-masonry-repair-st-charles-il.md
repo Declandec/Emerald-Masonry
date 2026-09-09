@@ -20,8 +20,8 @@ pageType: "location"
 metaTitle: "Foundation Masonry Repair in St. Charles, IL | Emerald Masonry"
 metaDescription: "Brick and block foundation masonry repair in St. Charles, IL. Emerald Masonry fixes step cracks, water entry, and crumbling joints. Free estimate — (708) 288-1696."
 excerpt: "St. Charles homes range from historic Fox River brick to newer subdivision block — and both rely on sound foundation masonry. Emerald Masonry LLC repoints and rebuilds brick and block foundation walls, seals cracks, and stops water from getting into the basement."
-aiSummary: "Emerald Masonry LLC provides foundation masonry repair in St. Charles, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry on Fox Valley homes. Family-owned with 40+ years of Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
-image: "/images/after-residential-2.jpg"
+aiSummary: "Emerald Masonry LLC provides foundation masonry repair in St. Charles, IL — repointing and rebuilding brick and concrete-block foundation walls, sealing step cracks, and stopping basement water entry on Fox Valley homes. Family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured. Free on-site estimates. Call (708) 288-1696."
+image: "/images/after-residential-2.webp"
 imageAlt: "Repointed brick and block foundation wall on a home in St. Charles, IL"
 faqs:
   - q: "How do I know if my St. Charles foundation needs masonry repair?"
@@ -78,7 +78,7 @@ Mortar matching matters. Older brick foundations were built with soft, lime-rich
 
 St. Charles spans a wide range of vintages. The historic core near the Fox River and downtown includes 19th- and early-20th-century homes on older brick or stone foundations laid in lime mortar, while the surrounding decades of growth — and the large modern subdivisions east and west of the river — sit overwhelmingly on concrete-block foundations. The Fox River and Kane County's clay-heavy soils add their own pressure: seasonal saturation, a higher water table near the river, and soils that expand and contract with moisture all push laterally on basement walls and open step cracks. Layer on the region's freeze-thaw cycling and foundation walls take steady punishment most homeowners never see until water arrives. We address the same patterns across neighboring Geneva, Batavia, South Elgin, and Wayne, where the soils and exposure are nearly identical.
 
-Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs with 40+ years of experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
+Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor serving Chicago and the Chicagoland suburbs led by career masons with decades of hands-on experience in tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, foundation and limestone/sill repair, caulking, power washing, sealing, and commercial, residential, and historic masonry restoration. Free on-site estimates — call (708) 288-1696.
 
 ## Frequently Asked Questions
 
@@ -96,4 +96,4 @@ Yes. St. Charles has both — older brick foundation walls near the Fox River an
 
 ## Get a Free Foundation Estimate in St. Charles
 
-If your basement walls are cracking, crumbling, or letting water in, have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in St. Charles, or call **(708) 288-1696**. We're family-owned with over 40 years of Chicagoland experience, licensed, bonded, and insured — and we'll give you a straight answer on what your foundation actually needs. Related work: [foundation masonry repair](/services/foundation-masonry-repair), [brick replacement](/services/brick-replacement), and [waterproofing](/services/waterproofing).
+If your basement walls are cracking, crumbling, or letting water in, have the masonry looked at before the damage spreads into the wall itself. [Contact Emerald Masonry](/#contact) for a free on-site estimate in St. Charles, or call **(708) 288-1696**. We're family-owned, led by career masons with decades of hands-on Chicagoland experience, licensed, bonded, and insured — and we'll give you a straight answer on what your foundation actually needs. Related work: [foundation masonry repair](/services/foundation-masonry-repair), [brick replacement](/services/brick-replacement), and [waterproofing](/services/waterproofing).
