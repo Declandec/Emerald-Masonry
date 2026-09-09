@@ -45,7 +45,7 @@ export default function BlogPage() {
             </h1>
             <p className="text-white/60 text-base max-w-xl leading-relaxed">
               Project updates, maintenance guides, warning signs to watch for, and straight talk about
-              masonry repair from a family-owned team with 40+ years of experience across Chicagoland.
+              masonry repair from a family-owned Chicagoland team led by career masons with decades of hands-on Chicagoland experience.
             </p>
           </div>
         </section>

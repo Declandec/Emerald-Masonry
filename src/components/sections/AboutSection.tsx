@@ -17,8 +17,8 @@ export default function AboutSection() {
           className={`relative aspect-[4/3] overflow-hidden shadow-xl slide-left ${leftIn ? "in-view" : ""}`}
         >
           <Image
-            src="/images/about.png"
-            alt="Emerald Masonry LLC — Commercial Masonry Chicagoland"
+            src="/images/work/commercial-warehouse-tuckpointing.webp"
+            alt="Commercial warehouse brick wall after full-height tuckpointing by Emerald Masonry LLC"
             fill
             className="object-cover"
             sizes="(max-width: 1024px) 100vw, 50vw"
@@ -32,39 +32,39 @@ export default function AboutSection() {
           className={`slide-right ${rightIn ? "in-view" : ""}`}
         >
           <p className="text-[11px] tracking-[0.45em] uppercase text-[var(--color-emerald)] font-semibold mb-3">
-            Masonry &amp; Tuckpointing Near Chicago
+            Commercial Masonry Contractor · Chicagoland
           </p>
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-[var(--color-charcoal)] mb-3 leading-tight">
-            Emerald Masonry LLC &amp; Commercial Masonry Services
+            Commercial Masonry Restoration Across Chicagoland
           </h2>
           <p className="text-[14px] font-bold text-[var(--color-charcoal)] mb-5 uppercase tracking-wide">
-            Trust Us With Your Masonry Restoration &amp; Tuckpointing
+            Tuckpointing · Façade Restoration · Parapet &amp; Lintel Repair
           </p>
           <div className="w-12 h-1 bg-[var(--color-emerald)] mb-6" />
 
           <p className="text-[15px] leading-[1.85] text-gray-600 mb-4">
-            Emerald Masonry LLC is a non-union, family-owned commercial masonry contractor
-            serving the greater Chicago area. With over 40 years of hands-on experience in
-            Chicagoland masonry, we bring the expertise, work ethic, and integrity that
-            large-scale restoration projects demand.
+            Emerald Masonry LLC is a family-owned commercial masonry contractor serving
+            the greater Chicago area. The company was established in 2024 and is led by
+            career masons with decades of hands-on Chicagoland experience — the crew has
+            been on these walls far longer than the sign has been on the truck.
           </p>
           <p className="text-[15px] leading-[1.85] text-gray-600 mb-4">
-            We work exclusively with property managers, HOAs, churches, and insurance companies
-            on projects with the scope and complexity that our team is built for.
-            Every client gets a dedicated project schedule, clear communication from start to
-            finish, and a crew that shows up and delivers.
+            Our work is commercial and institutional: property managers, HOAs and condo
+            associations, churches, schools, general contractors, insurance carriers, and
+            building owners. Every project gets a written scope, a dedicated schedule,
+            progress documentation, and a crew that shows up and delivers.
           </p>
           <p className="text-[15px] leading-[1.85] text-gray-600 mb-8">
-            Non-union means we move faster, price fairly, and answer directly to you.
-            Family-owned means our reputation is on the line every single job.
-            That&apos;s not a tagline — that&apos;s how we operate.
+            We&apos;re non-union, which means we move faster and price fairly. We&apos;re
+            family-owned, which means our reputation is on the line every single job.
+            That is not a tagline — that is how we operate.
           </p>
 
           <a
             href="/#contact"
             className="inline-flex items-center justify-center px-8 py-4 bg-[var(--color-emerald)] text-white text-[13px] font-bold uppercase tracking-widest hover:opacity-90 transition-opacity duration-300 shadow-md"
           >
-            Get a Free Quote
+            Request a Bid
           </a>
         </div>
       </div>

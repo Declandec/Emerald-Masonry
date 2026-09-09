@@ -257,7 +257,7 @@ export default function ServiceContactForm({ serviceTitle, serviceSlug }: Props)
       </button>
 
       <p className="text-xs text-muted-foreground/50 text-center">
-        Licensed, bonded &amp; insured · Same-day response · $5,000 project minimum
+        Licensed, bonded &amp; insured · Same-day response · COI &amp; lien waivers on request
       </p>
     </form>
   );

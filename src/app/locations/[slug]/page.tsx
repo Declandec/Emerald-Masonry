@@ -48,7 +48,7 @@ export async function generateMetadata({
       type: "article",
       images: page.image
         ? [{ url: `${BASE_URL}${page.image}`, width: 1200, height: 630, alt: page.imageAlt }]
-        : [{ url: `${BASE_URL}/images/work-tuckpointing.jpg`, width: 1200, height: 630, alt: "Emerald Masonry LLC — Commercial Masonry Chicagoland" }],
+        : [{ url: `${BASE_URL}/images/work-tuckpointing.webp`, width: 1200, height: 630, alt: "Emerald Masonry LLC — Commercial Masonry Chicagoland" }],
     },
   };
 }

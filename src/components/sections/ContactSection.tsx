@@ -260,28 +260,13 @@ function ContactInfo() {
         <div className="flex gap-4">
           <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
             <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-              <path strokeLinecap="round" strokeLinejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-            </svg>
-          </div>
-          <div>
-            <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Office</p>
-            <p className="text-white text-[13px] leading-relaxed">
-              7156 W. 126th St. Suite 136<br />Palos Heights, IL 60464
-            </p>
-          </div>
-        </div>
-
-        <div className="flex gap-4">
-          <div className="w-10 h-10 bg-[var(--color-emerald)] flex items-center justify-center shrink-0">
-            <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
               <path strokeLinecap="round" strokeLinejoin="round" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
             </svg>
           </div>
           <div>
             <p className="text-[11px] tracking-widest uppercase text-white/40 mb-1">Service Area</p>
             <p className="text-white text-[13px] leading-relaxed">
-              Cook · DuPage · Lake · Will<br />Kane · McHenry Counties
+              Cook · DuPage · Will Counties<br />Commercial &amp; institutional
             </p>
           </div>
         </div>

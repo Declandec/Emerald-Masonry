@@ -10,13 +10,16 @@ const serviceLinks = [
 ];
 
 const quickLinks = [
-  { label: "Home", href: "/" },
-  { label: "About", href: "/#about" },
-  { label: "Services", href: "/#services" },
+  { label: "Commercial Masonry", href: "/commercial" },
+  { label: "For Property Managers", href: "/property-managers" },
+  { label: "For HOAs & Condo Boards", href: "/hoa-condo-associations" },
+  { label: "For Churches & Schools", href: "/churches-schools" },
+  { label: "Insurance Restoration", href: "/insurance-restoration" },
+  { label: "For General Contractors", href: "/general-contractors" },
+  { label: "Service Areas", href: "/locations" },
   { label: "Gallery", href: "/gallery" },
   { label: "Blog", href: "/blog" },
   { label: "FAQ", href: "/faq" },
-  { label: "Contact Us", href: "/#contact" },
 ];
 
 const colHeading = "text-[11px] font-bold tracking-[0.3em] uppercase text-white border-l-4 border-[var(--color-emerald)] pl-3 mb-6";
@@ -41,13 +44,12 @@ export default function Footer() {
               </p>
             </div>
             <p className="text-[14px] leading-relaxed text-white/55 mb-5">
-              Non-union, family-owned commercial masonry contractor serving Chicagoland.
-              40+ years of experience. Built on integrity. Done right.
+              Family-owned commercial masonry contractor serving Chicagoland.
+              Established 2024, led by career masons. Built on integrity. Done right.
             </p>
             <div className="flex flex-col gap-1.5 mb-5">
               <p className="text-[12px] text-white/40">
-                7156 W. 126th St. Suite 136<br />
-                Palos Heights, IL 60464
+                Serving Chicago &amp; the Chicagoland suburbs
               </p>
             </div>
             {/* Social */}
@@ -124,7 +126,7 @@ export default function Footer() {
 
           {/* Quick links column */}
           <div>
-            <h4 className={colHeading}>Quick Links</h4>
+            <h4 className={colHeading}>Who We Serve</h4>
             <nav className="flex flex-col gap-2.5">
               {quickLinks.map(({ label, href }) => (
                 <Link
@@ -142,7 +144,7 @@ export default function Footer() {
               href="/#contact"
               className="mt-6 block w-full py-3 text-center text-[12px] font-bold uppercase tracking-wider bg-[var(--color-emerald)] text-white hover:opacity-90 transition-opacity duration-200"
             >
-              Get Free Estimate
+              Request a Bid
             </a>
           </div>
         </div>

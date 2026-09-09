@@ -7,14 +7,15 @@ export default function SeoKeywords() {
     <section aria-label="Service Information" className="sr-only">
       <h2>Commercial Masonry Contractor Chicagoland Illinois</h2>
       <p>
-        Emerald Masonry LLC is a non-union, family-owned commercial masonry contractor
-        serving the greater Chicago area and Chicagoland suburbs. With over 40 years of
-        Chicagoland masonry experience, we specialize in commercial tuckpointing, insurance
-        restoration, masonry façade restoration, brick repair and replacement, efflorescence
-        removal, waterproofing, chimney repair, lintel repair, and large-scale masonry
-        restoration for property managers, HOAs, churches, religious institutions, and
-        insurance companies. Licensed, bonded, and insured. $5,000 project minimum.
-        Free on-site estimates.
+        Emerald Masonry LLC is a family-owned commercial masonry contractor serving the
+        greater Chicago area and Chicagoland suburbs. Established 2024 and led by career
+        masons with decades of hands-on Chicagoland experience, we specialize in commercial
+        tuckpointing, façade inspection and repair, parapet wall repair, lintel replacement,
+        chimney and stack rebuilds, CMU block repair, insurance restoration, brick repair and
+        replacement, efflorescence removal, waterproofing, and large-scale masonry
+        restoration for property managers, HOAs and condo associations, churches, schools,
+        general contractors, and insurance carriers. Residential masonry also available.
+        Licensed, bonded, and insured. Free on-site assessments and written scopes.
       </p>
 
       <h3>Commercial Tuckpointing Chicago</h3>
@@ -104,41 +105,46 @@ export default function SeoKeywords() {
 
       <h3>Service Areas — Chicagoland</h3>
       <p>
-        Masonry contractor Chicago Illinois. Masonry contractor Palos Heights IL.
-        Masonry contractor Cook County IL. Masonry contractor DuPage County IL.
-        Masonry contractor Lake County Illinois. Masonry contractor Will County IL.
-        Masonry contractor Kane County Illinois. Masonry contractor McHenry County IL.
-        Masonry contractor Naperville IL. Masonry contractor Aurora Illinois.
-        Masonry contractor Joliet IL. Masonry contractor Elgin Illinois.
-        Masonry contractor Waukegan IL. Masonry contractor Schaumburg Illinois.
-        Masonry contractor Bolingbrook IL. Masonry contractor Orland Park Illinois.
-        Masonry contractor Tinley Park IL. Masonry contractor Oak Lawn Illinois.
-        Masonry contractor Evergreen Park IL. Masonry contractor Oak Park Illinois.
-        Masonry contractor Evanston IL. Masonry contractor Skokie Illinois.
-        Masonry contractor Berwyn IL. Masonry contractor Cicero Illinois.
-        Masonry contractor Romeoville IL. Masonry contractor Plainfield Illinois.
-        Masonry contractor Downers Grove IL. Masonry contractor Lombard Illinois.
-        Masonry contractor Wheaton IL. Masonry contractor Glen Ellyn Illinois.
-        Masonry contractor Arlington Heights IL. Masonry contractor Palatine Illinois.
-        Masonry contractor Des Plaines IL. Masonry contractor Mount Prospect Illinois.
-        Masonry contractor Glenview IL. Masonry contractor Northbrook Illinois.
-        Masonry contractor Buffalo Grove IL. Masonry contractor Vernon Hills Illinois.
-        Masonry contractor Libertyville IL. Masonry contractor Mundelein Illinois.
-        Masonry contractor Mokena IL. Masonry contractor New Lenox Illinois.
-        Masonry contractor Homer Glen IL. Masonry contractor Frankfort Illinois.
-        Masonry contractor Lockport IL. Masonry contractor Shorewood Illinois.
+        Commercial masonry contractor Cook County IL. Commercial masonry contractor
+        DuPage County IL. Commercial masonry contractor Will County Illinois.
+        Commercial masonry contractor Chicago IL.
+        Commercial masonry contractor Palos Heights IL.
+        Commercial masonry contractor Palos Park IL.
+        Commercial masonry contractor Palos Hills IL.
+        Commercial masonry contractor Oak Lawn IL.
+        Commercial masonry contractor Orland Park IL.
+        Commercial masonry contractor Tinley Park IL.
+        Commercial masonry contractor Homer Glen IL.
+        Commercial masonry contractor Oak Forest IL.
+        Commercial masonry contractor Evergreen Park IL.
+        Commercial masonry contractor Hickory Hills IL.
+        Commercial masonry contractor Burbank IL.
+        Commercial masonry contractor Bridgeview IL.
+        Commercial masonry contractor Chicago Ridge IL.
+        Commercial masonry contractor Worth IL. Commercial masonry contractor Mokena IL.
+        Commercial masonry contractor New Lenox IL.
+        Commercial masonry contractor Frankfort IL.
+        Commercial masonry contractor Lemont IL.
+        Commercial masonry contractor Hinsdale IL.
+        Commercial masonry contractor La Grange IL.
+        Commercial masonry contractor Downers Grove IL.
+        Commercial masonry contractor Naperville IL.
       </p>
 
       <h3>General Commercial Masonry Keywords</h3>
       <p>
-        Non-union masonry contractor Illinois. Family owned masonry company Chicago.
+        Family owned commercial masonry company Chicago. Non-union masonry contractor Illinois.
         Licensed bonded insured masonry contractor Chicago. Commercial masonry estimate
         Chicago. Free masonry estimate Chicago Illinois. Best commercial masonry contractor
         Chicago. Trusted masonry contractor Chicagoland. Commercial brick restoration
         company Illinois. Large scale tuckpointing company Chicago. Masonry restoration
         specialist Chicago Illinois. Commercial masonry inspection Chicago.
         Masonry façade assessment Chicago. Brick and mortar restoration Chicago.
-        40 years masonry experience Chicago. Experienced masonry contractor Illinois.
+        Experienced masonry contractor Illinois. Masonry contractor for property managers
+        Chicago. HOA masonry repair Chicago suburbs. Condo association tuckpointing Chicago.
+        Church masonry restoration Chicago. School masonry repair Illinois. Apartment
+        building brick repair Chicago. Chicago facade ordinance masonry repair. Emergency
+        commercial masonry repair Chicago. Established 2024 masonry contractor Chicago.
       </p>
     </section>
   );

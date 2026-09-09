@@ -17,7 +17,7 @@ export const BUSINESS = {
   email: "emeraldmasonryil@gmail.com",
   url: BASE_URL,
   logo: `${BASE_URL}/logo.png`,
-  image: `${BASE_URL}/images/work-tuckpointing.jpg`,
+  image: `${BASE_URL}/images/work/commercial-warehouse-tuckpointing.webp`,
   priceRange: "$$$",
   streetAddress: "7156 W. 126th St. Suite 136",
   addressLocality: "Palos Heights",
@@ -26,7 +26,9 @@ export const BUSINESS = {
   addressCountry: "US",
   latitude: 41.6631,
   longitude: -87.7957,
-  foundingNote: "40+ years of Chicagoland masonry experience",
+  foundingYear: "2024",
+  foundingNote:
+    "Established 2024; led by career masons with decades of hands-on Chicagoland experience",
   sameAs: [
     "https://www.facebook.com/people/Emerald-Masonry-LLC/61577959298549/",
     "https://www.instagram.com/emeraldmasonryil/",
@@ -36,38 +38,50 @@ export const BUSINESS = {
 // The 14 focus services, in plain customer language. Used for OfferCatalog,
 // knowsAbout, and llms.txt so the entity's capabilities are explicit to crawlers.
 export const CORE_SERVICES: string[] = [
-  "Tuckpointing & Repointing",
-  "Chimney Repair & Rebuilds",
+  "Commercial Masonry Restoration",
+  "Commercial Tuckpointing & Repointing",
+  "Façade Inspection & Repair",
+  "Parapet Wall Repair",
+  "Lintel Repair & Replacement",
+  "Chimney & Stack Repair and Rebuilds",
   "Brick Repair",
   "Brick Replacement",
-  "Lintel Repair",
-  "Parapet Wall Repair",
+  "CMU Block Repair",
   "Foundation Masonry Repair",
   "Limestone & Sill Repair",
   "Masonry Caulking & Joint Sealant",
   "Masonry Sealing & Waterproofing",
-  "Commercial Masonry Restoration",
-  "Residential Masonry Restoration",
   "Historic Masonry Restoration",
+  "Residential Masonry Restoration",
 ];
 
-// Named service-area suburbs (plus the six counties below). Kept explicit so
-// "near me" / "[suburb] IL" prompts can ground to a concrete place.
+// Named service-area suburbs (plus the counties below). Single source of truth —
+// llms.txt and the visible service-area copy are generated from these, so the
+// entity's footprint is byte-identical everywhere.
 export const SERVICE_AREA_CITIES: string[] = [
-  "Chicago", "Palos Heights", "Palos Park", "Palos Hills", "Orland Park",
-  "Tinley Park", "Oak Lawn", "Evergreen Park", "Beverly", "Mount Greenwood",
-  "Burbank", "Oak Brook", "Hinsdale", "La Grange", "Western Springs",
-  "Burr Ridge", "Naperville", "Aurora", "Oak Forest", "Homer Glen",
-  "Frankfort", "Mokena", "New Lenox", "Downers Grove", "Lemont",
+  "Chicago", "Palos Heights", "Palos Park", "Palos Hills", "Oak Lawn",
+  "Orland Park", "Tinley Park", "Homer Glen", "Oak Forest", "Evergreen Park",
+  "Hickory Hills", "Burbank", "Bridgeview", "Chicago Ridge", "Worth",
+  "Mokena", "New Lenox", "Frankfort", "Lemont", "Hinsdale",
+  "La Grange", "Downers Grove", "Naperville",
 ];
 
 export const SERVICE_AREA_COUNTIES: string[] = [
   "Cook County, Illinois",
   "DuPage County, Illinois",
   "Will County, Illinois",
-  "Kane County, Illinois",
-  "Lake County, Illinois",
-  "McHenry County, Illinois",
+];
+
+// The commercial and institutional buyers Emerald sells to. Surfaced in schema
+// `audience` so answer engines know this is a B2B-first masonry contractor.
+export const COMMERCIAL_AUDIENCES: string[] = [
+  "Property managers",
+  "HOAs and condo associations",
+  "Churches and places of worship",
+  "Schools and municipal facilities",
+  "General contractors",
+  "Commercial insurance carriers and adjusters",
+  "Commercial building owners",
 ];
 
 type Faq = { question: string; answer: string };
@@ -80,11 +94,14 @@ export function localBusinessNode() {
     name: BUSINESS.name,
     legalName: BUSINESS.legalName,
     description:
-      "Non-union, family-owned masonry contractor with 40+ years of Chicagoland experience. " +
-      "Tuckpointing, chimney repair, brick repair and replacement, lintel and parapet repair, " +
-      "foundation and limestone/sill repair, caulking, sealing, and commercial, " +
-      "residential, and historic masonry restoration across the greater Chicago area. " +
-      "Licensed, bonded, and insured.",
+      "Family-owned commercial masonry contractor serving Chicagoland. Established 2024, " +
+      "led by career masons with decades of hands-on Chicagoland experience. " +
+      "Commercial tuckpointing, façade and parapet restoration, lintel replacement, " +
+      "chimney and stack rebuilds, brick repair and replacement, foundation and " +
+      "limestone/sill repair, caulking, and masonry waterproofing for property managers, " +
+      "HOAs and condo associations, churches, schools, general contractors, and insurance " +
+      "carriers across the greater Chicago area. Residential masonry also available. " +
+      "Licensed, bonded, and insured; certificates of insurance, W-9 and lien waivers on request.",
     url: BUSINESS.url,
     telephone: BUSINESS.telephone,
     email: BUSINESS.email,
@@ -108,6 +125,11 @@ export function localBusinessNode() {
       ...SERVICE_AREA_COUNTIES.map((name) => ({ "@type": "AdministrativeArea", name })),
       ...SERVICE_AREA_CITIES.map((name) => ({ "@type": "City", name: `${name}, IL` })),
     ],
+    foundingDate: BUSINESS.foundingYear,
+    audience: COMMERCIAL_AUDIENCES.map((name) => ({
+      "@type": "BusinessAudience",
+      name,
+    })),
     knowsAbout: CORE_SERVICES,
     hasOfferCatalog: {
       "@type": "OfferCatalog",

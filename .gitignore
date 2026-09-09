@@ -42,3 +42,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# stale nested clone + local scratch (never deploy these)
+/emerald-masonry/
+/lead-tracker/
+/.ralphy/
+"emerald masonry images/"
+*.zip

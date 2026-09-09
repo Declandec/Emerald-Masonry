@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next";
 import { getAllSeoPages } from "@/lib/seo-pages";
 import { getAllServiceSlugs } from "@/data/services";
+import audiences from "@/data/audiences";
 import fs from "fs";
 import path from "path";
 
@@ -36,6 +37,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/gallery`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
     { url: `${BASE_URL}/blog`, lastModified: now, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE_URL}/faq`, lastModified: now, changeFrequency: "monthly", priority: 0.6 },
+    // Commercial buyer hubs — high priority; these are the pages that win
+    // commercial work and get cited by answer engines.
+    ...audiences.map((a) => ({
+      url: `${BASE_URL}/${a.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.95,
+    })),
   ];
 
   const serviceRoutes: MetadataRoute.Sitemap = serviceSlugs.map((slug) => ({

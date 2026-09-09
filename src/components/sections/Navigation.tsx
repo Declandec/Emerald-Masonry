@@ -13,8 +13,18 @@ const services = [
   { label: "Commercial & Industrial", href: "/services/commercial" },
 ];
 
+const audienceLinks = [
+  { label: "Commercial Masonry", href: "/commercial" },
+  { label: "For Property Managers", href: "/property-managers" },
+  { label: "For HOAs & Condo Boards", href: "/hoa-condo-associations" },
+  { label: "For Churches & Schools", href: "/churches-schools" },
+  { label: "Insurance Restoration", href: "/insurance-restoration" },
+  { label: "For General Contractors", href: "/general-contractors" },
+];
+
 const navLinks = [
   { label: "Home", href: "/" },
+  { label: "Commercial", href: "/commercial" },
   { label: "About", href: "/#about" },
   { label: "Service Areas", href: "/locations" },
   { label: "Gallery", href: "/gallery" },

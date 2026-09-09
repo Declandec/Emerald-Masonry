@@ -62,7 +62,7 @@ export default function BenefitsSection() {
             className={`relative aspect-[4/3] overflow-hidden shadow-xl slide-right ${imgInView ? "in-view" : ""}`}
           >
             <Image
-              src="/images/restoration-facade.jpg"
+              src="/images/restoration-facade.webp"
               alt="Masonry restoration work — Emerald Masonry LLC"
               fill
               className="object-cover"

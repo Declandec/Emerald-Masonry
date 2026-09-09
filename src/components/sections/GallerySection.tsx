@@ -3,21 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useInView } from "@/hooks/useInView";
-
-const photos = [
-  { src: "/images/IMG_0966 (3).JPEG", alt: "Masonry restoration project" },
-  { src: "/images/IMG_0973.JPEG", alt: "Brick repair work" },
-  { src: "/images/IMG_1322.JPEG", alt: "Tuckpointing project" },
-  { src: "/images/IMG_1352 (1).JPEG", alt: "Commercial masonry" },
-  { src: "/images/IMG_3903 (2).JPEG", alt: "Chimney repair" },
-  { src: "/images/IMG_3994 (1).JPEG", alt: "Brick wall restoration" },
-  { src: "/images/IMG_4563 (3).JPEG", alt: "Masonry façade repair" },
-  { src: "/images/IMG_4769 (1).JPEG", alt: "Tuckpointing closeup" },
-  { src: "/images/IMG_4770.JPEG", alt: "Masonry project complete" },
-  { src: "/images/IMG_6337 (1).JPEG", alt: "Brick restoration detail" },
-  { src: "/images/IMG_6403 (1).JPEG", alt: "Commercial brick work" },
-  { src: "/images/IMG_6682 (2).JPEG", alt: "Stone masonry work" },
-];
+import photos from "@/data/gallery";
 
 export default function GallerySection() {
   const { ref, inView } = useInView();
@@ -37,7 +23,8 @@ export default function GallerySection() {
             Past Projects
           </h2>
           <p className="text-base text-gray-500 max-w-xl mx-auto">
-            Real commercial masonry across Chicagoland — tuckpointing, restoration, brick repair, and more.
+            Commercial and institutional masonry across Chicagoland — tuckpointing,
+            façade restoration, parapet and lintel repair, and structural brick work.
           </p>
           <div className="mt-4 mx-auto w-16 h-1 bg-[var(--color-emerald)]" />
         </div>

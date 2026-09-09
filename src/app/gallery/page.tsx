@@ -21,7 +21,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: `${BASE_URL}/images/work-tuckpointing.jpg`,
+        url: `${BASE_URL}/images/work-tuckpointing.webp`,
         width: 1200,
         height: 630,
         alt: "Emerald Masonry LLC — Commercial Masonry Projects",

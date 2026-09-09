@@ -43,7 +43,7 @@ export async function generateMetadata({
       type: "article",
       images: post.image
         ? [{ url: `${BASE_URL}${post.image}`, width: 1200, height: 630, alt: post.title }]
-        : [{ url: `${BASE_URL}/images/work-tuckpointing.jpg`, width: 1200, height: 630, alt: "Emerald Masonry LLC" }],
+        : [{ url: `${BASE_URL}/images/work-tuckpointing.webp`, width: 1200, height: 630, alt: "Emerald Masonry LLC" }],
     },
   };
 }

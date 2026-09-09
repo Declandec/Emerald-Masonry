@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 
 export default function Hero() {
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
@@ -36,9 +37,14 @@ export default function Hero() {
 
       {/* Background masonry image */}
       <div className="absolute inset-0">
-        <div
-          className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/hero-landscape.png')" }}
+        <Image
+          src="/images/hero-landscape.webp"
+          alt=""
+          aria-hidden="true"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
         />
         <div className="absolute inset-0 bg-black/55" />
         {/* Left fade for text readability */}
@@ -57,7 +63,7 @@ export default function Hero() {
         {/* LEFT: headline + copy + CTAs */}
         <div className="flex flex-col justify-center w-full lg:w-[55%]">
           <p className="text-[11px] tracking-[0.5em] uppercase text-[var(--color-emerald)] font-semibold mb-5">
-            Chicagoland Commercial Masonry
+            Commercial Masonry Restoration · Chicagoland
           </p>
 
           <h1
@@ -73,11 +79,13 @@ export default function Hero() {
           </h1>
 
           <p className="text-lg font-semibold text-white mb-2 leading-relaxed max-w-lg">
-            Non-union. Family-owned. 40+ years of Chicagoland masonry.
+            Tuckpointing, façade restoration and structural brick repair for
+            commercial and institutional buildings.
           </p>
           <p className="text-sm text-white/55 mb-10 leading-relaxed max-w-md">
-            Serving property managers, HOAs, churches, and insurance companies
-            across greater Chicago. Licensed, bonded &amp; insured.
+            Property managers, HOAs and condo associations, churches, schools,
+            general contractors, and insurance carriers across greater Chicago.
+            Licensed, bonded &amp; insured.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
@@ -85,7 +93,7 @@ export default function Hero() {
               href="#contact"
               className="inline-flex items-center justify-center px-8 py-4 bg-[var(--color-emerald)] text-white text-[13px] font-bold tracking-widest uppercase hover:opacity-90 transition-opacity duration-300 shadow-lg"
             >
-              Request a Free Estimate
+              Request a Bid
             </a>
             <a
               href="tel:7082881696"
@@ -98,9 +106,9 @@ export default function Hero() {
           <div className="mt-10 flex flex-wrap gap-x-5 gap-y-2 text-white/40 text-[10px] uppercase tracking-widest">
             <span>Licensed &amp; Bonded</span>
             <span className="text-[var(--color-emerald)]/50">·</span>
-            <span>40+ Years Experience</span>
+            <span>Career Masons</span>
             <span className="text-[var(--color-emerald)]/50">·</span>
-            <span>Free Estimates</span>
+            <span>Free Site Assessments</span>
             <span className="text-[var(--color-emerald)]/50">·</span>
             <span>Family Owned</span>
           </div>

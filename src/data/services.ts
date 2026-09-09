@@ -54,7 +54,7 @@ const services: Service[] = [
       "Historic mortar matching",
       "Multi-elevation commercial tuckpointing",
     ],
-    heroImage: "/images/work-tuckpointing.jpg",
+    heroImage: "/images/work/commercial-warehouse-tuckpointing.webp",
     diagnostics: [
       {
         title: "Recessed or Missing Mortar",
@@ -88,10 +88,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-tuckpointing.jpg", caption: "Commercial tuckpointing — Chicagoland" },
-      { image: "/images/tuck-joint-detail.png", caption: "Close-up of deteriorated mortar joints" },
-      { image: "/images/tuck-mortar-close.png", caption: "Mortar profile matching — historic property" },
-      { image: "/images/tuck-before.png", caption: "Before: failed joint repointing on brick façade" },
+      { image: "/images/work/commercial-warehouse-tuckpointing.webp", caption: "Full-height commercial tuckpointing on a Chicagoland warehouse" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Repointed joints matched to the original mortar colour and profile" },
+      { image: "/images/work/commercial-lintel-heads.webp", caption: "Repointing at window heads and limestone sills" },
+      { image: "/images/work/commercial-glass-block-facade.webp", caption: "Commercial elevation repointed around glass-block openings" },
     ],
     faqs: [
       {
@@ -124,7 +124,7 @@ const services: Service[] = [
       "brick repointing near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC is a family-owned, licensed and insured tuckpointing contractor serving Chicago and the surrounding suburbs with 40+ years of experience. We grind out failing mortar to full depth and repoint with color- and hardness-matched mortar on residential and commercial brick. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC is a family-owned, licensed and insured tuckpointing contractor serving Chicago and the surrounding suburbs, led by career masons with decades of hands-on Chicagoland experience. We grind out failing mortar to full depth and repoint with color- and hardness-matched mortar on residential and commercial brick. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Type N and Type S mortar matched to the wall's age and strength",
       "Lime-based mortar for soft, historic brick",
@@ -163,7 +163,7 @@ const services: Service[] = [
       "Foundation brick repair",
       "Entry steps and decorative brick work",
     ],
-    heroImage: "/images/work-brick-repair.jpg",
+    heroImage: "/images/work/commercial-brick-corner-rebuild.webp",
     diagnostics: [
       {
         title: "Spalling Brick Faces",
@@ -197,12 +197,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-brick-repair.jpg", caption: "Brick wall repair — Chicagoland" },
-      { image: "/images/work-brick-pillar.jpg", caption: "Brick pillar restoration" },
-      { image: "/images/hero-mailbox.jpg", caption: "Residential entry pillar and mailbox repair" },
-      { image: "/images/brick-spalling.jpg", caption: "Spalling brick — before restoration" },
-      { image: "/images/brick-damaged.jpg", caption: "Deteriorated brick façade — assessment" },
-      { image: "/images/brick-foundation.jpg", caption: "Foundation brick repair" },
+      { image: "/images/work/commercial-brick-corner-rebuild.webp", caption: "Commercial brick façade rebuilt at the building corner" },
+      { image: "/images/work/commercial-brick-detail.webp", caption: "Replacement brick matched for size, colour and texture" },
+      { image: "/images/work/commercial-lintel-opening.webp", caption: "Brick reset above a rebuilt opening" },
+      { image: "/images/work/commercial-new-brick-wall.webp", caption: "New commercial brick wall on a light-industrial building" },
     ],
     faqs: [
       {
@@ -235,7 +233,7 @@ const services: Service[] = [
       "foundation brick repair Chicago suburbs",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs damaged, cracked, and spalling brick across Chicago and the suburbs. We cut out failed units and reset matching brick in properly mixed mortar so the wall sheds water again. Family-owned, licensed and insured, 40+ years. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC repairs damaged, cracked, and spalling brick across Chicago and the suburbs. We cut out failed units and reset matching brick in properly mixed mortar so the wall sheds water again. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Replacement brick matched to size, color, and texture",
       "Salvaged brick for discontinued or historic profiles",
@@ -273,7 +271,7 @@ const services: Service[] = [
       "Full chimney reconstruction",
       "Flashing and waterproofing",
     ],
-    heroImage: "/images/work-chimney-rebuild.jpg",
+    heroImage: "/images/work/commercial-chimney-stack.webp",
     diagnostics: [
       {
         title: "Cracked or Deteriorated Crown",
@@ -307,12 +305,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-chimney-rebuild.jpg", caption: "Full chimney rebuild — Chicagoland" },
-      { image: "/images/work-chimney-new.jpg", caption: "Chimney reconstruction complete" },
-      { image: "/images/chimney-before.png", caption: "Chimney before restoration" },
-      { image: "/images/chimney-tuck.png", caption: "Chimney tuckpointing in progress" },
-      { image: "/images/chimney-cap.png", caption: "Crown and cap repair" },
-      { image: "/images/chimney-crown.png", caption: "Crown replacement — brick chimney" },
+      { image: "/images/work/commercial-chimney-stack.webp", caption: "Commercial chimney stack rebuilt above the roofline" },
+      { image: "/images/work/commercial-rooftop-stack.webp", caption: "Rooftop stack rebuilt on an occupied commercial building" },
+      { image: "/images/work/commercial-chimney-stack-2.webp", caption: "Stack repointed and recapped, Chicagoland" },
+      { image: "/images/work/chimney-rebuild-detail.webp", caption: "Chimney rebuilt from the roofline up with a new crown" },
     ],
     faqs: [
       {
@@ -345,7 +341,7 @@ const services: Service[] = [
       "chimney contractor Chicago suburbs",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs and rebuilds brick chimneys throughout Chicago and the suburbs — crown repair, tuckpointing, cap and flashing work, and full rebuilds. The chimney is the most weather-exposed masonry on a building, so it fails first. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC repairs and rebuilds brick chimneys throughout Chicago and the suburbs — crown repair, tuckpointing, cap and flashing work, and full rebuilds. The chimney is the most weather-exposed masonry on a building, so it fails first. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Poured or pre-cast chimney crowns with proper overhang and drip edge",
       "Stainless steel chimney caps",
@@ -383,7 +379,7 @@ const services: Service[] = [
       "Parapet wall reconstruction",
       "Waterproofing and sealant application at scale",
     ],
-    heroImage: "/images/hero-walkway.jpg",
+    heroImage: "/images/work/industrial-facade-restoration.webp",
     diagnostics: [
       {
         title: "Widespread Mortar Joint Failure",
@@ -417,12 +413,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/hero-walkway.jpg", caption: "Walkway and entry restoration" },
-      { image: "/images/restoration-facade.jpg", caption: "Full façade restoration — Chicagoland" },
-      { image: "/images/restoration-steps.png", caption: "Masonry steps and entry rehabilitation" },
-      { image: "/images/restoration-wall.png", caption: "Multi-elevation wall restoration" },
-      { image: "/images/restoration-parapet.png", caption: "Parapet wall reconstruction" },
-      { image: "/images/restoration-commercial.jpg", caption: "Commercial masonry restoration" },
+      { image: "/images/work/industrial-facade-restoration.webp", caption: "Long industrial façade restored elevation by elevation" },
+      { image: "/images/work/commercial-corner-parapet.webp", caption: "Restored corner and parapet on a commercial building" },
+      { image: "/images/work/commercial-window-wall-repair.webp", caption: "Window wall with repaired lintels and repointed joints" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Matched mortar across old and new brick" },
     ],
     faqs: [
       {
@@ -493,7 +487,7 @@ const services: Service[] = [
       "Weep hole cleaning and restoration",
       "Water infiltration source identification",
     ],
-    heroImage: "/images/work-efflorescence.jpg",
+    heroImage: "/images/work/commercial-glass-block-facade.webp",
     diagnostics: [
       {
         title: "White or Gray Powder on Brick",
@@ -527,9 +521,9 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-efflorescence.jpg", caption: "Efflorescence removal and treatment" },
-      { image: "/images/efflor-detail.png", caption: "Salt deposit analysis before treatment" },
-      { image: "/images/efflor-wall.jpg", caption: "Masonry waterproofing — commercial property" },
+      { image: "/images/work/commercial-glass-block-facade.webp", caption: "Commercial elevation sealed after repointing" },
+      { image: "/images/work/commercial-warehouse-tuckpointing.webp", caption: "Repairs completed before any sealer is applied" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Breathable penetrating repellent — never a film coating" },
     ],
     faqs: [
       {
@@ -562,7 +556,7 @@ const services: Service[] = [
       "brick stain removal Chicago suburbs",
     ],
     aiSummary:
-      "Emerald Masonry LLC removes efflorescence and waterproofs brick and masonry across Chicagoland. We find and fix the water source first, then clean and apply a breathable penetrating sealer — never a film coating that traps moisture. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC removes efflorescence and waterproofs brick and masonry across Chicagoland. We find and fix the water source first, then clean and apply a breathable penetrating sealer — never a film coating that traps moisture. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Breathable penetrating silane/siloxane water repellents",
       "Masonry-safe efflorescence and stain cleaners",
@@ -600,7 +594,7 @@ const services: Service[] = [
       "Phased restoration planning and execution",
       "Post-storm damage assessment and repair",
     ],
-    heroImage: "/images/work-commercial.jpg",
+    heroImage: "/images/work/commercial-corner-parapet.webp",
     diagnostics: [
       {
         title: "Widespread Mortar Failure Across Elevations",
@@ -634,9 +628,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-commercial.jpg", caption: "Commercial masonry restoration" },
-      { image: "/images/jobs/ulta-beauty-block-repair-merrillville/during-01.jpeg", caption: "CMU block repair — commercial retail" },
-      { image: "/images/restoration-commercial.jpg", caption: "Large-scale masonry rehabilitation" },
+      { image: "/images/work/commercial-corner-parapet.webp", caption: "Commercial masonry restoration, Chicagoland" },
+      { image: "/images/work/commercial-warehouse-tuckpointing.webp", caption: "Full-height warehouse tuckpointing" },
+      { image: "/images/work/industrial-facade-restoration.webp", caption: "Industrial façade restoration" },
+      { image: "/images/jobs/ulta-beauty-block-repair-merrillville/during-01.jpeg", caption: "CMU block repair — commercial retail, Merrillville, IN" },
     ],
     faqs: [
       {
@@ -657,7 +652,7 @@ const services: Service[] = [
       {
         question: "What is your minimum commercial project size?",
         answer:
-          "Our minimum for commercial projects is $5,000. Most commercial masonry restoration scopes are significantly larger. We don't take small patch jobs — our capacity is best used on full-scope work where we can deliver a durable result.",
+          "Most commercial masonry restoration scopes are multi-elevation or multi-building, and that is where our capacity is best used. We will walk a smaller scope and tell you honestly whether it warrants a full-scope repair or a targeted one — what we avoid is patching over deteriorated mortar, which fails again in a season or two.",
       },
     ],
     keywords: [
@@ -707,7 +702,7 @@ const services: Service[] = [
       "Mortar matching and joint tooling",
       "Replacement around lintels and openings",
     ],
-    heroImage: "/images/work-brick-repair.jpg",
+    heroImage: "/images/work/commercial-new-brick-wall.webp",
     diagnostics: [
       {
         title: "Spalled or Flaking Faces",
@@ -731,10 +726,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-brick-repair.jpg", caption: "Brick replacement — Chicagoland" },
-      { image: "/images/brick-spalling.jpg", caption: "Spalled brick before replacement" },
-      { image: "/images/brick-damaged.jpg", caption: "Failed units identified for cut-out" },
-      { image: "/images/work-brick-pillar.jpg", caption: "Section replacement on a brick pillar" },
+      { image: "/images/work/commercial-new-brick-wall.webp", caption: "Failed units cut out and replaced on a commercial wall" },
+      { image: "/images/work/commercial-brick-detail.webp", caption: "Replacement brick matched into the existing field" },
+      { image: "/images/work/commercial-brick-corner-rebuild.webp", caption: "Corner rebuilt with matched brick and mortar" },
+      { image: "/images/work/commercial-lintel-opening.webp", caption: "Brick reset above a repaired opening" },
     ],
     faqs: [
       {
@@ -767,7 +762,7 @@ const services: Service[] = [
       "brick masonry replacement near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC replaces failed, spalled, and cracked brick across Chicago and the suburbs, sourcing matching or salvaged units so the repair disappears into the wall. Family-owned, licensed and insured, 40+ years. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC replaces failed, spalled, and cracked brick across Chicago and the suburbs, sourcing matching or salvaged units so the repair disappears into the wall. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Replacement brick matched to size, color, and texture",
       "Salvaged brick for discontinued or historic profiles",
@@ -805,7 +800,7 @@ const services: Service[] = [
       "Matching brick and mortar restoration",
       "Multi-opening lintel assessment",
     ],
-    heroImage: "/images/work-commercial.jpg",
+    heroImage: "/images/work/commercial-lintel-opening.webp",
     diagnostics: [
       {
         title: "Horizontal Crack Above an Opening",
@@ -829,9 +824,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/work-commercial.jpg", caption: "Lintel replacement — commercial opening" },
-      { image: "/images/brick-damaged.jpg", caption: "Brick displacement above a failing lintel" },
-      { image: "/images/restoration-wall.png", caption: "Masonry rebuilt above a new lintel" },
+      { image: "/images/work/commercial-lintel-opening.webp", caption: "Opening shored and the masonry above it rebuilt" },
+      { image: "/images/work/commercial-lintel-heads.webp", caption: "Window heads and sills after lintel work" },
+      { image: "/images/work/commercial-window-wall-repair.webp", caption: "Commercial window wall with replaced lintels" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Brick reset and repointed above the new steel" },
     ],
     faqs: [
       {
@@ -864,7 +860,7 @@ const services: Service[] = [
       "window lintel repair near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs and replaces rusting steel lintels above windows and doors across Chicagoland, then rebuilds the masonry above with matching brick. Caught early, it's a contained repair. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC repairs and replaces rusting steel lintels above windows and doors across Chicagoland, then rebuilds the masonry above with matching brick. Caught early, it's a contained repair. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Galvanized or coated replacement steel lintels",
       "Rust-converting and protective coatings",
@@ -902,7 +898,7 @@ const services: Service[] = [
       "Spalled brick replacement",
       "Roof-to-wall counterflashing coordination",
     ],
-    heroImage: "/images/restoration-parapet.png",
+    heroImage: "/images/work/commercial-parapet-coping.webp",
     diagnostics: [
       {
         title: "Cracked or Displaced Coping",
@@ -926,9 +922,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-parapet.png", caption: "Parapet wall reconstruction" },
-      { image: "/images/work-commercial.jpg", caption: "Commercial parapet repointing" },
-      { image: "/images/restoration-wall.png", caption: "Roofline masonry rebuild" },
+      { image: "/images/work/commercial-parapet-coping.webp", caption: "Parapet rebuilt with new coping and roof-edge detail" },
+      { image: "/images/work/commercial-parapet-repair.webp", caption: "Commercial parapet repair on a brick building" },
+      { image: "/images/work/commercial-corner-parapet.webp", caption: "Parapet and corner restored on a commercial elevation" },
+      { image: "/images/work/commercial-rooftop-stack.webp", caption: "Roof-level masonry on an occupied building" },
     ],
     faqs: [
       {
@@ -961,7 +958,7 @@ const services: Service[] = [
       "parapet repair near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs and rebuilds parapet walls and coping across Chicagoland — repointing, flashing, and full rebuilds that stop roofline leaks at the source. Family-owned, licensed and insured, 40+ years. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC repairs and rebuilds parapet walls and coping across Chicagoland — repointing, flashing, and full rebuilds that stop roofline leaks at the source. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Stone, precast, or metal coping with overhang and drip edge",
       "Continuous through-wall flashing membrane",
@@ -999,7 +996,7 @@ const services: Service[] = [
       "Water-entry and drainage correction",
       "Crack assessment and stabilization",
     ],
-    heroImage: "/images/brick-foundation.jpg",
+    heroImage: "/images/work/commercial-new-brick-wall.webp",
     diagnostics: [
       {
         title: "Deteriorated Mortar at Grade",
@@ -1023,9 +1020,9 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/brick-foundation.jpg", caption: "Foundation brick repair" },
-      { image: "/images/restoration-steps.png", caption: "Masonry stabilization at grade" },
-      { image: "/images/brick-damaged.jpg", caption: "Deteriorated foundation masonry" },
+      { image: "/images/work/commercial-new-brick-wall.webp", caption: "Masonry rebuilt at grade on a commercial building" },
+      { image: "/images/work/commercial-brick-detail.webp", caption: "Spalled units replaced and repointed" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Repointing at the base of a commercial wall" },
     ],
     faqs: [
       {
@@ -1058,7 +1055,7 @@ const services: Service[] = [
       "foundation repointing near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs brick and block foundation walls across Chicagoland — repointing at grade, replacing cracked and spalling units, and correcting the water causing the damage. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC repairs brick and block foundation walls across Chicagoland — repointing at grade, replacing cracked and spalling units, and correcting the water causing the damage. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Type S mortar for below-grade and structural joints",
       "Replacement concrete block and brick",
@@ -1096,7 +1093,7 @@ const services: Service[] = [
       "Stone joint repointing and sealing",
       "Greystone facade stone restoration",
     ],
-    heroImage: "/images/restoration-facade.jpg",
+    heroImage: "/images/work/commercial-lintel-heads.webp",
     diagnostics: [
       {
         title: "Cracked or Spalling Sills",
@@ -1120,9 +1117,9 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-facade.jpg", caption: "Stone facade restoration — Chicagoland" },
-      { image: "/images/restoration-wall.png", caption: "Sill and band repair" },
-      { image: "/images/restoration-steps.png", caption: "Cut-stone restoration" },
+      { image: "/images/work/commercial-lintel-heads.webp", caption: "Limestone sills and heads restored on a commercial elevation" },
+      { image: "/images/work/commercial-window-wall-repair.webp", caption: "Sills reset and repointed across a window wall" },
+      { image: "/images/work/residential-brick-stoop-rebuild.webp", caption: "Limestone base rebuilt with matched joints" },
     ],
     faqs: [
       {
@@ -1155,7 +1152,7 @@ const services: Service[] = [
       "window sill masonry repair near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC repairs and restores limestone and cast-stone sills, bands, and trim across Chicagoland — crack and spall repair, Dutchman splices, and replacement that gets the stone shedding water again. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC repairs and restores limestone and cast-stone sills, bands, and trim across Chicagoland — crack and spall repair, Dutchman splices, and replacement that gets the stone shedding water again. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Color-matched stone repair mortar",
       "Matching limestone and cast stone for splices and replacement",
@@ -1193,7 +1190,7 @@ const services: Service[] = [
       "Backer rod installation and joint prep",
       "Commercial facade joint sealing",
     ],
-    heroImage: "/images/restoration-wall.png",
+    heroImage: "/images/work/commercial-glass-block-facade.webp",
     diagnostics: [
       {
         title: "Cracked or Hardened Sealant",
@@ -1217,9 +1214,9 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-wall.png", caption: "Expansion joint sealant — commercial facade" },
-      { image: "/images/work-commercial.jpg", caption: "Perimeter joint sealing" },
-      { image: "/images/work-efflorescence.jpg", caption: "Joint prep before sealant" },
+      { image: "/images/work/commercial-glass-block-facade.webp", caption: "Perimeter sealant at window and glass-block openings" },
+      { image: "/images/work/commercial-lintel-heads.webp", caption: "Window-perimeter joints sealed after masonry repair" },
+      { image: "/images/work/commercial-window-wall-repair.webp", caption: "Expansion and control joints on a commercial elevation" },
     ],
     faqs: [
       {
@@ -1252,7 +1249,7 @@ const services: Service[] = [
       "commercial caulking contractor near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC replaces failed expansion-joint and window-perimeter sealant across Chicagoland, sealing the moving joints where rigid mortar can't go. Family-owned, licensed and insured, 40+ years. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC replaces failed expansion-joint and window-perimeter sealant across Chicagoland, sealing the moving joints where rigid mortar can't go. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Polyurethane and silicone sealants rated for masonry",
       "Closed-cell backer rod for correct joint depth",
@@ -1290,7 +1287,7 @@ const services: Service[] = [
       "Below-grade and at-grade waterproofing",
       "Commercial facade water-repellent application",
     ],
-    heroImage: "/images/efflor-wall.jpg",
+    heroImage: "/images/work/commercial-warehouse-tuckpointing.webp",
     diagnostics: [
       {
         title: "High Water Absorption",
@@ -1314,9 +1311,9 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/efflor-wall.jpg", caption: "Masonry waterproofing — commercial property" },
-      { image: "/images/work-efflorescence.jpg", caption: "Surface treatment after repair" },
-      { image: "/images/restoration-facade.jpg", caption: "Sealed and protected facade" },
+      { image: "/images/work/commercial-warehouse-tuckpointing.webp", caption: "Sealer applied after the wall is repaired, not instead of it" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Breathable repellent on repointed commercial brick" },
+      { image: "/images/work/commercial-corner-parapet.webp", caption: "Full-elevation treatment on a commercial building" },
     ],
     faqs: [
       {
@@ -1349,7 +1346,7 @@ const services: Service[] = [
       "masonry waterproofing near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC seals and waterproofs masonry across Chicagoland with breathable penetrating repellents — applied after repairs so water stays out while the wall still breathes. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC seals and waterproofs masonry across Chicagoland with breathable penetrating repellents — applied after repairs so water stays out while the wall still breathes. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Silane/siloxane breathable penetrating water repellents",
       "Masonry-safe cleaners for surface prep",
@@ -1387,7 +1384,7 @@ const services: Service[] = [
       "Phased restoration planning",
       "Insurance documentation and scopes",
     ],
-    heroImage: "/images/restoration-commercial.jpg",
+    heroImage: "/images/work/commercial-corner-parapet.webp",
     diagnostics: [
       {
         title: "Deterioration Across Multiple Elevations",
@@ -1411,9 +1408,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-commercial.jpg", caption: "Commercial masonry restoration" },
-      { image: "/images/work-commercial.jpg", caption: "Multi-elevation commercial tuckpointing" },
-      { image: "/images/restoration-parapet.png", caption: "Commercial parapet reconstruction" },
+      { image: "/images/work/commercial-corner-parapet.webp", caption: "Multi-elevation commercial masonry restoration" },
+      { image: "/images/work/industrial-facade-restoration.webp", caption: "Industrial façade restored along a service drive" },
+      { image: "/images/work/commercial-parapet-coping.webp", caption: "Parapet rebuild with new coping" },
+      { image: "/images/jobs/ulta-beauty-block-repair-merrillville/during-01.jpeg", caption: "CMU block repair — commercial retail, Merrillville, IN" },
     ],
     faqs: [
       {
@@ -1446,7 +1444,7 @@ const services: Service[] = [
       "commercial facade restoration near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC restores commercial and institutional masonry across Chicagoland — multi-elevation tuckpointing, brick, parapet, lintel, and CMU work with written scopes, phased plans, and documentation for boards and insurers. Licensed, bonded, insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC restores commercial and institutional masonry across Chicagoland — multi-elevation tuckpointing, brick, parapet, lintel, and CMU work with written scopes, phased plans, and documentation for boards and insurers. Licensed, bonded, and insured; certificates of insurance, W-9 and lien waivers on request. Call (708) 288-1696.",
     materials: [
       "Commercial-grade mortar matched per elevation",
       "Replacement brick and CMU block",
@@ -1484,7 +1482,7 @@ const services: Service[] = [
       "Water-entry correction and sealing",
       "Porch, step, and pillar restoration",
     ],
-    heroImage: "/images/restoration-facade.jpg",
+    heroImage: "/images/work/residential-porch-pillars.webp",
     diagnostics: [
       {
         title: "Multiple Problems at Once",
@@ -1508,9 +1506,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-facade.jpg", caption: "Residential facade restoration" },
-      { image: "/images/hero-walkway.jpg", caption: "Porch and walkway restoration" },
-      { image: "/images/restoration-steps.png", caption: "Step and entry rehabilitation" },
+      { image: "/images/work/residential-porch-pillars.webp", caption: "Brick porch pillars and limestone caps rebuilt" },
+      { image: "/images/work/residential-brick-stoop-rebuild.webp", caption: "Entry stoop rebuilt with fresh matched joints" },
+      { image: "/images/work/residential-chimney-rebuild.webp", caption: "Residential chimney rebuilt above the roofline" },
+      { image: "/images/work/chimney-crown-rebuild.webp", caption: "New chimney crown and flashing" },
     ],
     faqs: [
       {
@@ -1543,7 +1542,7 @@ const services: Service[] = [
       "residential masonry contractor near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC restores brick and stone homes across Chicagoland — repointing, brick replacement, chimney, lintel, and stone repair, and sealing — as one coordinated plan with matched materials. Family-owned, licensed and insured, 40+ years. Free on-site estimates — call (708) 288-1696.",
+      "Emerald Masonry LLC restores brick and stone homes across Chicagoland — repointing, brick replacement, chimney, lintel, and stone repair, and sealing — as one coordinated plan with matched materials. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Free on-site estimates — call (708) 288-1696.",
     materials: [
       "Mortar matched in strength and color to the home",
       "Matching and salvaged replacement brick",
@@ -1581,7 +1580,7 @@ const services: Service[] = [
       "Gentle, non-abrasive cleaning",
       "Landmark and greystone facade restoration",
     ],
-    heroImage: "/images/restoration-facade.jpg",
+    heroImage: "/images/work/commercial-glass-block-facade.webp",
     diagnostics: [
       {
         title: "Hard Mortar in a Soft Wall",
@@ -1605,9 +1604,10 @@ const services: Service[] = [
       },
     ],
     gallery: [
-      { image: "/images/restoration-facade.jpg", caption: "Historic facade restoration — Chicagoland" },
-      { image: "/images/restoration-wall.png", caption: "Lime mortar repointing" },
-      { image: "/images/restoration-steps.png", caption: "Historic stone restoration" },
+      { image: "/images/work/commercial-glass-block-facade.webp", caption: "Older commercial brick repointed with matched mortar" },
+      { image: "/images/work/commercial-facade-detail.webp", caption: "Soft historic brick repointed — no sandblasting" },
+      { image: "/images/work/residential-porch-pillars.webp", caption: "Greystone porch masonry restored" },
+      { image: "/images/work/commercial-lintel-heads.webp", caption: "Limestone heads and sills restored" },
     ],
     faqs: [
       {
@@ -1640,7 +1640,7 @@ const services: Service[] = [
       "historic tuckpointing near me",
     ],
     aiSummary:
-      "Emerald Masonry LLC restores historic and landmark-era masonry across Chicagoland with lime mortar matched in composition and color, careful brick and stone repair, and gentle cleaning — never sandblasting. Family-owned, licensed and insured, 40+ years. Call (708) 288-1696.",
+      "Emerald Masonry LLC restores historic and landmark-era masonry across Chicagoland with lime mortar matched in composition and color, careful brick and stone repair, and gentle cleaning — never sandblasting. Family-owned, licensed and insured, led by career masons with decades of hands-on Chicagoland experience. Call (708) 288-1696.",
     materials: [
       "Lime-based mortar matched to the original",
       "Salvaged and matched historic brick",

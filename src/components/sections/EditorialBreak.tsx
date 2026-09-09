@@ -37,10 +37,11 @@ function LeftPanel() {
   const { ref, inView } = useInView();
 
   const points = [
-    "Dedicated project schedule — no surprises",
-    "Competitive, transparent pricing",
-    "Same-day response to estimate requests",
-    "Your complete satisfaction, guaranteed",
+    "A written scope you can put out to bid",
+    "Dedicated project schedule — phased around your tenants",
+    "Matched mortar and brick — repairs that disappear into the wall",
+    "Photo documentation from pre-bid through punch list",
+    "Same-day response to bid and assessment requests",
   ];
 
   return (
@@ -52,7 +53,7 @@ function LeftPanel() {
         Working With Emerald Masonry
       </p>
       <h3 className="text-2xl md:text-3xl font-bold text-white mb-6 leading-tight">
-        What You Should Expect From Our Masonry Contractors Nearby Chicago
+        What to Expect on a Commercial Masonry Project
       </h3>
       <ul className="flex flex-col gap-4">
         {points.map((pt) => (
@@ -79,22 +80,21 @@ function RightPanel() {
       className={`slide-right ${inView ? "in-view" : ""}`}
     >
       <p className="text-[11px] tracking-[0.45em] uppercase text-[var(--color-emerald)] font-semibold mb-3">
-        Don&apos;t Hesitate
+        Before You Bid It Out
       </p>
       <h3 className="text-2xl md:text-3xl font-bold text-white mb-6 leading-tight">
-        Hire the Best Masonry Contractors Nearby Chicago Services
+        Get a Real Scope Before You Get a Number
       </h3>
       <p className="text-[15px] leading-[1.85] text-white/65 mb-4">
-        When you choose Emerald Masonry LLC in Chicago, you can expect the best
-        tuckpointing and masonry services at an affordable price. We are the company
-        that delivers quality work, thorough documentation, and clean results.
+        Most masonry bids are a number and a sentence. Ours starts with a walk of the
+        building — what&apos;s failing, what&apos;s cosmetic, what can wait a season, and what
+        will cost you more if it does. You get that in writing before you get a price.
       </p>
       <p className="text-[15px] leading-[1.85] text-white/65 mb-8">
-        When you hire our masonry contractors in Chicago, we will go beyond your
-        expectations to ensure the job is done right. We take care of everything —
-        from brick repair to full façade restoration — so you can focus on running
-        your property. We only use the highest quality materials to make sure our
-        masonry work lasts.
+        From spot tuckpointing to full façade and parapet restoration, we handle the
+        permits, the staging, the protection, and the cleanup — matched mortar, matched
+        brick, and materials specified to outlast the repair cycle. You run the property;
+        we run the wall.
       </p>
       <a
         href="/#contact"

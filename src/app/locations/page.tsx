@@ -27,9 +27,12 @@ function groupByCity(): CityGroup[] {
   const pages = getAllSeoPages().filter((p) => p.pageType === "location" && p.city);
   const map = new Map<string, { slug: string; service: string }[]>();
   for (const p of pages) {
-    const arr = map.get(p.city) || [];
+    // Frontmatter `city` values carry inconsistent trailing whitespace, which
+    // used to render the same town as two separate cards.
+    const city = p.city.trim();
+    const arr = map.get(city) || [];
     arr.push({ slug: p.slug, service: p.service || "Masonry" });
-    map.set(p.city, arr);
+    map.set(city, arr);
   }
   return [...map.entries()]
     .map(([city, ps]) => ({ city, pages: ps.sort((a, b) => a.service.localeCompare(b.service)) }))
@@ -52,7 +55,7 @@ export default function ServiceAreasPage() {
             Commercial Masonry Across Chicago &amp; the Chicagoland Suburbs
           </h1>
           <p className="text-base text-muted-foreground leading-relaxed">
-            Emerald Masonry LLC brings 40+ years of Chicagoland experience to tuckpointing, brick
+            Emerald Masonry LLC brings career-mason experience to commercial tuckpointing, brick
             restoration, chimney repair, and large-scale commercial masonry. Find your town below —
             free on-site estimates for commercial and large-scale projects. Serving{" "}
             {SERVICE_AREA_COUNTIES.map((c) => c.replace(", Illinois", "")).join(", ")}.

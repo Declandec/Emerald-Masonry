@@ -18,7 +18,7 @@ const uncialAntiqua = Uncial_Antiqua({
 export const metadata: Metadata = {
   title: "Emerald Masonry LLC | Commercial Masonry Chicagoland",
   description:
-    "Non-union, family-owned commercial masonry contractor serving Chicagoland. 40+ years experience. Tuckpointing, brick restoration, insurance claims, HOAs, churches, and property managers. Licensed, bonded & insured. Call (708) 288-1696.",
+    "Commercial masonry contractor serving Chicagoland. Tuckpointing, façade and parapet restoration, lintel replacement, and structural brick repair for property managers, HOAs, churches, schools, general contractors, and insurance carriers. Family-owned, established 2024, led by career masons. Licensed, bonded & insured. Call (708) 288-1696.",
   keywords: [
     "commercial masonry contractor Chicago",
     "tuckpointing Chicago IL",
@@ -29,11 +29,18 @@ export const metadata: Metadata = {
     "HOA masonry contractor Illinois",
     "property management masonry Chicago",
     "commercial tuckpointing Chicagoland",
-    "non-union masonry contractor Chicago",
-    "family owned masonry Chicago",
+    "parapet wall repair Chicago",
+    "lintel replacement commercial building Chicago",
+    "facade inspection and repair Chicago",
+    "Chicago facade ordinance masonry repair",
+    "condo association tuckpointing Chicago",
+    "apartment building brick repair Chicago",
+    "school masonry repair Chicago",
+    "CMU block repair Chicago",
+    "commercial masonry waterproofing Chicago",
+    "masonry contractor for property managers Chicago",
     "brick repair Chicago suburbs",
     "masonry restoration DuPage County",
-    "commercial brick contractor Lake County IL",
     "industrial masonry restoration Chicago",
   ],
   alternates: {
@@ -42,13 +49,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Emerald Masonry LLC | Commercial Masonry Chicagoland",
     description:
-      "40+ years of Chicagoland masonry experience. Non-union, family-owned. Serving property managers, churches, HOAs, and insurance companies across the greater Chicago area.",
+      "Commercial masonry restoration across Chicagoland — tuckpointing, façade and parapet repair, lintel replacement, and structural brick work for property managers, HOAs, churches, schools, and insurance carriers.",
     type: "website",
     locale: "en_US",
     url: "https://emeraldmasonryil.com",
     images: [
       {
-        url: "https://emeraldmasonryil.com/images/work-tuckpointing.jpg",
+        url: "https://emeraldmasonryil.com/images/work/commercial-warehouse-tuckpointing.webp",
         width: 1200,
         height: 630,
         alt: "Emerald Masonry LLC — Commercial Masonry Contractor Chicagoland",

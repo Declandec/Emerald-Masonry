@@ -45,8 +45,8 @@ const gettingStarted = {
       a: "For most properties in the Chicago southwest and south suburbs, we can schedule within a few business days. Urgent situations — active water infiltration, loose masonry near pedestrian areas — are prioritized. Call us directly at (708) 288-1696 to discuss your timeline.",
     },
     {
-      q: "What is your minimum project size?",
-      a: "Our minimum is $5,000. We focus on commercial, institutional, and large-scale residential projects where a complete and durable repair is achievable. We don't take small patch jobs — not because we can't, but because the right repair usually requires more than a spot fix.",
+      q: "What size projects do you take on?",
+      a: "Our focus is commercial and institutional buildings — multi-unit, multi-building, and phased work where a complete and durable repair is achievable. We also handle residential masonry. What we avoid is patching over deteriorated mortar without proper joint removal; the right repair usually requires more than a spot fix.",
     },
   ],
 };
@@ -57,11 +57,11 @@ const aboutWork = {
   items: [
     {
       q: "What types of properties do you work on?",
-      a: "We work with property management companies, HOAs, churches, schools, commercial building owners, and insurance companies. Our focus is commercial, institutional, and large-scale residential masonry across Chicagoland.",
+      a: "Our focus is commercial and institutional: property management companies, HOAs and condo associations, churches, schools and municipal facilities, general contractors, commercial building owners, and insurance carriers across Chicagoland. We also take residential masonry work.",
     },
     {
       q: "Are you licensed, bonded, and insured?",
-      a: "Yes. Emerald Masonry LLC is fully licensed, bonded, and insured for commercial masonry work in Illinois. We carry general liability and workers' compensation coverage. Certificate of insurance is available on request.",
+      a: "Yes. Emerald Masonry LLC is fully licensed, bonded, and insured for commercial masonry work in Illinois. We carry general liability and workers' compensation coverage. Certificates of insurance, W-9s, and lien waivers are available on request — just tell us what your management company or board needs on file.",
     },
     {
       q: "Do you work on occupied buildings?",
@@ -88,11 +88,11 @@ const serviceArea = {
   items: [
     {
       q: "Where do you work?",
-      a: "We serve the greater Chicagoland area — Cook, DuPage, Lake, Will, Kane, and McHenry counties. This includes Chicago and the southwest, south, west, and northwest suburbs. We also work in northwest Indiana for commercial clients.",
+      a: "We serve Cook, DuPage, and Will counties — Chicago and the southwest, south, and west suburbs, including Palos Heights, Oak Lawn, Orland Park, Tinley Park, Evergreen Park, Homer Glen, Mokena, New Lenox, Frankfort, Lemont, Hinsdale, La Grange, Downers Grove, and Naperville. We also work in northwest Indiana for commercial clients.",
     },
     {
       q: "Are you local to the Chicagoland area?",
-      a: "Yes. Emerald Masonry LLC is based in Palos Heights, IL — in the heart of the southwest suburbs. We're a family-owned business with 40+ years of experience in this specific market.",
+      a: "Yes. Emerald Masonry LLC is based in Palos Heights, IL — in the heart of the southwest suburbs. We're a family-owned business, established in 2024 and led by career masons with decades of hands-on experience in this specific market.",
     },
   ],
 };
@@ -194,7 +194,7 @@ export default function FaqPage() {
       {/* Page hero banner */}
       <div
         className="relative pt-[110px] pb-14 bg-cover bg-center"
-        style={{ backgroundImage: "url('/images/hero-brick-wall.png')" }}
+        style={{ backgroundImage: "url('/images/hero-brick-wall.webp')" }}
       >
         <div className="absolute inset-0 bg-[rgba(16,22,32,0.80)]" />
         <div className="relative z-10 px-6 md:px-12 lg:px-20 text-center">
