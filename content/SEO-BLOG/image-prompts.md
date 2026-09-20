@@ -2668,3 +2668,63 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Photorealistic photograph of a mid-rise condominium balcony under repair — the slab edge saw-cut back to sound concrete with exposed reinforcement cleaned and treated, formwork set to restore the edge profile, and a guardrail post base opened up at its masonry pocket. Worker in hard hat, safety glasses, gloves and harness. Overhead protection visible on the walkway below. Overcast daylight, occupied building. No text, no logos, no unit numbers, no CGI.
+
+---
+
+# Batch — 2026-09-20 (google mode)
+
+## HOA & Condo Masonry Repair in Downers Grove, IL
+**Intended path:** `public/images/seo/hoa-masonry-repair-downers-grove-il.jpg`
+**Alt text:** Repointed brick elevation on a condominium association building in Downers Grove, Illinois
+
+**Prompt:**
+> Photorealistic photograph of a three-storey brick condominium building mid-project — one elevation scaffolded with masons repointing at two levels, completed and in-progress joint sections visible on the same wall, balconies with temporary access restriction, overhead protection over the entry walk below. Workers in hard hats, high-visibility vests, safety glasses and harnesses. Residents' cars in the lot, building clearly occupied. Bright overcast suburban daylight. No text, no logos, no unit numbers, no CGI.
+
+## Commercial Tuckpointing in Lemont, IL
+**Intended path:** `public/images/seo/commercial-tuckpointing-lemont-il.jpg`
+**Alt text:** Repointed limestone and brick commercial building facade in downtown Lemont, Illinois
+
+**Prompt:**
+> Photorealistic photograph of a nineteenth-century pale dolomitic limestone commercial storefront building being repointed, with soft lime-based mortar and a crisp tooled joint profile, freshly pointed sections meeting original weathered joints. Pipe scaffolding on the elevation, pedestrian protection at sidewalk level, shop still trading. Mason in hard hat, safety glasses and gloves working a joint. Warm afternoon side light raking across the stone texture. No text, no logos, no shop signage legible, no CGI.
+
+## CMU Block Repair in New Lenox, IL
+**Intended path:** `public/images/seo/cmu-block-repair-new-lenox-il.jpg`
+**Alt text:** Repaired concrete block wall with restored control joint sealant on a commercial building in New Lenox, Illinois
+
+**Prompt:**
+> Photorealistic close-to-mid photograph of a split-face concrete block commercial elevation with a full-height control joint being rebuilt — old failed sealant cut out and removed, foam backer rod visible seated in the prepared joint, a fresh tooled bead on the completed section above. Replacement block units staged nearby. Worker in hard hat, high-visibility vest, safety glasses and gloves. Flat overcast light, building operating. No text, no logos, no tenant signage, no CGI.
+
+## Limestone & Sill Repair in Palos Heights, IL
+**Intended path:** `public/images/seo/limestone-sill-repair-palos-heights-il.jpg`
+**Alt text:** Repaired limestone window sill and adjacent brick on a Palos Heights, Illinois home
+
+**Prompt:**
+> Photorealistic detail photograph of a stone sill beneath a wide picture window on a mid-century brick ranch — a matched Dutchman insert being set into a cut-out section at one end, the delaminated original stone visible beside it for contrast, and replaced brick below where the failed sill had been feeding water. Gloved mason's hands with a pointing trowel. Crisp natural daylight, shallow depth of field. No text, no logos, no house numbers, no CGI.
+
+## Chimney Repair in Hickory Hills, IL
+**Intended path:** `public/images/seo/chimney-repair-hickory-hills-il.jpg`
+**Alt text:** Rebuilt brick chimney with new crown and cap on a home in Hickory Hills, Illinois
+
+**Prompt:**
+> Photorealistic photograph of a rebuilt brick chimney above the roof line of a post-war suburban home — newly laid matched brick, a properly formed sloped crown with an overhang and drip edge, a stainless cap over the flue, and fresh step and counterflashing let into the masonry at the roof. Roof staging still in place with protection boards over the shingles. Mason in hard hat, safety glasses and harness. Clear cold daylight, bare trees. No text, no logos, no CGI.
+
+## Blog — Who Actually Signs Off?
+**Intended path:** `public/images/blog/who-signs-off-masonry-approval-chains-commercial.jpg`
+**Alt text:** Commercial masonry restoration underway on a Chicagoland building with staging and site protection in place
+
+**Prompt:**
+> Photorealistic photograph of a commercial masonry restoration site mid-project, viewed from across the street — scaffolding across one elevation, sidewalk overhead protection with a covered pedestrian walkway, materials staged neatly, crew working at two levels. The building remains open and in use. Workers in hard hats, high-visibility vests, safety glasses and harnesses. Bright overcast Chicago daylight. No text, no logos, no company signage, no CGI.
+
+## Blog — The After-Hours Masonry Call
+**Intended path:** `public/images/blog/after-hours-masonry-emergency-property-manager-readiness.jpg`
+**Alt text:** Emergency masonry stabilisation and overhead protection on a Chicagoland commercial building
+
+**Prompt:**
+> Photorealistic early-evening photograph of emergency masonry stabilisation on a multi-storey brick building — a cordoned and barricaded drop zone across a sidewalk and parking stalls, temporary overhead protection erected at the entry, safety netting over a deteriorated parapet section, work lights on. Crew in hard hats, high-visibility vests, safety glasses and harnesses. Winter, wet pavement, dusk light. No text, no logos, no emergency-vehicle markings, no CGI.
+
+## Blog — Your Façade and Your Insurance Renewal
+**Intended path:** `public/images/blog/facade-condition-insurance-renewal-underwriting-chicagoland.jpg`
+**Alt text:** Commercial brick facade restoration and parapet repair on a Chicagoland building
+
+**Prompt:**
+> Photorealistic photograph of an older multi-storey Chicago-area commercial brick building showing a clear condition contrast on one facade — a completed restored section with repointed joints, rebuilt parapet and reset coping beside an untouched section with open joints, spalled faces and staining. Shot square-on from across the street so the comparison reads clearly. Overcast even daylight, no people. No text, no logos, no building signage, no CGI.

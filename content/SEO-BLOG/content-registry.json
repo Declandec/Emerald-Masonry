@@ -2916,6 +2916,66 @@
       "publishDate": "2026-09-09",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "hoa-masonry-repair-downers-grove-il",
+      "title": "HOA & Condo Masonry Repair in Downers Grove, IL \u2014 Written for the Board, Not Just the Wall",
+      "primaryKeyword": "HOA masonry repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "HOA & Condo Masonry Repair",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "commercial-tuckpointing-lemont-il",
+      "title": "Commercial Tuckpointing in Lemont, IL \u2014 Limestone Town, Limestone Rules",
+      "primaryKeyword": "commercial tuckpointing Lemont IL",
+      "city": "Lemont, IL",
+      "service": "Commercial Tuckpointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "cmu-block-repair-new-lenox-il",
+      "title": "CMU Block Repair in New Lenox, IL \u2014 Control Joints, Split-Face, and the Leak Everyone Blames on the Roof",
+      "primaryKeyword": "CMU block repair New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "CMU Block Repair",
+      "serviceSlug": "commercial-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "limestone-sill-repair-palos-heights-il",
+      "title": "Limestone & Sill Repair in Palos Heights, IL \u2014 The Stone That Decides How Your Brick Ages",
+      "primaryKeyword": "limestone sill repair Palos Heights IL",
+      "city": "Palos Heights, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
+    },
+    {
+      "slug": "chimney-repair-hickory-hills-il",
+      "title": "Chimney Repair in Hickory Hills, IL \u2014 Crown, Cap, Flashing, Then Everything Else",
+      "primaryKeyword": "chimney repair Hickory Hills IL",
+      "city": "Hickory Hills, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -4131,6 +4191,30 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-09-09",
       "image": "/images/after-commercial-2.jpg"
+    },
+    {
+      "slug": "who-signs-off-masonry-approval-chains-commercial",
+      "title": "Who Actually Signs Off? Masonry Approval Chains in Condos, Churches, Schools and Corporate Buildings",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial-3.jpg"
+    },
+    {
+      "slug": "after-hours-masonry-emergency-property-manager-readiness",
+      "title": "The After-Hours Masonry Call: What a Property Manager Should Have Ready Before It Comes",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial-2.jpg"
+    },
+    {
+      "slug": "facade-condition-insurance-renewal-underwriting-chicagoland",
+      "title": "Your Fa\u00e7ade and Your Insurance Renewal: What Carriers Now Ask About Masonry",
+      "service": "Commercial Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-09-20",
+      "image": "/images/after-commercial.jpg"
     }
   ],
   "coveredCities": [
@@ -4271,10 +4355,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "chimney repair Chicago Heights IL \u2014 templated franchise location pages (Chimcare-style) with light local flavor, shallow 5-question FAQ, generic process, no family-owned/years claim; broad service-area breadth over chimney-specific local depth",
-      "date": "2026-06-29"
-    },
-    {
       "intent": "brick repair Westchester IL \u2014 heavily templated exact-match landing page (masonrytuckpointing.com-style) with ~10 city mentions but zero neighborhood/home-style detail, no answer-first summary, generic masonry-education FAQ, no insurance/licensing/guarantee stated",
       "date": "2026-07-02"
     },
@@ -4394,6 +4474,10 @@
     {
       "intent": "church masonry restoration / institutional masonry Naperville IL \u2014 a SERP shape not previously targeted (prior intents covered commercial restoration, commercial tuckpointing and parapet). The page ranking hardest for the church query is a church-restoration GENERAL CONTRACTOR: ~2,300 words covering steeples, stained glass, interior renovation, electrical and plumbing remodeling, roofing and altar restoration, with a section heading naming Naperville \u2014 and zero masonry technical content. No mortar type, no tuckpointing definition, no lintel, parapet or limestone detail, a two-question FAQ ('Why is [company] so popular?'), no discussion of how a church board or building committee procures, sequences or phases work, no COI, W-9, lien waiver or prevailing-wage language, and clear template reuse across Chicago, Evanston, Oak Park, Naperville, Skokie, Hinsdale and Cook County. The strongest genuine masonry competitor is a 50-year commercial tuckpointing firm whose Naperville page (~1,200 words) does name churches, schools, townhome and condo associations as served markets \u2014 but has no FAQ at all, gives no institutional-specific content, and says nothing about phasing, board communication, scope management, COI, lien waivers or prevailing wage. Beat with the angle neither supplies: masonry written FOR the building committee \u2014 how a congregation actually funds and phases work (raised rather than budgeted, committee decision, occupied every weekend), a defensible priority order, elevation-by-elevation scoping grouped by access, the five places institutional buildings actually fail (weather-elevation joints, towers and belfries, limestone, parapets on the education wing, additions cold joints), Naperville's three distinct institutional building eras, the soft-mortar rule on historic fabric, no sandblasting, prevailing wage determined by funding source not building type, and COI/W-9/lien waivers before work begins. Emerald anchors used throughout: established 2024, career masons, (708) 288-1696, /churches-schools hub.",
       "date": "2026-09-09"
+    },
+    {
+      "intent": "HOA / condo association masonry repair Downers Grove IL (DuPage) \u2014 a buyer-segment SERP shape not previously targeted (prior intents covered commercial restoration, commercial tuckpointing, parapet, and church/institutional). The strongest result is a 50-year commercial tuckpointing firm whose Downers Grove page runs ~1,200-1,400 words and genuinely does name Townhome Associations, Condo Associations and Multi-Unit Communities \u2014 and even references correcting municipal and Downers Grove code violations \u2014 but carries NO FAQ, and says nothing whatsoever about how an association actually decides: no board approval process, no reserve fund or phasing guidance, no unit-owner versus association responsibility, no resident communication, and no mention of a certificate of insurance, W-9 or lien waivers anywhere on the page. Behind it sits a lead-generation template (SolidPoint) with stock imagery, unverifiable testimonials, boilerplate copy ('elite tier', 'landmark for the next generation'), a four-step process with no differentiation, no FAQ, and no mention of condo or HOA work at all \u2014 despite ranking for the query. The remainder of page one is residential-configured tuckpointing firms. Beat with the governance and documentation layer nobody supplies: common element versus limited common element responsibility and reading the declaration first, board approval and change-order authority thresholds, unit prices fixed during the bid, a mock-up as the acceptance standard, phasing grouped by access but sequenced by priority, an honest treatment of why reserve-study masonry lines are planning placeholders rather than bids, resident communication planned in, and COI/W-9/lien waivers before mobilisation. Plus real Downers Grove association stock (1960s-80s condo and townhome along Finley/Butterfield/63rd, garden-style courtyard buildings near downtown and the BNSF line, newer rowhome developments, mixed-use on Ogden). Emerald anchors: established 2024, career masons, (708) 288-1696, /hoa-condo-associations hub.",
+      "date": "2026-09-20"
     }
   ],
   "coveredKeywords": [
@@ -6249,7 +6333,14 @@
     "residential masonry restoration Burbank IL",
     "masonry mock-up panel",
     "unit price vs lump sum masonry contract",
-    "balcony masonry repair Chicago"
+    "balcony masonry repair Chicago",
+    "HOA masonry repair Downers Grove IL",
+    "commercial tuckpointing Lemont IL",
+    "CMU block repair New Lenox IL",
+    "limestone sill repair Palos Heights IL",
+    "chimney repair Hickory Hills IL",
+    "masonry approval process commercial building",
+    "facade condition insurance renewal"
   ],
   "visibilityRuns": [
     {
@@ -6345,5 +6436,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-09"
+  "lastUpdated": "2026-09-20"
 }
