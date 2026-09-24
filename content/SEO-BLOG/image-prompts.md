@@ -2728,3 +2728,64 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Photorealistic photograph of an older multi-storey Chicago-area commercial brick building showing a clear condition contrast on one facade — a completed restored section with repointed joints, rebuilt parapet and reset coping beside an untouched section with open joints, spalled faces and staining. Shot square-on from across the street so the comparison reads clearly. Overcast even daylight, no people. No text, no logos, no building signage, no CGI.
+
+## Commercial Façade Repair Tinley Park (location) — 2026-09-23
+**Intended path:** `/images/seo/facade-repair-tinley-park-il.jpg`
+**Alt:** Restored commercial brick façade with repointed joints and rebuilt parapet in Tinley Park, Illinois
+*(No Fire Protection District building; no PLM branding on lift, truck, scaffold or clothing; no tenant signage.)*
+
+**Prompt:**
+> Documentary photo of a two-storey brick commercial building in a suburban Illinois retail district undergoing façade repair, an unbranded boom lift positioned with its basket at the parapet line and a mason in hard hat and harness sounding the masonry with a hammer while photographing a finding, a covered protected walkway keeping the ground-floor entrance open and trading, the adjacent untouched elevation showing eroded joints for contrast, bright overcast morning, photorealistic, no text, no business signage, no logos
+
+## Commercial Tuckpointing Orland Park (location) — 2026-09-23
+**Intended path:** `/images/seo/commercial-tuckpointing-orland-park-il.jpg`
+**Alt:** Commercial brick retail building with freshly repointed mortar joints in Orland Park, Illinois
+*(No PLM branding; no identifiable retail tenant names.)*
+
+**Prompt:**
+> Documentary photo of a multi-tenant suburban retail building mid-repointing, pipe staging with dust screening across one storefront frontage only while the neighbouring units remain open with lights on, a clean covered walkway protecting the entrance, masons in hard hats grinding and repointing joints with evenly tooled fresh mortar visible, cones marking a small cordoned parking area, unbranded equipment, bright flat daylight, photorealistic, no text, no signage, no logos
+
+## School Masonry Repair Oak Lawn (location) — 2026-09-23
+**Intended path:** `/images/seo/school-masonry-repair-oak-lawn-il.jpg`
+**Alt:** Institutional brick school building with restored masonry and repointed joints in Oak Lawn, Illinois
+*(Generic institutional building — no school name, crest, mascot or district signage. No PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a mid-century institutional brick school building during summer masonry work, pipe staging erected across one elevation only with dust screening, an empty asphalt play area cordoned with barriers and cones well clear of the work, masons in hard hats repointing above a bank of corridor windows, a visible cold joint where a later brick addition meets the original building at the edge of frame, no lettering or signage anywhere on the building, bright July light, photorealistic, no text or logos
+
+## HOA & Condo Masonry Repair Tinley Park (location) — 2026-09-23
+**Intended path:** `/images/seo/hoa-masonry-repair-tinley-park-il.jpg`
+**Alt:** Townhome association brick building with restored masonry and repointed joints in Tinley Park, Illinois
+*(No association signage, unit numbers or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1980s brick townhome association building during a phased masonry repair, one building under pipe staging while the neighbouring buildings stand untouched, residents' patios cleared and covered with protective sheeting, a rebuilt chimney crown visible on the roof above, a clipboard condition survey and marked-up site plan resting on a tailgate in the foreground, unbranded truck and equipment, warm late-afternoon light, photorealistic, no text, no unit numbers, no logos
+
+## Brick Repair Mokena (location) — 2026-09-23
+**Intended path:** `/images/seo/brick-repair-mokena-il.jpg`
+**Alt:** Repaired brick veneer wall with matched replacement units on a home in Mokena, Illinois
+*(No house number or family name visible. No PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1990s brick-veneer home in Mokena with a failed section of veneer opened up above a garage opening, new through-wall flashing and clear open weep holes visible at the base of the repaired area, a corroded shelf angle removed and lying on the driveway, matched replacement brick dry-laid on a board beside the wall for colour approval, mason in hard hat and gloves setting a unit to a line, open suburban lot behind, warm midday light, photorealistic, no text or logos
+
+## When Masonry Needs a Structural Engineer (blog) — 2026-09-23
+**Intended path:** `/images/blog/when-masonry-needs-a-structural-engineer-il.jpg`
+**Alt:** Offset diagonal step crack in a brick wall being measured and monitored
+
+**Prompt:**
+> Instructional close documentary photo of a diagonal step crack running through the mortar joints of a brick wall, the two faces of the crack visibly offset out of plane relative to each other, the mortar at the crack still hard and cleanly split rather than sandy, a small ruler and a dated pencil monitoring mark held against it, a clipboard and camera resting on the ground below, flat overcast daylight, sharp detail, photorealistic, no text or logos
+
+## Masonry Pay Applications & Lien Waivers (blog) — 2026-09-23
+**Intended path:** `/images/blog/masonry-pay-applications-retention-lien-waivers-il.jpg`
+**Alt:** Schedule of values and progress photographs reviewed against a partially repointed elevation
+
+**Prompt:**
+> Documentary photo of a property manager and a hard-hatted mason at a folding table on a commercial jobsite, a schedule-of-values spreadsheet and a set of dated progress photographs spread between them, an elevation drawing with sections marked off as complete, the actual partially repointed brick elevation with pipe staging on one face visible behind them, flat even daylight, sharp detail on the documents, photorealistic, no legible text, no logos
+
+## Mortar Samples & Mockup Panels (blog) — 2026-09-23
+**Intended path:** `/images/blog/masonry-submittals-mockups-what-to-approve-il.jpg`
+**Alt:** Three cured mortar trial panels tooled side by side against existing brick for colour approval
+
+**Prompt:**
+> Instructional close documentary photo of three small cured mortar trial panels repointed side by side into an existing older brick wall, each a visibly different colour and sand texture and each tooled to a different joint profile — concave, weathered and V — with the aged original joints immediately adjacent for comparison, a jointer and a small sand sample tin resting on the brick below, half the wall lightly wetted to show how the colours shift damp versus dry, flat daylight, high detail, photorealistic, no text or logos
