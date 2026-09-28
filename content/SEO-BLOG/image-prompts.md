@@ -2789,3 +2789,64 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Instructional close documentary photo of three small cured mortar trial panels repointed side by side into an existing older brick wall, each a visibly different colour and sand texture and each tooled to a different joint profile — concave, weathered and V — with the aged original joints immediately adjacent for comparison, a jointer and a small sand sample tin resting on the brick below, half the wall lightly wetted to show how the colours shift damp versus dry, flat daylight, high detail, photorealistic, no text or logos
+
+## Church Masonry Restoration Berwyn (location) — 2026-09-28
+**Intended path:** `/images/seo/church-masonry-restoration-berwyn-il.jpg`
+**Alt:** Restored 1920s brick and limestone church tower and parapet on a parish campus in Berwyn, Illinois
+*(No parish name, dedication plaque, denominational signage or PLM branding. No shamrock, no lift or truck lettering.)*
+
+**Prompt:**
+> Documentary photo of a 1920s brick and limestone church bell tower on a dense urban parish site, pipe staging erected on one face of the tower only, a pedestrian protection canopy over the public sidewalk directly below, the tower's stone coping visibly repointed on the completed half and weathered on the other, a closed brick school building of the same era immediately behind it with plywood-closed lower windows, alley and narrow side gap visible at the lot line, masons in hard hats working at the belfry level, flat overcast daylight, photorealistic, no text, no signage, no logos
+
+## Commercial Masonry Restoration Lombard (location) — 2026-09-28
+**Intended path:** `/images/seo/commercial-masonry-restoration-lombard-il.jpg`
+**Alt:** Restored commercial brick facade and repaired parapet on a multi-tenant retail building in Lombard, Illinois
+*(No tenant names, no legible storefront signage, no branded equipment.)*
+
+**Prompt:**
+> Documentary photo of a single-storey multi-tenant suburban retail building with a tall brick parapet concealing a flat roof, one bay's brick elevation freshly repointed while the adjacent bays remain weathered, the exposed concrete block side wall visible around the corner with cracked courses and a failed control joint, a vertical movement joint newly cut and sealed near the corner, a boom lift standing in a cleared parking row with cones, blank unlettered storefront glass, bright flat afternoon light, photorealistic, no text, no signage, no logos
+
+## HOA & Condo Masonry Repair Naperville (location) — 2026-09-28
+**Intended path:** `/images/seo/hoa-masonry-repair-naperville-il.jpg`
+**Alt:** Repaired brick veneer and repointed joints on a townhome association building in Naperville, Illinois
+*(No unit numbers, no association signage, no family names, no PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1990s townhome association building clad in brick veneer on the lower storey with vinyl siding above, the horizontal transition where the veneer terminates opened up to expose new through-wall flashing turned and lapped correctly, open weep holes visible at the base of the brick, a repaired brick course above a wide garage opening with the old corroded steel lintel lying on the driveway, a marked-up site plan and condition survey on a clipboard resting on a tailgate, neighbouring buildings untouched, warm late-afternoon light, photorealistic, no text, no unit numbers, no logos
+
+## Commercial Façade Repair Orland Park (location) — 2026-09-28
+**Intended path:** `/images/seo/facade-repair-orland-park-il.jpg`
+**Alt:** Repaired commercial brick façade and sign band on a multi-tenant retail building in Orland Park, Illinois
+*(No tenant brands, no legible signage, no branded lift or truck.)*
+
+**Prompt:**
+> Documentary close documentary photo of a 1990s commercial brick façade at sign-band height, a dozen abandoned anchor holes and an empty conduit sleeve left by a departed tenant clearly visible in the brick, half of them freshly patched with matched mortar and half still open, a removed awning bracket resting on the scissor lift platform in frame, the sealant joint where brick meets cast stone raked out and re-detailed with backer rod exposed, blank unlettered storefront glass below, flat even daylight, sharp detail, photorealistic, no text, no signage, no logos
+
+## Chimney Repair Frankfort (location) — 2026-09-28
+**Intended path:** `/images/seo/chimney-repair-frankfort-il.jpg`
+**Alt:** Repaired brick chimney with new crown and flashing on a home in Frankfort, Illinois
+*(No house number, no family name, no PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken from a roof on a 1990s suburban home, a tall brick-clad chimney chase in frame with a newly fabricated sloped sheet-metal chase cover set with an overhang and drip edge, a rusted and dished old cover lying on the shingles beside it holding a shallow pool of water, fresh step and counter flashing visible where the chase meets the roof slope with a newly framed cricket behind it, a few replaced brick units slightly cleaner than the surrounding face, mason in hard hat and harness, open subdivision and mature trees beyond, clear morning light, photorealistic, no text or logos
+
+## Multi-Year Masonry Programs (blog) — 2026-09-28
+**Intended path:** `/images/blog/multi-year-masonry-program-associations-portfolios-il.jpg`
+**Alt:** Phase plan and unit-price schedule reviewed against a multi-building masonry property
+
+**Prompt:**
+> Documentary photo of a folding table on a multi-building residential property, a site plan with buildings numbered and colour-grouped into phases spread across it beside a unit-price schedule and a small tin of sand sample, one building in the background under pipe staging with fresh repointing while three identical buildings stand untouched, a hard-hatted mason and a property manager both looking at the plan rather than the camera, flat even daylight, sharp detail on the documents, photorealistic, no legible text, no logos
+
+## Falling Masonry & Owner Duty to Inspect (blog) — 2026-09-28
+**Intended path:** `/images/blog/falling-masonry-liability-owner-duty-to-inspect-il.jpg`
+**Alt:** Pedestrian protection canopy beneath a commercial parapet being examined from a lift
+
+**Prompt:**
+> Documentary photo of an older four-storey commercial masonry building above a public sidewalk, a netted pedestrian protection canopy erected the full width of the walk below, a boom lift raised to parapet level with a hard-hatted mason sounding the brick with a small hammer, a displaced coping stone visibly out of line along the roof edge, orange cones and barrier tape at the kerb, a camera and clipboard on the lift platform, flat overcast daylight, photorealistic, no text, no signage, no logos
+
+## Masonry vs Roofing Sequencing at the Parapet (blog) — 2026-09-28
+**Intended path:** `/images/blog/masonry-vs-roofing-sequencing-parapet-coping-membrane-il.jpg`
+**Alt:** Parapet roof edge showing coping, reglet, counterflashing and membrane termination
+
+**Prompt:**
+> Instructional close documentary photo taken on a flat commercial roof at the parapet edge, the assembly readable in one frame — roof membrane and cant strip, the membrane base flashing turned up the parapet, a freshly cut reglet in the mortar joint above it, new metal counterflashing tucked into the reglet on one half of the run and a temporary surface-mounted termination still in place on the other half, stone coping above with one joint raked out and one newly pointed, a jointer and a coil of metal resting on the membrane, flat overcast daylight, high detail, photorealistic, no text or logos
