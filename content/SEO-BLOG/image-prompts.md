@@ -2850,3 +2850,64 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Instructional close documentary photo taken on a flat commercial roof at the parapet edge, the assembly readable in one frame — roof membrane and cant strip, the membrane base flashing turned up the parapet, a freshly cut reglet in the mortar joint above it, new metal counterflashing tucked into the reglet on one half of the run and a temporary surface-mounted termination still in place on the other half, stone coping above with one joint raked out and one newly pointed, a jointer and a coil of metal resting on the membrane, flat overcast daylight, high detail, photorealistic, no text or logos
+
+## School Masonry Repair Downers Grove (location) — 2026-09-29
+**Intended path:** `/images/seo/school-masonry-repair-downers-grove-il.jpg`
+**Alt:** Repointed brick elevation on a mid-century school building in Downers Grove, Illinois
+*(No school name, district lettering, mascot, signage or PLM branding. No identifiable students.)*
+
+**Prompt:**
+> Documentary photo of a 1960s two-storey brick school wing during a summer masonry project, pipe staging with dust screening on one elevation only, a long horizontal crack line visible along the floor line on the untouched half where a shelf angle is rust-jacking the course above, a vertical cold joint clearly readable where this wing meets an older darker-brick original building at the left of frame, empty bus lane cordoned with barriers and cones well clear of the work, masons in hard hats repointing above a bank of classroom windows, no lettering or signage anywhere, bright cloudless July light, photorealistic, no text, no logos
+
+## Commercial Tuckpointing Burbank (location) — 2026-09-29
+**Intended path:** `/images/seo/commercial-tuckpointing-burbank-il.jpg`
+**Alt:** Repointed brick elevation on a mid-century apartment building in Burbank, Illinois
+*(No building address, tenant names or unit numbers. No branded equipment.)*
+
+**Prompt:**
+> Documentary photo of a 1950s three-storey brick apartment building photographed at the corner so two elevations are visible at once, the street-facing wall in hard red face brick and the side wall in visibly softer paler common brick, the side wall under pipe staging and freshly repointed on its lower two thirds while the street face remains untouched, a mortar board and two small mixed sample batches of different colours resting on a plank, mason in hard hat tooling a joint with a jointer, cleared sidewalk with cones, flat overcast daylight, photorealistic, no text, no signage, no logos
+
+## Parapet Wall Repair Oak Lawn (location) — 2026-09-29
+**Intended path:** `/images/seo/parapet-wall-repair-oak-lawn-il.jpg`
+**Alt:** Rebuilt brick parapet and new coping on a commercial building in Oak Lawn, Illinois
+*(No practice names, no medical signage, no legible lettering, no branded lift.)*
+
+**Prompt:**
+> Documentary photo taken on the flat roof of a single-storey commercial building, the parapet in frame with roughly half its length rebuilt in clean new brick and capped with freshly set coping stones while the remaining half shows displaced coping and open bed joints, a metal scupper penetrating the parapet with its old failed sleeve and cracked sealant clearly visible, a rooftop mechanical unit on a curb close to the roof edge with anchor penetrations into the parapet, roof membrane turned up the wall with a new reglet cut above it, mason in hard hat working from the roof side, flat overcast daylight, high detail, photorealistic, no text or logos
+
+## Commercial Façade Repair La Grange (location) — 2026-09-29
+**Intended path:** `/images/seo/facade-repair-la-grange-il.jpg`
+**Alt:** Restored historic brick and cast stone upper façade on a downtown commercial building in La Grange, Illinois
+*(No business names, no legible storefront or awning lettering, no village crest, no PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a two-storey 1900s downtown commercial building, the original pressed-brick upper façade with cast stone bands and jack arches over the windows under pipe staging on its upper half only, a netted pedestrian protection canopy erected over the full width of the public sidewalk below, the modern blank-glass ground-floor storefront clearly a much later insertion with the seam at its head opened up for flashing repair, one cast stone band joint raked out ready for repointing, cured mortar sample patches in three slightly different colours on the brick beside it, flat overcast daylight, photorealistic, no text, no signage, no logos
+
+## Residential Masonry Restoration Evergreen Park (location) — 2026-09-29
+**Intended path:** `/images/seo/residential-masonry-restoration-evergreen-park-il.jpg`
+**Alt:** Restored brick elevation and repaired limestone sills on a post-war home in Evergreen Park, Illinois
+*(No house numbers, no family names, no vehicle plates, no PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1950s brick ranch house photographed slightly along the street so two near-identical neighbouring houses are visible receding behind it, a cracked limestone window sill on the nearest house with a matching crack visible in the same position on the house next door, orange rust staining streaking down from the steel lintel above the window, spalled flaking brick in the lowest three courses near a downspout, a replacement sill and a few matched replacement bricks laid out on a board on the lawn, mason in hard hat and gloves working at the sill, warm late-afternoon light, photorealistic, no text, no house numbers, no logos
+
+## Value Engineering a Masonry Scope (blog) — 2026-09-29
+**Intended path:** `/images/blog/value-engineering-masonry-scope-what-to-cut-safely-il.jpg`
+**Alt:** Two repointed test areas compared side by side, one cut to full depth and one skimmed
+
+**Prompt:**
+> Instructional close documentary photo of an older brick wall with two adjacent trial areas repointed to deliberately different standards, the left area's joints raked out to a genuine depth and packed in lifts with the cut-out depth exposed in a cross-section at the edge, the right area only skimmed shallowly over old mortar so the join between new and old is visible at the arris, a small steel rule and a jointer lying on the brick between them for scale, both areas looking almost identical from a step back, flat even daylight, sharp detail, photorealistic, no text or logos
+
+## Certificate of Insurance on a Masonry Project (blog) — 2026-09-29
+**Intended path:** `/images/blog/certificate-of-insurance-masonry-contractor-what-it-must-say-il.jpg`
+**Alt:** Contractor documentation reviewed on a masonry jobsite before mobilisation
+
+**Prompt:**
+> Documentary photo of a folding table set up at the base of a partly staged brick elevation, a small stack of contractor paperwork spread across it with a pen resting on the top sheet, a hard hat and a pair of work gloves at one corner, erected pipe staging and a pedestrian protection canopy visible behind, a hard-hatted mason and a property manager standing on either side of the table mid-conversation and looking at the documents rather than the camera, flat even overcast daylight, sharp focus on the paperwork with no legible text on any page, photorealistic, no logos
+
+## Reading a Condo Building's Masonry Before You Buy (blog) — 2026-09-29
+**Intended path:** `/images/blog/buying-a-condo-what-the-masonry-tells-you-about-the-association-il.jpg`
+**Alt:** Condo building elevation showing patchwork repointing, blocked weeps and a floor-line crack
+
+**Prompt:**
+> Documentary photo of a 1970s brick-veneer condominium building elevation taken from the parking lot, the wall showing four visibly different patches of past repointing in mismatched mortar colours and joint profiles, a level horizontal crack running along the second-floor line with rust staining beneath it, weep holes at the base of the brick clearly mortared shut and partly buried under a raised mulch bed, spalled flaking brick in the bottom courses beside a downspout, an exterior balcony above with a heavily over-sealed edge joint, no unit numbers or signage anywhere, flat even overcast daylight, high detail, photorealistic, no text, no logos
