@@ -2911,3 +2911,64 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a 1970s brick-veneer condominium building elevation taken from the parking lot, the wall showing four visibly different patches of past repointing in mismatched mortar colours and joint profiles, a level horizontal crack running along the second-floor line with rust staining beneath it, weep holes at the base of the brick clearly mortared shut and partly buried under a raised mulch bed, spalled flaking brick in the bottom courses beside a downspout, an exterior balcony above with a heavily over-sealed edge joint, no unit numbers or signage anywhere, flat even overcast daylight, high detail, photorealistic, no text, no logos
+
+## Storm Damage Masonry Repair Homer Glen (location) — 2026-09-30
+**Intended path:** `/images/seo/storm-damage-masonry-repair-homer-glen-il.jpg`
+**Alt:** Rebuilt storm-damaged brick chimney with new crown and flashing on a home in Homer Glen, Illinois
+*(No house number, family name, vehicle plate, insurer branding or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken from a roof on a large 1990s suburban home, a tall brick chimney with its upper courses freshly rebuilt in matched brick and a new sloped crown with an overhang, a large broken tree limb still lying across the shingles beside it with bark abrasion visible on the masonry where it struck, displaced bricks arranged on a tarp with their clean bright unweathered fracture faces turned upward, a camera and a folding ruler laid next to them for documentation, mature trees and open large-lot subdivision beyond, flat overcast daylight, sharp detail, photorealistic, no text or logos
+
+## Commercial Masonry Restoration Bolingbrook (location) — 2026-09-30
+**Intended path:** `/images/seo/commercial-masonry-restoration-bolingbrook-il.jpg`
+**Alt:** Repaired concrete block wall and rebuilt dock surround on an industrial building in Bolingbrook, Illinois
+*(No carrier, tenant or logistics-company names, no trailer livery, no branded equipment.)*
+
+**Prompt:**
+> Documentary photo of a long concrete block warehouse elevation with a bank of overhead dock doors, one dock surround freshly rebuilt with clean new block and a repaired jamb while the neighbouring position shows crushed units and a cracked jamb from trailer impact, a vertical control joint newly raked out and resealed with backer rod visible partway along the run, salt staining and spalled face shells in the lowest courses, unmarked bollards in front of the repaired position, a lift and cones inside a coned exclusion zone with the rest of the yard clear, plain unbranded trailers at the far docks, bright flat daylight, photorealistic, no text, no lettering, no logos
+
+## Commercial Façade Repair Elmhurst (location) — 2026-09-30
+**Intended path:** `/images/seo/facade-repair-elmhurst-il.jpg`
+**Alt:** Repaired brick veneer and resealed window perimeters on a mixed-use commercial building in Elmhurst, Illinois
+*(No tenant names, no legible storefront or balcony signage, no unit numbers, no PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a five-storey 2010s mixed-use brick-clad building with blank unlettered retail glass at street level, a boom lift raised to the third floor where a mason in a hard hat is raking out and re-detailing the sealant joint around a window perimeter, a level horizontal crack running along the second-floor line with faint rust staining beneath it, a short section of veneer opened at that floor line exposing the steel shelf angle behind, a netted pedestrian protection canopy over the sidewalk below, flat even overcast daylight, high detail, photorealistic, no text, no signage, no logos
+
+## HOA & Condo Masonry Repair Mokena (location) — 2026-09-30
+**Intended path:** `/images/seo/hoa-masonry-repair-mokena-il.jpg`
+**Alt:** Repointed brick townhome association building with repaired veneer in Mokena, Illinois
+*(No unit numbers, association signage, family names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a small brick townhome association of a handful of buildings, the nearest building under pipe staging on one elevation with fresh repointing on the completed half, three identical buildings standing untouched behind it, a folding camp table on the grass with a hand-drawn site plan showing the buildings numbered and grouped into two phases plus a quantity sheet held down by a trowel, two people in ordinary clothes and one hard-hatted mason looking at the plan together, residents' patios cleared and sheeted, warm late-afternoon light, photorealistic, no legible text, no unit numbers, no logos
+
+## Chimney Repair Palos Hills (location) — 2026-09-30
+**Intended path:** `/images/seo/chimney-repair-palos-hills-il.jpg`
+**Alt:** Rebuilt chimney with new crown and flashing on a mid-century home in Palos Hills, Illinois
+*(No house number, family name or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken from the roof of a 1960s split-level home, a squat brick chimney with its top four courses rebuilt in matched brick and a newly formed sloped concrete crown with a projecting drip edge, the old thin cracked mortar wash broken out and lying on the shingles beside it, new step and counter flashing freshly set where the stack meets the shallow roof slope, a white PVC high-efficiency furnace vent clearly visible low on the side wall of the house below indicating the chimney no longer serves the furnace, spalled brick faces on the untouched lower portion of the stack, mason in hard hat and harness, clear morning light, photorealistic, no text or logos
+
+## Masonry Project Closeout & Punch List (blog) — 2026-09-30
+**Intended path:** `/images/blog/masonry-project-closeout-punch-list-final-acceptance-il.jpg`
+**Alt:** Finished repointing compared against the approved mortar mock-up panel at handover
+
+**Prompt:**
+> Documentary photo of a completed repointed brick elevation at handover with the staging already removed, a cured approved mortar mock-up panel still in place low on the wall, a hard-hatted mason and a property manager standing a normal viewing distance back and comparing the finished joints against the panel, a clipboard punch list and a camera in the manager's hands, one small area of the wall marked with a strip of low-tack tape indicating a listed item, dry wall in even daylight, sharp detail, photorealistic, no legible text, no logos
+
+## Like Kind and Quality — Matching Brick on a Claim (blog) — 2026-09-30
+**Intended path:** `/images/blog/like-kind-matching-masonry-insurance-claim-il.jpg`
+**Alt:** Three candidate replacement bricks trialled against an original wall for colour, size and texture
+
+**Prompt:**
+> Instructional close documentary photo of an older variegated brick wall with a small damaged area opened up, three candidate replacement bricks laid loosely in the opening side by side — one salvaged and closely matching, one modern and visibly flatter in colour, one noticeably different in height so the joint lines fail to align with the surrounding courses — a folding ruler across them showing the dimensional difference, two small cured mortar colour samples on the brick below, half the wall lightly wetted to show how colours shift damp versus dry, flat daylight, high detail, photorealistic, no text or logos
+
+## Two-Flat Parapet & Roofline (blog) — 2026-09-30
+**Intended path:** `/images/blog/two-flat-parapet-roofline-masonry-chicago-il.jpg`
+**Alt:** Roof-side face of a Chicago two-flat parapet showing open coping joints and spalled common brick
+
+**Prompt:**
+> Documentary photo taken standing on the flat roof of a Chicago two-flat looking along the parapet, the roof-side face of the wall clearly in far worse condition than a street face would be — soft common brick spalled and flaking, joints receded and sandy — limestone coping above with two open bed joints and an old cracked bead of sealant along the run, the roof membrane turned up the inside of the parapet with tired base flashing, a scupper penetrating the wall with a failed sleeve, an adjoining building's shared parapet continuing at the same height to one side, chimney visible further along the roof, flat overcast daylight, high detail, photorealistic, no text, no address numbers, no logos
