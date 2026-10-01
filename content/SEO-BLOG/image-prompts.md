@@ -2972,3 +2972,69 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo taken standing on the flat roof of a Chicago two-flat looking along the parapet, the roof-side face of the wall clearly in far worse condition than a street face would be — soft common brick spalled and flaking, joints receded and sandy — limestone coping above with two open bed joints and an old cracked bead of sealant along the run, the roof membrane turned up the inside of the parapet with tired base flashing, a scupper penetrating the wall with a failed sleeve, an adjoining building's shared parapet continuing at the same height to one side, chimney visible further along the roof, flat overcast daylight, high detail, photorealistic, no text, no address numbers, no logos
+
+
+## Retail Strip Center Masonry Repair Homer Glen (location, competitor-informed) — 2026-10-01
+**Intended path:** `/images/seo/retail-strip-center-masonry-repair-homer-glen-il.jpg`
+**Alt:** Mason resealing control joints on the concrete block rear wall of a suburban retail strip center in Homer Glen, Illinois
+*(No tenant names, store signage, logos or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of the rear service drive of a one-storey 2000s suburban retail strip center, a long painted concrete block back wall with several steel rear doors, the coating chalked and peeling in patches, vertical control joints with old failed sealant, one section freshly routed and resealed with new grey sealant and patched block faces, a boom lift parked against the wall with a hard-hatted mason in hi-vis and harness at parapet level resetting a metal coping section, a dumpster enclosure with a broken block corner in the foreground, open flat land and a retention pond visible beyond, overcast autumn daylight, photorealistic, no legible text, no store signs, no logos
+
+
+## Commercial Tuckpointing Bridgeview (location) — 2026-10-01
+**Intended path:** `/images/seo/commercial-tuckpointing-bridgeview-il.jpg`
+**Alt:** Brick office front being repointed on a block-walled warehouse building in Bridgeview, Illinois
+*(No business name, signage or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a single-storey light-industrial building, a brick office front at left with a section of joints freshly repointed in matched mortar and the adjacent section still raked out to clean depth, the concrete block warehouse wall continuing to the right with weathered recessed head joints, a loading dock with closed overhead doors further along, a scissor lift parked against the brick face with a hard-hatted mason in hi-vis vest and safety glasses tooling joints, orange barricades and a cone line keeping the dock lane clear, overcast autumn daylight, photorealistic, no legible text, no logos
+
+## Parapet Wall Repair Evergreen Park (location) — 2026-10-01
+**Intended path:** `/images/seo/parapet-wall-repair-evergreen-park-il.jpg`
+**Alt:** Rebuilt parapet and new coping above a row of brick storefronts in Evergreen Park, Illinois
+*(No tenant signs, business names or PLM branding.)*
+
+**Prompt:**
+> Documentary street-level photo of a continuous row of one-storey brick storefronts, the parapet above the left half freshly rebuilt in matched brick with new precast coping and clean sealed joints, the right half still showing open coping joints, rust staining streaking down from old sign anchors and patched anchor holes, blank sign band with all signage removed, pipe staging with a plank walkway and a covered sidewalk shed protecting the entrances below, a mason in hard hat and harness on the roof edge, clear fall light, photorealistic, no legible text, no logos
+
+
+## Lintel Replacement Chicago Ridge (location) — 2026-10-01
+**Intended path:** `/images/seo/lintel-replacement-chicago-ridge-il.jpg`
+**Alt:** New galvanized steel lintel and rebuilt brick over an apartment window in Chicago Ridge, Illinois
+*(No unit numbers, building name or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1970s three-storey brick veneer apartment building, one second-floor window head opened up with the brick above removed in a stepped pattern, a new hot-dip galvanized steel angle lintel set in place with black through-wall flashing and end dams lapped over it, the old rusted and layered steel lintel lying on the scaffold plank, temporary adjustable shores supporting the brick above, a neighbouring window still showing a diagonal step crack and orange rust streaks below its head, window glass left in place and covered with plastic, mason in hard hat and safety glasses on pipe scaffold, flat overcast daylight, photorealistic, no text, no logos
+
+## Tuckpointing Hinsdale (location) — 2026-10-01
+**Intended path:** `/images/seo/tuckpointing-hinsdale-il.jpg`
+**Alt:** Mason hand-raking soft mortar joints on a 1920s brick home in Hinsdale, Illinois
+*(No house number, family name or PLM branding.)*
+
+**Prompt:**
+> Documentary close-to-mid photo of a 1920s Georgian revival brick home with soft orange-red wire-cut brick, a mason in safety glasses hand-raking old lime mortar from bed joints with a plugging chisel rather than a grinder, half the wall freshly repointed in a warm buff lime-rich mortar with a neat concave joint profile, the other half showing receded sandy joints, a small cured mortar test panel near the base of the wall beside a bucket and pointing trowels, mature tree shade dappling the wall, limestone sill above, soft morning light, photorealistic, no text, no address numbers, no logos
+
+
+## Fall Masonry Bid Planning (blog) — 2026-10-01
+**Intended path:** `/images/blog/fall-masonry-planning-bid-now-for-spring-commercial-il.jpg`
+**Alt:** Property manager and mason assessing a mid-rise brick building's façade in autumn with leaves down
+
+**Prompt:**
+> Documentary photo of a three-storey brick multi-family or small commercial building in late October, mature trees in front mostly bare with fallen leaves on the lawn and walk, the façade now clearly visible showing receded mortar joints, a rust-stained steel lintel over one window and a few spalled brick near grade, a hard-hatted mason in hi-vis pointing up at the wall while a property manager in a jacket holds a tablet and clipboard taking notes, a folded ladder leaned against the wall, overcast cool autumn light, photorealistic, no legible text, no address numbers, no logos
+
+## Mixed-Use Building Masonry (blog) — 2026-10-01
+**Intended path:** `/images/blog/mixed-use-building-masonry-storefront-apartments-chicago.jpg`
+**Alt:** Two-storey brick mixed-use corridor building with storefront beam repair under a sidewalk canopy and apartments above
+
+**Prompt:**
+> Documentary street-level photo of a two-storey 1920s brick mixed-use corridor building on a busy Chicago-area commercial street, a wide plate-glass storefront at grade with its entrance open and lit, a timber-and-plywood covered sidewalk canopy protecting pedestrians, the brick directly above the display window opened up to expose a newly primed steel beam with temporary shoring and fresh through-wall flashing, old rust staining still visible on the sign band beside the opening, apartment windows on the second floor with one window air conditioner removed and its opening sheeted, a corbelled brick cornice at the roofline, a mason in hard hat and hi-vis working from the canopy deck, overcast daylight, photorealistic, no legible store name, no text, no logos
+
+
+## Masonry Repairs Before Winter (blog) — 2026-10-01
+**Intended path:** `/images/blog/masonry-repairs-before-winter-what-cant-wait-illinois.jpg`
+**Alt:** Mason replacing a cracked chimney crown on a Chicagoland brick bungalow before winter
+
+**Prompt:**
+> Documentary photo on the roof of a 1920s Chicago brick bungalow in late October, a mason in hard hat and fall-arrest harness forming a new sloped concrete chimney crown with a projecting drip edge, the old cracked mortar-wash crown broken out in pieces in a bucket beside him, a new stainless chimney cap waiting on the shingles, insulated curing blankets folded nearby, bare trees and scattered orange leaves in neighbouring yards, low cool autumn sunlight, breath faintly visible in the cold air, photorealistic, no text, no address numbers, no logos
