@@ -3038,3 +3038,68 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo on the roof of a 1920s Chicago brick bungalow in late October, a mason in hard hat and fall-arrest harness forming a new sloped concrete chimney crown with a projecting drip edge, the old cracked mortar-wash crown broken out in pieces in a bucket beside him, a new stainless chimney cap waiting on the shingles, insulated curing blankets folded nearby, bare trees and scattered orange leaves in neighbouring yards, low cool autumn sunlight, breath faintly visible in the cold air, photorealistic, no text, no address numbers, no logos
+
+## Commercial Tuckpointing Evergreen Park (location) — 2026-10-01
+**Intended path:** `/images/seo/commercial-tuckpointing-evergreen-park-il.jpg`
+**Alt:** Mason repointing brick on a vintage three-storey courtyard apartment building in Evergreen Park, Illinois
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a mason on a swing stage repointing the mortar joints of a 1920s three-storey red-brick courtyard apartment building, half the elevation freshly repointed with crisp concave joints and the other half showing receding sandy mortar, limestone sills and a steel lintel over a window, covered protected walkway at the courtyard entrance below, overcast autumn light, worker in hard hat, safety glasses, dust mask and harness, photorealistic, no text, no logos
+
+## Facade Repair Naperville (location) — 2026-10-01
+**Intended path:** `/images/seo/facade-repair-naperville-il.jpg`
+**Alt:** Mason rebuilding brick veneer above an exposed shelf angle with new flashing on a Naperville office building
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1990s three-storey suburban brick-veneer office building with limestone trim, a horizontal course of brick removed at a floor line exposing a cleaned and coated steel shelf angle with new stainless through-wall flashing and drip edge, mason on an aerial lift rebuilding the veneer, fresh sealant at adjacent window perimeters, barricaded walkway below, clear daylight, worker in hard hat, safety glasses, gloves and harness, photorealistic, no text, no logos
+
+## Courtyard Apartment Building Masonry Repair (blog) — 2026-10-01
+**Intended path:** `/images/seo/courtyard-apartment-building-masonry-repair-chicago-il.jpg`
+**Alt:** Mason repointing Chicago common brick in the light well of a 1920s U-shaped courtyard apartment building, with face brick and limestone trim visible on the courtyard elevation
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a three-story 1920s Chicago U-shaped courtyard apartment building, red-brown textured face brick with limestone belt courses and a carved limestone entry surround facing a landscaped courtyard; on one side, a mason in hard hat, safety glasses and harness on a swing-stage scaffold repointing weathered Chicago common brick inside a shaded light well, fresh mortar joints contrasting with eroded ones, overcast autumn light, photorealistic, no text, no logos
+
+## HOA & Condo Masonry Repair Oak Forest (location) — 2026-10-01
+**Intended path:** `/images/seo/hoa-masonry-repair-oak-forest-il.jpg`
+**Alt:** Repointed brick condominium building with repaired balconies and lintels in Oak Forest, Illinois
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a three-storey 1980s tan-brick condominium building in a south Chicago suburb, freshly repointed mortar joints on one elevation contrasting with weathered joints on the next, steel window lintels newly painted, small concrete balconies with metal railings, a mason in hard hat, safety glasses and harness on a boom lift working at a third-floor window head, overcast autumn light, parking lot and mature trees in foreground, photorealistic, no text, no logos
+
+## Church Masonry Restoration Lemont (location) — 2026-10-01
+**Intended path:** `/images/seo/church-masonry-restoration-lemont-il.jpg`
+**Alt:** Restored 19th-century limestone church wall with new lime mortar joints in Lemont, Illinois
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 19th-century buff dolomitic limestone church wall and bell tower base, rough-faced ashlar blocks, fresh soft lime mortar joints on a repaired section, one new matching stone dutchman set into an older weathered block, scaffold along the tower, a mason in hard hat, safety glasses and gloves tooling a joint, arched stained-glass window edge visible but no religious signage, soft morning light, photorealistic, no text, no logos
+
+## Foundation Masonry Repair Frankfort (location) — 2026-10-01
+**Intended path:** `/images/seo/foundation-masonry-repair-frankfort-il.jpg`
+**Alt:** Repaired brick veneer and parged foundation wall on a suburban home in Frankfort, Illinois
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of the lower corner of a 2000s suburban brick-veneer home, fresh brick and mortar replacing a stair-step crack just above the brick ledge, newly parged grey foundation wall below, a galvanized window well with clean gravel, mulch bed and downspout extension, a mason in safety glasses and gloves kneeling with a trowel, overcast daylight, photorealistic, no text, no logos
+
+## Strip Center Masonry Repair (blog) — 2026-10-01
+**Intended path:** `/images/seo/strip-center-shopping-plaza-masonry-repair-chicagoland-il.jpg`
+**Alt:** Mason replacing truck-damaged concrete block on the rear service wall of a single-storey retail strip center
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of the rear service elevation of a long single-storey suburban Chicagoland strip shopping center, painted gray CMU block wall with a few cracked and displaced blocks near a steel service door, a mason in hi-vis vest, hard hat, safety glasses and gloves setting a replacement block with a trowel, mortar board on a stand, yellow steel bollards beside the door, masonry dumpster enclosure in the background, overcast autumn daylight, asphalt service drive, photorealistic, no text, no logos
+
+
+## Medical Office Building Masonry Repair (blog) — 2026-10-01
+**Intended path:** `/images/seo/medical-office-building-masonry-repair-chicagoland-il.jpg`
+**Alt:** Masons repointing the brick veneer beside the covered patient entrance of a suburban medical office building, with the walkway kept open
+*(No house numbers, signage, client names or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a two-storey 1990s brick-veneer medical office building in a Chicago suburb on an overcast early morning, a brick-clad porte-cochère canopy at the entrance, two masons on a low scissor lift repointing mortar joints at a window head using a shrouded grinder with a dust-extraction hose, a clear protected walkway with a covered overhead barrier leading to the glass entry doors, neat barriers, wet pavement, muted natural light, hard hats, safety glasses, respirators and hi-vis vests, photorealistic, no text, no logos
