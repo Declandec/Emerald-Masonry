@@ -2,6 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllSeoPages } from "@/lib/seo-pages";
 import { getAllServiceSlugs } from "@/data/services";
 import audiences from "@/data/audiences";
+import { isNoindexed } from "@/lib/prune";
 import fs from "fs";
 import path from "path";
 
@@ -54,14 +55,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
-  const blogRoutes: MetadataRoute.Sitemap = blogSlugs.map((slug) => ({
+  const blogRoutes: MetadataRoute.Sitemap = blogSlugs.filter((slug) => !isNoindexed(`/blog/${slug}`)).map((slug) => ({
     url: `${BASE_URL}/blog/${slug}`,
     lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.7,
   }));
 
-  const locationRoutes: MetadataRoute.Sitemap = seoPages.map((page) => ({
+  const locationRoutes: MetadataRoute.Sitemap = seoPages.filter((page) => !isNoindexed(`/locations/${page.slug}`)).map((page) => ({
     url: `${BASE_URL}/locations/${page.slug}`,
     lastModified: pageDate(page.date, now),
     changeFrequency: "monthly" as const,

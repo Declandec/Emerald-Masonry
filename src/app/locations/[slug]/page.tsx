@@ -1,5 +1,6 @@
 import { getSeoPage, getSeoPageHtml, getAllSeoSlugs, getRelatedSeoPages } from "@/lib/seo-pages";
 import { notFound } from "next/navigation";
+import { isNoindexed } from "@/lib/prune";
 import Image from "next/image";
 import Link from "next/link";
 import Navigation from "@/components/sections/Navigation";
@@ -35,6 +36,7 @@ export async function generateMetadata({
   const page = getSeoPage(slug);
   if (!page) return {};
   return {
+    ...(isNoindexed(`/locations/${slug}`) ? { robots: { index: false, follow: true } } : {}),
     title: buildTitle(page.metaTitle),
     description: page.metaDescription,
     keywords: [page.primaryKeyword, ...page.secondaryKeywords],

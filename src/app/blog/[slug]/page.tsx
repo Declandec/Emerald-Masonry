@@ -1,5 +1,6 @@
 import { getPostBySlug, getPostHtml, getAllPosts } from "@/lib/blog";
 import { notFound } from "next/navigation";
+import { isNoindexed } from "@/lib/prune";
 import Image from "next/image";
 import Link from "next/link";
 import Navigation from "@/components/sections/Navigation";
@@ -30,6 +31,7 @@ export async function generateMetadata({
   const post = getPostBySlug(slug);
   if (!post) return {};
   return {
+    ...(isNoindexed(`/blog/${slug}`) ? { robots: { index: false, follow: true } } : {}),
     title: buildTitle(post.title),
     description: post.excerpt,
     keywords: post.keywords,
