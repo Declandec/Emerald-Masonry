@@ -3103,3 +3103,72 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a two-storey 1990s brick-veneer medical office building in a Chicago suburb on an overcast early morning, a brick-clad porte-cochère canopy at the entrance, two masons on a low scissor lift repointing mortar joints at a window head using a shrouded grinder with a dust-extraction hose, a clear protected walkway with a covered overhead barrier leading to the glass entry doors, neat barriers, wet pavement, muted natural light, hard hats, safety glasses, respirators and hi-vis vests, photorealistic, no text, no logos
+
+
+## CMU Block Repair Orland Park (location, competitor-informed) — 2026-10-03
+**Intended path:** `/images/seo/cmu-block-repair-orland-park-il.jpg`
+**Alt:** Mason resealing a control joint on a painted concrete block office-warehouse wall in Orland Park, Illinois
+*(No tenant names, signage, logos or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of the side elevation of a single-storey painted concrete block office-warehouse building, the old beige paint peeling in vertical stripes beside a failed control joint, a hard-hatted mason in hi-vis on a scissor lift cutting out old cracked sealant and inserting grey backer rod, a routed and patched shrinkage crack nearby, several block units freshly replaced and still unpainted, the left third of the wall already repaired and rolled with fresh block filler showing an even matte finish, an overhead dock door with a dented block corner beside it, open parking lot and retention pond in the background, overcast autumn daylight, photorealistic, no legible text, no signs, no logos
+
+
+## HOA Masonry Repair Homer Glen (location) — 2026-10-03
+**Intended path:** `/images/seo/hoa-masonry-repair-homer-glen-il.jpg`
+**Alt:** Mason resetting the cap on a brick entrance monument at a Homer Glen, Illinois townhome association
+*(No subdivision name, address numbers or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 2000s suburban townhome association entrance, a brick-and-stone entrance monument with its sign panel blank, one end pier partly rebuilt with fresh matched brick and a new precast cap being set by a hard-hatted mason in hi-vis, cracked old cap pieces on a tarp, a cluster brick mailbox bank and a row of brick-front townhomes with vinyl-sided gable ends and garage doors in the background, a detention pond edge visible, mulch beds protected with plywood, overcast autumn light, photorealistic, no legible text, no logos
+
+## Church Masonry Restoration Palos Heights (location) — 2026-10-03
+**Intended path:** `/images/seo/church-masonry-restoration-palos-heights-il.jpg`
+**Alt:** Bell tower and long brick nave wall being restored on a mid-century church in Palos Heights, Illinois
+*(No church name, signage, religious text or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a 1960s mid-century modern church, a slender freestanding brick bell tower with a precast cap, a boom lift raised to the top of the tower with a hard-hatted, harnessed mason repointing joints near the cap, a long plain brick nave wall beside it with a newly cut vertical expansion joint sealed in grey and a tall faceted stained-glass window wall set in the masonry, limestone coping along the roof edge, orange safety fencing around the lift base on a lawn, clear morning light, photorealistic, no legible text, no signage, no logos
+
+
+## Parapet Wall Repair Burbank (location) — 2026-10-03
+**Intended path:** `/images/seo/parapet-wall-repair-burbank-il.jpg`
+**Alt:** Rebuilt brick parapet with new coping ready for a roof replacement on a commercial building in Burbank, Illinois
+*(No business names, signage, logos or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken on the flat roof of a 1960s one-storey brick commercial building, the old roof membrane partly torn off and rolled back exposing insulation boards, the parapet along the roof edge with its top four courses freshly rebuilt in matched brick and new clay tile coping set on fresh mortar, a strip of black through-wall flashing visible projecting at the base of the rebuilt courses, abandoned rusty sign brackets and conduit straps removed from the wall with their holes patched, a rooftop HVAC unit on a curb nearby, a hard-hatted mason and a roofer in hi-vis talking beside the wall, bright overcast autumn light, photorealistic, no legible text, no logos
+
+## Chimney Repair Lemont (location) — 2026-10-03
+**Intended path:** `/images/seo/chimney-repair-lemont-il.jpg`
+**Alt:** Repointed brick chimney with a new sloped crown and flashing on an older home in Lemont, Illinois
+*(No house number, family name or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken from the roof of an older two-storey home on a hillside town street, a short soft red-brick chimney freshly repointed with a pale lime-rich mortar that closely matches the original, a few replaced bricks blending in, a newly formed sloped concrete crown projecting past the brick with a drip edge, a stainless steel chimney cap, new step and counter flashing where the stack meets the roof, a river valley and wooded bluff visible in the distance under a clear autumn sky, a mason in hard hat and harness kneeling on roof brackets with a pointing trowel, photorealistic, no text or logos
+
+
+## Senior Living Masonry (blog) — 2026-10-03
+**Intended path:** `/images/blog/senior-living-assisted-living-masonry-repair-chicagoland-il.jpg`
+**Alt:** Mason replacing window sealant on a brick assisted living building with a protected walkway below
+*(No facility name, resident faces, logos or PLM branding.)*
+
+**Prompt:**
+> Documentary photo of a two-storey 1990s suburban brick-veneer assisted living building with long runs of punched windows, a hard-hatted mason in hi-vis and harness on a small boom lift cutting out old cracked sealant at a window perimeter, fresh grey sealant on the completed windows to one side, a lintel above one window with rust staining awaiting replacement, the window in the work zone closed with a sheet of clear poly taped inside, below a covered walkway with stable yellow barricades and a smooth level path for walkers, a porte-cochère with brick columns in the background, autumn trees, soft overcast daylight, photorealistic, no legible text, no identifiable people in windows, no logos
+
+
+## Abandoned Apartment Chimneys (blog) — 2026-10-03
+**Intended path:** `/images/blog/abandoned-chimneys-apartment-buildings-remove-cap-rebuild-chicago.jpg`
+**Alt:** Abandoned multi-flue masonry boiler stack on a Chicago courtyard apartment building roof, partly lowered and capped
+*(No address numbers, building names, logos or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken on the flat roof of a 1920s Chicago brick courtyard apartment building, a tall square three-flue masonry boiler stack with its top courses spalled, loose and missing, a broken mortar crown and bare clay flue liners protruding, white efflorescence streaking down the faces; beside it a second, smaller stack already taken down below the roofline with a solid capped masonry top and fresh roof membrane patched over it; new white PVC high-efficiency boiler vent pipes visible exiting a side wall below; a hard-hatted mason in hi-vis and fall-arrest harness lowering bricks in a bucket on a rope hoist, debris netting at the roof edge, overcast autumn daylight, photorealistic, no legible text, no logos
+
+
+## 25-Year-Old Brick Homes (blog) — 2026-10-03
+**Intended path:** `/images/blog/25-year-old-brick-home-masonry-problems-chicago-suburbs.jpg`
+**Alt:** Rusted steel lintel and step crack above the garage door of a 1990s brick-veneer home in the southwest Chicago suburbs
+
+**Prompt:**
+> Documentary photo of the front of a two-storey 1990s suburban brick-veneer home with a two-car garage, the steel lintel over the garage door visibly rusted with peeling paint and a horizontal crack along the brick course above it plus a stair-step crack rising from one corner, white efflorescence streaks fanning from the upper corners of a window, dried and cracked caulk around a dryer vent and hose bib, mulch piled against the bottom brick course covering the weep holes, a brick-clad chimney chase with a rusted metal top visible on the roof, front stoop slightly separated from the house, a hard-hatted mason in hi-vis on the driveway holding a clipboard and looking up at the lintel, mature suburban landscaping, overcast autumn daylight, photorealistic, no house numbers, no text, no logos
