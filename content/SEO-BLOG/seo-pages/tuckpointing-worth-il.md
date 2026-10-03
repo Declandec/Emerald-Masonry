@@ -43,7 +43,7 @@ faqs:
   - q: "Can tuckpointing be done in winter?"
     a: "Only with heat and protection, and often it is better scheduled. Fresh mortar needs temperatures reliably above freezing to cure properly, so cold-weather work either carries proper protection or it should wait for a workable window."
   - q: "Do you serve Worth and the nearby suburbs?"
-    a: "Yes — Worth, 60482, and the surrounding Cook County communities including Palos Heights, Chicago Ridge, Palos Hills, Alsip, Crestwood, Oak Lawn and Bridgeview. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464. Call (708) 288-1696."
+    a: "Yes — Worth, 60482, and the surrounding Cook County communities including Palos Heights, Chicago Ridge, Palos Hills, Alsip, Crestwood, Oak Lawn and Bridgeview. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Call (708) 288-1696."
 competitorInformed: false
 ---
 
@@ -130,7 +130,7 @@ The **wall area actually failing**, not the size of the house. **How many elevat
 
 ## Trust signals
 
-Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. **Licensed, bonded and insured**, non-union, based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464. Free on-site assessments — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. **Licensed, bonded and insured**, non-union, based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Free on-site assessments — call **(708) 288-1696**.
 
 ## Related services
 

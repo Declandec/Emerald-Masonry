@@ -43,7 +43,7 @@ faqs:
   - q: "Do you provide a COI, W-9 and lien waivers?"
     a: "Yes — on request before work starts, and lien waivers with each payment application. Associations need that paperwork for their files and their insurer, and a contractor who cannot produce it is a risk to the board personally."
   - q: "Do you serve Palos Heights and nearby associations?"
-    a: "Yes — Palos Heights, 60463, and the surrounding southwest Cook County communities including Palos Park, Palos Hills, Orland Park, Worth, Chicago Ridge and Hickory Hills. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464. Call (708) 288-1696."
+    a: "Yes — Palos Heights, 60463, and the surrounding southwest Cook County communities including Palos Park, Palos Hills, Orland Park, Worth, Chicago Ridge and Hickory Hills. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Call (708) 288-1696."
 competitorInformed: false
 ---
 
@@ -149,7 +149,7 @@ Association work is occupied work by definition, and residents are not tenants �
 
 ## Trust signals
 
-Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. **Licensed, bonded and insured; COI, W-9 and lien waivers on request.** Non-union. Based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464 — this is our home town.
+Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. **Licensed, bonded and insured; COI, W-9 and lien waivers on request.** Non-union. Based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463 — this is our home town.
 
 Boards start at [HOA and condo associations](/hoa-condo-associations); managed properties at [property managers](/property-managers); owners and GCs at [commercial](/commercial).
 

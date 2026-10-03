@@ -22,7 +22,7 @@ export const BUSINESS = {
   streetAddress: "7156 W. 126th St. Suite 136",
   addressLocality: "Palos Heights",
   addressRegion: "IL",
-  postalCode: "60464",
+  postalCode: "60463",
   addressCountry: "US",
   latitude: 41.6631,
   longitude: -87.7957,

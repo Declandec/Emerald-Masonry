@@ -126,7 +126,7 @@ Institutional owners can start at our [churches and schools](/churches-schools) 
 
 ## Trust signals
 
-Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Non-union. Based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464. Free on-site assessments — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Non-union. Based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Free on-site assessments — call **(708) 288-1696**.
 
 ## Related services
 

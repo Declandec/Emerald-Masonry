@@ -124,4 +124,4 @@ Explore our full [tuckpointing](/services/tuckpointing) service, learn about [br
 
 Sandy joints, spalling brick or water in the basement won't fix themselves — and they get more expensive every winter. Get a free, no-pressure on-site estimate from a masonry contractor who's been repointing Chicago brick for career masons.
 
-**Call Emerald Masonry LLC at (708) 288-1696** or [request your free estimate](/#contact). Email emeraldmasonryil@gmail.com — we're at 7156 W. 126th St. Suite 136, Palos Heights, IL 60464, serving all of Chicago and Chicagoland.
+**Call Emerald Masonry LLC at (708) 288-1696** or [request your free estimate](/#contact). Email emeraldmasonryil@gmail.com — we're at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463, serving all of Chicago and Chicagoland.
