@@ -105,7 +105,7 @@ Size of the failed section · veneer versus structural masonry · height and acc
 
 ## Serving Palos Heights and the Southwest Suburbs
 
-Palos Heights is home for us — our office is at 7156 W. 126th St., Suite 136 — and we rebuild brick throughout 60463 and the surrounding villages. Related work on the same house often includes [brick repair in Palos Heights](/locations/brick-repair-palos-heights-il), [tuckpointing in Palos Heights](/locations/tuckpointing-palos-heights-il), [chimney repair in Palos Heights](/locations/chimney-repair-palos-heights-il) and [residential masonry restoration in Palos Heights](/locations/residential-masonry-restoration-palos-heights-il). We do the same work in Palos Park, Palos Hills, Orland Park and Worth.
+Palos Heights is home for us — our office is at 7156 W. 127th St. — and we rebuild brick throughout 60463 and the surrounding villages. Related work on the same house often includes [brick repair in Palos Heights](/locations/brick-repair-palos-heights-il), [tuckpointing in Palos Heights](/locations/tuckpointing-palos-heights-il), [chimney repair in Palos Heights](/locations/chimney-repair-palos-heights-il) and [residential masonry restoration in Palos Heights](/locations/residential-masonry-restoration-palos-heights-il). We do the same work in Palos Park, Palos Hills, Orland Park and Worth.
 
 ## Why Palos Heights Homeowners Call Emerald
 

@@ -35,7 +35,7 @@ faqs:
   - q: "Can you repoint just the chimney or one elevation?"
     a: "Yes — spot repointing is common in Palos Park, particularly on chimneys and the weather-beaten or heavily shaded elevations. What matters is that the repair follows the damage to its natural edges rather than stopping at an arbitrary line, and that the mortar is matched so the patch does not stand out."
   - q: "Are you local to Palos Park?"
-    a: "Yes — Emerald Masonry LLC is based at 7156 W. 126th St. in neighboring Palos Heights, a couple of miles away. That means quick estimate scheduling and no travel time padding the number. Call (708) 288-1696."
+    a: "Yes — Emerald Masonry LLC is based at 7156 W. 127th St. in neighboring Palos Heights, a couple of miles away. That means quick estimate scheduling and no travel time padding the number. Call (708) 288-1696."
 competitorInformed: false
 ---
 

@@ -19,7 +19,7 @@ export const BUSINESS = {
   logo: `${BASE_URL}/logo.png`,
   image: `${BASE_URL}/images/work/commercial-warehouse-tuckpointing.webp`,
   priceRange: "$$$",
-  streetAddress: "7156 W. 126th St. Suite 136",
+  streetAddress: "7156 W. 127th St.",
   addressLocality: "Palos Heights",
   addressRegion: "IL",
   postalCode: "60463",

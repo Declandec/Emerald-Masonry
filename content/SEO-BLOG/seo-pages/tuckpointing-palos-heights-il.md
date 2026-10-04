@@ -33,7 +33,7 @@ faqs:
   - q: "How long does tuckpointing last?"
     a: "When the joints are ground out to the proper depth and repointed with the correct mortar type, quality tuckpointing commonly lasts 25 years or more. Longevity depends heavily on matching the mortar to the brick — too hard a mortar on soft, older brick can cause damage over time. Our southwest Cook County freeze-thaw winters make correct depth and proper tooling especially important."
   - q: "Are you local to Palos Heights, and are you licensed and insured?"
-    a: "Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate."
+    a: "Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 127th St., so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate."
 competitorInformed: true
 ---
 
@@ -126,7 +126,7 @@ When the joints are ground out to the proper depth and repointed with the correc
 
 **Are you local to Palos Heights, and are you licensed and insured?**
 
-Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 126th St., Suite 136, so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate.
+Yes — Emerald Masonry LLC is based right here in Palos Heights at 7156 W. 127th St., so we know the local housing stock and climate firsthand. We are a family-owned company led by career masons with decades of hands-on Chicagoland experience and we are licensed, bonded, and insured. Call (708) 288-1696 for a free on-site estimate.
 
 ## Get a Free Tuckpointing Estimate in Palos Heights
 

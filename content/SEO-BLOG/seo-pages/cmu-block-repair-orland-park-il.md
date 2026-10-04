@@ -113,7 +113,7 @@ Orland Park's block buildings sit in office-warehouse and flex parks, behind ret
 
 > Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, led by career masons with decades of hands-on Chicagoland experience — commercial tuckpointing, façade and parapet repair, lintel replacement, CMU block repair, brick repair and replacement, caulking, sealing and commercial masonry restoration. Free on-site assessments — call (708) 288-1696.
 
-- **Established 2024**, led by career masons, based minutes away at 7156 W. 126th St., Palos Heights.
+- **Established 2024**, led by career masons, based minutes away at 7156 W. 127th St., Palos Heights.
 - **Licensed, bonded and insured**; COI, W-9 and lien waivers on request.
 - **Commercial-first** — we work for [commercial owners](/commercial), [property managers](/property-managers) and [general contractors](/general-contractors) preparing buildings for new tenants.
 

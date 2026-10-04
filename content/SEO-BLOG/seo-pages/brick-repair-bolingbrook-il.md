@@ -117,4 +117,4 @@ With **career masons** of hands-on masonry experience, we have seen every brick 
 
 ## Get a free brick repair estimate in Bolingbrook
 
-If your Bolingbrook brick is spalling, cracking, or coming loose, don't wait for a repair to become a rebuild. Call **Emerald Masonry LLC** at **(708) 288-1696** or email **emeraldmasonryil@gmail.com** for a free on-site estimate. Emerald Masonry LLC · 7156 W. 126th St. Suite 136, Palos Heights, IL 60463 · [emeraldmasonryil.com](https://emeraldmasonryil.com).
+If your Bolingbrook brick is spalling, cracking, or coming loose, don't wait for a repair to become a rebuild. Call **Emerald Masonry LLC** at **(708) 288-1696** or email **emeraldmasonryil@gmail.com** for a free on-site estimate. Emerald Masonry LLC · 7156 W. 127th St., Palos Heights, IL 60463 · [emeraldmasonryil.com](https://emeraldmasonryil.com).

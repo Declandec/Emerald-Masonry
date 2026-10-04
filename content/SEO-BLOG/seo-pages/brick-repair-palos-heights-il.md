@@ -19,7 +19,7 @@ serviceSlug: "brick-repair"
 pageType: "location"
 metaTitle: "Brick Repair in Palos Heights, IL | Emerald Masonry LLC"
 metaDescription: "Brick repair in Palos Heights, IL — spalled brick replacement, step cracks and mortar repair by your local masonry company. Free estimates: (708) 288-1696."
-excerpt: "Palos Heights is home for Emerald Masonry LLC — our office is on 126th Street, and the brick homes we repair here are in our own neighborhood. We replace spalled brick, repair step cracks, and fix the water problem underneath the damage."
+excerpt: "Palos Heights is home for Emerald Masonry LLC — our office is on 127th Street, and the brick homes we repair here are in our own neighborhood. We replace spalled brick, repair step cracks, and fix the water problem underneath the damage."
 aiSummary: "Emerald Masonry LLC provides brick repair in Palos Heights, IL — replacing spalled and cracked brick, repairing step cracks, matching brick and mortar, and correcting the water intrusion causing the damage. Family-owned and based in Palos Heights, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
 image: "/images/after-residential-2.webp"
 imageAlt: "Replaced and repaired brick blended into a wall on a Palos Heights Illinois home"
@@ -31,7 +31,7 @@ faqs:
   - q: "Why is the brick on my Palos Heights home spalling?"
     a: "Water getting into the brick, then freezing inside it. Water enters through open mortar joints, a failed sill, or splash-back at grade, and when it freezes it expands and breaks the face off the unit in layers. Wooded lots and the Cal-Sag corridor keep shaded elevations damp longer here, which makes it worse."
   - q: "Are you actually local to Palos Heights?"
-    a: "Yes — Emerald Masonry LLC is based at 7156 W. 126th St. in Palos Heights. We are a family-owned company working in our own community, which means short response times on estimates and no travel surcharge buried in the number. Call (708) 288-1696."
+    a: "Yes — Emerald Masonry LLC is based at 7156 W. 127th St. in Palos Heights. We are a family-owned company working in our own community, which means short response times on estimates and no travel surcharge buried in the number. Call (708) 288-1696."
   - q: "What do step cracks in my brick wall mean?"
     a: "A stair-step crack following the mortar joints signals movement — seasonal clay soil movement, foundation settlement, or a rusting steel lintel lifting the masonry above an opening. The crack is a symptom, so the repair starts with identifying what moved. Patching without addressing the cause simply reopens it."
   - q: "Can you match the brick on a 1960s Palos Heights home?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Brick Repair in Palos Heights, IL — From a Company Based Here
 
-Brick repair in Palos Heights, IL means replacing spalled and cracked brick, repairing step cracks, matching the new masonry into the existing wall, and correcting whatever was letting water in to begin with. Emerald Masonry LLC does this work from an office right here in Palos Heights — 7156 W. 126th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Brick repair in Palos Heights, IL means replacing spalled and cracked brick, repairing step cracks, matching the new masonry into the existing wall, and correcting whatever was letting water in to begin with. Emerald Masonry LLC does this work from an office right here in Palos Heights — 7156 W. 127th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 This is our home village. The brick homes along the Cal-Sag, around Lake Katherine, and through the residential streets north and south of College Drive are the houses we drive past every day. When we say we can be out to look at your wall quickly, it is because we are already here.
 

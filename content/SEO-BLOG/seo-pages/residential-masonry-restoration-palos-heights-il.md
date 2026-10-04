@@ -19,7 +19,7 @@ serviceSlug: "residential-masonry-restoration"
 pageType: "location"
 metaTitle: "Residential Masonry Restoration Palos Heights, IL | Emerald"
 metaDescription: "Residential masonry restoration in Palos Heights, IL — whole-house brick, chimney, lintel and joint repair by your local mason. Free estimates: (708) 288-1696."
-excerpt: "Our office is on 126th Street. When we say we can come back and check something in the spring, we mean it — and that changes what a whole-house masonry plan is actually worth to a Palos Heights homeowner."
+excerpt: "Our office is on 127th Street. When we say we can come back and check something in the spring, we mean it — and that changes what a whole-house masonry plan is actually worth to a Palos Heights homeowner."
 aiSummary: "Emerald Masonry LLC provides residential masonry restoration in Palos Heights, IL — assessing the full exterior envelope and repairing brick, chimney, lintel, sill and mortar joints on homes throughout the village. Family-owned and based in Palos Heights, licensed and insured, career masons with decades of Chicagoland experience, free estimates. Call (708) 288-1696."
 image: "/images/after-residential.webp"
 imageAlt: "Restored brick facade, chimney and sills on a home in Palos Heights Illinois"
@@ -27,7 +27,7 @@ faqs:
   - q: "How much does masonry restoration cost in Palos Heights, IL?"
     a: "It depends on how many elements are involved — joints, brick, chimney, lintels, sills — plus height, access and how hard the existing mortar is to grind out. We itemize the scope by element so you can see what each piece costs and phase it if you want. Being based in the village means no travel time padding the number."
   - q: "Are you actually local to Palos Heights?"
-    a: "Yes — Emerald Masonry LLC is based at 7156 W. 126th St. in Palos Heights. That means fast estimate scheduling, easy follow-up visits, and a contractor who is still down the street in five years if something needs looking at. Call (708) 288-1696."
+    a: "Yes — Emerald Masonry LLC is based at 7156 W. 127th St. in Palos Heights. That means fast estimate scheduling, easy follow-up visits, and a contractor who is still down the street in five years if something needs looking at. Call (708) 288-1696."
   - q: "What should I fix first if I can't do everything at once?"
     a: "Anything actively letting water into the wall — chimney crown and flashing, failed sills, open joints on the weather-beaten elevation. Then corroding steel lintels, then the damage that water already caused, then cosmetic work. Repairing spalled brick while water still enters above it means paying for that brick twice."
   - q: "What usually needs work on a Palos Heights home?"
@@ -41,7 +41,7 @@ competitorInformed: false
 
 ## Residential Masonry Restoration in Palos Heights, IL
 
-Residential masonry restoration in Palos Heights, IL means assessing the whole exterior — joints, brick, chimney, lintels and sills — and repairing it in the order that actually protects the house. Emerald Masonry LLC does this work from an office right here in the village, at 7156 W. 126th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
+Residential masonry restoration in Palos Heights, IL means assessing the whole exterior — joints, brick, chimney, lintels and sills — and repairing it in the order that actually protects the house. Emerald Masonry LLC does this work from an office right here in the village, at 7156 W. 127th St. Family-owned, licensed, bonded and insured, career masons with decades of Chicagoland experience, free on-site estimates. Call **(708) 288-1696**.
 
 There is a practical difference between hiring a masonry contractor from your own village and hiring one who covers it from forty minutes away, and it shows up in a specific place: **what happens after the job is done.**
 

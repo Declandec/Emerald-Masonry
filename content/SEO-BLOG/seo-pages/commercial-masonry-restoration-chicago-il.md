@@ -43,7 +43,7 @@ faqs:
   - q: "Do you provide a COI, W-9 and lien waivers?"
     a: "Yes — on request before work starts, and lien waivers with each payment application. Emerald Masonry LLC is licensed, bonded and insured, and is set up for the documentation owners, management companies and lenders keep on file."
   - q: "What neighborhoods and building types do you serve in Chicago?"
-    a: "Throughout the city — brick and greystone courtyard buildings, two-flats and three-flats converted to commercial use, storefront and mixed-use corridors, and small office and industrial properties. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Call (708) 288-1696."
+    a: "Throughout the city — brick and greystone courtyard buildings, two-flats and three-flats converted to commercial use, storefront and mixed-use corridors, and small office and industrial properties. Emerald Masonry LLC is based at 7156 W. 127th St., Palos Heights, IL 60463. Call (708) 288-1696."
 competitorInformed: true
 ---
 

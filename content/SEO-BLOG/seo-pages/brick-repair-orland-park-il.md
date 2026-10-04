@@ -115,7 +115,7 @@ Emerald Masonry LLC is a family-owned, licensed and insured masonry contractor s
 - **Family-owned**, licensed, bonded, and insured
 - **Color- and texture-matched** brick and mortar
 - **Free written estimates** with a firm price
-- Based at **7156 W. 126th St. Suite 136, Palos Heights, IL 60463**, minutes from Orland Park
+- Based at **7156 W. 127th St., Palos Heights, IL 60463**, minutes from Orland Park
 
 ## Get Your Free Orland Park Brick Repair Estimate
 

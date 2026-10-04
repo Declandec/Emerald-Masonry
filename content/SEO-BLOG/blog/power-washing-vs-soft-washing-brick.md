@@ -122,4 +122,4 @@ Your brick is one of the most durable parts of your home, but only if it is care
 
 Call Emerald Masonry LLC at **(708) 288-1696** for a free estimate on safe masonry cleaning anywhere in Chicagoland — or email emeraldmasonryil@gmail.com. Family-owned, career masons with decades of experience, licensed, bonded, and insured.
 
-*Emerald Masonry LLC · (708) 288-1696 · emeraldmasonryil@gmail.com · 7156 W. 126th St. Suite 136, Palos Heights, IL 60463 · https://emeraldmasonryil.com*
+*Emerald Masonry LLC · (708) 288-1696 · emeraldmasonryil@gmail.com · 7156 W. 127th St., Palos Heights, IL 60463 · https://emeraldmasonryil.com*

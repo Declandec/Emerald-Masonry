@@ -25,7 +25,7 @@ image: "/images/after-commercial-3.jpg"
 imageAlt: "Repointed brick bell tower and limestone trim on a mid-century church in Palos Heights, Illinois"
 faqs:
   - q: "Who does church masonry restoration in Palos Heights, IL?"
-    a: "Emerald Masonry LLC is based in Palos Heights at 7156 W. 126th St. and restores church, parish hall and school masonry across the town and the surrounding southwest suburbs. Call (708) 288-1696 for a free on-site assessment of the whole campus."
+    a: "Emerald Masonry LLC is based in Palos Heights at 7156 W. 127th St. and restores church, parish hall and school masonry across the town and the surrounding southwest suburbs. Call (708) 288-1696 for a free on-site assessment of the whole campus."
   - q: "How much does church masonry restoration cost?"
     a: "The main drivers are tower and wall height and the access they need, how much repointing versus unit replacement is required, limestone trim and coping condition, crack and expansion-joint work, and how many phases the parish needs. Emerald provides a written, itemized scope so a committee can price each phase separately."
   - q: "Why are there long vertical cracks in our church's brick walls?"
@@ -43,7 +43,7 @@ competitorInformed: false
 
 # Church Masonry Restoration in Palos Heights, IL
 
-Emerald Masonry LLC provides church masonry restoration in Palos Heights, IL — tuckpointing, bell tower and campanile repair, crack and expansion-joint repair on long brick walls, masonry around stained-glass and window walls, and limestone trim and coping work on churches, parish halls and schools. We are based in Palos Heights, at 7156 W. 126th St., and we phase every scope to match how a parish actually raises money. Call **(708) 288-1696**.
+Emerald Masonry LLC provides church masonry restoration in Palos Heights, IL — tuckpointing, bell tower and campanile repair, crack and expansion-joint repair on long brick walls, masonry around stained-glass and window walls, and limestone trim and coping work on churches, parish halls and schools. We are based in Palos Heights, at 7156 W. 127th St., and we phase every scope to match how a parish actually raises money. Call **(708) 288-1696**.
 
 Palos Heights is our home town, and its church buildings are distinctive. Most of the congregations along Harlem Avenue, 127th Street and the residential streets around them built in the **1950s through the 1970s**, when the town itself grew up. That means **mid-century church architecture**: tall, plain brick walls, a slender freestanding bell tower or campanile, large window walls of stained or faceted glass, and limestone or precast trim used sparingly.
 

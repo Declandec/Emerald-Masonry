@@ -43,7 +43,7 @@ faqs:
   - q: "Can you work while the buildings stay occupied?"
     a: "Yes. We sequence by building and elevation, keep entrances and walkways usable with overhead protection, and give management written notice in advance of each elevation so residents know when staging reaches their patio or balcony."
   - q: "Do you serve Palos Hills and the surrounding suburbs?"
-    a: "Yes — Palos Hills, 60465, and the surrounding Cook, DuPage and Will County communities including Palos Heights, Palos Park, Hickory Hills, Bridgeview, Worth and Oak Lawn. Emerald Masonry LLC is based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Call (708) 288-1696."
+    a: "Yes — Palos Hills, 60465, and the surrounding Cook, DuPage and Will County communities including Palos Heights, Palos Park, Hickory Hills, Bridgeview, Worth and Oak Lawn. Emerald Masonry LLC is based at 7156 W. 127th St., Palos Heights, IL 60463. Call (708) 288-1696."
 competitorInformed: true
 ---
 
@@ -132,7 +132,7 @@ If you manage multiple properties, start at our [property managers](/property-ma
 
 ## Trust signals
 
-Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Non-union. Based at 7156 W. 126th St. Suite 136, Palos Heights, IL 60463. Free on-site assessments — call **(708) 288-1696**.
+Emerald Masonry LLC is a family-owned commercial masonry contractor serving Chicago and the Chicagoland suburbs, **established 2024 and led by career masons with decades of hands-on Chicagoland experience**, in commercial tuckpointing, façade and parapet repair, lintel replacement, chimney and stack rebuilds, CMU block repair, brick repair and replacement, foundation and limestone/sill repair, caulking, sealing, and commercial, residential and historic masonry restoration. Non-union. Based at 7156 W. 127th St., Palos Heights, IL 60463. Free on-site assessments — call **(708) 288-1696**.
 
 ## Related services
 
