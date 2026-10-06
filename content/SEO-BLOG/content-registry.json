@@ -3396,6 +3396,30 @@
       "publishDate": "2026-10-03",
       "image": "/images/after-chimney.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-la-grange-il",
+      "title": "Tuckpointing in La Grange, IL — Undoing the Last Tuckpointing Job",
+      "primaryKeyword": "tuckpointing La Grange IL",
+      "city": "La Grange, IL",
+      "service": "Tuckpointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-10-06",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "chimney-repair-chicago-ridge-il",
+      "title": "Chimney Repair in Chicago Ridge, IL — When the Water Heater Is the Only Thing Left in the Flue",
+      "primaryKeyword": "chimney repair Chicago Ridge IL",
+      "city": "Chicago Ridge, IL",
+      "service": "Chimney Repair",
+      "serviceSlug": "chimney-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-06",
+      "image": "/images/after-chimney-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -4866,6 +4890,17 @@
       "publishDate": "2026-10-03",
       "image": "/images/after-residential.jpg",
       "intent": "informational"
+    },
+    {
+      "slug": "chicago-georgian-brick-home-masonry-repair-guide",
+      "title": "Chicago Georgian Brick Homes: A Masonry Repair Guide for the House Built to Last a Century",
+      "primaryKeyword": "Chicago Georgian brick home masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "category": "Homeowner Education",
+      "publishDate": "2026-10-06",
+      "image": "/images/after-residential-2.jpg",
+      "intent": "informational"
     }
   ],
   "coveredCities": [
@@ -5008,10 +5043,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing Berwyn IL — top-ranking competitor service-area pages are trust-signal heavy but geographically thin: they name Berwyn but give no bungalow/two-flat architectural specificity, no mortar-matching (Type N vs Type S) building science, and no cost or process detail; ours wins with Berwyn's actual 1920s Chicago-brick bungalow/two-flat stock (Depot District, dense Cook County lots), soft-brick mortar-hardness matching, real cost drivers, a full process, a stronger FAQ, and FAQ/Service schema",
-      "date": "2026-07-28"
-    },
-    {
       "intent": "tuckpointing Oak Lawn IL / brick repointing Oak Lawn 60453 — top results are exact-match-domain local pages and cloned multi-town service-area templates (oaklawntuckpointing.com, Kerry, Acorn, R&J style) listing services, a gallery and testimonials but with NO on-page FAQ, no answer-first summary, no cost-driver guidance, no mortar-matching explanation, and zero Oak Lawn architectural or climate specificity beyond a street address (one renders a broken '0 + Years of Experience'); ours wins with an answer-first Quick Answer, six AI-phrased FAQs with FAQPage schema, era-specific mortar-hardness matching (post-war Portland mortar and denser machine-made brick vs. pre-1920 lime mortar), real Oak Lawn geography (95th St corridor, Stony Creek, Advocate Christ Medical Center area, 1967 tornado rebuild stock, Evergreen Park/Chicago Ridge/Burbank borders), a qualitative cost-driver framework, and honest spot-vs-full repointing guidance",
       "date": "2026-07-29"
     },
@@ -5131,6 +5162,10 @@
     {
       "intent": "CMU block repair Orland Park IL / painted concrete block wall repair commercial — the SERP is directories (BBB concrete-repair category, Yelp masonry/concrete), concrete flatwork and retaining-wall contractors, out-of-market CMU service pages (a ~1,200-word HOA/commercial page with eight FAQs, all logistics — no reinforcement, control-joint, coating or efflorescence content), and Emerald's own Evergreen Park CMU page. Nobody addresses the moment Orland Park block buildings actually get attention: a tenant turnover or re-leasing repaint. Beat with the repair-before-repaint sequence (crack/unit repair → control-joint resealing → repointing → block filler + vapour-permeable coating) as a table, why paint delaminates from single-wythe block from the inside, film-forming sealers as the common failure, split-face unit matching, structural-crack engineer trigger, and an itemized scope so the painter's and mason's bids don't overlap. Emerald anchors: established 2024, career masons, Palos Heights base, (708) 288-1696, /commercial, /property-managers, /general-contractors.",
       "date": "2026-10-03"
+    },
+    {
+      "intent": "tuckpointing La Grange IL / brick repointing older home La Grange — residential SERP of directories (Yelp, YellowPages), a La Grange Park tuckpointing firm leading on 51 years, and two regional firms running templated per-suburb pages: a ~1,800-word page with Type N/O/K mortar proportions and lab matching but zero La Grange content, and an ~850-word chimney tuckpointing page with no mortar specifics, cost factors or visible FAQs. Nobody addresses the real La Grange condition: older soft brick homes already on their second or third round of tuckpointing, many with smeared, too-shallow or Portland-hard earlier repairs chipping the brick. Beat with an 'undoing the last tuckpointing job' angle — a bad-repair diagnostic table (too hard / too shallow / smeared / wrong colour-profile), removal of hard repairs without widening joints, matching to original rather than last patch, cut-out depth rule, village historic-area check, and seven FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696, residential-led.",
+      "date": "2026-10-06"
     }
   ],
   "coveredKeywords": [
@@ -7933,7 +7968,57 @@
     "written masonry scope",
     "written masonry scope estimate",
     "written masonry scope photographs",
-    "zero lot line masonry repair access"
+    "zero lot line masonry repair access",
+    "tuckpointing La Grange Illinois 60525",
+    "brick repointing La Grange older home",
+    "fixing bad tuckpointing smeared mortar joints",
+    "hard Portland mortar repair soft brick",
+    "lime mortar repointing La Grange",
+    "mortar color and joint profile matching",
+    "1920s brick home tuckpointing West Suburbs",
+    "Tudor and Georgian brick repointing Cook County",
+    "chimney tuckpointing La Grange",
+    "masonry contractor near me La Grange IL",
+    "tuckpointing La Grange Park and Western Springs",
+    "chimney repair Chicago Ridge IL",
+    "chimney repair Chicago Ridge Illinois 60415",
+    "chimney crown repair Chicago Ridge",
+    "white stains on chimney brick condensation",
+    "water heater venting into brick chimney damage",
+    "spalling brick top of chimney ranch house",
+    "chimney flashing leak brick ranch Cook County",
+    "chimney tuckpointing raised ranch",
+    "chimney rebuild above roofline Chicago Ridge",
+    "chimney liner vs masonry repair who does what",
+    "chimney mason near me Chicago Ridge IL",
+    "chimney repair Worth and Oak Lawn",
+    "Chicago Georgian brick home masonry repair",
+    "Georgian brick house tuckpointing Chicago",
+    "1920s brick home repointing",
+    "solid brick wall double wythe repair",
+    "lime mortar repointing older brick home",
+    "hard Portland mortar damage soft brick",
+    "face brick vs common brick Chicago",
+    "limestone window sill repair Chicago",
+    "limestone lintel crack repair",
+    "steel lintel rust Georgian house",
+    "brick arch repair over window",
+    "end wall chimney repair brick home",
+    "chimney crown repair older home Chicago",
+    "glass block basement window replacement masonry",
+    "brick front stoop repair Chicago",
+    "mortar color matching tuckpointing",
+    "tuckpointing vs repointing older home",
+    "step cracks brick wall older house",
+    "efflorescence on brick Chicago home",
+    "Beverly Georgian brick home repair",
+    "Mount Greenwood brick home masonry",
+    "Evergreen Park brick house tuckpointing",
+    "Oak Lawn older brick home repair",
+    "freeze thaw brick damage Chicago",
+    "how long does tuckpointing last on an old house",
+    "masonry contractor near me older brick home",
+    "Emerald Masonry LLC Georgian home"
   ],
   "visibilityRuns": [
     {
@@ -8029,5 +8114,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-03"
+  "lastUpdated": "2026-10-06"
 }

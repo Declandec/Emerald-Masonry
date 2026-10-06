@@ -3172,3 +3172,29 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of the front of a two-storey 1990s suburban brick-veneer home with a two-car garage, the steel lintel over the garage door visibly rusted with peeling paint and a horizontal crack along the brick course above it plus a stair-step crack rising from one corner, white efflorescence streaks fanning from the upper corners of a window, dried and cracked caulk around a dryer vent and hose bib, mulch piled against the bottom brick course covering the weep holes, a brick-clad chimney chase with a rusted metal top visible on the roof, front stoop slightly separated from the house, a hard-hatted mason in hi-vis on the driveway holding a clipboard and looking up at the lintel, mature suburban landscaping, overcast autumn daylight, photorealistic, no house numbers, no text, no logos
+
+
+## Tuckpointing La Grange (location, competitor-informed) — 2026-10-06
+**Intended path:** `/images/seo/tuckpointing-la-grange-il.jpg`
+**Alt:** Mason removing hard grey mortar from an earlier repair and repointing soft older brick on a La Grange, Illinois home
+*(No house numbers, family names or PLM branding.)*
+
+**Prompt:**
+> Close documentary photo of the brick wall of a 1920s two-storey home under mature trees, soft orange-red older brick with a section of an earlier bad repair visible — wide grey glassy mortar smeared onto the brick faces and chipped brick edges beside it — next to a freshly repointed section with neat, narrow, tooled joints in a warm buff lime-rich mortar that matches the untouched original mortar further along, a mason in safety glasses and dust mask carefully raking a joint with a hand tool, a small cured mortar sample panel taped to the wall, dappled autumn daylight, high detail, photorealistic, no text, no logos
+
+
+## Chimney Repair Chicago Ridge (location) — 2026-10-06
+**Intended path:** `/images/seo/chimney-repair-chicago-ridge-il.jpg`
+**Alt:** Rebuilt chimney top with new crown and flashing on a brick ranch home in Chicago Ridge, Illinois
+*(No house number, family name or PLM branding.)*
+
+**Prompt:**
+> Documentary photo taken from the low-pitch shingled roof of a 1960s brick ranch house, a short brick chimney with its top five courses freshly rebuilt in closely matched brick and a new sloped concrete crown with a projecting drip edge and stainless cap, the untouched courses just below showing white efflorescence streaks and a few spalled brick faces, old crumbled crown fragments in a bucket beside it, new counterflashing cut into fresh mortar joints over step flashing, a white PVC furnace vent visible on the side wall below, mason in hard hat and fall-arrest harness, clear autumn morning light, photorealistic, no text, no house numbers, no logos
+
+
+## Chicago Georgian Brick Homes (blog) — 2026-10-06
+**Intended path:** `/images/blog/chicago-georgian-brick-home-masonry-repair-guide.jpg`
+**Alt:** Mason repointing the face brick of a 1930s Chicago Georgian brick home with limestone window sills
+
+**Prompt:**
+> Documentary photo of a symmetrical two-storey 1930s Chicago Georgian brick house with a hip roof, red-brown face brick, a centred front entrance with a limestone surround and limestone sills under every window, steel pipe scaffolding on one side of the front elevation, a mason in hard hat and safety glasses hand-tooling freshly repointed buff lime-rich mortar joints, the untouched section beside him showing receded sandy joints and a few spalled brick faces next to an old grey hard-cement patch, one limestone sill cracked and awaiting repair, an end-wall brick chimney rising above the roof, mature parkway trees and a narrow gangway to the next house, soft overcast autumn light, photorealistic, no house numbers, no text, no logos
