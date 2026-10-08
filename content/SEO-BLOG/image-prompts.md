@@ -3198,3 +3198,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a symmetrical two-storey 1930s Chicago Georgian brick house with a hip roof, red-brown face brick, a centred front entrance with a limestone surround and limestone sills under every window, steel pipe scaffolding on one side of the front elevation, a mason in hard hat and safety glasses hand-tooling freshly repointed buff lime-rich mortar joints, the untouched section beside him showing receded sandy joints and a few spalled brick faces next to an old grey hard-cement patch, one limestone sill cracked and awaiting repair, an end-wall brick chimney rising above the roof, mature parkway trees and a narrow gangway to the next house, soft overcast autumn light, photorealistic, no house numbers, no text, no logos
+
+## Location — Tuckpointing, Evergreen Park (2026-10-08)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Mason repointing the weather-facing wall of a brick bungalow in Evergreen Park, IL
+
+**Prompt:**
+> Documentary photo of a mason in safety glasses, dust mask and gloves repointing mortar joints on the west-facing side wall of a red-brick Chicago-style bungalow, freshly tooled concave joints on the lower courses and raked-out joints above, a hawk board of matched tan mortar in hand, narrow side yard with a chain-link fence, late-afternoon light, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Limestone Sill Repair, Oak Lawn (2026-10-08)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Newly set limestone window sill with a clean drip edge on a brick ranch in Oak Lawn, IL
+
+**Prompt:**
+> Documentary close-up of a freshly installed pale limestone window sill under a double-hung window on a tan-brick post-war ranch home, visible drip groove beneath the front edge, neat sealant at both end joints, a gloved mason's hand resting a small level on the sill to check slope, soft overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Raised Ranch & Split-Level Masonry Problems (2026-10-08)
+**Intended path:** `public/images/blog/raised-ranch-split-level-masonry-problems-chicago-suburbs.jpg`
+**Alt text:** Brick-veneer lower level of a 1960s raised ranch in the Chicago suburbs, with a steel lintel over the garage door and a window well
+
+**Prompt:**
+> Documentary photo of a 1960s raised ranch home in a Chicago suburb, brick veneer lower level with an under-house garage door topped by a slightly rusted steel lintel, a half-buried basement window with a metal window well, siding on the upper level, front concrete stoop with brick planter box, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.

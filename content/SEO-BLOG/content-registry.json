@@ -3420,6 +3420,30 @@
       "publishDate": "2026-10-06",
       "image": "/images/after-chimney-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-evergreen-park-il",
+      "title": "Tuckpointing in Evergreen Park, IL — Not Every Wall Needs It (Here's How to Tell Which Do)",
+      "primaryKeyword": "tuckpointing Evergreen Park IL",
+      "city": "Evergreen Park, IL",
+      "service": "Tuckpointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-10-08",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "limestone-sill-repair-oak-lawn-il",
+      "title": "Limestone Sill Repair in Oak Lawn, IL — Know Which Sill You Have Before Anyone Fixes It",
+      "primaryKeyword": "limestone sill repair Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-08",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -4901,6 +4925,15 @@
       "publishDate": "2026-10-06",
       "image": "/images/after-residential-2.jpg",
       "intent": "informational"
+    },
+    {
+      "slug": "raised-ranch-split-level-masonry-problems-chicago-suburbs",
+      "title": "Raised Ranch and Split-Level Masonry Problems in the Chicago Suburbs: A Homeowner's Guide to the 1950s–1970s House",
+      "primaryKeyword": "raised ranch masonry problems Chicago suburbs",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-08",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -5043,10 +5076,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "tuckpointing Oak Lawn IL / brick repointing Oak Lawn 60453 — top results are exact-match-domain local pages and cloned multi-town service-area templates (oaklawntuckpointing.com, Kerry, Acorn, R&J style) listing services, a gallery and testimonials but with NO on-page FAQ, no answer-first summary, no cost-driver guidance, no mortar-matching explanation, and zero Oak Lawn architectural or climate specificity beyond a street address (one renders a broken '0 + Years of Experience'); ours wins with an answer-first Quick Answer, six AI-phrased FAQs with FAQPage schema, era-specific mortar-hardness matching (post-war Portland mortar and denser machine-made brick vs. pre-1920 lime mortar), real Oak Lawn geography (95th St corridor, Stony Creek, Advocate Christ Medical Center area, 1967 tornado rebuild stock, Evergreen Park/Chicago Ridge/Burbank borders), a qualitative cost-driver framework, and honest spot-vs-full repointing guidance",
-      "date": "2026-07-29"
-    },
-    {
       "intent": "chimney repair Beverly Chicago IL / chimney repair 60643 — ranking results split between directories (Yelp, Yellow Pages) and long-standing local tuckpointing shops running generic city-wide chimney service pages; the strongest contractor page carries real trust signals (since 1988, IL license number, BBB seal, free estimates, bilingual staff) and does open answer-first, but has NO FAQ section, NO step-by-step process, NO cost-driver guidance beyond a blanket percentage discount, no crown/cap/flashing material or technique depth, no case detail, no schema markup, and zero Beverly specificity (generic 'Chicago and suburbs' copy); ours wins by writing for Beverly's actual chimneys — Ridge Historic District housing stock, tall corbelled multi-flue pre-1930 stacks, why they need soft lime mortar rather than hard Portland mix, a crown/cap/flashing/repoint/corbel/rebuild repair ladder, salvaged brick and corbelled-top reconstruction, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
       "date": "2026-07-30"
     },
@@ -5166,6 +5195,10 @@
     {
       "intent": "tuckpointing La Grange IL / brick repointing older home La Grange — residential SERP of directories (Yelp, YellowPages), a La Grange Park tuckpointing firm leading on 51 years, and two regional firms running templated per-suburb pages: a ~1,800-word page with Type N/O/K mortar proportions and lab matching but zero La Grange content, and an ~850-word chimney tuckpointing page with no mortar specifics, cost factors or visible FAQs. Nobody addresses the real La Grange condition: older soft brick homes already on their second or third round of tuckpointing, many with smeared, too-shallow or Portland-hard earlier repairs chipping the brick. Beat with an 'undoing the last tuckpointing job' angle — a bad-repair diagnostic table (too hard / too shallow / smeared / wrong colour-profile), removal of hard repairs without widening joints, matching to original rather than last patch, cut-out depth rule, village historic-area check, and seven FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696, residential-led.",
       "date": "2026-10-06"
+    },
+    {
+      "intent": "tuckpointing Evergreen Park IL / brick repointing 60805 (residential) — SERP is local tuckpointing firms plus directories. The strongest local page (~2,000-2,500 words, 8-question FAQ, 4-step process, seasonal window, workmanship warranty) never covers mortar types or strength matching, joint profiles, or cost drivers, and its only local content is a neighbourhood list; a local family firm's homepage (~3,500 words) is history and reviews with no FAQ, no explanation, no warning signs, no housing-stock detail. Both sell tuckpointing as a whole-house job by default. Beat with wall-by-wall scoping: mortar fails where the wall gets wettest — a table of what fails first on Evergreen Park bungalows and Georgians (chimney above the roof, west/south elevations, porch and steps, under downspouts vs sheltered north/east walls), honest what-can-wait guidance, recording the joint profile before cutting, cured sample patches, Type N or lime-rich mortar never harder than the brick, wall count as the biggest cost lever, Beverly/Mount Greenwood-adjacent context, 6 FAQs. Distinct from La Grange (undoing bad repairs) and PLM's Evergreen Park page (tight-lot access).",
+      "date": "2026-10-08"
     }
   ],
   "coveredKeywords": [
@@ -8018,7 +8051,57 @@
     "freeze thaw brick damage Chicago",
     "how long does tuckpointing last on an old house",
     "masonry contractor near me older brick home",
-    "Emerald Masonry LLC Georgian home"
+    "Emerald Masonry LLC Georgian home",
+    "tuckpointing Evergreen Park Illinois 60805",
+    "brick bungalow tuckpointing Evergreen Park",
+    "spot tuckpointing vs full repointing",
+    "which brick walls need tuckpointing first",
+    "mortar joint profile matching concave joint",
+    "Type N mortar repointing brick home",
+    "chimney tuckpointing Evergreen Park",
+    "Georgian brick home repointing Cook County",
+    "crumbling mortar joints near Beverly and Mount Greenwood",
+    "masonry contractor near me Evergreen Park IL",
+    "tuckpointing Oak Lawn and Evergreen Park",
+    "limestone sill repair Oak Lawn IL",
+    "window sill repair Oak Lawn Illinois",
+    "cast stone sill replacement Oak Lawn IL",
+    "brick rowlock sill repair Oak Lawn",
+    "cracked limestone window sill Cook County",
+    "porch cap and step cap repair Oak Lawn IL",
+    "stone sill drip edge repair",
+    "spalling limestone sill Oak Lawn",
+    "sill end joint caulking Oak Lawn IL",
+    "bungalow window sill repair Chicago suburbs",
+    "masonry sill contractor near me Oak Lawn",
+    "dutchman repair limestone sill Illinois",
+    "raised ranch masonry problems Chicago suburbs",
+    "split level house brick repair",
+    "brick veneer over wood frame repair",
+    "weep holes brick veneer blocked",
+    "garage door lintel rust brick",
+    "steel lintel replacement raised ranch",
+    "lower level foundation wall crack",
+    "window well masonry leak",
+    "half basement foundation repair Chicago",
+    "bowing block foundation wall",
+    "brick front stoop repair",
+    "brick planter box repair",
+    "brick to siding transition leak",
+    "short chimney crown repair",
+    "chimney flashing leak ranch house",
+    "tuckpointing brick veneer home",
+    "mortar joint repair 1960s house",
+    "step cracks in brick veneer",
+    "efflorescence on brick veneer",
+    "how to tell brick veneer from solid brick",
+    "do I need tuckpointing or brick replacement",
+    "Oak Lawn raised ranch brick repair",
+    "Orland Park split level masonry",
+    "Tinley Park brick veneer home repair",
+    "Homer Glen ranch house masonry",
+    "residential masonry contractor near me",
+    "Emerald Masonry LLC raised ranch"
   ],
   "visibilityRuns": [
     {
@@ -8114,5 +8197,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-06"
+  "lastUpdated": "2026-10-08"
 }
