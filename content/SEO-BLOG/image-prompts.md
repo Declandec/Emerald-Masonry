@@ -3219,3 +3219,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a 1960s raised ranch home in a Chicago suburb, brick veneer lower level with an under-house garage door topped by a slightly rusted steel lintel, a half-buried basement window with a metal window well, siding on the upper level, front concrete stoop with brick planter box, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Tuckpointing, Oak Forest (2026-10-12)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Mason repointing brick veneer above an open weep hole on a raised ranch in Oak Forest, IL
+
+**Prompt:**
+> Documentary close-up of a mason in safety glasses and gloves tooling fresh mortar joints on the lower brick-veneer courses of a 1960s raised ranch, an open weep hole visible just above the concrete foundation ledge, raked-out joints above awaiting repointing, mulch bed pulled back from the wall, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Repair, Homer Glen (2026-10-12)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Replaced bricks and repaired step crack on the brick-veneer front of a Homer Glen, IL home
+
+**Prompt:**
+> Documentary photo of the brick-veneer front elevation of a 1990s two-story suburban home with stone accents, a section of newly replaced, closely color-matched bricks below a window where a step crack was repaired, clean mortar joints, a mason in a hard hat and safety glasses wiping down the wall, landscaped beds, soft daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Chicago Bungalow Bay Window Masonry Repair (2026-10-12)
+**Intended path:** `public/images/blog/chicago-bungalow-bay-window-masonry-repair.jpg`
+**Alt text:** Front octagonal brick bay of a 1920s Chicago bungalow with limestone sills and a corbelled brick course
+
+**Prompt:**
+> Documentary photo of the projecting octagonal front bay of a 1920s Chicago brick bungalow, dark face brick with a decorative corbelled course, continuous limestone sill and water table, three tall windows, freshly repointed joints on the lower bay, a hairline separation crack where the bay meets the main wall, mature parkway tree shadow, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.

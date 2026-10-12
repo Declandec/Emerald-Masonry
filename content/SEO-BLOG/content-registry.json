@@ -3444,6 +3444,30 @@
       "publishDate": "2026-10-08",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-oak-forest-il",
+      "title": "Tuckpointing in Oak Forest, IL — Brick Veneer Homes Need a Different Approach",
+      "primaryKeyword": "tuckpointing Oak Forest IL",
+      "city": "Oak Forest, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-10-12",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-homer-glen-il",
+      "title": "Brick Repair in Homer Glen, IL — Fixing Brick Veneer on Newer Homes the Right Way",
+      "primaryKeyword": "brick repair Homer Glen IL",
+      "city": "Homer Glen, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-12",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -4934,6 +4958,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-10-08",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "chicago-bungalow-bay-window-masonry-repair",
+      "title": "Chicago Bungalow Bay Window Masonry Repair: The Front Bay, Its Limestone and Its Lintels",
+      "primaryKeyword": "Chicago bungalow bay window masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-12",
+      "image": "/images/after-residential-2.jpg"
     }
   ],
   "coveredCities": [
@@ -5076,10 +5109,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "chimney repair Beverly Chicago IL / chimney repair 60643 — ranking results split between directories (Yelp, Yellow Pages) and long-standing local tuckpointing shops running generic city-wide chimney service pages; the strongest contractor page carries real trust signals (since 1988, IL license number, BBB seal, free estimates, bilingual staff) and does open answer-first, but has NO FAQ section, NO step-by-step process, NO cost-driver guidance beyond a blanket percentage discount, no crown/cap/flashing material or technique depth, no case detail, no schema markup, and zero Beverly specificity (generic 'Chicago and suburbs' copy); ours wins by writing for Beverly's actual chimneys — Ridge Historic District housing stock, tall corbelled multi-flue pre-1930 stacks, why they need soft lime mortar rather than hard Portland mix, a crown/cap/flashing/repoint/corbel/rebuild repair ladder, salvaged brick and corbelled-top reconstruction, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
-      "date": "2026-07-30"
-    },
-    {
       "intent": "chimney repair Mount Greenwood Chicago IL / chimney repair 60655 — ranking set dominated by Yelp/BBB directory pages plus regional tuckpointing shops running one templated service-area page cloned across dozens of neighborhoods; the strongest carries real trust signals (30+ years, Chicago Masons License number, workmanship warranty, free estimates) and does include an FAQ, but only three generic questions ('what is masonry', 'can you color match'), with NO cost guidance, NO step-by-step process, NO explanation of what a crown or cap does or how it fails, no case detail, no schema markup, and zero Mount Greenwood specificity (opening copy would read identically for any town); ours wins by writing for 60655's actual post-war stacks on 1950s-60s bungalows, ranches and Georgians — leading with the gas-conversion and orphaned-flue deterioration mechanism (cooler wetter flue gases condensing inside an oversized flue, no hot fire to dry the masonry) that no competitor addresses, plus era-specific Portland-vs-lime mortar matching, a cap/crown/flashing/repoint/rebuild ladder explaining what each component does, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
       "date": "2026-07-31"
     },
@@ -5199,6 +5228,10 @@
     {
       "intent": "tuckpointing Evergreen Park IL / brick repointing 60805 (residential) — SERP is local tuckpointing firms plus directories. The strongest local page (~2,000-2,500 words, 8-question FAQ, 4-step process, seasonal window, workmanship warranty) never covers mortar types or strength matching, joint profiles, or cost drivers, and its only local content is a neighbourhood list; a local family firm's homepage (~3,500 words) is history and reviews with no FAQ, no explanation, no warning signs, no housing-stock detail. Both sell tuckpointing as a whole-house job by default. Beat with wall-by-wall scoping: mortar fails where the wall gets wettest — a table of what fails first on Evergreen Park bungalows and Georgians (chimney above the roof, west/south elevations, porch and steps, under downspouts vs sheltered north/east walls), honest what-can-wait guidance, recording the joint profile before cutting, cured sample patches, Type N or lime-rich mortar never harder than the brick, wall count as the biggest cost lever, Beverly/Mount Greenwood-adjacent context, 6 FAQs. Distinct from La Grange (undoing bad repairs) and PLM's Evergreen Park page (tight-lot access).",
       "date": "2026-10-08"
+    },
+    {
+      "intent": "tuckpointing Oak Forest IL / brick veneer repointing 60452 (residential) — SERP is a local tuckpointing firm's ~1,200-word Oak Forest page (3-question FAQ, Evergreen Park office, no mortar types, joint depth, housing stock or street detail, one-sentence process), directory listings, and a chimney template site (~2,000-2,500 words, no FAQ, census-figure 'local' content, 100+ service link grid). Neither notes that most Oak Forest homes are post-war brick VENEER over wood frame, nor weep holes or flashing. Beat with that construction fact: on a veneer house the mortar is only half the weatherproofing, leaks are often blocked weeps or failed flashing, and careless tuckpointing that packs the bottom joint solid makes it worse — veneer vs solid comparison table, drainage-vs-mortar diagnosis, veneer weak points (garage-door piers, rowlock sills, chimney tops, weeps buried under landscaping), keeping weeps open as an explicit step, Type N matched to dense era brick, raised-ranch access as a cost driver, Cicero Ave / 159th St / Metra Rock Island context, 6 FAQs. Distinct from Evergreen Park (wall-by-wall scoping), La Grange (undoing bad repairs) and PLM's Oak Forest page (right mortar).",
+      "date": "2026-10-12"
     }
   ],
   "coveredKeywords": [
@@ -8101,7 +8134,55 @@
     "Tinley Park brick veneer home repair",
     "Homer Glen ranch house masonry",
     "residential masonry contractor near me",
-    "Emerald Masonry LLC raised ranch"
+    "Emerald Masonry LLC raised ranch",
+    "tuckpointing Oak Forest IL",
+    "tuckpointing Oak Forest Illinois 60452",
+    "brick veneer tuckpointing ranch home",
+    "raised ranch and split-level repointing Oak Forest",
+    "weep holes mortared shut brick veneer",
+    "brick veneer leaking after tuckpointing",
+    "Type N mortar repointing veneer wall",
+    "garage pier and rowlock sill mortar repair",
+    "crumbling mortar joints Oak Forest IL",
+    "chimney tuckpointing Oak Forest",
+    "masonry contractor near me Oak Forest IL",
+    "tuckpointing Tinley Park and Oak Forest",
+    "brick repair Homer Glen IL",
+    "cracked brick repair Homer Glen IL",
+    "spalling brick on newer home Will County",
+    "step crack in brick veneer new construction",
+    "brick ledge crack repair Homer Glen",
+    "efflorescence on brick front Homer Glen IL",
+    "brick to siding transition leak repair",
+    "brick mailbox repair Homer Glen IL",
+    "brick mason near me Homer Glen",
+    "matching brick on a 1990s home",
+    "Chicago bungalow bay window masonry repair",
+    "Chicago bungalow front bay repair",
+    "bungalow bay separating from house",
+    "crack between bay and main wall",
+    "limestone sill repair bungalow",
+    "limestone water table repair",
+    "steel lintel over bay window rust",
+    "bay window lintel replacement",
+    "bay roof flashing leak brick",
+    "corbelled brick repair",
+    "decorative brick course repair",
+    "matching original face brick",
+    "tuckpointing Chicago bungalow facade",
+    "mortar color matching bungalow",
+    "Type N mortar soft brick",
+    "bay foundation settlement",
+    "bowing bay window brick",
+    "spalling brick under window sill",
+    "freeze thaw limestone damage",
+    "Bungalow Belt masonry contractor",
+    "historic bungalow masonry restoration",
+    "Oak Lawn bungalow brick repair",
+    "Evergreen Park bungalow masonry",
+    "Chicago bungalow tuckpointing cost factors",
+    "brick mason near me Chicago bungalow",
+    "Emerald Masonry LLC bungalow"
   ],
   "visibilityRuns": [
     {
@@ -8197,5 +8278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-08"
+  "lastUpdated": "2026-10-12"
 }
