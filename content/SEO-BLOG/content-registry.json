@@ -3468,6 +3468,30 @@
       "publishDate": "2026-10-12",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "tuckpointing-palos-hills-il",
+      "title": "Tuckpointing in Palos Hills, IL — Hillside Homes and the Wall the Weather Hits First",
+      "primaryKeyword": "tuckpointing Palos Hills IL",
+      "city": "Palos Hills, IL",
+      "service": "Tuckpointing & Repointing",
+      "serviceSlug": "tuckpointing",
+      "pageType": "location",
+      "publishDate": "2026-10-14",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "brick-repair-hickory-hills-il",
+      "title": "Brick Repair in Hickory Hills, IL — Where Brick Meets Concrete: Stoops, Steps, Slabs and Planters",
+      "primaryKeyword": "brick repair Hickory Hills IL",
+      "city": "Hickory Hills, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-14",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -4967,6 +4991,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-10-12",
       "image": "/images/after-residential-2.jpg"
+    },
+    {
+      "slug": "chicago-two-flat-masonry-repair-guide",
+      "title": "Chicago Two-Flat Masonry Repair: A Wall-by-Wall Guide for Owner-Occupants",
+      "primaryKeyword": "Chicago two-flat masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-14",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -5109,10 +5142,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "chimney repair Mount Greenwood Chicago IL / chimney repair 60655 — ranking set dominated by Yelp/BBB directory pages plus regional tuckpointing shops running one templated service-area page cloned across dozens of neighborhoods; the strongest carries real trust signals (30+ years, Chicago Masons License number, workmanship warranty, free estimates) and does include an FAQ, but only three generic questions ('what is masonry', 'can you color match'), with NO cost guidance, NO step-by-step process, NO explanation of what a crown or cap does or how it fails, no case detail, no schema markup, and zero Mount Greenwood specificity (opening copy would read identically for any town); ours wins by writing for 60655's actual post-war stacks on 1950s-60s bungalows, ranches and Georgians — leading with the gas-conversion and orphaned-flue deterioration mechanism (cooler wetter flue gases condensing inside an oversized flue, no hot fire to dry the masonry) that no competitor addresses, plus era-specific Portland-vs-lime mortar matching, a cap/crown/flashing/repoint/rebuild ladder explaining what each component does, qualitative cost drivers, and six AI-phrased FAQs with FAQPage schema",
-      "date": "2026-07-31"
-    },
-    {
       "intent": "chimney repair Evergreen Park IL / chimney repair 60805 — ranking set dominated by chimney-franchise location pages (Chimcare-style) and regional tuckpointing shops; the strongest is better than most templates (5-question FAQ, six-step process, rough cost band) but the copy is mass-produced across 60+ service-area cities, mentions crown/cap/flashing only in passing with no explanation of what each part does, has NO mortar-matching content, no schema markup, pricing untied to height/brick/severity, and only generic local colour ('older homes common in this area', bare neighborhood-name list); ours wins with a genuinely different diagnostic position — that on Evergreen Park's low-pitch 1950s roofs most 'chimney leaks' are FLASHING failures rather than masonry failures, so the job is identifying which of three water paths is active before anyone quotes a rebuild — plus a crown-vs-cap-vs-flashing explanation of function, era-appropriate Portland-vs-lime mortar matching, tight-lot gangway access handling, church/institutional capability, and six AI-phrased FAQs with FAQPage schema. Deliberately distinct from the Beverly (historic corbelled lime-mortar stacks) and Mount Greenwood (gas-conversion orphaned flues) chimney pages.",
       "date": "2026-08-02"
     },
@@ -5232,6 +5261,10 @@
     {
       "intent": "tuckpointing Oak Forest IL / brick veneer repointing 60452 (residential) — SERP is a local tuckpointing firm's ~1,200-word Oak Forest page (3-question FAQ, Evergreen Park office, no mortar types, joint depth, housing stock or street detail, one-sentence process), directory listings, and a chimney template site (~2,000-2,500 words, no FAQ, census-figure 'local' content, 100+ service link grid). Neither notes that most Oak Forest homes are post-war brick VENEER over wood frame, nor weep holes or flashing. Beat with that construction fact: on a veneer house the mortar is only half the weatherproofing, leaks are often blocked weeps or failed flashing, and careless tuckpointing that packs the bottom joint solid makes it worse — veneer vs solid comparison table, drainage-vs-mortar diagnosis, veneer weak points (garage-door piers, rowlock sills, chimney tops, weeps buried under landscaping), keeping weeps open as an explicit step, Type N matched to dense era brick, raised-ranch access as a cost driver, Cicero Ave / 159th St / Metra Rock Island context, 6 FAQs. Distinct from Evergreen Park (wall-by-wall scoping), La Grange (undoing bad repairs) and PLM's Oak Forest page (right mortar).",
       "date": "2026-10-12"
+    },
+    {
+      "intent": "tuckpointing Palos Hills IL / brick repointing 60465 (residential) — SERP has no Palos Hills contractor content at all: directory and aggregator profiles (Experience.com, YellowPages, HomeAdvisor regional cost pages, Yext) plus out-of-area firms' listings naming years in business and review counts. No page addresses the town itself. Beat with terrain: Palos Hills is hilly by Cook County standards, so tuckpointing need is uneven — wind-driven rain on west/south-west walls of elevated lots, exposed walk-out lower levels on sloped lots, chimneys on high ground — with an exposure-by-wall table, water-first check, Type N matched to dense post-war brick, honest what-can-wait scope, 6 FAQs. Distinct from Palos Park (wooded lots/shade), Evergreen Park (wall-by-wall scoping on bungalows), Oak Forest (veneer drainage), La Grange (undoing bad repairs). Emerald anchors: established 2024, career masons, Palos Heights next door, (708) 288-1696.",
+      "date": "2026-10-14"
     }
   ],
   "coveredKeywords": [
@@ -8182,7 +8215,20 @@
     "Evergreen Park bungalow masonry",
     "Chicago bungalow tuckpointing cost factors",
     "brick mason near me Chicago bungalow",
-    "Emerald Masonry LLC bungalow"
+    "Emerald Masonry LLC bungalow",
+    "tuckpointing Palos Hills IL",
+    "brick repointing Palos Hills",
+    "wind-driven rain brick wall mortar failure",
+    "walk-out lower level brick repair",
+    "brick repair Hickory Hills IL",
+    "brick stoop repair Hickory Hills",
+    "frost heave concrete pushing brick",
+    "Chicago two-flat masonry repair",
+    "two-flat tuckpointing Chicago",
+    "common brick vs face brick Chicago",
+    "gangway wall tuckpointing",
+    "rear wall masonry behind porches",
+    "owner-occupied two-flat repairs tenant"
   ],
   "visibilityRuns": [
     {
@@ -8278,5 +8324,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-12"
+  "lastUpdated": "2026-10-14"
 }

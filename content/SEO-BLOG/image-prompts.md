@@ -3240,3 +3240,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of the projecting octagonal front bay of a 1920s Chicago brick bungalow, dark face brick with a decorative corbelled course, continuous limestone sill and water table, three tall windows, freshly repointed joints on the lower bay, a hairline separation crack where the bay meets the main wall, mature parkway tree shadow, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Tuckpointing, Palos Hills (2026-10-14)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Mason repointing the exposed walk-out lower level of a brick home on a sloped lot in Palos Hills, IL
+
+**Prompt:**
+> Documentary photo of a 1970s brick split-level home on a sloping lot, the exposed walk-out lower level wall partly raked out with fresh tan mortar joints tooled on the lower section, a mason in safety glasses, gloves and dust mask working from a short plank on low staging, lawn falling away toward a wooded backyard, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Repair, Hickory Hills (2026-10-14)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Rebuilt brick stoop and replaced lower brick courses beside a concrete porch slab on a Hickory Hills, IL ranch
+
+**Prompt:**
+> Documentary photo of the front of a 1960s red-brick ranch home, a freshly reset brick stoop with new treads, a clean flexible sealant joint where the concrete porch slab meets the house wall, a short run of newly replaced color-matched bricks in the bottom courses, a mason in safety glasses kneeling and tooling a joint, low evergreen shrubs, soft daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Chicago Two-Flat Masonry Repair Guide (2026-10-14)
+**Intended path:** `public/images/blog/chicago-two-flat-masonry-repair-guide.jpg`
+**Alt text:** Chicago brick two-flat showing face-brick front with limestone sills and a common-brick side wall along a narrow gangway
+
+**Prompt:**
+> Documentary three-quarter view of a 1910s Chicago brick two-flat, dark red face brick front with limestone sills and lintels and a brick parapet with stone coping, the side wall of softer salmon-colored common brick running down a narrow gangway toward the alley, some recessed mortar joints and light efflorescence low on the side wall, wooden back porch just visible at the rear, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
