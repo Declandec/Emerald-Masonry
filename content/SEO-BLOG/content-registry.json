@@ -8322,7 +8322,83 @@
         "Not present in curated listicles AI leans on (downtobid 'Best Commercial Masonry Chicago', Landmarks Illinois masonry contractor directory)",
         "Cost-query capture lost to Delta/Kerry/Krisbud dedicated cost guides despite tuckpointing-cost-illinois being live"
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "visibilityScore": "0",
+      "promptCount": 12,
+      "method": "WebSearch proxy for AI-answer grounding sources (not direct LLM calls)",
+      "perPrompt": [
+        {
+          "prompt": "best tuckpointing contractor Palos Heights IL",
+          "score": 0,
+          "groundedOn": "YellowPages/HomeAdvisor/Thumbtack/Experience.com; Art's Masonry, Doherty, Bruno's, Affordable Tuckpointing Pros, Adam's"
+        },
+        {
+          "prompt": "chimney repair near me Oak Lawn IL",
+          "score": 0,
+          "groundedOn": "Thumbtack, HomeAdvisor, BBB, YellowPages; All Seasons, Pratt's, Superior Chimney, Olsen, Morgan's"
+        },
+        {
+          "prompt": "best masonry contractor southwest suburbs Chicago",
+          "score": 0,
+          "groundedOn": "HomeAdvisor, Angi, downtobid, YellowPages; Olsen, Doherty, Chicago Masonry Construction"
+        },
+        {
+          "prompt": "my chimney is crumbling who do I call Chicago masonry",
+          "score": 0,
+          "groundedOn": "Google Business, Angi, Yahoo Local; Superior Chimney, Edmar, Plumb, Chicago Chimney & Roof"
+        },
+        {
+          "prompt": "tuckpointing vs brick replacement which do I need",
+          "score": 0,
+          "groundedOn": "Bob Vila, Angi, HomeAdvisor, This Old House, write.as"
+        },
+        {
+          "prompt": "commercial masonry contractor for property managers Chicago",
+          "score": 0,
+          "groundedOn": "downtobid, TheBlueBook, HomeGuide; Grove, Continental, Borek, J&E Duff"
+        },
+        {
+          "prompt": "brick repair Orland Park IL masonry",
+          "score": 0,
+          "groundedOn": "Thumbtack + HomeAdvisor Orland Park pages; Edmar, JPL, Bald Eagle"
+        },
+        {
+          "prompt": "how much does tuckpointing cost in Illinois",
+          "score": 0,
+          "groundedOn": "HomeAdvisor tloc cost pages, ContractorPlus"
+        },
+        {
+          "prompt": "historic masonry restoration Chicago suburbs contractor",
+          "score": 0,
+          "groundedOn": "Landmarks Illinois directory, downtobid, Houzz; A.L.L., Bulley & Andrews, Soumar, Berglund"
+        },
+        {
+          "prompt": "masonry contractor HOA condo association Chicago",
+          "score": 0,
+          "groundedOn": "Angi suburb pages, TheBlueBook; AAA-1 (CAI member), Chicago Masonry Construction"
+        },
+        {
+          "prompt": "lintel replacement contractor Chicago suburbs brick",
+          "score": 0,
+          "groundedOn": "Architect Magazine, HomeAdvisor, Angi; Edmar, J&P, Active, Chuy's, Olsen"
+        },
+        {
+          "prompt": "Emerald Masonry LLC Palos Heights (brand query)",
+          "score": 0,
+          "groundedOn": "Own domain NOT surfaced; answer resolved to Emerald Masonry Minneapolis (MNHS directory, founded 1998) and CT 'Emerald' firms; said no Palos Heights business found"
+        }
+      ],
+      "notes": "DOWN vs 2026-08-01 (2.8%) to 0%. Absent from all 11 generic intents, as before. NEW REGRESSION: brand query now scores 0 — emeraldmasonryil.com did not surface even for 'Emerald Masonry LLC Palos Heights' or a domain-name query; the engine resolved the brand to Emerald Masonry (Minneapolis, MN) and Connecticut 'Emerald' firms and concluded no Palos Heights business exists. Grounding is ~100% directories (HomeAdvisor, Thumbtack, Angi, BBB, YellowPages, downtobid, TheBlueBook, Landmarks Illinois). 300+ on-site pages are not reaching answer engines without off-site entity corroboration. Proxy caveat: single search backend; direct ChatGPT citations (SemRush: 8 Emerald pages) not measured here.",
+      "topGaps": [
+        "Brand entity unresolved — no GBP/directory record ties 'Emerald Masonry LLC' to Palos Heights; Minneapolis namesake wins",
+        "No Google Business Profile surfaced",
+        "Absent from HomeAdvisor/Thumbtack/Angi city pages (Orland Park, Oak Lawn, Palos) that answers lean on",
+        "No BBB, YellowPages, Bing Places, Apple listings",
+        "Not in downtobid / TheBlueBook commercial directories"
+      ]
     }
   ],
-  "lastUpdated": "2026-10-14"
+  "lastUpdated": "2026-10-15"
 }
