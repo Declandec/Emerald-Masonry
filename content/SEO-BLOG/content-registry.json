@@ -8398,7 +8398,83 @@
         "No BBB, YellowPages, Bing Places, Apple listings",
         "Not in downtobid / TheBlueBook commercial directories"
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "visibilityScore": "0",
+      "promptCount": 12,
+      "method": "WebSearch proxy for AI-answer grounding sources (not direct LLM calls)",
+      "perPrompt": [
+        {
+          "prompt": "best tuckpointing contractor Palos Heights IL",
+          "score": 0,
+          "groundedOn": "Experience.com, YellowPages, HomeAdvisor, Thumbtack; Art's Masonry, Doherty, Bruno's, Affordable Tuckpointing Pros"
+        },
+        {
+          "prompt": "chimney repair near me Oak Lawn IL",
+          "score": 0,
+          "groundedOn": "HomeAdvisor, Thumbtack, BBB, YellowPages; Superior Chimney, All Seasons, Pratt's, Olsen"
+        },
+        {
+          "prompt": "best masonry contractor southwest suburbs Chicago",
+          "score": 0,
+          "groundedOn": "HomeAdvisor, Angi, downtobid, YellowPages; Olsen, Doherty, Chicago Masonry Construction"
+        },
+        {
+          "prompt": "my chimney is crumbling who do I call Chicago masonry",
+          "score": 0,
+          "groundedOn": "Yext directory, Thumbtack, Houzz; Mark's Tuckpointing, Affordable Tuckpointing Pros, Gem Chimney, AAA-1"
+        },
+        {
+          "prompt": "tuckpointing vs brick replacement which do I need",
+          "score": 0,
+          "groundedOn": "Bob Vila, Angi, write.as, Dayton Daily News"
+        },
+        {
+          "prompt": "commercial masonry contractor for property managers Chicago",
+          "score": 0,
+          "groundedOn": "downtobid, TheBlueBook, HomeGuide; Grove, Chicago Masonry Construction, J&E Duff, Borek, Continental"
+        },
+        {
+          "prompt": "brick repair Orland Park IL masonry",
+          "score": 0,
+          "groundedOn": "Thumbtack + HomeAdvisor Orland Park pages; Edmar, JPL, Bald Eagle"
+        },
+        {
+          "prompt": "how much does tuckpointing cost in Illinois",
+          "score": 0,
+          "groundedOn": "HomeAdvisor tloc cost pages, ContractorPlus"
+        },
+        {
+          "prompt": "historic masonry restoration Chicago suburbs contractor",
+          "score": 0,
+          "groundedOn": "Landmarks Illinois directory, downtobid, Houzz; A.L.L., Soumar, Bral, Bruno's, Berglund"
+        },
+        {
+          "prompt": "masonry contractor HOA condo association Chicago",
+          "score": 0,
+          "groundedOn": "Angi suburb pages (incl. Worth), TheBlueBook; AAA-1, Chicago Masonry Construction"
+        },
+        {
+          "prompt": "lintel replacement contractor Chicago suburbs brick",
+          "score": 0,
+          "groundedOn": "Architect Magazine, HomeAdvisor, Thumbtack; Edmar, J&P, Active, Chuy's, Olsen"
+        },
+        {
+          "prompt": "Emerald Masonry LLC Palos Heights (brand query)",
+          "score": 0,
+          "groundedOn": "Own domain NOT surfaced (also absent on domain-name query); resolved to Emerald Masonry Minneapolis (MNHS) and Emerald Stone Masonry CT; said no Palos Heights record exists"
+        }
+      ],
+      "notes": "FLAT at 0% vs 2026-10-15 (0%). Same 12 prompts. Brand still unresolved: Minneapolis/CT namesakes win; emeraldmasonryil.com absent even on domain query. Site up (200) and robots allows AI crawlers, so the gap is off-site entity corroboration, not crawlability. Grounding ~100% directories (HomeAdvisor, Thumbtack, Angi, BBB, YellowPages, downtobid, TheBlueBook, Landmarks Illinois, Yext). No off-site actions completed since last run; GBP suspension appeal denied (Jul 2025). Proxy caveat: single search backend.",
+      "topGaps": [
+        "Brand entity unresolved: no directory record ties Emerald Masonry LLC to Palos Heights",
+        "GBP suspended (appeal denied): escalate via Help Community",
+        "Absent from HomeAdvisor/Thumbtack/Angi city pages",
+        "No BBB, YellowPages, Bing Places, Apple, Yext listings",
+        "Not in downtobid / TheBlueBook"
+      ]
     }
   ],
-  "lastUpdated": "2026-10-15"
+  "lastUpdated": "2026-10-18"
 }
