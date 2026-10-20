@@ -3261,3 +3261,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary three-quarter view of a 1910s Chicago brick two-flat, dark red face brick front with limestone sills and lintels and a brick parapet with stone coping, the side wall of softer salmon-colored common brick running down a narrow gangway toward the alley, some recessed mortar joints and light efflorescence low on the side wall, wooden back porch just visible at the rear, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Chimney Repair, Hinsdale (2026-10-19)
+**Intended path:** `public/images/after-chimney-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Restored pre-war brick chimney with corbelled top, clay chimney pots and new copper flashing on a slate roof in Hinsdale, IL
+
+**Prompt:**
+> Documentary photo of a tall 1920s brick chimney rising from a steep grey slate roof on an older suburban home, freshly repointed joints near the corbelled top, two clay chimney pots, a new mortar crown with a drip edge, new copper step and counter flashing, a mason in a hard hat, safety glasses and fall-protection harness on roof staging, mature oak branches, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Foundation Masonry Repair, Worth (2026-10-19)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repaired concrete block foundation and basement window opening with new lintel below a brick wall in Worth, IL
+
+**Prompt:**
+> Documentary close view of the exposed concrete block foundation of a 1950s red-brick ranch home, a basement window with a newly coated steel lintel above it, freshly tuckpointed block joints at the window corners, new grey parging on the foundation band, a clean galvanized window well with gravel at the bottom, a mason in safety glasses and gloves kneeling with a trowel, trimmed lawn edge, soft daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Tudor Revival Brick Home Masonry Repair (2026-10-19)
+**Intended path:** `public/images/blog/tudor-revival-brick-home-masonry-repair-chicago.jpg`
+**Alt text:** 1920s Tudor Revival brick home with a massive front chimney, clinker brick, limestone-trimmed arched entry and half-timbered gable
+
+**Prompt:**
+> Documentary three-quarter view of a 1920s Tudor Revival house in a mature Chicago suburb, steep front gable with stucco and dark half-timbering, a massive front brick chimney with clinker brick accents and clay chimney pots, a round-arched front door framed in limestone, leaded casement windows, a few freshly repointed joints low on the chimney matching the rough original mortar, autumn leaves, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
