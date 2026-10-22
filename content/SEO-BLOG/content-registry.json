@@ -3516,6 +3516,30 @@
       "publishDate": "2026-10-19",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-new-lenox-il",
+      "title": "Brick Replacement in New Lenox, IL — Matching the Brick on a 1990s–2000s Home When the Blend Is Discontinued",
+      "primaryKeyword": "brick replacement New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-10-21",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "limestone-sill-repair-downers-grove-il",
+      "title": "Limestone Sill Repair in Downers Grove, IL — Is It Really Limestone? Identifying Your Sills Before You Fix Them",
+      "primaryKeyword": "limestone sill repair Downers Grove IL",
+      "city": "Downers Grove, IL",
+      "service": "Limestone / Sill Repair",
+      "serviceSlug": "limestone-sill-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-21",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5033,6 +5057,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-10-19",
       "image": "/images/after-chimney.jpg"
+    },
+    {
+      "slug": "mid-century-brick-ranch-masonry-repair-chicago-suburbs",
+      "title": "Mid-Century Brick Ranch Masonry Repair: Roman Brick, Breeze Block, Planters and Long Window Walls",
+      "primaryKeyword": "mid-century brick ranch masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-21",
+      "image": "/images/after-residential-3.jpg"
     }
   ],
   "coveredCities": [
@@ -5175,10 +5208,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "residential masonry restoration Orland Park IL — unusually directory-dominated SERP (Porch '10 Best', Procore, Yelp, Thumbtack, Angi, chamberofcommerce.com) so the 'who should I hire' intent is largely owned by aggregators rather than contractor pages; the contractor pages that do rank are service-area template clones duplicated across dozens of suburbs with a services list, no FAQ, no cost guidance, no process, no mortar-matching content, no schema and no Orland Park specificity beyond the town name in the H1; ours does not compete as another 'we do masonry here' page — it takes the restoration-vs-repair position (most homes need four things done in the RIGHT ORDER, not one thing done well) and supplies an explicit repair-priority framework (water sources first, then corroding steel, then water damage, then protection, then cosmetic) plus phasing guidance, veneer-specific failure points for the 1970s-2000s stock, the Old Orland historic-core mortar distinction, and six AI-phrased FAQs with FAQPage schema",
-      "date": "2026-08-03"
-    },
-    {
       "intent": "historic masonry restoration Lemont IL / Lemont limestone building repair — SERP mixes stone suppliers, directory listings (Landmarks Illinois contractor archive, Yelp) and regional restoration contractors running service-area template pages; the strongest competitor is better than most (three-question FAQ, a genuine mortar-matching paragraph citing composition, color, texture, hardness and breathability) but the same boilerplate is templated across 18+ communities, with NO step-by-step process, NO cost guidance beyond 'repair is more cost-effective than replacement', NO lime-mortar specifics, no schema, no case studies — and critically it gestures at 'historic limestone structures that echo our town's quarrying past' WITHOUT EVER NAMING THE STONE; ours names Athens Marble, explains it is dolomitic limestone rather than marble, ties it to the I&M Canal and the Chicago Water Tower, explains the specific failure mode of layered dolomite (delamination along bedding planes), frames lime-vs-Portland mortar as preservation-vs-destruction rather than preference, and states plainly that matched replacement stone is scarce because the quarries closed — which reframes repair-before-replacement as a materials reality",
       "date": "2026-08-05"
     },
@@ -5298,6 +5327,10 @@
     {
       "intent": "chimney repair Hinsdale IL (residential) — SERP is entirely directory listings (HomeAdvisor fireplace/chimney-cap/tuckpointing pages, Angi) and chimney-sweep profiles leading on years in business and review counts; no Hinsdale-specific contractor content at all. None distinguishes Hinsdale's two chimney populations. Beat with that split: tall decorative pre-war brick stacks on 1890s-1930s homes (soft lime mortar, corbelling, chimney pots, steep slate/tile roofs) vs teardown-era masonry/stone chases around metal prefab flues (crown/chase-cover, counter-flashing and veneer-drainage failures), a comparison table, sweep-vs-mason FAQ, teardown-next-door vibration, village/historic-area review on rebuilds, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-10-19"
+    },
+    {
+      "intent": "brick replacement New Lenox IL (residential) — SERP returns no contractor content at all: two local brick supply yards (dealer and supply-centre listings), Lennox-brand stove firebrick, and a roofing directory. The real homeowner intent is finding brick that matches a 1990s-2000s subdivision blend that is no longer made. Beat with matching as the core of the job: a five-route matching table (closest current blend from local yards, builder leftovers, salvaged, borrowed from a hidden wall, blending to the original ratio), sample bricks shown against the wall before setting, weathering-in vs true mismatch, coloured Type N vs grey bagged mortar, checking ties/flashing/weeps while the wall is open, 6 FAQs. Distinct from Emerald's New Lenox brick-repair page and PLM's Aug brick-replacement page. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-10-21"
     }
   ],
   "coveredKeywords": [
@@ -8275,7 +8308,21 @@
     "clinker brick repair",
     "skintled brick tuckpointing",
     "brick and stucco junction leak",
-    "cast stone door surround repair"
+    "cast stone door surround repair",
+    "brick replacement New Lenox IL",
+    "matching discontinued brick blend",
+    "brick veneer replacement New Lenox",
+    "limestone sill repair Downers Grove IL",
+    "cast stone sill repair",
+    "precast concrete sill replacement",
+    "brick rowlock sill repair",
+    "mid-century brick ranch masonry repair",
+    "Roman brick repair",
+    "breeze block repair",
+    "stack bond brick cracks",
+    "brick planter repair against house",
+    "steel lintel over picture window",
+    "Lannon stone repair"
   ],
   "visibilityRuns": [
     {
@@ -8523,5 +8570,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-19"
+  "lastUpdated": "2026-10-21"
 }

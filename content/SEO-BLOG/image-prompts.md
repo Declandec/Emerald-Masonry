@@ -3282,3 +3282,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary three-quarter view of a 1920s Tudor Revival house in a mature Chicago suburb, steep front gable with stucco and dark half-timbering, a massive front brick chimney with clinker brick accents and clay chimney pots, a round-arched front door framed in limestone, leaded casement windows, a few freshly repointed joints low on the chimney matching the rough original mortar, autumn leaves, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Replacement, New Lenox (2026-10-21)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Mason holding sample replacement bricks against the multi-colour brick veneer of a 2000s home in New Lenox, IL
+
+**Prompt:**
+> Documentary photo of the front brick-veneer wall of a 2000s two-storey suburban home with a multi-colour red and brown brick blend, a mason in safety glasses and gloves holding three sample bricks against the wall beside a cut-out area at a garage door pier, a few freshly set colour-matched bricks with tan mortar joints, a mortar board on a stand, clean driveway, soft daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Limestone Sill Repair, Downers Grove (2026-10-21)
+**Intended path:** `public/images/after-residential.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** New limestone window sill set with an outward slope below a double-hung window on a brick home in Downers Grove, IL
+
+**Prompt:**
+> Documentary close view of a newly installed buff Indiana limestone window sill under a white double-hung window on a 1950s red-brick Georgian-style home, sill sloping outward with a visible drip groove, fresh pointed joints at the sill ends, repointed brick below, a mason in safety glasses checking the slope with a small level, foundation shrubs, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Mid-Century Brick Ranch Masonry Repair (2026-10-21)
+**Intended path:** `public/images/blog/mid-century-brick-ranch-masonry-repair-chicago-suburbs.jpg`
+**Alt text:** 1950s mid-century brick ranch with Roman brick, a long picture window, a brick planter and a breeze block screen
+
+**Prompt:**
+> Documentary photo of a 1950s mid-century modern brick ranch home in a Chicago suburb, long thin tan Roman brick with flush joints, a wide picture window under a low roof with deep overhangs, a long brick planter along the front wall, a decorative concrete breeze block screen beside the entry, a low wide chimney faced with layered Lannon stone, mature trees, late afternoon light, photorealistic, no people, no house numbers, no text, no logos, no CGI.
