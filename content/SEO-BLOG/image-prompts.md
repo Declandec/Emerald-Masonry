@@ -3303,3 +3303,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a 1950s mid-century modern brick ranch home in a Chicago suburb, long thin tan Roman brick with flush joints, a wide picture window under a low roof with deep overhangs, a long brick planter along the front wall, a decorative concrete breeze block screen beside the entry, a low wide chimney faced with layered Lannon stone, mature trees, late afternoon light, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Replacement Orland Park (competitor-informed) (2026-10-26)
+**Intended path:** `public/images/seo/brick-replacement-orland-park-il.jpg`
+**Alt text:** Mason replacing spalled bricks on a garage pier of a brick-front home in Orland Park, Illinois
+
+**Prompt:**
+> Documentary photo of a 1990s brick-front two-storey suburban home, the brick pier between two garage doors with several spalled, flaking bricks near the driveway already cut out, a mason in safety glasses and gloves setting a matched replacement brick with a trowel, a few sample bricks held against the wall above for colour comparison, a mortar board on a stand, a downspout with a new extension leading away from the house, clean concrete driveway, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Foundation Masonry Repair Palos Park (2026-10-26)
+**Intended path:** `public/images/seo/foundation-masonry-repair-palos-park-il.jpg`
+**Alt text:** Masons rebuilding a section of concrete block foundation on the uphill side of a wooded hillside home in Palos Park, Illinois
+
+**Prompt:**
+> Documentary photo of a brick ranch home on a sloped, heavily wooded lot with mature oaks and fallen leaves, the uphill side of the foundation excavated along a short trench with shoring boards, a bowed section of grey concrete block removed and two masons in hard hats, safety glasses and gloves laying new block with grouted cores, black damp-proofing on the finished section, perforated drain pipe and washed stone staged beside the trench, a walk-out basement door visible on the downhill side, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — American Foursquare Brick Home Masonry Repair (2026-10-26)
+**Intended path:** `public/images/blog/american-foursquare-brick-home-masonry-repair-chicago.jpg`
+**Alt text:** Mason rebuilding a brick porch pier on an early-1900s American Foursquare home in suburban Chicago
+
+**Prompt:**
+> Documentary photo of an early-1900s red brick American Foursquare home with a hipped roof, central dormer, wide eaves, limestone window sills and a full-width front porch, one of the brick porch piers partly rebuilt in matched soft red brick with a temporary post supporting the porch roof beam beside it, a mason in safety glasses and gloves pointing joints with a narrow trowel, a new sloped limestone pier cap resting on a pallet nearby, mature street trees, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.

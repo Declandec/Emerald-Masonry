@@ -3540,6 +3540,30 @@
       "publishDate": "2026-10-21",
       "image": "/images/after-residential.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-orland-park-il",
+      "title": "Brick Replacement in Orland Park, IL — Replace, Repair or Stain? How to Tell What Your Brick Needs",
+      "primaryKeyword": "brick replacement Orland Park IL",
+      "city": "Orland Park, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-10-26",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "foundation-masonry-repair-palos-park-il",
+      "title": "Foundation Masonry Repair in Palos Park, IL — Sloped Lots, Walk-Out Basements and Wooded Yards",
+      "primaryKeyword": "foundation masonry repair Palos Park IL",
+      "city": "Palos Park, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-26",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5066,6 +5090,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-10-21",
       "image": "/images/after-residential-3.jpg"
+    },
+    {
+      "slug": "american-foursquare-brick-home-masonry-repair-chicago",
+      "title": "American Foursquare Brick Home Masonry Repair: A Guide for Chicago and Suburban Owners",
+      "primaryKeyword": "American Foursquare brick home masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-26",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -5208,10 +5241,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "historic masonry restoration Lemont IL / Lemont limestone building repair — SERP mixes stone suppliers, directory listings (Landmarks Illinois contractor archive, Yelp) and regional restoration contractors running service-area template pages; the strongest competitor is better than most (three-question FAQ, a genuine mortar-matching paragraph citing composition, color, texture, hardness and breathability) but the same boilerplate is templated across 18+ communities, with NO step-by-step process, NO cost guidance beyond 'repair is more cost-effective than replacement', NO lime-mortar specifics, no schema, no case studies — and critically it gestures at 'historic limestone structures that echo our town's quarrying past' WITHOUT EVER NAMING THE STONE; ours names Athens Marble, explains it is dolomitic limestone rather than marble, ties it to the I&M Canal and the Chicago Water Tower, explains the specific failure mode of layered dolomite (delamination along bedding planes), frames lime-vs-Portland mortar as preservation-vs-destruction rather than preference, and states plainly that matched replacement stone is scarce because the quarries closed — which reframes repair-before-replacement as a materials reality",
-      "date": "2026-08-05"
-    },
-    {
       "intent": "chimney repair La Grange IL — the strongest competitor set analyzed to date. Alongside the usual chimney-franchise pages (one operator runs THREE near-duplicate La Grange pages, i.e. thin-content proliferation), the leading result segments problems by housing era, names local architectural styles (Italianate, Queen Anne, Tudor Revival, Craftsman), includes a repair-vs-replace section, a five-question FAQ covering historic districts and permits, and a real mortar spec citing Type N (ASTM C270) with a Portland-damages-historic-brick warning. Its gaps: NO cost guidance or cost-driver framework at all, NO step-by-step process, no answer-first summary, no schema markup, an obviously templated multi-city framework with La Grange details bolted on, and — telling — case references to Park Ridge and Evanston on a La Grange page. Ours beats it on its own strongest point: prescribing 'Type N for historic homes' is closer than most contractors get but still an oversimplification, since Type N contains Portland cement and can be harder than genuinely soft 1880s-90s brick, which often wants Type O or a custom lime blend. We publish the full mortar gradient (M/S/N/O/lime) plus the governing softer-than-the-brick rule so a homeowner can evaluate ANY contractor's answer, and add the cost drivers, repair ladder, three-water-paths diagnostic and process the competitor omits entirely.",
       "date": "2026-08-06"
     },
@@ -5331,6 +5360,10 @@
     {
       "intent": "brick replacement New Lenox IL (residential) — SERP returns no contractor content at all: two local brick supply yards (dealer and supply-centre listings), Lennox-brand stove firebrick, and a roofing directory. The real homeowner intent is finding brick that matches a 1990s-2000s subdivision blend that is no longer made. Beat with matching as the core of the job: a five-route matching table (closest current blend from local yards, builder leftovers, salvaged, borrowed from a hidden wall, blending to the original ratio), sample bricks shown against the wall before setting, weathering-in vs true mismatch, coloured Type N vs grey bagged mortar, checking ties/flashing/weeps while the wall is open, 6 FAQs. Distinct from Emerald's New Lenox brick-repair page and PLM's Aug brick-replacement page. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-10-21"
+    },
+    {
+      "intent": "brick replacement Orland Park IL (residential) — SERP is all lead-gen: HomeAdvisor tloc pages (brick/stone siding replace, partial repair, wall repair) quoting a generic platform average and range, Thumbtack masonry-repair contractor lists, and a painting franchise blog pitching brick STAINING as a cheaper alternative to replacement. No contractor page explains how to tell staining-worthy brick from brick that must be replaced, or what causes spalling on suburban homes. Beat with a replace / repair / tuckpoint / stain / lintel diagnosis table, the stain-and-paint-over-spall warning, suburban root causes (sprinklers, downspouts, salted driveway snow at garage piers, failed window caulk/flashing, soft builder blends, trapped coatings), cause-fix included in scope, sample-match before setting, Old Orland historic softer brick vs 1970s–2000s builder blends. Emerald anchors: est. 2024 career masons, licensed/bonded/insured, (708) 288-1696.",
+      "date": "2026-10-26"
     }
   ],
   "coveredKeywords": [
@@ -8322,7 +8355,13 @@
     "stack bond brick cracks",
     "brick planter repair against house",
     "steel lintel over picture window",
-    "Lannon stone repair"
+    "Lannon stone repair",
+    "brick replacement Orland Park IL",
+    "foundation masonry repair Palos Park IL",
+    "American Foursquare brick home masonry repair",
+    "brick staining vs brick replacement",
+    "brick porch pier repair",
+    "walk-out basement wall repair"
   ],
   "visibilityRuns": [
     {
@@ -8570,5 +8609,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-21"
+  "lastUpdated": "2026-10-26"
 }
