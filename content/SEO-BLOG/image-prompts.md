@@ -3324,3 +3324,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of an early-1900s red brick American Foursquare home with a hipped roof, central dormer, wide eaves, limestone window sills and a full-width front porch, one of the brick porch piers partly rebuilt in matched soft red brick with a temporary post supporting the porch roof beam beside it, a mason in safety glasses and gloves pointing joints with a narrow trowel, a new sloped limestone pier cap resting on a pallet nearby, mature street trees, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Lintel Repair, Naperville (2026-10-30)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Brick rebuilt over a replaced steel window lintel on a brick home in Naperville, IL
+
+**Prompt:**
+> Documentary photo of a 1990s brick-front two-storey suburban home, the brick above a two-car garage door removed in a band, a new primed steel angle lintel in place with black flashing lapped over it and small weep vents, temporary adjustable steel shoring posts under the brick above, a mason in hard hat, safety glasses and gloves laying matched brick back on the lintel, a mortar board and stacked replacement brick on the driveway, the old rusted lintel on a tarp, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Foundation Masonry Repair, Lemont (2026-10-30)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repointed stone foundation below an older brick home on a sloped lot in Lemont, IL
+
+**Prompt:**
+> Documentary close view of the exposed rubble stone foundation of an older brick house on a gently sloping lot, buff-yellow limestone blocks with half the joints freshly repointed in soft light-colored lime mortar and the rest still raked out, a mason in safety glasses and gloves kneeling with a pointing trowel and hawk, a mortar tub on a tarp, a new downspout extension running downhill across the lawn, fallen autumn leaves, soft daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Brick Cape Cod Home Masonry Repair (2026-10-30)
+**Intended path:** `public/images/blog/brick-cape-cod-home-masonry-repair-chicago-suburbs.jpg`
+**Alt text:** Post-war brick Cape Cod home with front dormers, an exterior end-wall brick chimney and a small front stoop in a Chicago suburb
+
+**Prompt:**
+> Documentary three-quarter view of a 1950s red brick Cape Cod house on a tree-lined Chicago suburban street, steep gable roof with two sided front dormers, a tall exterior brick chimney on the end wall with a new mortar crown and black metal chimney cap, freshly repointed joints near the top of the chimney, short eaves with clean gutters, a small concrete front stoop with three steps and a black iron railing, autumn leaves on the lawn, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.

@@ -3564,6 +3564,30 @@
       "publishDate": "2026-10-26",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "lintel-repair-naperville-il",
+      "title": "Lintel Repair in Naperville, IL — Is It the Window or the Steel Above It? Rusted Lintels on Naperville Brick Homes",
+      "primaryKeyword": "lintel repair Naperville IL",
+      "city": "Naperville, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-30",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "foundation-masonry-repair-lemont-il",
+      "title": "Foundation Masonry Repair in Lemont, IL — Old Stone Foundations, Bluff Lots and Newer Block Walls",
+      "primaryKeyword": "foundation masonry repair Lemont IL",
+      "city": "Lemont, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-10-30",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5099,6 +5123,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-10-26",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "brick-cape-cod-home-masonry-repair-chicago-suburbs",
+      "title": "Brick Cape Cod Home Masonry Repair: A Guide for Chicago and Suburban Owners",
+      "primaryKeyword": "brick Cape Cod home masonry repair",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-10-30",
+      "image": "/images/after-chimney.jpg"
     }
   ],
   "coveredCities": [
@@ -5241,10 +5274,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "chimney repair La Grange IL — the strongest competitor set analyzed to date. Alongside the usual chimney-franchise pages (one operator runs THREE near-duplicate La Grange pages, i.e. thin-content proliferation), the leading result segments problems by housing era, names local architectural styles (Italianate, Queen Anne, Tudor Revival, Craftsman), includes a repair-vs-replace section, a five-question FAQ covering historic districts and permits, and a real mortar spec citing Type N (ASTM C270) with a Portland-damages-historic-brick warning. Its gaps: NO cost guidance or cost-driver framework at all, NO step-by-step process, no answer-first summary, no schema markup, an obviously templated multi-city framework with La Grange details bolted on, and — telling — case references to Park Ridge and Evanston on a La Grange page. Ours beats it on its own strongest point: prescribing 'Type N for historic homes' is closer than most contractors get but still an oversimplification, since Type N contains Portland cement and can be harder than genuinely soft 1880s-90s brick, which often wants Type O or a custom lime blend. We publish the full mortar gradient (M/S/N/O/lime) plus the governing softer-than-the-brick rule so a homeowner can evaluate ANY contractor's answer, and add the cost drivers, repair ladder, three-water-paths diagnostic and process the competitor omits entirely.",
-      "date": "2026-08-06"
-    },
-    {
       "intent": "residential masonry restoration Oak Forest IL — SERP mixes chimney franchises, roofing-and-siding companies bolting masonry onto their service list, and cloned service-area pages. The most structurally complete result is transparently automated: heavy boilerplate ('Property owners in Oak Forest, IL and nearby communities...'), repetitive sentence patterns, stock imagery, no credentials or certifications, no schema. Its one apparent advantage — a 'Cost Snapshot' publishing generic national figures ($300-$1,500 repairs, $10-$30/sq ft, $50-$100/hr) — is actually its worst feature, because it supplies NO cost drivers, NO mortar-matching content at all, NO process and NO prioritization, so it anchors homeowners to a number unrelated to their house. Ours takes the position that actually helps in a village of modest post-war homes: the real question is not 'what does restoration cost' but 'the whole exterior needs work and I can afford one item a year, so what first.' We publish an explicit priority sequence (water sources, then corroding steel, then water damage, then protection, then cosmetic), phasing across budget years with the all-at-once trade-off stated honestly, per-element itemization, real cost drivers instead of a fabricated range, and era-appropriate mortar matching. Deliberately distinct from the Orland Park residential-restoration page, which addresses affluent 1970s-2000s veneer and leads on restoration-vs-repair.",
       "date": "2026-08-08"
     },
@@ -5364,6 +5393,10 @@
     {
       "intent": "brick replacement Orland Park IL (residential) — SERP is all lead-gen: HomeAdvisor tloc pages (brick/stone siding replace, partial repair, wall repair) quoting a generic platform average and range, Thumbtack masonry-repair contractor lists, and a painting franchise blog pitching brick STAINING as a cheaper alternative to replacement. No contractor page explains how to tell staining-worthy brick from brick that must be replaced, or what causes spalling on suburban homes. Beat with a replace / repair / tuckpoint / stain / lintel diagnosis table, the stain-and-paint-over-spall warning, suburban root causes (sprinklers, downspouts, salted driveway snow at garage piers, failed window caulk/flashing, soft builder blends, trapped coatings), cause-fix included in scope, sample-match before setting, Old Orland historic softer brick vs 1970s–2000s builder blends. Emerald anchors: est. 2024 career masons, licensed/bonded/insured, (708) 288-1696.",
       "date": "2026-10-26"
+    },
+    {
+      "intent": "lintel repair Naperville IL (residential, DuPage) — SERP is window/glass repair companies, HomeAdvisor window/brick-siding pages, a contractor directory and a demo site; no Naperville-specific lintel content. Homeowners confuse lintel failure with window problems. Beat with a 'window or lintel — who do I call' symptom table, lintel-before-window-replacement sequencing, rust jacking explanation, garage door lintel FAQ, paint-vs-replace FAQ, flashing + weeps on every replacement, Naperville housing split (historic core vs 1970s-2000s brick-front subdivisions), 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-10-30"
     }
   ],
   "coveredKeywords": [
@@ -8361,7 +8394,21 @@
     "American Foursquare brick home masonry repair",
     "brick staining vs brick replacement",
     "brick porch pier repair",
-    "walk-out basement wall repair"
+    "walk-out basement wall repair",
+    "lintel repair Naperville IL",
+    "garage door lintel repair brick",
+    "crack above window brick home",
+    "window or lintel problem",
+    "foundation masonry repair Lemont IL",
+    "stone foundation repair old house",
+    "limestone foundation repointing",
+    "sloped lot foundation water",
+    "brick Cape Cod home masonry repair",
+    "Cape Cod house chimney repair",
+    "exterior end-wall chimney rebuild",
+    "short eaves water damage brick wall",
+    "dormer and brick wall leak",
+    "front stoop pulling away from house"
   ],
   "visibilityRuns": [
     {
@@ -8609,5 +8656,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-10-26"
+  "lastUpdated": "2026-10-30"
 }
