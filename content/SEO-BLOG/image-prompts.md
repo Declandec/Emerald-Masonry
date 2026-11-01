@@ -3345,3 +3345,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary three-quarter view of a 1950s red brick Cape Cod house on a tree-lined Chicago suburban street, steep gable roof with two sided front dormers, a tall exterior brick chimney on the end wall with a new mortar crown and black metal chimney cap, freshly repointed joints near the top of the chimney, short eaves with clean gutters, a small concrete front stoop with three steps and a black iron railing, autumn leaves on the lawn, overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Limestone Sill Repair, Tinley Park (2026-11-01)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repaired limestone window sill under a window on a brick home in Tinley Park, IL
+
+**Prompt:**
+> Documentary close view of a ground-floor window on a 1960s tan brick ranch home, a new buff limestone sill set in fresh mortar with a crisp drip groove underneath and freshly repointed brick ends, the old cracked sill in two pieces on a tarp below, a mason in safety glasses and gloves checking the sill pitch with a small torpedo level, a mortar tub and pointing trowel on the tarp, trimmed shrubs, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Chimney Repair, Bridgeview (2026-11-01)
+**Intended path:** `public/images/after-chimney-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repointed brick chimney with a new crown and cap on a brick home in Bridgeview, IL
+
+**Prompt:**
+> Documentary view from roof level of a red brick interior chimney rising through the hipped asphalt-shingle roof of a post-war brick bungalow, top courses freshly rebuilt and repointed, a new mortar crown with an overhang and a black stainless chimney cap, new step and counterflashing at the base, a mason in hard hat, safety glasses, gloves and fall-protection harness tied off, a mortar bucket on a roof bracket plank, neighboring brick homes and bare autumn trees in the background, overcast daylight, photorealistic, no text, no logos, no CGI.
+
+## Blog — Prairie-Style Brick Home Masonry Repair (2026-11-01)
+**Intended path:** `public/images/blog/prairie-style-brick-home-masonry-repair-chicago-suburbs.jpg`
+**Alt text:** Prairie-style brick home with Roman brick, wide overhanging eaves, a continuous limestone sill and masonry planters in a Chicago suburb
+
+**Prompt:**
+> Documentary street view of an early 1900s Prairie-style house in a leafy Chicago suburb, long thin tan Roman brick walls with deep horizontal shadow lines at the bed joints, a low hipped roof with very wide overhanging eaves, a row of casement windows over one continuous buff limestone sill, a broad low brick chimney, a brick terrace wall with flat stone caps and two square masonry planters at the entry, autumn leaves on the lawn, soft overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
