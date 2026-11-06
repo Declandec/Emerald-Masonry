@@ -3366,3 +3366,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary street view of an early 1900s Prairie-style house in a leafy Chicago suburb, long thin tan Roman brick walls with deep horizontal shadow lines at the bed joints, a low hipped roof with very wide overhanging eaves, a row of casement windows over one continuous buff limestone sill, a broad low brick chimney, a brick terrace wall with flat stone caps and two square masonry planters at the entry, autumn leaves on the lawn, soft overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Repair, Oak Forest (2026-11-05)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Matched replacement brick and repointed joints on a brick home wall in Oak Forest, IL
+
+**Prompt:**
+> Documentary close view of a low wall on a 1960s tan-and-brown brick raised ranch, a cluster of spalled bricks near a downspout cut out and replaced with closely matched brick, fresh mortar joints, a mason in safety glasses and gloves tooling a joint with a jointer, a brick sample and mortar board on a tarp on the concrete walk, overcast autumn daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Residential Masonry Restoration, Frankfort (2026-11-05)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Restored brick exterior with repointed joints and repaired sills on a home in Frankfort, IL
+
+**Prompt:**
+> Documentary three-quarter view of a 1990s two-storey brick home with stone-veneer accents in a Will County subdivision, freshly repointed brick, a new chimney crown and cap, rebuilt front steps with a black iron railing, a mason in hard hat and safety glasses walking the finished work with a clipboard, autumn landscaping and a young maple, soft overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Crumbling Chimney Base in the Basement (2026-11-05)
+**Intended path:** `public/images/blog/crumbling-chimney-base-in-basement-causes-repair-chicago.jpg`
+**Alt text:** Crumbling brick chimney base with white efflorescence and a rusted cleanout door in a Chicago-area basement
+
+**Prompt:**
+> Documentary photo inside an unfinished Chicago-area basement, the base of an old brick chimney with soft flaking bricks, white efflorescence, a small pile of sand and mortar on the concrete floor and a rusted cast-iron cleanout door, a metal water heater vent pipe entering the chimney above, work light illumination from one side, photorealistic, no people, no text, no logos, no CGI.

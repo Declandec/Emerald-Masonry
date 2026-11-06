@@ -3612,6 +3612,30 @@
       "publishDate": "2026-11-01",
       "image": "/images/after-chimney-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-oak-forest-il",
+      "title": "Brick Repair in Oak Forest, IL — Is It the Mortar, the Brick or the Wall? How to Know What Your Home Needs",
+      "primaryKeyword": "brick repair Oak Forest IL",
+      "city": "Oak Forest, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-11-05",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "residential-masonry-restoration-frankfort-il",
+      "title": "Residential Masonry Restoration in Frankfort, IL — A Whole-House Plan for Frankfort's Brick and Stone Homes",
+      "primaryKeyword": "residential masonry restoration Frankfort IL",
+      "city": "Frankfort, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-11-05",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5165,6 +5189,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-11-01",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "crumbling-chimney-base-in-basement-causes-repair-chicago",
+      "title": "Crumbling Chimney Base in the Basement: Causes, Repairs and When It's Serious",
+      "primaryKeyword": "crumbling chimney base in basement",
+      "service": "Chimney Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-11-05",
+      "image": "/images/after-chimney.jpg"
     }
   ],
   "coveredCities": [
@@ -5307,10 +5340,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "intent": "commercial masonry restoration Elgin IL / facade restoration Elgin — a genuinely strong field, but strong at one end only. The dominant result is a Milwaukee-based facade firm (414 area code, since 1926) emphasizing 10,000+ restoration projects, AIA contracts, terra cotta, steel and concrete restoration and landmark work including the Elgin Tower Building, targeting government offices, museums and cultural institutions. Alongside it: directory aggregators (downtobid, Houzz, Procore, Landmarks Illinois) and large union commercial contractors serving GC-managed retail, school and healthcare work. What NONE provide: an FAQ, cost guidance, a step-by-step process, phasing guidance, or a single line addressed to a small property owner, condo association or parish on a budget — small owners and budget-conscious managers are the explicitly underserved segment. Ours does not pretend to compete on institutional scale; it names the segment it serves (storefronts, 20-30 unit associations, parish churches, medical offices), states plainly when we are the WRONG call (AIA-contract landmark work, union-required projects), and supplies the diagnostic content, cost drivers led by access, phasing for boards and reserve planning, and the parapet/through-wall-flashing misdiagnosis the field withholds.",
-      "date": "2026-08-11"
-    },
-    {
       "date": "2026-08-13",
       "intent": "lintel replacement Cicero IL",
       "gapExploited": "Ranking page is a templated multi-city steel-lintel page whose FAQ section is a TUCKPOINTING Q&A sitting on a lintel page, with no answer-first summary, no cost guidance, no shoring or process detail and no schema. Critically, no page in the SERP explains through-wall flashing above the new lintel - the detail that decides whether the replacement lasts decades or repeats.",
@@ -5430,6 +5459,10 @@
     {
       "intent": "limestone sill repair Tinley Park IL (residential, Cook/Will) — SERP is HomeAdvisor stone-polishing/countertop restoration and brick-siding directory pages, BBB category lists; no exterior sill content. Beat with a sill-type table (natural limestone vs cast stone vs brick rowlock), patch vs dutchman vs replace decision, pitch check, 'countertop shop is the wrong call' FAQ, sills-before-windows sequencing, Tinley Park housing waves, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-11-01"
+    },
+    {
+      "intent": "brick repair Oak Forest IL (residential, Cook) — SERP is contractor directories, quote-request lead pages and a lead-gen site; none helps a homeowner work out what the wall needs. Beat with a symptom-to-repair table (mortar vs brick vs structural), repair vs tuckpointing vs replacement definitions, stair-step crack thresholds, questions to ask before hiring, Oak Forest post-war housing context, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-11-05"
     }
   ],
   "coveredKeywords": [
@@ -8451,7 +8484,19 @@
     "raked horizontal mortar joints",
     "flush tinted head joints",
     "continuous limestone sill repair",
-    "masonry urn and planter repair"
+    "masonry urn and planter repair",
+    "brick repair Oak Forest IL",
+    "brick repair vs tuckpointing",
+    "choosing a mason from a directory",
+    "residential masonry restoration Frankfort IL",
+    "whole-house masonry repair plan",
+    "phased masonry repair homeowner",
+    "crumbling chimney base in basement",
+    "white powder on basement chimney",
+    "sand on floor by chimney",
+    "flue gas condensation chimney",
+    "orphaned water heater flue",
+    "chimney cleanout door repair"
   ],
   "visibilityRuns": [
     {
@@ -8699,5 +8744,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-01"
+  "lastUpdated": "2026-11-05"
 }
