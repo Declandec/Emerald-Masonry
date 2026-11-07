@@ -3387,3 +3387,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo inside an unfinished Chicago-area basement, the base of an old brick chimney with soft flaking bricks, white efflorescence, a small pile of sand and mortar on the concrete floor and a rusted cast-iron cleanout door, a metal water heater vent pipe entering the chimney above, work light illumination from one side, photorealistic, no people, no text, no logos, no CGI.
+
+## Location — Brick Replacement, La Grange (2026-11-07)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Replaced and matched brick blended into the wall of an older home in La Grange, IL
+
+**Prompt:**
+> Documentary close view of the side wall of a 1910s red-orange brick Foursquare under mature trees, a patch of spalled bricks near a downspout cut out and replaced with weathered salvaged brick in soft buff lime mortar, a mason in safety glasses and gloves tooling a joint, a stack of salvaged brick and a mortar board on a tarp, dappled autumn light, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Foundation Masonry Repair, Mokena (2026-11-07)
+**Intended path:** `public/images/after-residential.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repaired brick and foundation line at the base of a brick home in Mokena, IL
+
+**Prompt:**
+> Documentary close view of the base of a 1990s brick-front suburban home, the poured concrete foundation and brick ledge visible above grade, a stair-step crack in the lower brick courses cut out and rebuilt with matched brick, a basement window well with a new galvanized liner and gravel, a downspout extension leading away across the lawn, a mason in safety glasses and gloves pointing a joint, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Bricking Up a Window, Door or AC Opening (2026-11-07)
+**Intended path:** `public/images/blog/bricking-up-window-door-ac-opening-brick-house-chicago.jpg`
+**Alt text:** Former through-wall air conditioner opening being bricked up with matched brick toothed into the wall of a Chicago brick bungalow
+
+**Prompt:**
+> Documentary photo of the side wall of a 1920s Chicago brick bungalow, a rectangular former through-wall air conditioner opening under a window half filled with matched brick, alternating bricks toothed into the existing courses on each side, a mason in safety glasses and gloves laying a brick with a trowel, the removed metal AC sleeve on a tarp below, a mortar board and salvaged brick on a gangway, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.

@@ -3636,6 +3636,30 @@
       "publishDate": "2026-11-05",
       "image": "/images/after-residential-2.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-replacement-la-grange-il",
+      "title": "Brick Replacement in La Grange, IL — Matching Century-Old Brick on La Grange's Older Homes",
+      "primaryKeyword": "brick replacement La Grange IL",
+      "city": "La Grange, IL",
+      "service": "Brick Replacement",
+      "serviceSlug": "brick-replacement",
+      "pageType": "location",
+      "publishDate": "2026-11-07",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "foundation-masonry-repair-mokena-il",
+      "title": "Foundation Masonry Repair in Mokena, IL — Cracks Where the Foundation Meets the Brick, Window Wells and Block Walls",
+      "primaryKeyword": "foundation masonry repair Mokena IL",
+      "city": "Mokena, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-11-07",
+      "image": "/images/after-residential.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5198,6 +5222,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-11-05",
       "image": "/images/after-chimney.jpg"
+    },
+    {
+      "slug": "bricking-up-window-door-ac-opening-brick-house-chicago",
+      "title": "Bricking Up a Window, Door or AC Opening in a Brick House: How It's Done Right",
+      "primaryKeyword": "bricking up a window opening",
+      "service": "Brick Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-11-07",
+      "image": "/images/after-brick-repair.jpg"
     }
   ],
   "coveredCities": [
@@ -5340,12 +5373,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "date": "2026-08-13",
-      "intent": "lintel replacement Cicero IL",
-      "gapExploited": "Ranking page is a templated multi-city steel-lintel page whose FAQ section is a TUCKPOINTING Q&A sitting on a lintel page, with no answer-first summary, no cost guidance, no shoring or process detail and no schema. Critically, no page in the SERP explains through-wall flashing above the new lintel - the detail that decides whether the replacement lasts decades or repeats.",
-      "page": "lintel-replacement-cicero-il"
-    },
-    {
       "date": "2026-08-15",
       "intent": "commercial masonry restoration Melrose Park IL",
       "gapExploited": "The ranking local page is a ~15,000-word municipality page that is almost entirely village history back to 1873, demographics, landmarks and a wall of scraped testimonials - no answer-first summary, no FAQ, no cost drivers, no process explanation, no timelines, and essentially nothing about Melrose Park's actual building stock. Length without information. This page instead answers the question a commercial owner here actually has: is my wall load-bearing multi-wythe masonry or brick veneer on a steel frame? Melrose Park mixes 1920s-1950s load-bearing industrial brick with 1960s-onward veneer on the same blocks, and the two have different failure modes, different hidden steel, different repairs and different costs.",
@@ -5463,6 +5490,10 @@
     {
       "intent": "brick repair Oak Forest IL (residential, Cook) — SERP is contractor directories, quote-request lead pages and a lead-gen site; none helps a homeowner work out what the wall needs. Beat with a symptom-to-repair table (mortar vs brick vs structural), repair vs tuckpointing vs replacement definitions, stair-step crack thresholds, questions to ask before hiring, Oak Forest post-war housing context, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-11-05"
+    },
+    {
+      "intent": "brick replacement La Grange IL (residential, Cook) — SERP is HomeAdvisor/Angi quote directories with small-repair cost averages, a downtown brick-paver streetscape project and a lead-gen page; nothing on replacing brick in century-old walls. Beat with a how-much-needs-replacing table, five-point brick matching (size, range, texture, weathering, mortar), soft-brick/lime-mortar compatibility, historic-district approval FAQ, La Grange railroad-suburb housing context, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-11-07"
     }
   ],
   "coveredKeywords": [
@@ -8496,7 +8527,20 @@
     "sand on floor by chimney",
     "flue gas condensation chimney",
     "orphaned water heater flue",
-    "chimney cleanout door repair"
+    "chimney cleanout door repair",
+    "brick replacement La Grange IL",
+    "matching old brick for replacement",
+    "historic home brick replacement",
+    "foundation masonry repair Mokena IL",
+    "foundation crack running into brick",
+    "brick ledge crack repair",
+    "basement window well masonry repair",
+    "bricking up a window opening",
+    "brick up a door opening",
+    "through-wall air conditioner sleeve removal",
+    "brick in AC sleeve opening",
+    "close up coal chute brick",
+    "brick infill toothing"
   ],
   "visibilityRuns": [
     {
@@ -8744,5 +8788,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-05"
+  "lastUpdated": "2026-11-07"
 }
