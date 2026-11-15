@@ -3660,6 +3660,30 @@
       "publishDate": "2026-11-07",
       "image": "/images/after-residential.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "brick-repair-hinsdale-il",
+      "title": "Brick Repair in Hinsdale, IL — Solid Brick on Older Homes, Veneer on Newer Ones, and Why the Repair Differs",
+      "primaryKeyword": "brick repair Hinsdale IL",
+      "city": "Hinsdale, IL",
+      "service": "Brick Repair",
+      "serviceSlug": "brick-repair",
+      "pageType": "location",
+      "publishDate": "2026-11-14",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "foundation-masonry-repair-burbank-il",
+      "title": "Foundation Masonry Repair in Burbank, IL — Basement Stairwells, Window Wells and Foundation Walls on Post-War Brick Homes",
+      "primaryKeyword": "foundation masonry repair Burbank IL",
+      "city": "Burbank, IL",
+      "service": "Foundation Masonry Repair",
+      "serviceSlug": "foundation-masonry-repair",
+      "pageType": "location",
+      "publishDate": "2026-11-14",
+      "image": "/images/after-residential-3.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5231,6 +5255,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-11-07",
       "image": "/images/after-brick-repair.jpg"
+    },
+    {
+      "slug": "adding-egress-window-brick-house-block-foundation-chicago",
+      "title": "Adding an Egress Window to a Brick House or Block Foundation: What's Involved",
+      "primaryKeyword": "adding an egress window to a brick house",
+      "service": "Foundation Masonry Repair",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-11-14",
+      "image": "/images/after-residential.jpg"
     }
   ],
   "coveredCities": [
@@ -5374,12 +5407,6 @@
   "competitorIntentsUsed": [
     {
       "date": "2026-08-15",
-      "intent": "commercial masonry restoration Melrose Park IL",
-      "gapExploited": "The ranking local page is a ~15,000-word municipality page that is almost entirely village history back to 1873, demographics, landmarks and a wall of scraped testimonials - no answer-first summary, no FAQ, no cost drivers, no process explanation, no timelines, and essentially nothing about Melrose Park's actual building stock. Length without information. This page instead answers the question a commercial owner here actually has: is my wall load-bearing multi-wythe masonry or brick veneer on a steel frame? Melrose Park mixes 1920s-1950s load-bearing industrial brick with 1960s-onward veneer on the same blocks, and the two have different failure modes, different hidden steel, different repairs and different costs.",
-      "page": "commercial-masonry-restoration-melrose-park-il"
-    },
-    {
-      "date": "2026-08-15",
       "intent": "tuckpointing Elmwood Park IL / brick repointing Elmwood Park",
       "gapExploited": "One of the stronger SERPs analyzed. The leading result is genuinely substantive — nine-question FAQ, a real ASTM C270 mortar table (Type N/S/M with PSI and misuse risks), a six-phase process, published price bands ($8-$25 per linear foot) and hard trust signals (39+ years, an Illinois license number, $2M liability, family-owned since 1987). Others range from a mortar-ratio-heavy but fully templated exact-match page to broad metro homepages. What NONE have is a single line of Elmwood Park specificity — the strongest page own neighborhood-expertise section lists Evanston, Lake Forest, Winnetka, Highland Park, Glenview and Northbrook (an entirely different housing market) and dispatches crews from Libertyville, ~35 miles north. Not one page distinguishes between brick types on the same building. Ours attacks the strongest competitor at its strongest point: a published per-linear-foot rate looks like transparency but is the wrong unit here, because the typical Elmwood Park house is effectively two buildings — hard face brick on the street elevation, soft Chicago common brick on the sides and rear — which fail on different schedules and require different mortar hardness. We publish the governing rule (mortar must be softer than the brick it holds), apply it per elevation, price by elevation instead of per foot, and explain why the back of the house always looks worse."
     },
@@ -5494,6 +5521,10 @@
     {
       "intent": "brick replacement La Grange IL (residential, Cook) — SERP is HomeAdvisor/Angi quote directories with small-repair cost averages, a downtown brick-paver streetscape project and a lead-gen page; nothing on replacing brick in century-old walls. Beat with a how-much-needs-replacing table, five-point brick matching (size, range, texture, weathering, mortar), soft-brick/lime-mortar compatibility, historic-district approval FAQ, La Grange railroad-suburb housing context, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-11-07"
+    },
+    {
+      "intent": "brick repair Hinsdale IL (residential, DuPage/Cook) — SERP is HomeAdvisor/Angi/Thumbtack lead pages filing brick under 'siding', with small-job cost averages; nothing explains wall construction. Beat with a solid-masonry vs brick-veneer comparison table (age, build, water path, failures, repair keys), veneer ties/flashing/weeps, soft historic brick + lime mortar, 'are directory cost averages accurate' FAQ, Hinsdale old-home + rebuild-veneer mix, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-11-14"
     }
   ],
   "coveredKeywords": [
@@ -8540,7 +8571,18 @@
     "through-wall air conditioner sleeve removal",
     "brick in AC sleeve opening",
     "close up coal chute brick",
-    "brick infill toothing"
+    "brick infill toothing",
+    "brick repair Hinsdale IL",
+    "brick veneer repair newer home",
+    "solid masonry wall repair older home",
+    "foundation masonry repair Burbank IL",
+    "basement stairwell wall repair",
+    "exterior basement stairwell leak",
+    "adding an egress window to a brick house",
+    "egress window block foundation",
+    "basement bedroom egress window",
+    "cutting a window opening in brick",
+    "enlarging a basement window"
   ],
   "visibilityRuns": [
     {
@@ -8788,5 +8830,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-07"
+  "lastUpdated": "2026-11-14"
 }

@@ -3408,3 +3408,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of the side wall of a 1920s Chicago brick bungalow, a rectangular former through-wall air conditioner opening under a window half filled with matched brick, alternating bricks toothed into the existing courses on each side, a mason in safety glasses and gloves laying a brick with a trowel, the removed metal AC sleeve on a tarp below, a mortar board and salvaged brick on a gangway, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Brick Repair, Hinsdale (2026-11-14)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repaired and matched brick on the exterior of a home in Hinsdale, IL
+
+**Prompt:**
+> Documentary close view of the brick veneer wall of a large newer brick-and-limestone home on a tree-lined street, a section of cracked brick beside a window removed, exposed corrugated stainless veneer ties and black flashing visible on the sheathing behind, a mason in safety glasses and gloves setting matched brick back into the opening, open weep vents along the bottom course, autumn leaves, soft overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Foundation Masonry Repair, Burbank (2026-11-14)
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Rebuilt basement stairwell wall and repaired foundation masonry at a brick home in Burbank, IL
+
+**Prompt:**
+> Documentary view down a narrow gangway beside a post-war red brick Georgian, an exterior concrete-block stairwell to the basement door freshly rebuilt with new block walls and solid concrete caps, new concrete steps, a clean floor drain at the bottom, gravel drainage visible behind the wall before backfill, a mason in safety glasses and gloves checking a wall with a level, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — Adding an Egress Window to a Brick House (2026-11-14)
+**Intended path:** `public/images/blog/adding-egress-window-brick-house-block-foundation-chicago.jpg`
+**Alt text:** New basement egress window opening with steel lintel and window well in the foundation of a brick home in a Chicago suburb
+
+**Prompt:**
+> Documentary photo of a newly cut basement egress opening in the concrete block foundation of a 1960s brick raised ranch, a new primed steel lintel above with brick rebuilt over it, grout-filled block edges, a large galvanized window well liner with a built-in ladder set in an excavated area with gravel, temporary shoring post nearby, a mason in hard hat, safety glasses and gloves inspecting the opening, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
