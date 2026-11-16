@@ -3429,3 +3429,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary photo of a newly cut basement egress opening in the concrete block foundation of a 1960s brick raised ranch, a new primed steel lintel above with brick rebuilt over it, grout-filled block edges, a large galvanized window well liner with a built-in ladder set in an excavated area with gravel, temporary shoring post nearby, a mason in hard hat, safety glasses and gloves inspecting the opening, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Residential Masonry Restoration, Oak Lawn (2026-11-16)
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Restored brick exterior with repointed joints, rebuilt chimney and repaired steps on a home in Oak Lawn, IL
+
+**Prompt:**
+> Documentary three-quarter view of a 1950s red brick Georgian home on an Oak Lawn-style suburban street, freshly repointed walls, a side-wall chimney with a new crown and stainless cap, new steel lintels over the windows, rebuilt concrete front stoop with a black iron railing, a mason in hard hat and safety glasses folding up a ladder, autumn trees, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Location — Lintel Repair, New Lenox (2026-11-16)
+**Intended path:** `public/images/after-brick-repair.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Brick rebuilt over a replaced steel garage door lintel on a brick-front home in New Lenox, IL
+
+**Prompt:**
+> Documentary close view of the corner of a 1990s brick-front suburban home where the brick front returns to beige vinyl siding, a new galvanized steel lintel over a two-car garage door with black flashing and a formed end dam visible at the corner, brick being relaid over it, temporary steel shoring posts under the opening, a mason in safety glasses and gloves, driveway in the foreground, overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Blog — How Long Do the Parts of a Brick House Last (2026-11-16)
+**Intended path:** `public/images/blog/how-long-do-brick-house-parts-last-masonry-lifespan-guide.jpg`
+**Alt text:** Brick home in a Chicago suburb showing chimney, lintels, sills and mortar joints that each have different lifespans
+
+**Prompt:**
+> Documentary straight-on view of a well-kept 1940s Chicago-area brick bungalow, showing a brick chimney with a crown and cap, limestone window sills, steel lintels over windows, a front stoop and clean mortar joints, a few autumn leaves on the lawn, soft overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.

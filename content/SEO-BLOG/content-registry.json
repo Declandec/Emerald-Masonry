@@ -3684,6 +3684,30 @@
       "publishDate": "2026-11-14",
       "image": "/images/after-residential-3.jpg",
       "competitorInformed": false
+    },
+    {
+      "slug": "residential-masonry-restoration-oak-lawn-il",
+      "title": "Residential Masonry Restoration in Oak Lawn, IL — What Each Oak Lawn House Type Usually Needs, and How to Do It in One Visit",
+      "primaryKeyword": "residential masonry restoration Oak Lawn IL",
+      "city": "Oak Lawn, IL",
+      "service": "Residential Masonry Restoration",
+      "serviceSlug": "residential-masonry-restoration",
+      "pageType": "location",
+      "publishDate": "2026-11-16",
+      "image": "/images/after-residential-2.jpg",
+      "competitorInformed": true
+    },
+    {
+      "slug": "lintel-repair-new-lenox-il",
+      "title": "Lintel Repair in New Lenox, IL — Garage, Window and Door Lintels on Brick-Front Homes",
+      "primaryKeyword": "lintel repair New Lenox IL",
+      "city": "New Lenox, IL",
+      "service": "Lintel Repair",
+      "serviceSlug": "lintel-repair",
+      "pageType": "location",
+      "publishDate": "2026-11-16",
+      "image": "/images/after-brick-repair.jpg",
+      "competitorInformed": false
     }
   ],
   "blogPosts": [
@@ -5264,6 +5288,15 @@
       "location": "Chicagoland, IL",
       "publishDate": "2026-11-14",
       "image": "/images/after-residential.jpg"
+    },
+    {
+      "slug": "how-long-do-brick-house-parts-last-masonry-lifespan-guide",
+      "title": "How Long Do the Parts of a Brick House Last? A Masonry Lifespan Guide for Chicago Homeowners",
+      "primaryKeyword": "how long does a brick house last",
+      "service": "Residential Masonry Restoration",
+      "location": "Chicagoland, IL",
+      "publishDate": "2026-11-16",
+      "image": "/images/after-residential-3.jpg"
     }
   ],
   "coveredCities": [
@@ -5406,11 +5439,6 @@
   ],
   "competitorIntentsUsed": [
     {
-      "date": "2026-08-15",
-      "intent": "tuckpointing Elmwood Park IL / brick repointing Elmwood Park",
-      "gapExploited": "One of the stronger SERPs analyzed. The leading result is genuinely substantive — nine-question FAQ, a real ASTM C270 mortar table (Type N/S/M with PSI and misuse risks), a six-phase process, published price bands ($8-$25 per linear foot) and hard trust signals (39+ years, an Illinois license number, $2M liability, family-owned since 1987). Others range from a mortar-ratio-heavy but fully templated exact-match page to broad metro homepages. What NONE have is a single line of Elmwood Park specificity — the strongest page own neighborhood-expertise section lists Evanston, Lake Forest, Winnetka, Highland Park, Glenview and Northbrook (an entirely different housing market) and dispatches crews from Libertyville, ~35 miles north. Not one page distinguishes between brick types on the same building. Ours attacks the strongest competitor at its strongest point: a published per-linear-foot rate looks like transparency but is the wrong unit here, because the typical Elmwood Park house is effectively two buildings — hard face brick on the street elevation, soft Chicago common brick on the sides and rear — which fail on different schedules and require different mortar hardness. We publish the governing rule (mortar must be softer than the brick it holds), apply it per elevation, price by elevation instead of per foot, and explain why the back of the house always looks worse."
-    },
-    {
       "intent": "tuckpointing Naperville IL / brick repointing Naperville — the strongest Naperville SERP analyzed to date. The leading result is a genuinely good location page: a six-question FAQ, an explicit Type S/N/O mortar comparison that correctly explains hard-mortar-on-soft-brick spalling, published cost bands ($8-$18/sq ft residential, $2,500-$14,000 typical, $12-$22/sq ft downtown commercial), six ZIP codes, twelve named neighborhoods (Riverwalk, Cress Creek, Eagle Chase, Ashbury), an era breakdown from 1880s commercial through 2000s east-side construction, named commercial corridors, a DuPage freeze-thaw cycle count, and hard trust signals (since 1994, 100+ five-star reviews, BBB, no subcontracting). A second contender leans on 20+ years and 100+ reviews; directories (HomeAdvisor) and exact-match template pages fill the rest. Documented gaps across the whole set: NO step-by-step process anywhere, NO JSON-LD schema, no answer-first summary, no timelines, thin warranty language, no urgency triage. Ours attacks the leader at its strongest point: segmenting by build era and publishing a per-square-foot band looks like expertise, but era is the wrong primary variable and area is the wrong unit, because the overwhelming majority of Naperville stock is BRICK VENEER — a drained rain screen, not solid masonry. On veneer the joints are the symptom and the cavity drainage system (weep holes, through-wall flashing, wall ties) is the mechanism; repointing a veneer wall while mortaring its weep holes shut makes it worse, and not one competitor page mentions weep holes, flashing or ties. We publish the wall-type diagnostic first, then the mortar-hardness rule, then the drainage rule, plus the process the entire SERP omits.",
       "date": "2026-08-22"
     },
@@ -5525,6 +5553,10 @@
     {
       "intent": "brick repair Hinsdale IL (residential, DuPage/Cook) — SERP is HomeAdvisor/Angi/Thumbtack lead pages filing brick under 'siding', with small-job cost averages; nothing explains wall construction. Beat with a solid-masonry vs brick-veneer comparison table (age, build, water path, failures, repair keys), veneer ties/flashing/weeps, soft historic brick + lime mortar, 'are directory cost averages accurate' FAQ, Hinsdale old-home + rebuild-veneer mix, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
       "date": "2026-11-14"
+    },
+    {
+      "intent": "residential masonry restoration Oak Lawn IL (residential, Cook) — SERP is Angi/HomeAdvisor directories with ratings, tuckpointing cost ranges and years-in-business claims; nothing tells a homeowner what their house needs. Beat with a house-type table (bungalow, Georgian, raised ranch, ranch → typical needs), why bundling repairs saves setup costs and keeps mortar consistent, priority phasing, 'how to choose from directory listings' FAQ, Oak Lawn post-war housing context, 6 FAQs. Emerald anchors: established 2024, career masons, (708) 288-1696.",
+      "date": "2026-11-16"
     }
   ],
   "coveredKeywords": [
@@ -8582,7 +8614,19 @@
     "egress window block foundation",
     "basement bedroom egress window",
     "cutting a window opening in brick",
-    "enlarging a basement window"
+    "enlarging a basement window",
+    "residential masonry restoration Oak Lawn IL",
+    "brick bungalow restoration Oak Lawn",
+    "bundling masonry repairs",
+    "lintel repair New Lenox IL",
+    "garage door lintel repair",
+    "lintel end where brick meets siding",
+    "brick corner return crack",
+    "how long does a brick house last",
+    "masonry lifespan",
+    "how long does a chimney crown last",
+    "how long do steel lintels last",
+    "how long does caulk last on brick"
   ],
   "visibilityRuns": [
     {
@@ -8830,5 +8874,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-11-14"
+  "lastUpdated": "2026-11-16"
 }
