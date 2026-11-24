@@ -3450,3 +3450,24 @@ Photorealistic photograph composed to contain both methods at once: a small surv
 
 **Prompt:**
 > Documentary straight-on view of a well-kept 1940s Chicago-area brick bungalow, showing a brick chimney with a crown and cap, limestone window sills, steel lintels over windows, a front stoop and clean mortar joints, a few autumn leaves on the lawn, soft overcast daylight, photorealistic, no people, no house numbers, no text, no logos, no CGI.
+
+## Tuckpointing — Frankfort (location, competitor-informed) — 2026-11-24
+**Intended path:** `public/images/after-residential-2.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Freshly tuckpointed brick wall with color-matched mortar on a home in Frankfort, Illinois
+
+**Prompt:**
+> Documentary photo of a 1990s two-storey brick home in a Will County subdivision, a mason in safety glasses, dust mask and gloves on a ladder repointing the brick corner beside an attached garage, fresh color-matched mortar in the lower joints and recessed old joints above, a mortar board and bucket on a drop cloth on the driveway, late-autumn overcast daylight, photorealistic, no house numbers, no text, no logos, no CGI.
+
+## Limestone & Sill Repair — Orland Park (location) — 2026-11-24
+**Intended path:** `public/images/after-residential-3.jpg` (real photo in use; prompt for a future replacement)
+**Alt text:** Repaired stone window sills and repointed brick on a home in Orland Park, Illinois
+
+**Prompt:**
+> Close documentary photo of a mason in safety glasses and gloves setting a new pale precast stone window sill with a correct outward slope into a red brick wall below a white vinyl window, the old cracked sill pieces on a drop cloth below, a level resting on the new sill, damp freshly repointed brick under it, overcast daylight, photorealistic, no text, no logos, no CGI.
+
+## Chimney Damage After a High-Efficiency Furnace (blog) — 2026-11-24
+**Intended path:** `public/images/blog/chimney-damage-after-high-efficiency-furnace-orphaned-flue-chicago.jpg`
+**Alt text:** Brick chimney with white efflorescence streaks and crumbling top courses on a Chicago-area home, with a white PVC furnace vent on the side wall below
+
+**Prompt:**
+> Documentary photo of the upper part of a 1950s brick bungalow chimney in the Chicago area, white efflorescence streaks and spalled brick faces on the top courses, a cracked mortar crown and a metal cap, and below on the brick side wall of the house two white PVC furnace vent pipes, overcast winter daylight with light frost on the roof shingles, photorealistic, no people, no text, no logos, no CGI.
